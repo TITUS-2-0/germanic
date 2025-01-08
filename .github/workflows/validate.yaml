@@ -25,8 +25,8 @@ jobs:
       - name: Copy Tests to Subrepo
         run: |
           cp -r datasets/tests ./tests
-          cp datasets/titus_tei_lite.dtd ./
-          cp datasets/tei_lite.dtd ./
+          cp datasets/titus_tei.dtd ./
+          cp datasets/tei_all.dtd ./
           cp datasets/requirements.txt ./
 
       - name: Set Up Python
