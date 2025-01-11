@@ -1,0 +1,1118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Minor Old Saxon Monuments</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="osx-Latn-x-old-saxon">Old Saxon</language>
+				<language ident="lat-Latn">Latin</language>
+				<language ident="deu-Latn-x-old-high-german">German</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div n="Schs.Taufgel." xml:id="text-1" type="text" data-level="1">
+				<div n="W3" xml:id="text-1-page-1" type="page" data-level="2">
+					<div xml:id="text-1-page-1-manuscript-1" type="manuscript" data-level="3">Vat.lat._577</div>
+					<div n="3" xml:id="text-1-page-1-line-1" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">(Abrenuntiatio diaboli.1)</foreign>
+						<pb type="manuscript" n="6v" />
+					</div>
+					<div n="4" xml:id="text-1-page-1-line-2" type="line" data-level="3">
+						<lb n="1" />Forsaichistu2<foreign xml:lang="lat-Latn">diobolae</foreign>
+						<lb n="2" />.</div>
+					<div n="5" xml:id="text-1-page-1-line-3" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<lb n="3" />resp<foreign xml:lang="lat-Latn">ondeat.2</foreign>
+						<lb n="4" />ec forsacho<foreign xml:lang="lat-Latn">diabolae</foreign>
+					</div>
+					<div n="6" xml:id="text-1-page-1-line-4" type="line" data-level="3">end allum diobol/geldę</div>
+					<div n="7" xml:id="text-1-page-1-line-5" type="line" data-level="3">
+						<lb n="5" />respon<foreign xml:lang="lat-Latn">deat.</foreign>
+						<lb n="6" />end ec forsacho allum diobolgeldae.</div>
+					<div n="8" xml:id="text-1-page-1-line-6" type="line" data-level="3">
+						<lb n="7" />end<lb n="8" />allum 
+<lb n="9" />dioboles uuercum /</div>
+					<div n="9" xml:id="text-1-page-1-line-7" type="line" data-level="3">
+						<lb n="10" />resp<foreign xml:lang="lat-Latn">ondeat.</foreign>
+						<lb n="11" />end ec forsacho allum dioboles uuercum</div>
+					<div n="10" xml:id="text-1-page-1-line-8" type="line" data-level="3">and uuordum thunaer / ende uuoden3</div>
+					<div n="11" xml:id="text-1-page-1-line-9" type="line" data-level="3">ende saxnote ende allvm4 them unholdum</div>
+					<div n="12" xml:id="text-1-page-1-line-10" type="line" data-level="3">the hira genotas / sint.</div>
+					<div n="13" xml:id="text-1-page-1-line-11" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">(Professio fidei.1)</foreign>
+						<pb type="manuscript" n="7r" />
+					</div>
+					<div n="14" xml:id="text-1-page-1-line-12" type="line" data-level="3">
+						<lb n="1" />gelobistu In got<lb n="2" />alamehtigaN5 
+<lb n="3" />fadaer</div>
+					<div n="15" xml:id="text-1-page-1-line-13" type="line" data-level="3">
+						<lb n="4" />ec gelobo in got<lb n="5" />alamehtigaN5 
+<lb n="6" />fa/daer</div>
+					<div n="16" xml:id="text-1-page-1-line-14" type="line" data-level="3">gelobistu in crist godes suno</div>
+					<div n="17" xml:id="text-1-page-1-line-15" type="line" data-level="3">ec gelobo in crist gotes suno.</div>
+					<div n="18" xml:id="text-1-page-1-line-16" type="line" data-level="3">gelobis/tu in halogan gast.</div>
+					<div n="19" xml:id="text-1-page-1-line-17" type="line" data-level="3">
+						<lb n="7" />ec gelobo<lb n="8" />IN 
+<lb n="9" />halogan gast.</div>
+				</div>
+				<div n="1" xml:id="text-1-page-2" type="page" data-level="2">
+					<div xml:id="text-1-page-2-section-1" type="section" data-level="3" />
+					<div xml:id="text-1-page-2-paragraph-1" type="paragraph" data-level="3" />
+					<div xml:id="text-1-page-2-manuscript-2" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Westf.Taufgel." xml:id="text-2" type="text" data-level="1">
+				<div n="BE38" xml:id="text-2-page-3" type="page" data-level="2">
+					<div n="1" xml:id="text-2-page-3-line-18" type="line" data-level="3">
+						<lb n="1" />Farsakis thu<lb n="2" />unholdon?</div>
+					<div n="2" xml:id="text-2-page-3-line-19" type="line" data-level="3">Farsaku.</div>
+					<div n="3" xml:id="text-2-page-3-line-20" type="line" data-level="3">
+						<lb n="3" />Farsakis thu<lb n="4" />unholdon 
+<lb n="5" />uuerkon endi uuillion?</div>
+					<div n="4" xml:id="text-2-page-3-line-21" type="line" data-level="3">Farsaku.</div>
+					<div n="5" xml:id="text-2-page-3-line-22" type="line" data-level="3">Farsakis thu allon hethinussion?</div>
+					<div n="6" xml:id="text-2-page-3-line-23" type="line" data-level="3">Farsaku.</div>
+					<div n="7" xml:id="text-2-page-3-line-24" type="line" data-level="3">Farsakis thu allon hethinon geldon endi gelpon, that hethina man te</div>
+					<div n="8" xml:id="text-2-page-3-line-25" type="line" data-level="3">geldon ende te offara haddon?</div>
+					<div n="9" xml:id="text-2-page-3-line-26" type="line" data-level="3">Farsaku.</div>
+					<div n="10" xml:id="text-2-page-3-line-27" type="line" data-level="3">Gilouis thu an god fader alomahtigan?</div>
+					<div n="11" xml:id="text-2-page-3-line-28" type="line" data-level="3">Gilouiu.</div>
+				</div>
+				<div n="BE39" xml:id="text-2-page-4" type="page" data-level="2">
+					<div n="12" xml:id="text-2-page-4-line-29" type="line" data-level="3">Gilouis thu an thena helagon godas sunu, that he geboren endi gemartyrod</div>
+					<div n="13" xml:id="text-2-page-4-line-30" type="line" data-level="3">uuari?</div>
+					<div n="14" xml:id="text-2-page-4-line-31" type="line" data-level="3">Gilouiu.</div>
+					<div n="15" xml:id="text-2-page-4-line-32" type="line" data-level="3">Gilouis thu an thena helagon gest endi an thia hilagon samunga endi helagaro</div>
+					<div n="16" xml:id="text-2-page-4-line-33" type="line" data-level="3">gimenitha, fleskas arstandanussi, that thu an themo fleska, the thu nu an bist</div>
+					<div n="17" xml:id="text-2-page-4-line-34" type="line" data-level="3">te duomesdaga gistandan scalt endi gilouis thu livas ahtar dotha?</div>
+					<div n="18" xml:id="text-2-page-4-line-35" type="line" data-level="3">Gilouiu.</div>
+					<div n="19" xml:id="text-2-page-4-line-36" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Sequitur hic: Suffla in faciem et dic hanc</foreign>
+					</div>
+					<div n="20" xml:id="text-2-page-4-line-37" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">orationem: Exi ab eo immunde spiritus et</foreign>
+					</div>
+					<div n="21" xml:id="text-2-page-4-line-38" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">redde honorem deo vivo et vero.</foreign>
+					</div>
+				</div>
+				<div n="2" xml:id="text-2-page-5" type="page" data-level="2">
+					<div xml:id="text-2-page-5-section-2" type="section" data-level="3" />
+					<div xml:id="text-2-page-5-paragraph-2" type="paragraph" data-level="3" />
+					<div xml:id="text-2-page-5-manuscript-3" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Psalmenausl." xml:id="text-3" type="text" data-level="1">
+				<div n="W4" xml:id="text-3-page-6" type="page" data-level="2">
+					<div xml:id="text-3-page-6-section-3" type="section" data-level="3">Ps._4,8</div>
+					<pb type="manuscript" n="1r" />
+					<div n="1" xml:id="text-3-page-6-line-39" type="line" data-level="3">(Sia) (ſindun) (mid) (themo) (fruhte) (iro)</div>
+					<div n="2" xml:id="text-3-page-6-line-40" type="line" data-level="3">
+						<lb n="1" />vueteſ.<lb n="2" />en(di)
+<lb n="3" />(v)ui(neſ)
+<lb n="4" />(gifulda). (Thiu) (heliga) (ſamnunga)
+<lb n="5" />1</div>
+					<div n="3" xml:id="text-3-page-6-line-41" type="line" data-level="3">
+						<lb n="6" />vuiruid tote them,<lb n="7" />(thia)
+<lb n="8" />(the)
+<lb n="9" />(th)ar
+<lb n="10" />b(efundane)
+<lb n="11" /> (vuer-)2 </div>
+					<div n="4" xml:id="text-3-page-6-line-42" type="line" data-level="3">
+						<lb n="12" />thed<lb n="13" />an iro githankon3 (gema) flehſcli(kero) (thingo)
+<lb n="14" /> (en-)} </div>
+					<div n="5" xml:id="text-3-page-6-line-43" type="line" data-level="3">
+						<lb n="15" />di<lb n="16" />thia the
+<lb n="17" />(thar)
+<lb n="18" />niauuiht
+<lb n="19" />gi(m)ani(gfaldoda)
+<lb n="20" />(ſindun)</div>
+					<div n="6" xml:id="text-3-page-6-line-44" type="line" data-level="3">
+						<lb n="21" />an thero genuftsamidu thero<lb n="22" />g(e)u(ono)
+<lb n="23" />(neuan) (thia)</div>
+					<div n="7" xml:id="text-3-page-6-line-45" type="line" data-level="3">
+						<lb n="24" />the thar gifulda ſindun mid t(he})n<lb n="25" />(v)u(irſiſton)
+<lb n="26" /> (erth-) </div>
+					<div n="8" xml:id="text-3-page-6-line-46" type="line" data-level="3">
+						<lb n="27" />likon<lb n="28" />dadion.
+<lb n="29" />4
+<lb n="30" />endi
+<lb n="31" />t(hemo)
+<lb n="32" />(vueroldlikon)
+<lb n="33" />(vuillion.)
+<lb n="34" />2<div xml:id="text-3-page-6-line-46-section-4" type="section" data-level="4">Ps._4,9</div>
+					</div>
+					<div n="9" xml:id="text-3-page-6-line-47" type="line" data-level="3">
+						<lb n="35" />Ik ſcal ſcla(p)a(n) endi reſtia(n) an themo<lb n="36" />frethu
+<lb n="37" />(the)2</div>
+					<div n="10" xml:id="text-3-page-6-line-48" type="line" data-level="3">
+						<lb n="38" />ther an nana5 vuiſa beuuandlod vuerthan<lb n="39" />(ne) (mag)
+<lb n="40" />2</div>
+					<div n="11" xml:id="text-3-page-6-line-49" type="line" data-level="3">
+						<lb n="41" />endi<lb n="42" />thena
+<lb n="43" />the then erhtlikon dadion
+<lb n="44" />ang(ehafted)2</div>
+					<div n="12" xml:id="text-3-page-6-line-50" type="line" data-level="3">
+						<lb n="45" />vuerthan<lb n="46" />(ne)
+<lb n="47" />2 mag . neuan the vuirthid imo
+<lb n="48" /> gige(-) </div>
+					<div n="13" xml:id="text-3-page-6-line-51" type="line" data-level="3">
+						<lb n="49" />uan<lb n="50" />geuuiſſo
+<lb n="51" />(th)e
+<lb n="52" />thar tuovuardig. endi
+<lb n="53" /> ungi(-) </div>
+					<div n="14" xml:id="text-3-page-6-line-52" type="line" data-level="3">
+						<lb n="54" />rimendeſ<lb n="55" />(friſteſ) (iſ.) (Thiuſ)
+<lb n="56" />guodlica raſta vuirthid</div>
+					<div n="15" xml:id="text-3-page-6-line-53" type="line" data-level="3">
+						<lb n="57" />(en)di<lb n="58" />the frithu the ther</div>
+					<div n="16" xml:id="text-3-page-6-line-54" type="line" data-level="3">
+						<lb n="59" />(unbeu)uandlondelik<lb n="60" />iſ.</div>
+					<div n="17" xml:id="text-3-page-6-line-55" type="line" data-level="3">
+						<lb n="61" />(th)emo<lb n="62" />uuorde . ik</div>
+					<div n="18" xml:id="text-3-page-6-line-56" type="line" data-level="3">
+						<lb n="63" />(that)<lb n="64" />ik an themo</div>
+				</div>
+				<div n="W5" xml:id="text-3-page-7" type="page" data-level="2">
+					<div xml:id="text-3-page-7-section-5" type="section" data-level="3">Ps._5,1</div>
+					<pb type="manuscript" n="1v" />
+					<div n="1" xml:id="text-3-page-7-line-57" type="line" data-level="3">
+						<lb n="1" />kuman<lb n="2" />1 . th(ia)</div>
+					<div n="2" xml:id="text-3-page-7-line-58" type="line" data-level="3">
+						<lb n="3" />eſ he2   .<lb n="4" />B(i)
+<lb n="5" />(g)ere(ht)on
+<lb n="6" />(an)fahid</div>
+					<div n="3" xml:id="text-3-page-7-line-59" type="line" data-level="3">
+						<lb n="7" />(thiu) (heliga)<lb n="8" />(ſ)a(m)nu(nga)
+<lb n="9" />(that)
+<lb n="10" />3 erui.
+<lb n="11" />that
+<lb n="12" />iſ that euuiga</div>
+					<div n="4" xml:id="text-3-page-7-line-60" type="line" data-level="3">
+						<lb n="13" />(lif)4 (thuru) (uſan) (drohtin)<lb n="14" />then nerion(do)n criſt. Theſ</div>
+					<div n="5" xml:id="text-3-page-7-line-61" type="line" data-level="3">
+						<lb n="15" />(euuigon) (liueſ)<lb n="16" />erui.
+<lb n="17" />(that)
+<lb n="18" />4 ther an (th)emo anaginne</div>
+					<div n="6" xml:id="text-3-page-7-line-62" type="line" data-level="3">
+						<lb n="19" />uerth       n an themo endi<lb n="20" /> th(e-) </div>
+					<div n="7" xml:id="text-3-page-7-line-63" type="line" data-level="3">
+						<lb n="21" />(ro)<lb n="22" />(vueroldeſ)
+<lb n="23" />4      (t)hat hadd(un)</div>
+					<div n="8" xml:id="text-3-page-7-line-64" type="line" data-level="3">an            an themo</div>
+					<div n="9" xml:id="text-3-page-7-line-65" type="line" data-level="3">
+						<lb n="24" />(endi.)<div xml:id="text-3-page-7-line-65-section-6" type="section" data-level="4">Ps._5,2</div>
+					</div>
+					<div n="9" xml:id="text-3-page-7-line-66" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Verba mea.</foreign>
+						<lb n="25" />T(hiu)
+<lb n="26" />5
+<lb n="27" />(h)eli(ga)
+<lb n="28" />(ſamn)unga bid(id)</div>
+					<div n="10" xml:id="text-3-page-7-line-67" type="line" data-level="3">
+						<lb n="29" />(mid)<lb n="30" />(the)ſon
+<lb n="31" />vu(o)r(don).
+<lb n="32" />6
+<lb n="33" />that
+<lb n="34" />the
+<lb n="35" />ſ(al)m(ſan)ga(ſ)
+<lb n="36" />(iro)
+<lb n="37" /> (mu-) </div>
+					<div n="11" xml:id="text-3-page-7-line-68" type="line" data-level="3">
+						<lb n="38" />(thes)<lb n="39" />7
+<lb n="40" />giho(ri)d(e)
+<lb n="41" />uuerth(en) fan
+<lb n="42" />god(e)
+<lb n="43" />e(ndi)
+<lb n="44" />(that)
+<lb n="45" />8 fan imo</div>
+					<div n="12" xml:id="text-3-page-7-line-69" type="line" data-level="3">
+						<lb n="46" />(f)ernoma(n)<lb n="47" />9
+<lb n="48" />vu(erthe)10
+<lb n="49" />(the)
+<lb n="50" />(v)uil(l)o
+<lb n="51" />(theſ)
+<lb n="52" /> (t)hurugthige(-) </div>
+					<div n="13" xml:id="text-3-page-7-line-70" type="line" data-level="3">
+						<lb n="53" />n(on)<lb n="54" />herto(n)
+<lb n="55" />(t)he
+<lb n="56" />alla
+<lb n="57" />t(hing)
+<lb n="58" />(ne)
+<lb n="59" />(fernimi)d
+<lb n="60" />11 mid
+<lb n="61" />then</div>
+					<div n="14" xml:id="text-3-page-7-line-71" type="line" data-level="3">
+						<lb n="62" />oron . neuan mid<lb n="63" />the(mo)
+<lb n="64" />(liahte) (ſinaro) (godhedieſ.)
+<lb n="65" />12<div xml:id="text-3-page-7-line-71-section-7" type="section" data-level="4">Ps._5,3</div>
+					</div>
+					<div n="15" xml:id="text-3-page-7-line-72" type="line" data-level="3">Thu biſt min go(d)</div>
+					<div n="16" xml:id="text-3-page-7-line-73" type="line" data-level="3">
+						<lb n="66" />vuan thu biſt<lb n="67" />m(in)
+<lb n="68" />(craft)13</div>
+					<div n="17" xml:id="text-3-page-7-line-74" type="line" data-level="3">an (the)ſ(a)</div>
+				</div>
+				<div n="W6" xml:id="text-3-page-8" type="page" data-level="2">
+					<div xml:id="text-3-page-8-section-8" type="section" data-level="3">Ps._5,7</div>
+					<pb type="manuscript" n="2r" />
+					<div n="0" xml:id="text-3-page-8-line-75" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">(Odiſti.)</foreign>
+						<lb n="1" />(Thu)
+<lb n="2" />1
+<lb n="3" /> (ha-) </div>
+					<div n="1" xml:id="text-3-page-8-line-76" type="line" data-level="3">
+						<lb n="4" />(toſ)<lb n="5" />1
+<lb n="6" />(then)
+<lb n="7" />1
+<lb n="8" />(that) (unreht)
+<lb n="9" />2 (vu)orkid. (vuan) the t(h)at
+<lb n="10" /> (un-) </div>
+					<div n="2" xml:id="text-3-page-8-line-77" type="line" data-level="3">
+						<lb n="11" />(reht)<lb n="12" />3
+<lb n="13" />(vuorkid)
+<lb n="14" />3
+<lb n="15" />(ne)
+<lb n="16" />(giſ)clahid
+<lb n="17" />1
+<lb n="18" />(neuan)
+<lb n="19" />(th)o ſineſ
+<lb n="20" />(ſe)l(ueſ)</div>
+					<div n="3" xml:id="text-3-page-8-line-78" type="line" data-level="3">
+						<lb n="21" />(ſ)ia(lun)<lb n="22" />4
+<lb n="23" />(eft) (the)
+<lb n="24" />5 thia lugina ther ſprekad. ſia
+<lb n="25" /> giſcla(-) </div>
+					<div n="4" xml:id="text-3-page-8-line-79" type="line" data-level="3">
+						<lb n="26" />hed<lb n="27" />a(ls)o
+<lb n="28" />3
+<lb n="29" />mangan
+<lb n="30" />man. ſo ſia thia lugina
+<lb n="31" />anbre(n)g(ed)
+<lb n="32" />2</div>
+					<div n="5" xml:id="text-3-page-8-line-80" type="line" data-level="3">
+						<lb n="33" />The iſ man thero<lb n="34" />bluod(o).
+<lb n="35" />the thar beuuollan
+<lb n="36" /> vuir(-)6 </div>
+					<div n="6" xml:id="text-3-page-8-line-81" type="line" data-level="3">
+						<lb n="37" />t(h)i(d)<lb n="38" />(m)id
+<lb n="39" />(me)nniſſcemo
+<lb n="40" />blu(o)d(o)
+<lb n="41" />. endi the tha(r) (io)</div>
+					<div n="7" xml:id="text-3-page-8-line-82" type="line" data-level="3">
+						<lb n="42" />vu(id)<lb n="43" />th(ia)
+<lb n="44" />(f)rem(i)tha(n)
+<lb n="45" />handflitid
+<lb n="46" />t(h)ia
+<lb n="47" />ferv(uur)d(i)
+<lb n="48" />t(e)</div>
+					<div n="8" xml:id="text-3-page-8-line-83" type="line" data-level="3">
+						<lb n="49" />vuerke(nne). (v)ui ſculun<lb n="50" />f(e)rneman
+<lb n="51" />that thit iſ</div>
+					<div n="9" xml:id="text-3-page-8-line-84" type="line" data-level="3">
+						<lb n="52" />(th)ero o<lb n="53" />th(ia)
+<lb n="54" />(t)he
+<lb n="55" />(io)giuuelik
+<lb n="56" />7 unreht</div>
+					<div n="10" xml:id="text-3-page-8-line-85" type="line" data-level="3">
+						<lb n="57" />(h)<lb n="58" />the
+<lb n="59" />iſ
+<lb n="60" />fe(k)ni
+<lb n="61" />the
+<lb n="62" />8</div>
+					<div n="11" xml:id="text-3-page-8-line-86" type="line" data-level="3">
+						<lb n="63" />n    (n) od.<lb n="64" />That
+<lb n="65" />iſ
+<lb n="66" />f(ekni)
+<lb n="67" />that ma(n)
+<lb n="68" />(bican) (thia)</div>
+					<div n="12" xml:id="text-3-page-8-line-87" type="line" data-level="3">
+						<lb n="69" />(boſa)<lb n="70" />endi
+<lb n="71" />othe(rimu)
+<lb n="72" />(und)at
+<lb n="73" />ge(fr)amod.
+<lb n="74" />G(euuiſſo)
+<lb n="75" />(the)</div>
+					<div n="13" xml:id="text-3-page-8-line-88" type="line" data-level="3">
+						<lb n="76" />(hereti)keri<lb n="77" />iſ ma(n)
+<lb n="78" />(th)er(o)
+<lb n="79" />bluodo.
+<lb n="80" />(the)
+<lb n="81" />9
+<lb n="82" />(ther)
+<lb n="83" /> (da- </div>
+					<div n="14" xml:id="text-3-page-8-line-89" type="line" data-level="3">
+						<lb n="84" />gavuel)ikeſ<lb n="85" />1
+<lb n="86" />(fer)g(iutid)
+<lb n="87" />(that)
+<lb n="88" />1
+<lb n="89" />(blu)o(d)
+<lb n="90" />(thero)
+<lb n="91" />1
+<lb n="92" />(man)no
+<lb n="93" />1.</div>
+					<div n="15" xml:id="text-3-page-8-line-90" type="line" data-level="3">
+						<lb n="94" />(e)nd(i)<lb n="95" />th(e)
+<lb n="96" />(i)ſ
+<lb n="97" />(vuarli)k(o)
+<lb n="98" />(bethiu)
+<lb n="99" />(m)anſclag(o)
+<lb n="100" />(endi) (fekni)</div>
+					<div n="16" xml:id="text-3-page-8-line-91" type="line" data-level="3">
+						<lb n="101" />(the) (iſ)<lb n="102" />(na)iſto(n)
+<lb n="103" />gi(ſc)la(hid)
+<lb n="104" />1
+<lb n="105" />(b)ethiu
+<lb n="106" />an ſialun
+<lb n="107" />(endi)
+<lb n="108" />3
+<lb n="109" />an</div>
+					<div n="17" xml:id="text-3-page-8-line-92" type="line" data-level="3">
+						<lb n="110" />(likha)mon<lb n="111" />3.<div xml:id="text-3-page-8-line-92-section-9" type="section" data-level="4">Ps._5,8</div>
+					</div>
+					<div n="17" xml:id="text-3-page-8-line-93" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Introibo</foreign>
+						<lb n="112" />(Ik)
+<lb n="113" />2
+<lb n="114" />(ſ)ca(l)
+<lb n="115" />2
+<lb n="116" />(an)
+<lb n="117" />2
+<lb n="118" />(t)hin huſ gangan.</div>
+					<div n="18" xml:id="text-3-page-8-line-94" type="line" data-level="3">
+						<lb n="119" />e(ndi)<lb n="120" />2 ik ſcal bedon an
+<lb n="121" />thinero
+<lb n="122" />fo(}r}h)to tote
+<lb n="123" /> thi(-) </div>
+					<div n="19" xml:id="text-3-page-8-line-95" type="line" data-level="3">
+						<lb n="124" />n(emo)<lb n="125" />heligon
+<lb n="126" />temple.
+<lb n="127" />Thurug
+<lb n="128" />thia mikili</div>
+					<div n="20" xml:id="text-3-page-8-line-96" type="line" data-level="3">
+						<lb n="129" />(th)er(o)<lb n="130" />2 ginathono. ſo iſ that godeſ huſ. that</div>
+					<div n="21" xml:id="text-3-page-8-line-97" type="line" data-level="3">
+						<lb n="131" />i(ſ)<lb n="132" />thiu himilika
+<lb n="133" />hieruſalem
+<lb n="134" />that iſ
+<lb n="135" />getimber(i)d
+<lb n="136" />. mid</div>
+				</div>
+				<div n="W7" xml:id="text-3-page-9" type="page" data-level="2">
+					<div n="1" xml:id="text-3-page-9-line-98" type="line" data-level="3">
+						<lb n="137" />then leuindigon ſtenon. That iſ<lb n="138" />(mid)
+<lb n="139" />1
+<lb n="140" />(theru)
+<lb n="141" />1
+<lb n="142" />(menigi)
+<lb n="143" />1</div>
+					<div n="2" xml:id="text-3-page-9-line-99" type="line" data-level="3">
+						<lb n="144" />mineſ drohtineſ heligeno.<lb n="145" />Tha(r)
+<lb n="146" />2 ſcal
+<lb n="147" />(ik)
+<lb n="148" />1
+<lb n="149" />(bedon)
+<lb n="150" />1
+<lb n="151" />(te)
+<lb n="152" />1</div>
+					<div n="3" xml:id="text-3-page-9-line-100" type="line" data-level="3">
+						<lb n="153" />themo heligon temple, that iſ te<lb n="154" />(m)i(neſ)
+<lb n="155" />1
+<lb n="156" />(droht)in(eſ)
+<lb n="157" />1</div>
+					<div n="4" xml:id="text-3-page-9-line-101" type="line" data-level="3">
+						<lb n="158" />(l)ikhamon.<lb n="159" />theſ helireſ. mid theru manungu theroforhtu.<div xml:id="text-3-page-9-line-101-section-10" type="section" data-level="4">Ps._5,9</div>
+					</div>
+					<div n="5" xml:id="text-3-page-9-line-102" type="line" data-level="3">
+						<lb n="160" />(Dom)ine<foreign xml:lang="lat-Latn">deduc me.</foreign>
+						<lb n="161" />Vuola thu drohtin
+<lb n="162" /> uth(-) </div>
+					<div n="6" xml:id="text-3-page-9-line-103" type="line" data-level="3">
+						<lb n="163" />ledi<lb n="164" />mik an thinemo rehte. thuru mina
+<lb n="165" />fi(and)a.
+<lb n="166" /> en(-) </div>
+					<div n="7" xml:id="text-3-page-9-line-104" type="line" data-level="3">
+						<lb n="167" />di<lb n="168" />gereko minan vueg an thinero geſihti. vuola</div>
+					<div n="8" xml:id="text-3-page-9-line-105" type="line" data-level="3">thu drohtin gereko min lif tuote thiner(u) hederun</div>
+					<div n="9" xml:id="text-3-page-9-line-106" type="line" data-level="3">
+						<lb n="169" />geſihti. thuru thin emniſta r(e)ht. tote then<lb n="170" /> e(u)ui(-) </div>
+					<div n="10" xml:id="text-3-page-9-line-107" type="line" data-level="3">
+						<lb n="171" />gon<lb n="172" />mendiſlon.
+<lb n="173" />thuru min(a) fianda. endi
+<lb n="174" />t(hia)
+<lb n="175" /> here(-) </div>
+					<div n="11" xml:id="text-3-page-9-line-108" type="line" data-level="3">
+						<lb n="176" />tikere.<lb n="177" />endi thia hethinun. that iſ min (te) (d)uonne</div>
+					<div n="12" xml:id="text-3-page-9-line-109" type="line" data-level="3">
+						<lb n="178" />that<lb n="179" />(ik)
+<lb n="180" />mina fuoti ſette an thin(a)n vueg. endi that</div>
+					<div n="13" xml:id="text-3-page-9-line-110" type="line" data-level="3">
+						<lb n="181" />iſ thin<lb n="182" />(te)
+<lb n="183" />duonne that thu minan gang
+<lb n="184" />gir(eko)ſ</div>
+					<div n="14" xml:id="text-3-page-9-line-111" type="line" data-level="3">
+						<lb n="185" />V(uelik)<lb n="186" />1
+<lb n="187" />(iſ)
+<lb n="188" />1
+<lb n="189" />(the)
+<lb n="190" />3
+<lb n="191" />(v)ueg.
+<lb n="192" />ne
+<lb n="193" />uua(ri)
+<lb n="194" />4 (t)hiu leccia heligero
+<lb n="195" /> ge(-) </div>
+					<div n="15" xml:id="text-3-page-9-line-112" type="line" data-level="3">
+						<lb n="196" />(ſcriuo.)<lb n="197" />1<div xml:id="text-3-page-9-line-112-section-11" type="section" data-level="4">Ps._5,10</div>
+					</div>
+					<div n="15" xml:id="text-3-page-9-line-113" type="line" data-level="3">
+						<lb n="198" />(Th)iu<lb n="199" />vuarhed
+<lb n="200" />niſ an
+<lb n="201" />themo
+<lb n="202" />mu(t)he
+<lb n="203" />thero</div>
+					<div n="16" xml:id="text-3-page-9-line-114" type="line" data-level="3">
+						<lb n="204" />heretikero.<lb n="205" />vuan thiu
+<lb n="206" />idal(n)uſſi
+<lb n="207" />beuua(ld)id
+<lb n="208" />iro
+<lb n="209" /> (he)r(-)5 </div>
+					<div n="17" xml:id="text-3-page-9-line-115" type="line" data-level="3">
+						<lb n="210" />tono.<lb n="211" />vuan thiu
+<lb n="212" />(t)unga
+<lb n="213" />6 folgod thena
+<lb n="214" />ſelfku(r)i
+<lb n="215" />theſ</div>
+					<div n="18" xml:id="text-3-page-9-line-116" type="line" data-level="3">
+						<lb n="216" />muodeſ.<lb n="217" />vuan
+<lb n="218" />ſia
+<lb n="219" />ne hebbed thia uuarhed an iro</div>
+					<div n="19" xml:id="text-3-page-9-line-117" type="line" data-level="3">
+						<lb n="220" />muthe. that iſ criſten. vuan ſia ne hebbed<lb n="221" />(ſia)
+<lb n="222" />an</div>
+					<div n="20" xml:id="text-3-page-9-line-118" type="line" data-level="3">
+						<lb n="223" />iro herton. vuan alla thia beſuikid the<lb n="224" />fi(and)</div>
+					<div n="21" xml:id="text-3-page-9-line-119" type="line" data-level="3">the he ideleſ herton findid.</div>
+				</div>
+				<div n="3" xml:id="text-3-page-10" type="page" data-level="2">
+					<div xml:id="text-3-page-10-section-12" type="section" data-level="3" />
+					<div xml:id="text-3-page-10-paragraph-3" type="paragraph" data-level="3" />
+					<div xml:id="text-3-page-10-manuscript-4" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Beichtsp." xml:id="text-4" type="text" data-level="1">
+				<div n="W16" xml:id="text-4-page-11" type="page" data-level="2">
+					<div xml:id="text-4-page-11-manuscript-5" type="manuscript" data-level="3">Duess._D_2</div>
+					<pb type="manuscript" n="204(2)r" />
+					<div n="3" xml:id="text-4-page-11-line-120" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Confessio.</foreign>
+						<lb n="1" />Ik giuhu goda alomahtigon fadar. Endi / allon sinon</div>
+					<div n="4" xml:id="text-4-page-11-line-121" type="line" data-level="3">helagon vuihethon.1,2 Endi thi godes manne. / allero minero sundiono.3</div>
+					<div n="5" xml:id="text-4-page-11-line-122" type="line" data-level="3">thero the ik githahta. endi / gisprak. endi gideda. fan thiu</div>
+					<div n="6" xml:id="text-4-page-11-line-123" type="line" data-level="3">the ik erist sundia3 / uuerkian3 bigonsta. Ok iuhu4 ik so huat so ik</div>
+					<div n="7" xml:id="text-4-page-11-line-124" type="line" data-level="3">thes gi/deda thes vuithar mineru cristinhedi uuari. endi / vuithar minamo</div>
+					<div n="8" xml:id="text-4-page-11-line-125" type="line" data-level="3">gilouon uuari. endi vuithar / minemo bigihton uuari. endi uuithar</div>
+					<div n="9" xml:id="text-4-page-11-line-126" type="line" data-level="3">
+						<lb n="2" />minemo mestra //<pb type="manuscript" n="204(2)v" />
+						<lb n="1" />uuari. endi vuithar1 minemo herdoma uuari. endi /</div>
+					<div n="10" xml:id="text-4-page-11-line-127" type="line" data-level="3">uuithar minemo rehta uuari.</div>
+					<div n="11" xml:id="text-4-page-11-line-128" type="line" data-level="3">Ik iuhu nithas. endi auun/stes. hetias. endi bisprakias. Sueriannias.</div>
+					<div n="12" xml:id="text-4-page-11-line-129" type="line" data-level="3">endi liagannias. / firinlustono. endi minero gitidio farlatanero. Ouar(-)/modias.</div>
+					<div n="13" xml:id="text-4-page-11-line-130" type="line" data-level="3">endi tragi godes ambahtas. Horuuilliono. man/slahtono.</div>
+					<div n="14" xml:id="text-4-page-11-line-131" type="line" data-level="3">Ouaratas endi ouerdrankas.5 endi ok untidion6 / mos fehoda endi</div>
+					<div n="15" xml:id="text-4-page-11-line-132" type="line" data-level="3">drank. Ok iuhu ik, that ik giuuihid mos / endi7 drank nithar got. endi</div>
+					<div n="16" xml:id="text-4-page-11-line-133" type="line" data-level="3">minas herdomas raka so ne / giheld so ik scolda. endi mer terida than</div>
+					<div n="17" xml:id="text-4-page-11-line-134" type="line" data-level="3">ik scoldi. Ik / iu8 giuhu8 that ik minan fader endi moder so ne eroda /</div>
+					<div n="18" xml:id="text-4-page-11-line-135" type="line" data-level="3">endi so ne minnioda so ik scolda. Endi ok mina brothar / endi mina</div>
+					<div n="19" xml:id="text-4-page-11-line-136" type="line" data-level="3">suestar endi mina othra nahiston endi mina / friund. so ne eroda endi</div>
+					<div n="20" xml:id="text-4-page-11-line-137" type="line" data-level="3">so ne minnioda so ik scolda. / Thes giuhu ik hluttarliko. that ik arma</div>
+					<div n="21" xml:id="text-4-page-11-line-138" type="line" data-level="3">man endi othra / elilendia so ne eroda. endi so ne minnioda so ik</div>
+					<div n="22" xml:id="text-4-page-11-line-139" type="line" data-level="3">scolda. / Thes iuhu ik that ik mina iungeron endi mina fillulos / so</div>
+					<div n="23" xml:id="text-4-page-11-line-140" type="line" data-level="3">ne lerda so ik scolda. Thena helagon9 sunnundag10 / endi thia helagun</div>
+					<div n="24" xml:id="text-4-page-11-line-141" type="line" data-level="3">missa. ne firioda endi ne eroda so ik / scolda. Vsas drohtinas likhamon</div>
+					<div n="25" xml:id="text-4-page-11-line-142" type="line" data-level="3">endi is blod mid / sulikaru forhtu endi mid sulikaru minniu11 ne ant(-)/feng</div>
+					<div n="26" xml:id="text-4-page-11-line-143" type="line" data-level="3">so ik scolda.12 Siakoro ne uuisoda endi im ira nod/thurti ne gaf</div>
+					<div n="27" xml:id="text-4-page-11-line-144" type="line" data-level="3">so ik scolda. Sera endi unfraha ne trosta / so ik scolda. Minan degmon</div>
+					<div n="28" xml:id="text-4-page-11-line-145" type="line" data-level="3">so rehto ne gaf so ik / scolda. Gasti so ne antfeng so ik scolda.</div>
+					<div n="29" xml:id="text-4-page-11-line-146" type="line" data-level="3">Ok iuhu / ik that ik thia giuuar the ik giuuerran ne scolda. / Endi</div>
+					<div n="30" xml:id="text-4-page-11-line-147" type="line" data-level="3">thia ne gisoͮnda the ik gisoͮnan scolda.</div>
+				</div>
+				<div n="W17" xml:id="text-4-page-12" type="page" data-level="2">
+					<div n="1" xml:id="text-4-page-12-line-148" type="line" data-level="3">
+						<lb n="2" />Ik iuhu //<pb type="manuscript" n="205r" />
+						<lb n="1" />unrehtaro gisihtio.1 unrehtaro gihorithano. Endi</div>
+					<div n="2" xml:id="text-4-page-12-line-149" type="line" data-level="3">unrehtaro. / githankono. unrehtoro2 uuordo. unrehtaro uuerko. unrehtaro /</div>
+					<div n="3" xml:id="text-4-page-12-line-150" type="line" data-level="3">sehtlo. unrehtaro stadlo. unrehtaro gango. unrehtoro3 legaro. /</div>
+					<div n="4" xml:id="text-4-page-12-line-151" type="line" data-level="3">Vnrehtas4 cussianias. Vnrehtas4 helsiannias. Unrehtas anafangas.</div>
+					<div n="5" xml:id="text-4-page-12-line-152" type="line" data-level="3">Ik gihorda hethinnussia endi5 unhrenia sespilon. Ik gilofda / thes</div>
+					<div n="6" xml:id="text-4-page-12-line-153" type="line" data-level="3">ik gilouian6 ne scolda. Ik stal. ik farstolan fehoda. ana7 or/lof gaf.</div>
+					<div n="7" xml:id="text-4-page-12-line-154" type="line" data-level="3">ana orlof antfeng. Meneth suor an vuiethon.8 Abol/ganhed endi gistridi</div>
+					<div n="8" xml:id="text-4-page-12-line-155" type="line" data-level="3">an mi hadda. endi mistumft. endi auunst. / Ik sundioda an luggiomo</div>
+					<div n="9" xml:id="text-4-page-12-line-156" type="line" data-level="3">givuitscipia.8 endi an flokanna. Mina / gitidi endi min gibed so ne</div>
+					<div n="10" xml:id="text-4-page-12-line-157" type="line" data-level="3">giheld endi so ne gifulda so ik scolda. / Vnrehto las. unrehto sang.</div>
+					<div n="11" xml:id="text-4-page-12-line-158" type="line" data-level="3">ungihorsam uuas. Mer sprak endi / mer suigoda than ik scoldi. endi</div>
+					<div n="12" xml:id="text-4-page-12-line-159" type="line" data-level="3">mik9 seluon mid uuilon uuor/don endi mid uuilon uuerkon endi mid</div>
+					<div n="13" xml:id="text-4-page-12-line-160" type="line" data-level="3">uuilon githankon10 / mid vuilon luston mer unsuuroda than ik scoldi.</div>
+					<div n="14" xml:id="text-4-page-12-line-161" type="line" data-level="3">Ik iuhu / that ik an kirikun unrehtas thahta. endi othra11 merda theru /</div>
+					<div n="15" xml:id="text-4-page-12-line-162" type="line" data-level="3">helagun lecciun. Biscopos endi prestros ne eroda endi ne / minnoda</div>
+					<div n="16" xml:id="text-4-page-12-line-163" type="line" data-level="3">so ik scolda.</div>
+					<div n="17" xml:id="text-4-page-12-line-164" type="line" data-level="3">Ik iuhu thes allas the ik nu binemnid / hebbiu endi binemnian</div>
+					<div n="18" xml:id="text-4-page-12-line-165" type="line" data-level="3">ne mag. so ik it uuitandi dadi / so unvuitandi.8 so mid gilouon so</div>
+					<div n="19" xml:id="text-4-page-12-line-166" type="line" data-level="3">mid ungilouon. so huat / so ik thes gideda thes uuithar godas uuillion</div>
+					<div n="20" xml:id="text-4-page-12-line-167" type="line" data-level="3">uuari. so vua/kondi so slapandi. so an dag so an nahta so an huilikaru</div>
+					<div n="21" xml:id="text-4-page-12-line-168" type="line" data-level="3">tidi / so it uuari. so gangu ik is allas an thes alomahtigon</div>
+					<div n="22" xml:id="text-4-page-12-line-169" type="line" data-level="3">godas / mundburd. endi an sina ginatha. endi nu doͮn ik is allas / hluttarlikio</div>
+					<div n="23" xml:id="text-4-page-12-line-170" type="line" data-level="3">minan bigihton. goda alomahtigon fadar. / endi allon sinan19</div>
+					<div n="24" xml:id="text-4-page-12-line-171" type="line" data-level="3">helagon. endi thi godas manna. Gerno / an godas uuillion te gibotianna.</div>
+					<div n="25" xml:id="text-4-page-12-line-172" type="line" data-level="3">endi thi biddiu gibedas.13 that thu mi te goda githingi vuesan</div>
+					<div n="26" xml:id="text-4-page-12-line-173" type="line" data-level="3">vuillias. that ik min / lif endi minan gilouon an godas14 huldion</div>
+					<div n="27" xml:id="text-4-page-12-line-174" type="line" data-level="3">giendion moti.</div>
+				</div>
+				<div n="4" xml:id="text-4-page-13" type="page" data-level="2">
+					<div xml:id="text-4-page-13-section-13" type="section" data-level="3" />
+					<div xml:id="text-4-page-13-paragraph-4" type="paragraph" data-level="3" />
+					<div xml:id="text-4-page-13-manuscript-6" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Hom.Bed." xml:id="text-5" type="text" data-level="1">
+				<div n="W18" xml:id="text-5-page-14" type="page" data-level="2">
+					<div xml:id="text-5-page-14-manuscript-7" type="manuscript" data-level="3">Duess._B_80</div>
+					<pb type="manuscript" n="153r" />
+					<div n="3" xml:id="text-5-page-14-line-175" type="line" data-level="3">
+						<lb n="1" />Vui lesed tho<lb n="2" />s<foreign xml:lang="lat-Latn">an</foreign>
+						<foreign xml:lang="lat-Latn">c</foreign>
+						<foreign xml:lang="lat-Latn">tu</foreign>
+						<foreign xml:lang="lat-Latn">s</foreign>
+						<foreign xml:lang="lat-Latn">Bonifacius</foreign>
+						<lb n="3" />pauos an roma uuas. / that he</div>
+					<div n="4" xml:id="text-5-page-14-line-176" type="line" data-level="3">
+						<lb n="4" />bedi thena kiesur<lb n="5" />aduocatu<foreign xml:lang="lat-Latn">m.</foreign>
+						<lb n="6" />that / he imo an romoͮ en hus gefi. that</div>
+					<div n="5" xml:id="text-5-page-14-line-177" type="line" data-level="3">thia luidi1 / uuilon pantheon heton. wan thar uuor/thoͮn alla afgoda</div>
+					<div n="6" xml:id="text-5-page-14-line-178" type="line" data-level="3">inna begangana. So he / it imo tho iegiuan hadda. so wieda he it</div>
+					<div n="7" xml:id="text-5-page-14-line-179" type="line" data-level="3">
+						<lb n="7" />an / uses drohtines era. ende usero fruon<lb n="8" />s<foreign xml:lang="lat-Latn">an</foreign>
+						<foreign xml:lang="lat-Latn">c</foreign>
+						<foreign xml:lang="lat-Latn">t</foreign>
+						<foreign xml:lang="lat-Latn">ę2 /</foreign>
+						<lb n="9" />mariun. endi allero</div>
+					<div n="8" xml:id="text-5-page-14-line-180" type="line" data-level="3">cristes martiro. te thiu / also thar er inna begangan vuarth thiu /</div>
+					<div n="9" xml:id="text-5-page-14-line-181" type="line" data-level="3">menigi thero diuuilo. that thar nu inna began/gan uuertha thiu gehugd</div>
+					<div n="10" xml:id="text-5-page-14-line-182" type="line" data-level="3">allero godes / heligono. He gibod tho that al that folk thes / dages3</div>
+					<div n="11" xml:id="text-5-page-14-line-183" type="line" data-level="3">also the kalend nouember4 anstendit / te kerikoͮn quami. endi also</div>
+					<div n="12" xml:id="text-5-page-14-line-184" type="line" data-level="3">that goͮdlika / thianust thar al gedoͮn was.5 so wither gewarf6 /</div>
+					<div n="13" xml:id="text-5-page-14-line-185" type="line" data-level="3">manno gewilik fra endi blithi te hus.</div>
+					<div n="14" xml:id="text-5-page-14-line-186" type="line" data-level="3">Endi / thanana so warth gewonohed that man hoͮdigoͮ / ahter</div>
+					<div n="15" xml:id="text-5-page-14-line-187" type="line" data-level="3">allero thero waroldi beged thia gehugd / allero godes heligono. te</div>
+					<div n="16" xml:id="text-5-page-14-line-188" type="line" data-level="3">thiu so vuat so vui an / allemo themo gera uergomeloson, that wi it /</div>
+					<div n="17" xml:id="text-5-page-14-line-189" type="line" data-level="3">al hoͮdigoͮ gefullon.7 endi that vui thur thero / heligono gethingi</div>
+					<div n="18" xml:id="text-5-page-14-line-190" type="line" data-level="3">
+						<lb n="10" />bekuman te themo ewigon //<pb type="manuscript" n="152v" />
+						<lb n="1" />liua. helpandemo usemo drohtine.8</div>
+				</div>
+				<div n="5" xml:id="text-5-page-15" type="page" data-level="2">
+					<div xml:id="text-5-page-15-section-14" type="section" data-level="3" />
+					<div xml:id="text-5-page-15-paragraph-5" type="paragraph" data-level="3" />
+					<div xml:id="text-5-page-15-manuscript-8" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Spurih.2" xml:id="text-6" type="text" data-level="1">
+				<div n="W19" xml:id="text-6-page-16" type="page" data-level="2">
+					<div xml:id="text-6-page-16-manuscript-9" type="manuscript" data-level="3">Vind._751</div>
+					<pb type="manuscript" n="188v" />
+					<div n="4" xml:id="text-6-page-16-line-191" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">(DE EO QVO)D1</foreign>
+						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAIZ2</foreign>
+						<foreign xml:lang="lat-Latn">DICIMUS. /</foreign>
+					</div>
+					<div n="5" xml:id="text-6-page-16-line-192" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Si in dextero pede contigerit. si in sinistro sanguis / minuatur.</foreign>
+					</div>
+					<div n="6" xml:id="text-6-page-16-line-193" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Si in sinistro pede in dextero aure minuatur / sanguis.3</foreign>
+					</div>
+					<div n="7" xml:id="text-6-page-16-line-194" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">DE HOC /</foreign>
+						<lb n="1" />Q<foreign xml:lang="lat-Latn">VO</foreign>
+						<foreign xml:lang="lat-Latn">D</foreign>
+						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAZ4</foreign>
+						<foreign xml:lang="lat-Latn">DICVNT.</foreign>
+					</div>
+					<div n="8" xml:id="text-6-page-16-line-195" type="line" data-level="3">
+						<lb n="2" />PRIMU<foreign xml:lang="lat-Latn">PATER</foreign>
+						<lb n="3" />NOST<foreign xml:lang="lat-Latn">ER. /</foreign>
+					</div>
+					<div n="9" xml:id="text-6-page-16-line-196" type="line" data-level="3">Visc flot aftar themo uuatare.</div>
+					<div n="10" xml:id="text-6-page-16-line-197" type="line" data-level="3">uerbrustun. sina uetherun. /</div>
+					<div n="11" xml:id="text-6-page-16-line-198" type="line" data-level="3">tho gihelida. ina. use druhtin.</div>
+					<div n="12" xml:id="text-6-page-16-line-199" type="line" data-level="3">the seluo druhtin. thie thena / uisc gihelda.</div>
+					<div n="13" xml:id="text-6-page-16-line-200" type="line" data-level="3">thie gihele. that hers theru. spurihelti. /</div>
+					<div n="14" xml:id="text-6-page-16-line-201" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">AMEN.</foreign>
+					</div>
+				</div>
+			</div>
+			<div n="Ness." xml:id="text-7" type="text" data-level="1">
+				<div n="W19" xml:id="text-7-page-17" type="page" data-level="2">
+					<pb type="manuscript" n="188v" />
+					<div n="16" xml:id="text-7-page-17-line-202" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">CONTRA VERMES.5 /</foreign>
+					</div>
+					<div n="17" xml:id="text-7-page-17-line-203" type="line" data-level="3">Gang út nesso,   mid nigun. nessiklinon.</div>
+					<div n="18" xml:id="text-7-page-17-line-204" type="line" data-level="3">út fana themo. margę. / an that. ben.</div>
+					<div n="19" xml:id="text-7-page-17-line-205" type="line" data-level="3">fan themo. bene. an that. flesg6</div>
+					<div n="20" xml:id="text-7-page-17-line-206" type="line" data-level="3">ut fan themo. / flesgke. an thia hud.</div>
+					<div n="21" xml:id="text-7-page-17-line-207" type="line" data-level="3">ut fan thera. hud. an thesa strala. /</div>
+					<div n="22" xml:id="text-7-page-17-line-208" type="line" data-level="3">drohtin uuerthe so.</div>
+				</div>
+				<div n="6" xml:id="text-7-page-18" type="page" data-level="2">
+					<div xml:id="text-7-page-18-section-15" type="section" data-level="3" />
+					<div xml:id="text-7-page-18-paragraph-6" type="paragraph" data-level="3" />
+					<div xml:id="text-7-page-18-manuscript-10" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Abeced." xml:id="text-8" type="text" data-level="1">
+				<div n="W20" xml:id="text-8-page-19" type="page" data-level="2">
+					<foreign xml:lang="lat-Latn">ABECEDARIUM NORD</foreign>
+					<pb type="manuscript" n="321" />
+					<div n="1" xml:id="text-8-page-19-line-209" type="line" data-level="3">
+						<lb n="1" />feu2<lb n="2" />forman,3</div>
+					<div n="2" xml:id="text-8-page-19-line-210" type="line" data-level="3">
+						<lb n="3" />ur.<lb n="4" />after,</div>
+					<div n="3" xml:id="text-8-page-19-line-211" type="line" data-level="3">
+						<lb n="5" />thuriſ<lb n="6" />thri(tten)4 ſtabu,5</div>
+					<div n="4" xml:id="text-8-page-19-line-212" type="line" data-level="3">
+						<lb n="7" />oſ iſ<lb n="8" />th(em)o6 oboro,7</div>
+					<div n="5" xml:id="text-8-page-19-line-213" type="line" data-level="3">
+						<lb n="9" />rat8<lb n="10" />end9 oſ10 uurita(n)11 /</div>
+					<div n="6" xml:id="text-8-page-19-line-214" type="line" data-level="3">chaon12 thanne cliu(o)t13</div>
+					<div n="7" xml:id="text-8-page-19-line-215" type="line" data-level="3">
+						<lb n="11" />hagal nau(t)14<lb n="12" />hab
+<lb n="13" />et,</div>
+					<div n="8" xml:id="text-8-page-19-line-216" type="line" data-level="3">
+						<lb n="14" />iſ<lb n="15" />ar endi
+<lb n="16" />ſol15 /</div>
+					<div n="9" xml:id="text-8-page-19-line-217" type="line" data-level="3">
+						<lb n="17" />(<lb n="18" />tiu
+<lb n="19" />)16
+<lb n="20" />bri(c)a17</div>
+					<div n="10" xml:id="text-8-page-19-line-218" type="line" data-level="3">
+						<lb n="21" />endi<lb n="22" />man
+<lb n="23" />midi,18</div>
+					<div n="11" xml:id="text-8-page-19-line-219" type="line" data-level="3">
+						<lb n="24" />lagu19<lb n="25" />the20 leohto,</div>
+					<div n="12" xml:id="text-8-page-19-line-220" type="line" data-level="3">
+						<lb n="26" />yr<lb n="27" />al
+<lb n="28" /> bihabe
+<lb n="29" />(t)
+<lb n="30" />21</div>
+				</div>
+				<div n="7" xml:id="text-8-page-20" type="page" data-level="2">
+					<div xml:id="text-8-page-20-section-16" type="section" data-level="3" />
+					<div xml:id="text-8-page-20-paragraph-7" type="paragraph" data-level="3" />
+					<div xml:id="text-8-page-20-manuscript-11" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Ess.Hebreg." xml:id="text-9" type="text" data-level="1">
+				<div n="W21" xml:id="text-9-page-21" type="page" data-level="2">
+					<pb type="manuscript" n="153v" />
+					<div n="3" xml:id="text-9-page-21-line-221" type="line" data-level="3">Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod</div>
+					<div n="4" xml:id="text-9-page-21-line-222" type="line" data-level="3">tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.</div>
+					<div n="5" xml:id="text-9-page-21-line-223" type="line" data-level="3">te thrim hoge/tidon ahtetian mudde malteſ ende thriuu uother</div>
+					<div n="6" xml:id="text-9-page-21-line-224" type="line" data-level="3">holteſ. ende uiarhteg3 bikera. ende4 uſero herino / miſſo tua crukon.</div>
+					<div n="7" xml:id="text-9-page-21-line-225" type="line" data-level="3">
+						<lb n="1" />Van ekanſcetha<foreign xml:lang="lat-Latn">ſimiliter.</foreign>
+						<lb n="2" />/</div>
+					<div n="8" xml:id="text-9-page-21-line-226" type="line" data-level="3">
+						<lb n="3" />Van rengerengthorpa<lb n="4" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+					</div>
+					<div n="9" xml:id="text-9-page-21-line-227" type="line" data-level="3">
+						<lb n="5" />Van hukre/tha<foreign xml:lang="lat-Latn">ſimiliter</foreign>
+						<lb n="6" />ana that holt te then hoge/tidon.</div>
+					<div n="10" xml:id="text-9-page-21-line-228" type="line" data-level="3">that ne geldet thero ambahto neuue/thar.</div>
+					<div n="11" xml:id="text-9-page-21-line-229" type="line" data-level="3">Van brokhuſon. te then hogetidon / nigen mudde malteſ ende</div>
+					<div n="12" xml:id="text-9-page-21-line-230" type="line" data-level="3">tuenteg bikera. / ende tua crukon.</div>
+					<div n="13" xml:id="text-9-page-21-line-231" type="line" data-level="3">Van horlon nigen ende / uiftech mudde malteſ ende tue uother /</div>
+					<div n="14" xml:id="text-9-page-21-line-232" type="line" data-level="3">thioreſ holteſ. tue mudde gerſton. uiar brot. / en ſuſter erito. tuenteg</div>
+					<div n="15" xml:id="text-9-page-21-line-233" type="line" data-level="3">bikera. endi tua / crukon. nigen mudde malteſ te then ho/getidon.</div>
+					<div n="16" xml:id="text-9-page-21-line-234" type="line" data-level="3">
+						<lb n="7" />Van nianhuſ<lb n="8" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+					</div>
+					<div n="17" xml:id="text-9-page-21-line-235" type="line" data-level="3">
+						<lb n="9" />Van / borthbeki<lb n="10" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+					</div>
+					<div n="18" xml:id="text-9-page-21-line-236" type="line" data-level="3">Van drene te uſero / herano miſſo tian ember honegaſ. Te</div>
+					<div n="19" xml:id="text-9-page-21-line-237" type="line" data-level="3">pin/coſton ſiuondon haluon ember honegaſ / endi ahtodoch bikera.</div>
+					<div n="20" xml:id="text-9-page-21-line-238" type="line" data-level="3">
+						<lb n="11" />endi uiar crukon.5<pb type="manuscript" n="152v" />
+					</div>
+					<div n="21" xml:id="text-9-page-21-line-239" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">De6</foreign>
+						<lb n="1" />predio <foreign xml:lang="lat-Latn">eilę</foreign>
+						<lb n="2" />prepositurę . <foreign xml:lang="lat-Latn">Creia .x.</foreign>
+						<lb n="3" />ſicl<foreign xml:lang="lat-Latn">oſ.7</foreign>
+					</div>
+					<div n="22" xml:id="text-9-page-21-line-240" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">De nouo</foreign>
+						<lb n="4" />predio.8</div>
+					<div n="23" xml:id="text-9-page-21-line-241" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">.v. ſicloſ.9</foreign>
+						<lb n="5" />an rohhuſon.10 /</div>
+				</div>
+				<div n="W22" xml:id="text-9-page-22" type="page" data-level="2">
+					<div n="1" xml:id="text-9-page-22-line-242" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">.v.</foreign>
+						<lb n="6" />ſicl<foreign xml:lang="lat-Latn">oſ.1</foreign>
+						<lb n="7" />an ladthorpa.2</div>
+					<div n="2" xml:id="text-9-page-22-line-243" type="line" data-level="3">
+						<lb n="8" />An hammuinkile<foreign xml:lang="lat-Latn">xxx denarios.3</foreign>
+					</div>
+					<div n="3" xml:id="text-9-page-22-line-244" type="line" data-level="3">
+						<lb n="9" />An lindenun<foreign xml:lang="lat-Latn">.v. ſicloſ.</foreign>
+					</div>
+					<div n="4" xml:id="text-9-page-22-line-245" type="line" data-level="3">
+						<lb n="10" />An berghalehtrun4<foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<foreign xml:lang="lat-Latn">ſex</foreign>
+						<lb n="11" />denarioſ.</div>
+					<div n="5" xml:id="text-9-page-22-line-246" type="line" data-level="3">
+						<lb n="12" />An hupelesuuik<foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<foreign xml:lang="lat-Latn">iiii</foreign>
+						<lb n="13" />denarioſ.</div>
+					<div n="6" xml:id="text-9-page-22-line-247" type="line" data-level="3">
+						<lb n="14" />An brehton<foreign xml:lang="lat-Latn">xxx</foreign>
+						<lb n="15" />denarioſ.</div>
+					<div n="7" xml:id="text-9-page-22-line-248" type="line" data-level="3">
+						<lb n="16" />An driuere.<lb n="17" />unu<foreign xml:lang="lat-Latn">m</foreign>
+						<lb n="18" />ſicl<foreign xml:lang="lat-Latn">um.</foreign>
+					</div>
+					<div n="8" xml:id="text-9-page-22-line-249" type="line" data-level="3">
+						<lb n="19" />An / uueteringe<foreign xml:lang="lat-Latn">.vi.</foreign>
+						<lb n="20" />ſ<foreign xml:lang="lat-Latn">i</foreign>
+						<foreign xml:lang="lat-Latn">cl</foreign>
+						<foreign xml:lang="lat-Latn">oſ.</foreign>
+					</div>
+					<div n="9" xml:id="text-9-page-22-line-250" type="line" data-level="3">
+						<lb n="21" />An hanevuic5<foreign xml:lang="lat-Latn">.iiii.</foreign>
+						<lb n="22" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<foreign xml:lang="lat-Latn">vi.</foreign>
+						<lb n="23" />denarioſ.</div>
+					<div n="10" xml:id="text-9-page-22-line-251" type="line" data-level="3">
+						<lb n="24" />An vunnincthorpa<foreign xml:lang="lat-Latn">.iii.</foreign>
+						<lb n="25" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+					</div>
+					<div n="11" xml:id="text-9-page-22-line-252" type="line" data-level="3">
+						<lb n="26" />An rinherre<foreign xml:lang="lat-Latn">.iii.</foreign>
+						<lb n="27" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+					</div>
+					<div n="12" xml:id="text-9-page-22-line-253" type="line" data-level="3">
+						<lb n="28" />An beckehem<foreign xml:lang="lat-Latn">.ii.</foreign>
+					</div>
+					<div n="13" xml:id="text-9-page-22-line-254" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">I.6</foreign>
+						<lb n="29" />An ahtineſberga.7</div>
+					<div n="14" xml:id="text-9-page-22-line-255" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">.v. ſicloſ.</foreign>
+						<lb n="30" />An ſtengrauon. /</div>
+					<div n="15" xml:id="text-9-page-22-line-256" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">.iiii.8 ſicloſ.9</foreign>
+						<lb n="31" />An hannine. /</div>
+				</div>
+				<div n="8" xml:id="text-9-page-23" type="page" data-level="2">
+					<div xml:id="text-9-page-23-section-17" type="section" data-level="3" />
+					<div xml:id="text-9-page-23-paragraph-8" type="paragraph" data-level="3" />
+					<div xml:id="text-9-page-23-manuscript-12" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Werd.Urb." xml:id="text-10" type="text" data-level="1">
+				<div n="W23" xml:id="text-10-page-24" type="page" data-level="2">
+					<pb type="manuscript" n="34b" />
+					<div n="3" xml:id="text-10-page-24-line-257" type="line" data-level="3">
+						<lb n="1" />An naruthi thiu kirica endi kiricland. fan almeri / te<lb n="2" />tafal(-)</div>
+					<div n="4" xml:id="text-10-page-24-line-258" type="line" data-level="3">bergon.</div>
+					<div n="5" xml:id="text-10-page-24-line-259" type="line" data-level="3">An uuerinon thiu kirica endi al that gilendi. /</div>
+					<div n="6" xml:id="text-10-page-24-line-260" type="line" data-level="3">Te amuthon thiu kirica endi kiricland</div>
+					<div n="7" xml:id="text-10-page-24-line-261" type="line" data-level="3">
+						<lb n="3" />an theru fehtu En uuérr /<lb n="4" />ſancti <foreign xml:lang="lat-Latn">liudgeri.</foreign>
+						<lb n="5" />alterum ſancti</div>
+					<div n="8" xml:id="text-10-page-24-line-262" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">martini.</foreign>
+					</div>
+					<div n="9" xml:id="text-10-page-24-line-263" type="line" data-level="3">
+						<lb n="6" />Utermeri.<lb n="7" />ſancti <foreign xml:lang="lat-Latn">liudgeri</foreign>
+						<lb n="8" />totum.</div>
+					<div n="10" xml:id="text-10-page-24-line-264" type="line" data-level="3">
+						<lb n="9" />ſpilmeri<lb n="10" />Similiter. /</div>
+					<div n="11" xml:id="text-10-page-24-line-265" type="line" data-level="3">pulmeri half.</div>
+					<div n="12" xml:id="text-10-page-24-line-266" type="line" data-level="3">
+						<lb n="11" />Suecſnon<foreign xml:lang="lat-Latn">ubi natus</foreign>
+						<lb n="12" />eſt 
+<lb n="13" />ſanctuſ <foreign xml:lang="lat-Latn">liudgeruſ</foreign>
+						<lb n="14" />totum.</div>
+					<div n="13" xml:id="text-10-page-24-line-267" type="line" data-level="3">An upgoa / ſiuun hofstadi.</div>
+					<div n="14" xml:id="text-10-page-24-line-268" type="line" data-level="3">
+						<lb n="15" />ſiuun uerrſtadi. Te aiturnon.<lb n="16" />ſancti <foreign xml:lang="lat-Latn">liudgeri /</foreign>
+					</div>
+					<div n="15" xml:id="text-10-page-24-line-269" type="line" data-level="3">Te kinleson. En alt giuuarki.</div>
+				</div>
+				<div n="9" xml:id="text-10-page-25" type="page" data-level="2">
+					<div xml:id="text-10-page-25-section-18" type="section" data-level="3" />
+					<div xml:id="text-10-page-25-paragraph-9" type="paragraph" data-level="3" />
+					<div xml:id="text-10-page-25-manuscript-13" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Trier.Bluts." xml:id="text-11" type="text" data-level="1">
+				<div n="S378" xml:id="text-11-page-26" type="page" data-level="2">
+					<div xml:id="text-11-page-26-manuscript-14" type="manuscript" data-level="3">Trev._40/1018</div>
+					<foreign xml:lang="lat-Latn">Ad catarrum1 dic:</foreign>
+					<pb type="manuscript" n="19v" />
+					<div n="1" xml:id="text-11-page-26-line-270" type="line" data-level="3">Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.</div>
+					<div n="2" xml:id="text-11-page-26-line-271" type="line" data-level="3">that bluod forstuond:3   so duo thu bluod!</div>
+					<div n="3" xml:id="text-11-page-26-line-272" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">amen Ter. Pater noster Ter.</foreign>
+					</div>
+				</div>
+				<div n="10" xml:id="text-11-page-27" type="page" data-level="2">
+					<div xml:id="text-11-page-27-section-19" type="section" data-level="3" />
+					<div xml:id="text-11-page-27-paragraph-10" type="paragraph" data-level="3" />
+					<div xml:id="text-11-page-27-manuscript-15" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Glaubbek." xml:id="text-12" type="text" data-level="1">
+				<div n="H204" xml:id="text-12-page-28" type="page" data-level="2">
+					<div n="1" xml:id="text-12-page-28-line-273" type="line" data-level="3">Flêskas arstandenussi, that thū an themo flêska, the thū nū an bist, te duomesdaga gistandan schalt. --</div>
+					<div n="2" xml:id="text-12-page-28-line-274" type="line" data-level="3">Èndi gilôvis thū līvas achter dôtha?</div>
+				</div>
+				<div n="11" xml:id="text-12-page-29" type="page" data-level="2">
+					<div xml:id="text-12-page-29-section-20" type="section" data-level="3" />
+					<div xml:id="text-12-page-29-paragraph-11" type="paragraph" data-level="3" />
+					<div xml:id="text-12-page-29-manuscript-16" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Verc." xml:id="text-13" type="text" data-level="1">
+				<div n="Bl20" xml:id="text-13-page-30" type="page" data-level="2">
+					<div n="1" xml:id="text-13-page-30-line-275" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Semper</foreign>
+						<foreign xml:lang="lat-Latn">expectavi, ut iussio vestra pacem mihi faceret</foreign>
+					</div>
+					<div n="2" xml:id="text-13-page-30-line-276" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">et ab inimicis defenderet; sed aliter quam sperabam evenit.\</foreign>
+					</div>
+					<div n="3" xml:id="text-13-page-30-line-277" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Nam</foreign>
+						<foreign xml:lang="lat-Latn">quotiens nuncii Uberti a corte vestra revertebantur,</foreign>
+					</div>
+					<div n="4" xml:id="text-13-page-30-line-278" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">peius mihi totiens erat, et Vbertus elatior insurgebat.\</foreign>
+					</div>
+					<div n="5" xml:id="text-13-page-30-line-279" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Dulces enim sermones, qui ei a vestra parte mandabantur,</foreign>
+					</div>
+					<div n="6" xml:id="text-13-page-30-line-280" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">et fiducia meorum bonorum, quę sibi promittebantur, \</foreign>
+						<lb n="1" />fece-</div>
+					<div n="7" xml:id="text-13-page-30-line-281" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">runt</foreign>
+						<foreign xml:lang="lat-Latn">eum cum fiducia peccare et in consilium mortis meę</foreign>
+					</div>
+					<div n="8" xml:id="text-13-page-30-line-282" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">audacter intrare. In tantam enim confidentiam spe gratie</foreign>
+					</div>
+					<div n="9" xml:id="text-13-page-30-line-283" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">vestre sibi promisse erupit \</foreign>
+						<foreign xml:lang="lat-Latn">....</foreign>
+						<foreign xml:lang="lat-Latn">................. monasterio</foreign>
+					</div>
+					<div n="10" xml:id="text-13-page-30-line-284" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">iunctus ipse Ubertus filio Ardoini et Uberto, cognato</foreign>
+						<lb n="2" />Main-</div>
+					<div n="11" xml:id="text-13-page-30-line-285" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">fredi,</foreign>
+						<foreign xml:lang="lat-Latn">et duobus meis militibus et Guiberto et militibus</foreign>
+						<lb n="3" />Iporien-</div>
+					<div n="12" xml:id="text-13-page-30-line-286" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">sibus</foreign>
+						<foreign xml:lang="lat-Latn">\ et cum ......... venit super me vexillis erectis,</foreign>
+					</div>
+					<div n="13" xml:id="text-13-page-30-line-287" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">ut me obsideret, caperet et occideret. Sed quia plures milites</foreign>
+					</div>
+					<div n="14" xml:id="text-13-page-30-line-288" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">mecum erant quam speraret, dei gratia omnes \</foreign>
+						<foreign xml:lang="lat-Latn">terram .....</foreign>
+						<foreign xml:lang="lat-Latn">.......</foreign>
+					</div>
+					<div n="15" xml:id="text-13-page-30-line-289" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">....... intraverant</foreign>
+						<foreign xml:lang="lat-Latn">......... aliquibus captis et multis vulneratis, scutis</foreign>
+					</div>
+					<div n="16" xml:id="text-13-page-30-line-290" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">tultis et armis. In altera die venit a vobis eius missus</foreign>
+					</div>
+					<div n="17" xml:id="text-13-page-30-line-291" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">gratiam</foreign>
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<foreign xml:lang="lat-Latn">d.......</foreign>
+						<foreign xml:lang="lat-Latn">vestram</foreign>
+						<foreign xml:lang="lat-Latn">......sibi promittens.</foreign>
+					</div>
+				</div>
+				<div n="B21" xml:id="text-13-page-31" type="page" data-level="2">
+					<div n="18" xml:id="text-13-page-31-line-292" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Ubertus statim elatus Sanctam Agatham contra me durius</foreign>
+					</div>
+					<div n="19" xml:id="text-13-page-31-line-293" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">firmavit et fiducia Mainfredi et Uuilielmi cum illis, quibus</foreign>
+					</div>
+					<div n="20" xml:id="text-13-page-31-line-294" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">me occidere voluit, \</foreign>
+						<foreign xml:lang="lat-Latn">in</foreign>
+						<foreign xml:lang="lat-Latn">camp.............</foreign>
+						<foreign xml:lang="lat-Latn">spe suorum</foreign>
+					</div>
+					<div n="21" xml:id="text-13-page-31-line-295" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">consedit. Ego autem cum Papiensi et domno Nouariensi</foreign>
+					</div>
+					<div n="22" xml:id="text-13-page-31-line-296" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">et cum Oberto et Anselmo et R. marchionibus obsessui</foreign>
+					</div>
+					<div n="23" xml:id="text-13-page-31-line-297" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">super sanctam Agatham; die qua veni, castellum obsedi,\</foreign>
+					</div>
+					<div n="24" xml:id="text-13-page-31-line-298" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">.... pugnavi et vi, dei gratia, expugnavi, multis occisis,</foreign>
+					</div>
+					<div n="25" xml:id="text-13-page-31-line-299" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">plurimis vulneratis. Ea die effugata est vulpes rufa cum</foreign>
+					</div>
+					<div n="26" xml:id="text-13-page-31-line-300" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">omnibus vulpeculis suis</foreign>
+						<foreign xml:lang="lat-Latn">et ita</foreign>
+						<foreign xml:lang="lat-Latn">facto vobis hoc honore lętus \</foreign>
+					</div>
+					<div n="27" xml:id="text-13-page-31-line-301" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">domum redivi et omnem meam terram de manu vestrorum</foreign>
+					</div>
+					<div n="28" xml:id="text-13-page-31-line-302" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">et meorum inimicorum violenter detraxi. Hoc est inceptio</foreign>
+					</div>
+					<div n="29" xml:id="text-13-page-31-line-303" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">victorię vestrę, que omnes terruit et ad vos coegit redire.</foreign>
+					</div>
+					<div n="30" xml:id="text-13-page-31-line-304" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Nunc autem, si Ubertus ad vos mittat suum filium</foreign>
+						<lb n="4" />obsi-</div>
+					<div n="31" xml:id="text-13-page-31-line-305" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">dem,</foreign>
+						<foreign xml:lang="lat-Latn">non illi, sed mihi gratias agite, qui eum ut fillonem</foreign>
+					</div>
+					<div n="32" xml:id="text-13-page-31-line-306" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">sub armis \</foreign>
+						<lb n="5" />de<foreign xml:lang="lat-Latn">vici</foreign>
+						<foreign xml:lang="lat-Latn">et effugavi. Rogo itaque vestram</foreign>
+						<lb n="6" />mi-</div>
+					<div n="33" xml:id="text-13-page-31-line-307" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">sericordiam,</foreign>
+						<foreign xml:lang="lat-Latn">ut more imperiali ... tractetis</foreign>
+						<foreign xml:lang="lat-Latn">et</foreign>
+						<foreign xml:lang="lat-Latn">me</foreign>
+						<lb n="7" />ha-</div>
+					<div n="34" xml:id="text-13-page-31-line-308" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">beatis.</foreign>
+						<foreign xml:lang="lat-Latn">Recipiat</foreign>
+						<foreign xml:lang="lat-Latn">amicus</foreign>
+						<foreign xml:lang="lat-Latn">episcopus Uuerciburgensis eius</foreign>
+					</div>
+					<div n="35" xml:id="text-13-page-31-line-309" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">filium obsidem, \ sed vestram gratiam nullam habeat, donec</foreign>
+					</div>
+					<div n="36" xml:id="text-13-page-31-line-310" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">ecclesię meę et morti meę satisfecerit. Et12 mandate ipsi</foreign>
+					</div>
+					<div n="37" xml:id="text-13-page-31-line-311" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Uberto per suum missum,.................</foreign>
+						<foreign xml:lang="lat-Latn">........negatum</foreign>
+					</div>
+					<div n="38" xml:id="text-13-page-31-line-312" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">redderet pro vestra iussione, quam fere rederet pro meo</foreign>
+					</div>
+					<div n="39" xml:id="text-13-page-31-line-313" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">timore. Nunc videbo, cuius pretii apud vos \ erit Leo.</foreign>
+					</div>
+					<div n="40" xml:id="text-13-page-31-line-314" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Omnes inimici mei risum et derisum \ de me fecerunt,</foreign>
+					</div>
+					<div n="41" xml:id="text-13-page-31-line-315" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">quia preceptum de quibusdam liberis, \ qui in Sancta</foreign>
+					</div>
+					<div n="42" xml:id="text-13-page-31-line-316" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">Agatha contra me erant, \ firmare noluistis, cum enim non \</foreign>
+					</div>
+					<div n="43" xml:id="text-13-page-31-line-317" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">vultis, quod lex vult et iubet \. Imperatorum et regum</foreign>
+					</div>
+				</div>
+				<div n="B22" xml:id="text-13-page-32" type="page" data-level="2">
+					<div n="44" xml:id="text-13-page-32-line-318" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">parcere subiectis, \ et dei. Sed facio ego:</foreign>
+						<lb n="8" />uuaregat self</div>
+					<div n="45" xml:id="text-13-page-32-line-319" type="line" data-level="3">
+						<lb n="9" />iu\uua[re]<lb n="10" />got<foreign xml:lang="lat-Latn">. Et sin plumbo, saltem auro sigillatum,</foreign>
+					</div>
+					<div n="46" xml:id="text-13-page-32-line-320" type="line" data-level="3">
+						<foreign xml:lang="lat-Latn">per hunc meum militem</foreign>
+						<lb n="11" />com<foreign xml:lang="lat-Latn">mittite.</foreign>
+					</div>
+				</div>
+				<div n="12" xml:id="text-13-page-33" type="page" data-level="2">
+					<div xml:id="text-13-page-33-section-21" type="section" data-level="3" />
+					<div xml:id="text-13-page-33-paragraph-12" type="paragraph" data-level="3" />
+					<div xml:id="text-13-page-33-manuscript-17" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="" />
+				</div>
+			</div>
+			<div n="Muenzleg." xml:id="text-14" type="text" data-level="1">
+				<div n="Schr174" xml:id="text-14-page-34" type="page" data-level="2">
+					<div n="1" xml:id="text-14-page-34-line-321" type="line" data-level="3">IELITHIS</div>
+					<div n="2" xml:id="text-14-page-34-line-322" type="line" data-level="3">PENING</div>
+					<div n="3" xml:id="text-14-page-34-line-323" type="line" data-level="3">HIR STEID TE BISCOP</div>
+				</div>
+				<div n="13" xml:id="text-14-page-35" type="page" data-level="2">
+					<div xml:id="text-14-page-35-section-22" type="section" data-level="3" />
+					<div xml:id="text-14-page-35-paragraph-13" type="paragraph" data-level="3" />
+					<div xml:id="text-14-page-35-manuscript-18" type="manuscript" data-level="3" />
+					<pb type="manuscript" n="Copyright TITUS Project,&#10;Frankfurt a/M, 15.10.2021.&#10; No parts of this document may be republished in any form&#10;without prior permission by the copyright holder." />
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

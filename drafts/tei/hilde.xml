@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Hildebrandslied</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="deu-Latn-x-old-high-german">German</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div n="Hld." xml:id="text-1" type="text" data-level="1">
+				<pb type="manuscript" n="1r" />
+				<div n="1" xml:id="text-1-verse-1" type="verse" data-level="2">Ik gihorta ðat seggen</div>
+				<div n="2" xml:id="text-1-verse-2" type="verse" data-level="2">
+					<lb n="1" />ðat sih urhettun ænon<lb n="2" />muo
+<lb n="3" />tin
+<lb n="4" />·</div>
+				<div n="3" xml:id="text-1-verse-3" type="verse" data-level="2">hiltibraht enti haðubrant · untar heriun tuem,</div>
+				<div n="4" xml:id="text-1-verse-4" type="verse" data-level="2">sunufatarungo · iro saro rihtun</div>
+				<div n="5" xml:id="text-1-verse-5" type="verse" data-level="2">
+					<lb n="5" />garutun sê iro<lb n="6" />guðhamun · gurtun sih · iro · suert ana ·</div>
+				<div n="6" xml:id="text-1-verse-6" type="verse" data-level="2">
+					<lb n="7" />helidos<lb n="8" />ubar hringa do sie to dero hiltiu ritun ·</div>
+				<div n="7" xml:id="text-1-verse-7" type="verse" data-level="2">
+					<lb n="9" />hiltibraht<lb n="10" />gimahalta heribrantes sunu · her uuas heroro
+<lb n="11" />man</div>
+				<div n="8" xml:id="text-1-verse-8" type="verse" data-level="2">ferahes frotoro · her fragen gistuont</div>
+				<div n="9" xml:id="text-1-verse-9" type="verse" data-level="2">
+					<lb n="12" />fohem<lb n="13" />uuortum · wer sin fater wari</div>
+				<div n="10" xml:id="text-1-verse-10" type="verse" data-level="2">fireo in folche</div>
+				<div n="11" xml:id="text-1-verse-11" type="verse" data-level="2">
+					<lb n="14" />eddo<lb n="15" />welihhes cnuosles du sis ·</div>
+				<div n="12" xml:id="text-1-verse-12" type="verse" data-level="2">
+					<lb n="16" />ibu du mi enan sages · ik<lb n="17" />mi de odre uuet</div>
+				<div n="13" xml:id="text-1-verse-13" type="verse" data-level="2">
+					<lb n="18" />chind in chunnincriche · chud ist<lb n="19" />min al irmindeot ·</div>
+				<div n="14" xml:id="text-1-verse-14" type="verse" data-level="2">
+					<lb n="20" />hadubraht gimahalta<lb n="21" />hilti
+<lb n="22" />brantes
+<lb n="23" />sunu</div>
+				<div n="15" xml:id="text-1-verse-15" type="verse" data-level="2">dat sagetun mi usere liuti</div>
+				<div n="16" xml:id="text-1-verse-16" type="verse" data-level="2">
+					<lb n="24" />alte anti<lb n="25" />frote dea érhina warun ·</div>
+				<div n="17" xml:id="text-1-verse-17" type="verse" data-level="2">
+					<lb n="26" />dat hiltibrant hætti<lb n="27" />min fater · ih heittu hadubrant ·</div>
+				<div n="18" xml:id="text-1-verse-18" type="verse" data-level="2">
+					<lb n="28" />forn her ostar<lb n="29" />gihueit floh her otachres nid</div>
+				<div n="19" xml:id="text-1-verse-19" type="verse" data-level="2">
+					<lb n="30" />hina miti theotrihhe ·<lb n="31" />enti sinero degano filu ·</div>
+				<div n="20" xml:id="text-1-verse-20" type="verse" data-level="2">
+					<lb n="32" />her furlaet in lante luttila<lb n="33" />sitten</div>
+				<div n="21" xml:id="text-1-verse-21" type="verse" data-level="2">prut in bure barn unwahsan</div>
+				<div n="22" xml:id="text-1-verse-22" type="verse" data-level="2">
+					<lb n="34" />arbeo laosa ·<lb n="35" />heraet ostar hina</div>
+				<div n="23" xml:id="text-1-verse-23" type="verse" data-level="2">
+					<lb n="36" />det sid detrihhe darba<lb n="37" />gi
+<lb n="38" />stuontum</div>
+				<div n="24" xml:id="text-1-verse-24" type="verse" data-level="2">
+					<lb n="39" />fatereres mines · dat uuas so<lb n="40" />friunt
+<lb n="41" />laos
+<lb n="42" />man</div>
+				<div n="25" xml:id="text-1-verse-25" type="verse" data-level="2">her was otachre ummet tirri</div>
+				<div n="26" xml:id="text-1-verse-26" type="verse" data-level="2">
+					<lb n="43" />dega<lb n="44" />no
+<lb n="45" />dechisto unti deotrichhe · darba gistontun</div>
+				<div n="27" xml:id="text-1-verse-27" type="verse" data-level="2">her was eo folches at ente imo wuas eo peheta ti leop ·</div>
+				<div n="28" xml:id="text-1-verse-28" type="verse" data-level="2">chud was her chonnem mannum</div>
+				<div n="29" xml:id="text-1-verse-29" type="verse" data-level="2">
+					<lb n="46" />ni waniu ih<lb n="47" />iu lib habbe</div>
+				<div n="30" xml:id="text-1-verse-30" type="verse" data-level="2">
+					<lb n="48" />wettu irmingot quad<pb type="manuscript" n="76v" />
+					<lb n="1" />hiltibraht obana ab heuane</div>
+				<div n="31" xml:id="text-1-verse-31" type="verse" data-level="2">
+					<lb n="2" />dat du neo dana halt mit sus<lb n="3" />sippan man</div>
+				<div n="32" xml:id="text-1-verse-32" type="verse" data-level="2">dinc ni gileitos ·</div>
+				<div n="33" xml:id="text-1-verse-33" type="verse" data-level="2">
+					<lb n="4" />want her do ar arme wuntane<lb n="5" />bouga</div>
+				<div n="34" xml:id="text-1-verse-34" type="verse" data-level="2">cheisuringu gitan · so imo se der chuning gap</div>
+				<div n="35" xml:id="text-1-verse-35" type="verse" data-level="2">huneo truhtin · dat ih dir it nu bi huldi gibu ·</div>
+				<div n="36" xml:id="text-1-verse-36" type="verse" data-level="2">
+					<lb n="6" />hadubraht<lb n="7" />gimalta hiltibrantes sunu ·</div>
+				<div n="37" xml:id="text-1-verse-37" type="verse" data-level="2">
+					<lb n="8" />mit geru scal man geba<lb n="9" />infa
+<lb n="10" />han</div>
+				<div n="38" xml:id="text-1-verse-38" type="verse" data-level="2">ort widar orte ·</div>
+				<div n="39" xml:id="text-1-verse-39" type="verse" data-level="2">du bist dir alter hun ummet spaher</div>
+				<div n="40" xml:id="text-1-verse-40" type="verse" data-level="2">
+					<lb n="11" />spenis mih mit dinem wuortun wili mih dinu speru<lb n="12" />wer
+<lb n="13" />pan
+<lb n="14" />·</div>
+				<div n="41" xml:id="text-1-verse-41" type="verse" data-level="2">pist also gialtet man so du ewin inwit fortos ·</div>
+				<div n="42" xml:id="text-1-verse-42" type="verse" data-level="2">dat sagetun mi seolidante</div>
+				<div n="43" xml:id="text-1-verse-43" type="verse" data-level="2">
+					<lb n="15" />westar ubar wentilseo dat<lb n="16" />man wic furnam ·</div>
+				<div n="44" xml:id="text-1-verse-44" type="verse" data-level="2">tot ist hiltibrant heribrantes suno ·</div>
+				<div n="45" xml:id="text-1-verse-45" type="verse" data-level="2">hiltibraht gimahalta heribrantes suno ·</div>
+				<div n="46" xml:id="text-1-verse-46" type="verse" data-level="2">
+					<lb n="17" />wela gisihu ih<lb n="18" />in dinem hrustim</div>
+				<div n="47" xml:id="text-1-verse-47" type="verse" data-level="2">dat du habes heme herron goten</div>
+				<div n="48" xml:id="text-1-verse-48" type="verse" data-level="2">dat du noh bi desemo riche reccheo ni wurti ·</div>
+				<div n="49" xml:id="text-1-verse-49" type="verse" data-level="2">
+					<lb n="19" />wela<lb n="20" />ga
+<lb n="21" />nu waltant got quad hiltibrant wewurt skihit ·</div>
+				<div n="50" xml:id="text-1-verse-50" type="verse" data-level="2">ih wallota sumaro enti wintro sehstic ur lante ·</div>
+				<div n="51" xml:id="text-1-verse-51" type="verse" data-level="2">
+					<lb n="22" />dar<lb n="23" />man mih eo scerita in folc sceotantero</div>
+				<div n="52" xml:id="text-1-verse-52" type="verse" data-level="2">
+					<lb n="24" />so man mir at<lb n="25" />burc enigeru · banun ni gifasta ·</div>
+				<div n="53" xml:id="text-1-verse-53" type="verse" data-level="2">
+					<lb n="26" />nu scal mih suasat<lb n="27" />chind · suertu hauwan</div>
+				<div n="54" xml:id="text-1-verse-54" type="verse" data-level="2">
+					<lb n="28" />breton mit sinu billiu eddo<lb n="29" />ih imo ti banin werdan ·</div>
+				<div n="55" xml:id="text-1-verse-55" type="verse" data-level="2">
+					<lb n="30" />doh maht du nu aodlihho<lb n="31" />ibu dir din ellen taoc ·</div>
+				<div n="56" xml:id="text-1-verse-56" type="verse" data-level="2">
+					<lb n="32" />in sus heremo man hrusti<lb n="33" />gi
+<lb n="34" />winnan</div>
+				<div n="57" xml:id="text-1-verse-57" type="verse" data-level="2">
+					<lb n="35" />rauba bihrahanen · ibu du dar enic reht<lb n="36" />ha
+<lb n="37" />bes
+<lb n="38" />·</div>
+				<div n="58" xml:id="text-1-verse-58" type="verse" data-level="2">der si doh nu argosto quad hiltibrant ostarliuto</div>
+				<div n="59" xml:id="text-1-verse-59" type="verse" data-level="2">der dir nu wiges warne nu dih es so wel lustit ·</div>
+				<div n="60" xml:id="text-1-verse-60" type="verse" data-level="2">
+					<lb n="39" />gudea<lb n="40" />gimeinun niuse de motti ·</div>
+				<div n="61" xml:id="text-1-verse-61" type="verse" data-level="2">
+					<lb n="41" />werdar sih dero hiutu hregilo<lb n="42" />hrumen muotti ·</div>
+				<div n="62" xml:id="text-1-verse-62" type="verse" data-level="2">
+					<lb n="43" />erdo desero brunnono bedero<lb n="44" />uual
+<lb n="45" />tan
+<lb n="46" />·</div>
+				<div n="63" xml:id="text-1-verse-63" type="verse" data-level="2">do lettun se ærist asckim scritan</div>
+				<div n="64" xml:id="text-1-verse-64" type="verse" data-level="2">
+					<lb n="47" />scarpen scurim<lb n="48" />dat in dem sciltim stont ·</div>
+				<div n="65" xml:id="text-1-verse-65" type="verse" data-level="2">
+					<lb n="49" />do stoptun tosamane<lb n="50" />staim
+<lb n="51" />bort
+<lb n="52" />chludun ·</div>
+				<div n="66" xml:id="text-1-verse-66" type="verse" data-level="2">hewun harmlicco huitte scilti ·</div>
+				<div n="67" xml:id="text-1-verse-67" type="verse" data-level="2">unti im iro lintun luttilo wurtun ·</div>
+				<div n="68" xml:id="text-1-verse-68" type="verse" data-level="2">giwigan miti wabnum</div>
+			</div>
+		</body>
+	</text>
+</TEI>

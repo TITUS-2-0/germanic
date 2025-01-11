@@ -1,0 +1,1178 @@
+- body:
+  - text[n=Schs.Taufgel.]:
+    - page[n=W3]:
+      - manuscript: Vat.lat._577
+      - line[n=3]:
+        - foreign[lg=lat-Latn]: (Abrenuntiatio diaboli.1)
+        - pb[type=manuscript]: 6v
+      - line[n=4]:
+        - Forsaichistu2
+        - foreign[lg=lat-Latn]: diobolae
+        - .
+      - line[n=5]:
+        - foreign[lg=lat-Latn]: et
+        - resp
+        - foreign[lg=lat-Latn]: ondeat.2
+        - ec forsacho
+        - foreign[lg=lat-Latn]: diabolae
+      - line[n=6]: end allum diobol/geldę
+      - line[n=7]:
+        - respon
+        - foreign[lg=lat-Latn]: deat.
+        - end ec forsacho allum diobolgeldae.
+      - line[n=8]:
+        - end
+        - 'allum '
+        - dioboles uuercum /
+      - line[n=9]:
+        - resp
+        - foreign[lg=lat-Latn]: ondeat.
+        - end ec forsacho allum dioboles uuercum
+      - line[n=10]: and uuordum thunaer / ende uuoden3
+      - line[n=11]: ende saxnote ende allvm4 them unholdum
+      - line[n=12]: the hira genotas / sint.
+      - line[n=13]:
+        - foreign[lg=lat-Latn]: (Professio fidei.1)
+        - pb[type=manuscript]: 7r
+      - line[n=14]:
+        - gelobistu In got
+        - 'alamehtigaN5 '
+        - fadaer
+      - line[n=15]:
+        - ec gelobo in got
+        - 'alamehtigaN5 '
+        - fa/daer
+      - line[n=16]: gelobistu in crist godes suno
+      - line[n=17]: ec gelobo in crist gotes suno.
+      - line[n=18]: gelobis/tu in halogan gast.
+      - line[n=19]:
+        - ec gelobo
+        - 'IN '
+        - halogan gast.
+    - page[n=1]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Westf.Taufgel.]:
+    - page[n=BE38]:
+      - line[n=1]:
+        - Farsakis thu
+        - unholdon?
+      - line[n=2]: Farsaku.
+      - line[n=3]:
+        - Farsakis thu
+        - 'unholdon '
+        - uuerkon endi uuillion?
+      - line[n=4]: Farsaku.
+      - line[n=5]: Farsakis thu allon hethinussion?
+      - line[n=6]: Farsaku.
+      - line[n=7]: Farsakis thu allon hethinon geldon endi gelpon, that hethina man
+          te
+      - line[n=8]: geldon ende te offara haddon?
+      - line[n=9]: Farsaku.
+      - line[n=10]: Gilouis thu an god fader alomahtigan?
+      - line[n=11]: Gilouiu.
+    - page[n=BE39]:
+      - line[n=12]: Gilouis thu an thena helagon godas sunu, that he geboren endi
+          gemartyrod
+      - line[n=13]: uuari?
+      - line[n=14]: Gilouiu.
+      - line[n=15]: Gilouis thu an thena helagon gest endi an thia hilagon samunga
+          endi helagaro
+      - line[n=16]: gimenitha, fleskas arstandanussi, that thu an themo fleska, the
+          thu nu an bist
+      - line[n=17]: te duomesdaga gistandan scalt endi gilouis thu livas ahtar dotha?
+      - line[n=18]: Gilouiu.
+      - line[n=19]:
+          foreign[lg=lat-Latn]: 'Sequitur hic: Suffla in faciem et dic hanc'
+      - line[n=20]:
+          foreign[lg=lat-Latn]: 'orationem: Exi ab eo immunde spiritus et'
+      - line[n=21]:
+          foreign[lg=lat-Latn]: redde honorem deo vivo et vero.
+    - page[n=2]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Psalmenausl.]:
+    - page[n=W4]:
+      - section: Ps._4,8
+      - pb[type=manuscript]: 1r
+      - line[n=1]: (Sia) (ſindun) (mid) (themo) (fruhte) (iro)
+      - line[n=2]:
+        - vueteſ.
+        - en(di)
+        - (v)ui(neſ)
+        - (gifulda). (Thiu) (heliga) (ſamnunga)
+        - 1
+      - line[n=3]:
+        - vuiruid tote them,
+        - (thia)
+        - (the)
+        - (th)ar
+        - b(efundane)
+        - ' (vuer-)2 '
+      - line[n=4]:
+        - thed
+        - an iro githankon3 (gema) flehſcli(kero) (thingo)
+        - ' (en-)} '
+      - line[n=5]:
+        - di
+        - thia the
+        - (thar)
+        - niauuiht
+        - gi(m)ani(gfaldoda)
+        - (ſindun)
+      - line[n=6]:
+        - an thero genuftsamidu thero
+        - g(e)u(ono)
+        - (neuan) (thia)
+      - line[n=7]:
+        - the thar gifulda ſindun mid t(he})n
+        - (v)u(irſiſton)
+        - ' (erth-) '
+      - line[n=8]:
+        - likon
+        - dadion.
+        - 4
+        - endi
+        - t(hemo)
+        - (vueroldlikon)
+        - (vuillion.)
+        - 2
+        - section: Ps._4,9
+      - line[n=9]:
+        - Ik ſcal ſcla(p)a(n) endi reſtia(n) an themo
+        - frethu
+        - (the)2
+      - line[n=10]:
+        - ther an nana5 vuiſa beuuandlod vuerthan
+        - (ne) (mag)
+        - 2
+      - line[n=11]:
+        - endi
+        - thena
+        - the then erhtlikon dadion
+        - ang(ehafted)2
+      - line[n=12]:
+        - vuerthan
+        - (ne)
+        - 2 mag . neuan the vuirthid imo
+        - ' gige(-) '
+      - line[n=13]:
+        - uan
+        - geuuiſſo
+        - (th)e
+        - thar tuovuardig. endi
+        - ' ungi(-) '
+      - line[n=14]:
+        - rimendeſ
+        - (friſteſ) (iſ.) (Thiuſ)
+        - guodlica raſta vuirthid
+      - line[n=15]:
+        - (en)di
+        - the frithu the ther
+      - line[n=16]:
+        - (unbeu)uandlondelik
+        - iſ.
+      - line[n=17]:
+        - (th)emo
+        - uuorde . ik
+      - line[n=18]:
+        - (that)
+        - ik an themo
+    - page[n=W5]:
+      - section: Ps._5,1
+      - pb[type=manuscript]: 1v
+      - line[n=1]:
+        - kuman
+        - 1 . th(ia)
+      - line[n=2]:
+        - eſ he2   .
+        - B(i)
+        - (g)ere(ht)on
+        - (an)fahid
+      - line[n=3]:
+        - (thiu) (heliga)
+        - (ſ)a(m)nu(nga)
+        - (that)
+        - 3 erui.
+        - that
+        - iſ that euuiga
+      - line[n=4]:
+        - (lif)4 (thuru) (uſan) (drohtin)
+        - then nerion(do)n criſt. Theſ
+      - line[n=5]:
+        - (euuigon) (liueſ)
+        - erui.
+        - (that)
+        - 4 ther an (th)emo anaginne
+      - line[n=6]:
+        - uerth       n an themo endi
+        - ' th(e-) '
+      - line[n=7]:
+        - (ro)
+        - (vueroldeſ)
+        - 4      (t)hat hadd(un)
+      - line[n=8]: an            an themo
+      - line[n=9]:
+        - (endi.)
+        - section: Ps._5,2
+      - line[n=9]:
+        - foreign[lg=lat-Latn]: Verba mea.
+        - T(hiu)
+        - 5
+        - (h)eli(ga)
+        - (ſamn)unga bid(id)
+      - line[n=10]:
+        - (mid)
+        - (the)ſon
+        - vu(o)r(don).
+        - 6
+        - that
+        - the
+        - ſ(al)m(ſan)ga(ſ)
+        - (iro)
+        - ' (mu-) '
+      - line[n=11]:
+        - (thes)
+        - 7
+        - giho(ri)d(e)
+        - uuerth(en) fan
+        - god(e)
+        - e(ndi)
+        - (that)
+        - 8 fan imo
+      - line[n=12]:
+        - (f)ernoma(n)
+        - 9
+        - vu(erthe)10
+        - (the)
+        - (v)uil(l)o
+        - (theſ)
+        - ' (t)hurugthige(-) '
+      - line[n=13]:
+        - n(on)
+        - herto(n)
+        - (t)he
+        - alla
+        - t(hing)
+        - (ne)
+        - (fernimi)d
+        - 11 mid
+        - then
+      - line[n=14]:
+        - oron . neuan mid
+        - the(mo)
+        - (liahte) (ſinaro) (godhedieſ.)
+        - 12
+        - section: Ps._5,3
+      - line[n=15]: Thu biſt min go(d)
+      - line[n=16]:
+        - vuan thu biſt
+        - m(in)
+        - (craft)13
+      - line[n=17]: an (the)ſ(a)
+    - page[n=W6]:
+      - section: Ps._5,7
+      - pb[type=manuscript]: 2r
+      - line[n=0]:
+        - foreign[lg=lat-Latn]: (Odiſti.)
+        - (Thu)
+        - 1
+        - ' (ha-) '
+      - line[n=1]:
+        - (toſ)
+        - 1
+        - (then)
+        - 1
+        - (that) (unreht)
+        - 2 (vu)orkid. (vuan) the t(h)at
+        - ' (un-) '
+      - line[n=2]:
+        - (reht)
+        - 3
+        - (vuorkid)
+        - 3
+        - (ne)
+        - (giſ)clahid
+        - 1
+        - (neuan)
+        - (th)o ſineſ
+        - (ſe)l(ueſ)
+      - line[n=3]:
+        - (ſ)ia(lun)
+        - 4
+        - (eft) (the)
+        - 5 thia lugina ther ſprekad. ſia
+        - ' giſcla(-) '
+      - line[n=4]:
+        - hed
+        - a(ls)o
+        - 3
+        - mangan
+        - man. ſo ſia thia lugina
+        - anbre(n)g(ed)
+        - 2
+      - line[n=5]:
+        - The iſ man thero
+        - bluod(o).
+        - the thar beuuollan
+        - ' vuir(-)6 '
+      - line[n=6]:
+        - t(h)i(d)
+        - (m)id
+        - (me)nniſſcemo
+        - blu(o)d(o)
+        - . endi the tha(r) (io)
+      - line[n=7]:
+        - vu(id)
+        - th(ia)
+        - (f)rem(i)tha(n)
+        - handflitid
+        - t(h)ia
+        - ferv(uur)d(i)
+        - t(e)
+      - line[n=8]:
+        - vuerke(nne). (v)ui ſculun
+        - f(e)rneman
+        - that thit iſ
+      - line[n=9]:
+        - (th)ero o
+        - th(ia)
+        - (t)he
+        - (io)giuuelik
+        - 7 unreht
+      - line[n=10]:
+        - (h)
+        - the
+        - iſ
+        - fe(k)ni
+        - the
+        - 8
+      - line[n=11]:
+        - n    (n) od.
+        - That
+        - iſ
+        - f(ekni)
+        - that ma(n)
+        - (bican) (thia)
+      - line[n=12]:
+        - (boſa)
+        - endi
+        - othe(rimu)
+        - (und)at
+        - ge(fr)amod.
+        - G(euuiſſo)
+        - (the)
+      - line[n=13]:
+        - (hereti)keri
+        - iſ ma(n)
+        - (th)er(o)
+        - bluodo.
+        - (the)
+        - 9
+        - (ther)
+        - ' (da- '
+      - line[n=14]:
+        - gavuel)ikeſ
+        - 1
+        - (fer)g(iutid)
+        - (that)
+        - 1
+        - (blu)o(d)
+        - (thero)
+        - 1
+        - (man)no
+        - 1.
+      - line[n=15]:
+        - (e)nd(i)
+        - th(e)
+        - (i)ſ
+        - (vuarli)k(o)
+        - (bethiu)
+        - (m)anſclag(o)
+        - (endi) (fekni)
+      - line[n=16]:
+        - (the) (iſ)
+        - (na)iſto(n)
+        - gi(ſc)la(hid)
+        - 1
+        - (b)ethiu
+        - an ſialun
+        - (endi)
+        - 3
+        - an
+      - line[n=17]:
+        - (likha)mon
+        - 3.
+        - section: Ps._5,8
+      - line[n=17]:
+        - foreign[lg=lat-Latn]: Introibo
+        - (Ik)
+        - 2
+        - (ſ)ca(l)
+        - 2
+        - (an)
+        - 2
+        - (t)hin huſ gangan.
+      - line[n=18]:
+        - e(ndi)
+        - 2 ik ſcal bedon an
+        - thinero
+        - fo(}r}h)to tote
+        - ' thi(-) '
+      - line[n=19]:
+        - n(emo)
+        - heligon
+        - temple.
+        - Thurug
+        - thia mikili
+      - line[n=20]:
+        - (th)er(o)
+        - 2 ginathono. ſo iſ that godeſ huſ. that
+      - line[n=21]:
+        - i(ſ)
+        - thiu himilika
+        - hieruſalem
+        - that iſ
+        - getimber(i)d
+        - . mid
+    - page[n=W7]:
+      - line[n=1]:
+        - then leuindigon ſtenon. That iſ
+        - (mid)
+        - 1
+        - (theru)
+        - 1
+        - (menigi)
+        - 1
+      - line[n=2]:
+        - mineſ drohtineſ heligeno.
+        - Tha(r)
+        - 2 ſcal
+        - (ik)
+        - 1
+        - (bedon)
+        - 1
+        - (te)
+        - 1
+      - line[n=3]:
+        - themo heligon temple, that iſ te
+        - (m)i(neſ)
+        - 1
+        - (droht)in(eſ)
+        - 1
+      - line[n=4]:
+        - (l)ikhamon.
+        - theſ helireſ. mid theru manungu theroforhtu.
+        - section: Ps._5,9
+      - line[n=5]:
+        - (Dom)ine
+        - foreign[lg=lat-Latn]: deduc me.
+        - Vuola thu drohtin
+        - ' uth(-) '
+      - line[n=6]:
+        - ledi
+        - mik an thinemo rehte. thuru mina
+        - fi(and)a.
+        - ' en(-) '
+      - line[n=7]:
+        - di
+        - gereko minan vueg an thinero geſihti. vuola
+      - line[n=8]: thu drohtin gereko min lif tuote thiner(u) hederun
+      - line[n=9]:
+        - geſihti. thuru thin emniſta r(e)ht. tote then
+        - ' e(u)ui(-) '
+      - line[n=10]:
+        - gon
+        - mendiſlon.
+        - thuru min(a) fianda. endi
+        - t(hia)
+        - ' here(-) '
+      - line[n=11]:
+        - tikere.
+        - endi thia hethinun. that iſ min (te) (d)uonne
+      - line[n=12]:
+        - that
+        - (ik)
+        - mina fuoti ſette an thin(a)n vueg. endi that
+      - line[n=13]:
+        - iſ thin
+        - (te)
+        - duonne that thu minan gang
+        - gir(eko)ſ
+      - line[n=14]:
+        - V(uelik)
+        - 1
+        - (iſ)
+        - 1
+        - (the)
+        - 3
+        - (v)ueg.
+        - ne
+        - uua(ri)
+        - 4 (t)hiu leccia heligero
+        - ' ge(-) '
+      - line[n=15]:
+        - (ſcriuo.)
+        - 1
+        - section: Ps._5,10
+      - line[n=15]:
+        - (Th)iu
+        - vuarhed
+        - niſ an
+        - themo
+        - mu(t)he
+        - thero
+      - line[n=16]:
+        - heretikero.
+        - vuan thiu
+        - idal(n)uſſi
+        - beuua(ld)id
+        - iro
+        - ' (he)r(-)5 '
+      - line[n=17]:
+        - tono.
+        - vuan thiu
+        - (t)unga
+        - 6 folgod thena
+        - ſelfku(r)i
+        - theſ
+      - line[n=18]:
+        - muodeſ.
+        - vuan
+        - ſia
+        - ne hebbed thia uuarhed an iro
+      - line[n=19]:
+        - muthe. that iſ criſten. vuan ſia ne hebbed
+        - (ſia)
+        - an
+      - line[n=20]:
+        - iro herton. vuan alla thia beſuikid the
+        - fi(and)
+      - line[n=21]: the he ideleſ herton findid.
+    - page[n=3]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Beichtsp.]:
+    - page[n=W16]:
+      - manuscript: Duess._D_2
+      - pb[type=manuscript]: 204(2)r
+      - line[n=3]:
+        - foreign[lg=lat-Latn]: Confessio.
+        - Ik giuhu goda alomahtigon fadar. Endi / allon sinon
+      - line[n=4]: helagon vuihethon.1,2 Endi thi godes manne. / allero minero sundiono.3
+      - line[n=5]: thero the ik githahta. endi / gisprak. endi gideda. fan thiu
+      - line[n=6]: the ik erist sundia3 / uuerkian3 bigonsta. Ok iuhu4 ik so huat
+          so ik
+      - line[n=7]: thes gi/deda thes vuithar mineru cristinhedi uuari. endi / vuithar
+          minamo
+      - line[n=8]: gilouon uuari. endi vuithar / minemo bigihton uuari. endi uuithar
+      - line[n=9]:
+        - minemo mestra //
+        - pb[type=manuscript]: 204(2)v
+        - uuari. endi vuithar1 minemo herdoma uuari. endi /
+      - line[n=10]: uuithar minemo rehta uuari.
+      - line[n=11]: Ik iuhu nithas. endi auun/stes. hetias. endi bisprakias. Sueriannias.
+      - line[n=12]: endi liagannias. / firinlustono. endi minero gitidio farlatanero.
+          Ouar(-)/modias.
+      - line[n=13]: endi tragi godes ambahtas. Horuuilliono. man/slahtono.
+      - line[n=14]: Ouaratas endi ouerdrankas.5 endi ok untidion6 / mos fehoda endi
+      - line[n=15]: drank. Ok iuhu ik, that ik giuuihid mos / endi7 drank nithar got.
+          endi
+      - line[n=16]: minas herdomas raka so ne / giheld so ik scolda. endi mer terida
+          than
+      - line[n=17]: ik scoldi. Ik / iu8 giuhu8 that ik minan fader endi moder so ne
+          eroda /
+      - line[n=18]: endi so ne minnioda so ik scolda. Endi ok mina brothar / endi
+          mina
+      - line[n=19]: suestar endi mina othra nahiston endi mina / friund. so ne eroda
+          endi
+      - line[n=20]: so ne minnioda so ik scolda. / Thes giuhu ik hluttarliko. that
+          ik arma
+      - line[n=21]: man endi othra / elilendia so ne eroda. endi so ne minnioda so
+          ik
+      - line[n=22]: scolda. / Thes iuhu ik that ik mina iungeron endi mina fillulos
+          / so
+      - line[n=23]: ne lerda so ik scolda. Thena helagon9 sunnundag10 / endi thia
+          helagun
+      - line[n=24]: missa. ne firioda endi ne eroda so ik / scolda. Vsas drohtinas
+          likhamon
+      - line[n=25]: endi is blod mid / sulikaru forhtu endi mid sulikaru minniu11
+          ne ant(-)/feng
+      - line[n=26]: so ik scolda.12 Siakoro ne uuisoda endi im ira nod/thurti ne gaf
+      - line[n=27]: so ik scolda. Sera endi unfraha ne trosta / so ik scolda. Minan
+          degmon
+      - line[n=28]: so rehto ne gaf so ik / scolda. Gasti so ne antfeng so ik scolda.
+      - line[n=29]: Ok iuhu / ik that ik thia giuuar the ik giuuerran ne scolda. /
+          Endi
+      - line[n=30]: thia ne gisoͮnda the ik gisoͮnan scolda.
+    - page[n=W17]:
+      - line[n=1]:
+        - Ik iuhu //
+        - pb[type=manuscript]: 205r
+        - unrehtaro gisihtio.1 unrehtaro gihorithano. Endi
+      - line[n=2]: unrehtaro. / githankono. unrehtoro2 uuordo. unrehtaro uuerko. unrehtaro
+          /
+      - line[n=3]: sehtlo. unrehtaro stadlo. unrehtaro gango. unrehtoro3 legaro. /
+      - line[n=4]: Vnrehtas4 cussianias. Vnrehtas4 helsiannias. Unrehtas anafangas.
+      - line[n=5]: Ik gihorda hethinnussia endi5 unhrenia sespilon. Ik gilofda / thes
+      - line[n=6]: ik gilouian6 ne scolda. Ik stal. ik farstolan fehoda. ana7 or/lof
+          gaf.
+      - line[n=7]: ana orlof antfeng. Meneth suor an vuiethon.8 Abol/ganhed endi gistridi
+      - line[n=8]: an mi hadda. endi mistumft. endi auunst. / Ik sundioda an luggiomo
+      - line[n=9]: givuitscipia.8 endi an flokanna. Mina / gitidi endi min gibed so
+          ne
+      - line[n=10]: giheld endi so ne gifulda so ik scolda. / Vnrehto las. unrehto
+          sang.
+      - line[n=11]: ungihorsam uuas. Mer sprak endi / mer suigoda than ik scoldi.
+          endi
+      - line[n=12]: mik9 seluon mid uuilon uuor/don endi mid uuilon uuerkon endi mid
+      - line[n=13]: uuilon githankon10 / mid vuilon luston mer unsuuroda than ik scoldi.
+      - line[n=14]: Ik iuhu / that ik an kirikun unrehtas thahta. endi othra11 merda
+          theru /
+      - line[n=15]: helagun lecciun. Biscopos endi prestros ne eroda endi ne / minnoda
+      - line[n=16]: so ik scolda.
+      - line[n=17]: Ik iuhu thes allas the ik nu binemnid / hebbiu endi binemnian
+      - line[n=18]: ne mag. so ik it uuitandi dadi / so unvuitandi.8 so mid gilouon
+          so
+      - line[n=19]: mid ungilouon. so huat / so ik thes gideda thes uuithar godas
+          uuillion
+      - line[n=20]: uuari. so vua/kondi so slapandi. so an dag so an nahta so an huilikaru
+      - line[n=21]: tidi / so it uuari. so gangu ik is allas an thes alomahtigon
+      - line[n=22]: godas / mundburd. endi an sina ginatha. endi nu doͮn ik is allas
+          / hluttarlikio
+      - line[n=23]: minan bigihton. goda alomahtigon fadar. / endi allon sinan19
+      - line[n=24]: helagon. endi thi godas manna. Gerno / an godas uuillion te gibotianna.
+      - line[n=25]: endi thi biddiu gibedas.13 that thu mi te goda githingi vuesan
+      - line[n=26]: vuillias. that ik min / lif endi minan gilouon an godas14 huldion
+      - line[n=27]: giendion moti.
+    - page[n=4]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Hom.Bed.]:
+    - page[n=W18]:
+      - manuscript: Duess._B_80
+      - pb[type=manuscript]: 153r
+      - line[n=3]:
+        - Vui lesed tho
+        - s
+        - foreign[lg=lat-Latn]: an
+        - foreign[lg=lat-Latn]: c
+        - foreign[lg=lat-Latn]: tu
+        - foreign[lg=lat-Latn]: s
+        - foreign[lg=lat-Latn]: Bonifacius
+        - pauos an roma uuas. / that he
+      - line[n=4]:
+        - bedi thena kiesur
+        - aduocatu
+        - foreign[lg=lat-Latn]: m.
+        - that / he imo an romoͮ en hus gefi. that
+      - line[n=5]: thia luidi1 / uuilon pantheon heton. wan thar uuor/thoͮn alla afgoda
+      - line[n=6]: inna begangana. So he / it imo tho iegiuan hadda. so wieda he it
+      - line[n=7]:
+        - an / uses drohtines era. ende usero fruon
+        - s
+        - foreign[lg=lat-Latn]: an
+        - foreign[lg=lat-Latn]: c
+        - foreign[lg=lat-Latn]: t
+        - foreign[lg=lat-Latn]: ę2 /
+        - mariun. endi allero
+      - line[n=8]: cristes martiro. te thiu / also thar er inna begangan vuarth thiu
+          /
+      - line[n=9]: menigi thero diuuilo. that thar nu inna began/gan uuertha thiu
+          gehugd
+      - line[n=10]: allero godes / heligono. He gibod tho that al that folk thes /
+          dages3
+      - line[n=11]: also the kalend nouember4 anstendit / te kerikoͮn quami. endi
+          also
+      - line[n=12]: that goͮdlika / thianust thar al gedoͮn was.5 so wither gewarf6
+          /
+      - line[n=13]: manno gewilik fra endi blithi te hus.
+      - line[n=14]: Endi / thanana so warth gewonohed that man hoͮdigoͮ / ahter
+      - line[n=15]: allero thero waroldi beged thia gehugd / allero godes heligono.
+          te
+      - line[n=16]: thiu so vuat so vui an / allemo themo gera uergomeloson, that
+          wi it /
+      - line[n=17]: al hoͮdigoͮ gefullon.7 endi that vui thur thero / heligono gethingi
+      - line[n=18]:
+        - bekuman te themo ewigon //
+        - pb[type=manuscript]: 152v
+        - liua. helpandemo usemo drohtine.8
+    - page[n=5]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Spurih.2]:
+    - page[n=W19]:
+      - manuscript: Vind._751
+      - pb[type=manuscript]: 188v
+      - line[n=4]:
+        - foreign[lg=lat-Latn]: (DE EO QVO)D1
+        - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAIZ2
+        - foreign[lg=lat-Latn]: DICIMUS. /
+      - line[n=5]:
+          foreign[lg=lat-Latn]: Si in dextero pede contigerit. si in sinistro sanguis
+            / minuatur.
+      - line[n=6]:
+          foreign[lg=lat-Latn]: Si in sinistro pede in dextero aure minuatur / sanguis.3
+      - line[n=7]:
+        - foreign[lg=lat-Latn]: DE HOC /
+        - Q
+        - foreign[lg=lat-Latn]: VO
+        - foreign[lg=lat-Latn]: D
+        - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAZ4
+        - foreign[lg=lat-Latn]: DICVNT.
+      - line[n=8]:
+        - PRIMU
+        - foreign[lg=lat-Latn]: PATER
+        - NOST
+        - foreign[lg=lat-Latn]: ER. /
+      - line[n=9]: Visc flot aftar themo uuatare.
+      - line[n=10]: uerbrustun. sina uetherun. /
+      - line[n=11]: tho gihelida. ina. use druhtin.
+      - line[n=12]: the seluo druhtin. thie thena / uisc gihelda.
+      - line[n=13]: thie gihele. that hers theru. spurihelti. /
+      - line[n=14]:
+          foreign[lg=lat-Latn]: AMEN.
+  - text[n=Ness.]:
+    - page[n=W19]:
+      - pb[type=manuscript]: 188v
+      - line[n=16]:
+          foreign[lg=lat-Latn]: CONTRA VERMES.5 /
+      - line[n=17]: Gang út nesso,   mid nigun. nessiklinon.
+      - line[n=18]: út fana themo. margę. / an that. ben.
+      - line[n=19]: fan themo. bene. an that. flesg6
+      - line[n=20]: ut fan themo. / flesgke. an thia hud.
+      - line[n=21]: ut fan thera. hud. an thesa strala. /
+      - line[n=22]: drohtin uuerthe so.
+    - page[n=6]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Abeced.]:
+    - page[n=W20]:
+      - foreign[lg=lat-Latn]: ABECEDARIUM NORD
+      - pb[type=manuscript]: 321
+      - line[n=1]:
+        - feu2
+        - forman,3
+      - line[n=2]:
+        - ur.
+        - after,
+      - line[n=3]:
+        - thuriſ
+        - thri(tten)4 ſtabu,5
+      - line[n=4]:
+        - oſ iſ
+        - th(em)o6 oboro,7
+      - line[n=5]:
+        - rat8
+        - end9 oſ10 uurita(n)11 /
+      - line[n=6]: chaon12 thanne cliu(o)t13
+      - line[n=7]:
+        - hagal nau(t)14
+        - hab
+        - et,
+      - line[n=8]:
+        - iſ
+        - ar endi
+        - ſol15 /
+      - line[n=9]:
+        - (
+        - tiu
+        - )16
+        - bri(c)a17
+      - line[n=10]:
+        - endi
+        - man
+        - midi,18
+      - line[n=11]:
+        - lagu19
+        - the20 leohto,
+      - line[n=12]:
+        - yr
+        - al
+        - ' bihabe'
+        - (t)
+        - 21
+    - page[n=7]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Ess.Hebreg.]:
+    - page[n=W21]:
+      - pb[type=manuscript]: 153v
+      - line[n=3]: Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod
+      - line[n=4]: tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.
+      - line[n=5]: te thrim hoge/tidon ahtetian mudde malteſ ende thriuu uother
+      - line[n=6]: holteſ. ende uiarhteg3 bikera. ende4 uſero herino / miſſo tua crukon.
+      - line[n=7]:
+        - Van ekanſcetha
+        - foreign[lg=lat-Latn]: ſimiliter.
+        - /
+      - line[n=8]:
+        - Van rengerengthorpa
+        - ſimilit
+        - foreign[lg=lat-Latn]: er.
+      - line[n=9]:
+        - Van hukre/tha
+        - foreign[lg=lat-Latn]: ſimiliter
+        - ana that holt te then hoge/tidon.
+      - line[n=10]: that ne geldet thero ambahto neuue/thar.
+      - line[n=11]: Van brokhuſon. te then hogetidon / nigen mudde malteſ ende
+      - line[n=12]: tuenteg bikera. / ende tua crukon.
+      - line[n=13]: Van horlon nigen ende / uiftech mudde malteſ ende tue uother /
+      - line[n=14]: thioreſ holteſ. tue mudde gerſton. uiar brot. / en ſuſter erito.
+          tuenteg
+      - line[n=15]: bikera. endi tua / crukon. nigen mudde malteſ te then ho/getidon.
+      - line[n=16]:
+        - Van nianhuſ
+        - ſimilit
+        - foreign[lg=lat-Latn]: er.
+      - line[n=17]:
+        - Van / borthbeki
+        - ſimilit
+        - foreign[lg=lat-Latn]: er.
+      - line[n=18]: Van drene te uſero / herano miſſo tian ember honegaſ. Te
+      - line[n=19]: pin/coſton ſiuondon haluon ember honegaſ / endi ahtodoch bikera.
+      - line[n=20]:
+        - endi uiar crukon.5
+        - pb[type=manuscript]: 152v
+      - line[n=21]:
+        - foreign[lg=lat-Latn]: De6
+        - 'predio '
+        - foreign[lg=lat-Latn]: eilę
+        - 'prepositurę . '
+        - foreign[lg=lat-Latn]: Creia .x.
+        - ſicl
+        - foreign[lg=lat-Latn]: oſ.7
+      - line[n=22]:
+        - foreign[lg=lat-Latn]: De nouo
+        - predio.8
+      - line[n=23]:
+        - foreign[lg=lat-Latn]: .v. ſicloſ.9
+        - an rohhuſon.10 /
+    - page[n=W22]:
+      - line[n=1]:
+        - foreign[lg=lat-Latn]: .v.
+        - ſicl
+        - foreign[lg=lat-Latn]: oſ.1
+        - an ladthorpa.2
+      - line[n=2]:
+        - An hammuinkile
+        - foreign[lg=lat-Latn]: xxx denarios.3
+      - line[n=3]:
+        - An lindenun
+        - foreign[lg=lat-Latn]: .v. ſicloſ.
+      - line[n=4]:
+        - An berghalehtrun4
+        - foreign[lg=lat-Latn]: .iii. ſicloſ3
+        - foreign[lg=lat-Latn]: et
+        - foreign[lg=lat-Latn]: ſex
+        - denarioſ.
+      - line[n=5]:
+        - An hupelesuuik
+        - foreign[lg=lat-Latn]: .iii. ſicloſ3
+        - foreign[lg=lat-Latn]: et
+        - foreign[lg=lat-Latn]: iiii
+        - denarioſ.
+      - line[n=6]:
+        - An brehton
+        - foreign[lg=lat-Latn]: xxx
+        - denarioſ.
+      - line[n=7]:
+        - An driuere.
+        - unu
+        - foreign[lg=lat-Latn]: m
+        - ſicl
+        - foreign[lg=lat-Latn]: um.
+      - line[n=8]:
+        - An / uueteringe
+        - foreign[lg=lat-Latn]: .vi.
+        - ſ
+        - foreign[lg=lat-Latn]: i
+        - foreign[lg=lat-Latn]: cl
+        - foreign[lg=lat-Latn]: oſ.
+      - line[n=9]:
+        - An hanevuic5
+        - foreign[lg=lat-Latn]: .iiii.
+        - ſicl
+        - foreign[lg=lat-Latn]: oſ.
+        - foreign[lg=lat-Latn]: et
+        - foreign[lg=lat-Latn]: vi.
+        - denarioſ.
+      - line[n=10]:
+        - An vunnincthorpa
+        - foreign[lg=lat-Latn]: .iii.
+        - ſicl
+        - foreign[lg=lat-Latn]: oſ.
+      - line[n=11]:
+        - An rinherre
+        - foreign[lg=lat-Latn]: .iii.
+        - ſicl
+        - foreign[lg=lat-Latn]: oſ.
+      - line[n=12]:
+        - An beckehem
+        - foreign[lg=lat-Latn]: .ii.
+      - line[n=13]:
+        - foreign[lg=lat-Latn]: I.6
+        - An ahtineſberga.7
+      - line[n=14]:
+        - foreign[lg=lat-Latn]: .v. ſicloſ.
+        - An ſtengrauon. /
+      - line[n=15]:
+        - foreign[lg=lat-Latn]: .iiii.8 ſicloſ.9
+        - An hannine. /
+    - page[n=8]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Werd.Urb.]:
+    - page[n=W23]:
+      - pb[type=manuscript]: 34b
+      - line[n=3]:
+        - An naruthi thiu kirica endi kiricland. fan almeri / te
+        - tafal(-)
+      - line[n=4]: bergon.
+      - line[n=5]: An uuerinon thiu kirica endi al that gilendi. /
+      - line[n=6]: Te amuthon thiu kirica endi kiricland
+      - line[n=7]:
+        - an theru fehtu En uuérr /
+        - 'ſancti '
+        - foreign[lg=lat-Latn]: liudgeri.
+        - alterum ſancti
+      - line[n=8]:
+          foreign[lg=lat-Latn]: martini.
+      - line[n=9]:
+        - Utermeri.
+        - 'ſancti '
+        - foreign[lg=lat-Latn]: liudgeri
+        - totum.
+      - line[n=10]:
+        - ſpilmeri
+        - Similiter. /
+      - line[n=11]: pulmeri half.
+      - line[n=12]:
+        - Suecſnon
+        - foreign[lg=lat-Latn]: ubi natus
+        - 'eſt '
+        - 'ſanctuſ '
+        - foreign[lg=lat-Latn]: liudgeruſ
+        - totum.
+      - line[n=13]: An upgoa / ſiuun hofstadi.
+      - line[n=14]:
+        - ſiuun uerrſtadi. Te aiturnon.
+        - 'ſancti '
+        - foreign[lg=lat-Latn]: liudgeri /
+      - line[n=15]: Te kinleson. En alt giuuarki.
+    - page[n=9]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Trier.Bluts.]:
+    - page[n=S378]:
+      - manuscript: Trev._40/1018
+      - foreign[lg=lat-Latn]: 'Ad catarrum1 dic:'
+      - pb[type=manuscript]: 19v
+      - line[n=1]: Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.
+      - line[n=2]: that bluod forstuond:3   so duo thu bluod!
+      - line[n=3]:
+          foreign[lg=lat-Latn]: amen Ter. Pater noster Ter.
+    - page[n=10]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Glaubbek.]:
+    - page[n=H204]:
+      - line[n=1]: Flêskas arstandenussi, that thū an themo flêska, the thū nū an
+          bist, te duomesdaga gistandan schalt. --
+      - line[n=2]: Èndi gilôvis thū līvas achter dôtha?
+    - page[n=11]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Verc.]:
+    - page[n=Bl20]:
+      - line[n=1]:
+        - foreign[lg=lat-Latn]: Semper
+        - foreign[lg=lat-Latn]: expectavi, ut iussio vestra pacem mihi faceret
+      - line[n=2]:
+          foreign[lg=lat-Latn]: et ab inimicis defenderet; sed aliter quam sperabam
+            evenit.\
+      - line[n=3]:
+        - foreign[lg=lat-Latn]: Nam
+        - foreign[lg=lat-Latn]: quotiens nuncii Uberti a corte vestra revertebantur,
+      - line[n=4]:
+          foreign[lg=lat-Latn]: peius mihi totiens erat, et Vbertus elatior insurgebat.\
+      - line[n=5]:
+          foreign[lg=lat-Latn]: Dulces enim sermones, qui ei a vestra parte mandabantur,
+      - line[n=6]:
+        - foreign[lg=lat-Latn]: et fiducia meorum bonorum, quę sibi promittebantur,
+            \
+        - fece-
+      - line[n=7]:
+        - foreign[lg=lat-Latn]: runt
+        - foreign[lg=lat-Latn]: eum cum fiducia peccare et in consilium mortis meę
+      - line[n=8]:
+          foreign[lg=lat-Latn]: audacter intrare. In tantam enim confidentiam spe
+            gratie
+      - line[n=9]:
+        - foreign[lg=lat-Latn]: vestre sibi promisse erupit \
+        - foreign[lg=lat-Latn]: '....'
+        - foreign[lg=lat-Latn]: '................. monasterio'
+      - line[n=10]:
+        - foreign[lg=lat-Latn]: iunctus ipse Ubertus filio Ardoini et Uberto, cognato
+        - Main-
+      - line[n=11]:
+        - foreign[lg=lat-Latn]: fredi,
+        - foreign[lg=lat-Latn]: et duobus meis militibus et Guiberto et militibus
+        - Iporien-
+      - line[n=12]:
+        - foreign[lg=lat-Latn]: sibus
+        - foreign[lg=lat-Latn]: \ et cum ......... venit super me vexillis erectis,
+      - line[n=13]:
+          foreign[lg=lat-Latn]: ut me obsideret, caperet et occideret. Sed quia plures
+            milites
+      - line[n=14]:
+        - foreign[lg=lat-Latn]: mecum erant quam speraret, dei gratia omnes \
+        - foreign[lg=lat-Latn]: terram .....
+        - foreign[lg=lat-Latn]: '.......'
+      - line[n=15]:
+        - foreign[lg=lat-Latn]: '....... intraverant'
+        - foreign[lg=lat-Latn]: '......... aliquibus captis et multis vulneratis,
+            scutis'
+      - line[n=16]:
+          foreign[lg=lat-Latn]: tultis et armis. In altera die venit a vobis eius
+            missus
+      - line[n=17]:
+        - foreign[lg=lat-Latn]: gratiam
+        - foreign[lg=lat-Latn]: et
+        - foreign[lg=lat-Latn]: d.......
+        - foreign[lg=lat-Latn]: vestram
+        - foreign[lg=lat-Latn]: '......sibi promittens.'
+    - page[n=B21]:
+      - line[n=18]:
+          foreign[lg=lat-Latn]: Ubertus statim elatus Sanctam Agatham contra me durius
+      - line[n=19]:
+          foreign[lg=lat-Latn]: firmavit et fiducia Mainfredi et Uuilielmi cum illis,
+            quibus
+      - line[n=20]:
+        - foreign[lg=lat-Latn]: me occidere voluit, \
+        - foreign[lg=lat-Latn]: in
+        - foreign[lg=lat-Latn]: camp.............
+        - foreign[lg=lat-Latn]: spe suorum
+      - line[n=21]:
+          foreign[lg=lat-Latn]: consedit. Ego autem cum Papiensi et domno Nouariensi
+      - line[n=22]:
+          foreign[lg=lat-Latn]: et cum Oberto et Anselmo et R. marchionibus obsessui
+      - line[n=23]:
+          foreign[lg=lat-Latn]: super sanctam Agatham; die qua veni, castellum obsedi,\
+      - line[n=24]:
+          foreign[lg=lat-Latn]: '.... pugnavi et vi, dei gratia, expugnavi, multis
+            occisis,'
+      - line[n=25]:
+          foreign[lg=lat-Latn]: plurimis vulneratis. Ea die effugata est vulpes rufa
+            cum
+      - line[n=26]:
+        - foreign[lg=lat-Latn]: omnibus vulpeculis suis
+        - foreign[lg=lat-Latn]: et ita
+        - foreign[lg=lat-Latn]: facto vobis hoc honore lętus \
+      - line[n=27]:
+          foreign[lg=lat-Latn]: domum redivi et omnem meam terram de manu vestrorum
+      - line[n=28]:
+          foreign[lg=lat-Latn]: et meorum inimicorum violenter detraxi. Hoc est inceptio
+      - line[n=29]:
+          foreign[lg=lat-Latn]: victorię vestrę, que omnes terruit et ad vos coegit
+            redire.
+      - line[n=30]:
+        - foreign[lg=lat-Latn]: Nunc autem, si Ubertus ad vos mittat suum filium
+        - obsi-
+      - line[n=31]:
+        - foreign[lg=lat-Latn]: dem,
+        - foreign[lg=lat-Latn]: non illi, sed mihi gratias agite, qui eum ut fillonem
+      - line[n=32]:
+        - foreign[lg=lat-Latn]: sub armis \
+        - de
+        - foreign[lg=lat-Latn]: vici
+        - foreign[lg=lat-Latn]: et effugavi. Rogo itaque vestram
+        - mi-
+      - line[n=33]:
+        - foreign[lg=lat-Latn]: sericordiam,
+        - foreign[lg=lat-Latn]: ut more imperiali ... tractetis
+        - foreign[lg=lat-Latn]: et
+        - foreign[lg=lat-Latn]: me
+        - ha-
+      - line[n=34]:
+        - foreign[lg=lat-Latn]: beatis.
+        - foreign[lg=lat-Latn]: Recipiat
+        - foreign[lg=lat-Latn]: amicus
+        - foreign[lg=lat-Latn]: episcopus Uuerciburgensis eius
+      - line[n=35]:
+          foreign[lg=lat-Latn]: filium obsidem, \ sed vestram gratiam nullam habeat,
+            donec
+      - line[n=36]:
+          foreign[lg=lat-Latn]: ecclesię meę et morti meę satisfecerit. Et12 mandate
+            ipsi
+      - line[n=37]:
+        - foreign[lg=lat-Latn]: Uberto per suum missum,.................
+        - foreign[lg=lat-Latn]: '........negatum'
+      - line[n=38]:
+          foreign[lg=lat-Latn]: redderet pro vestra iussione, quam fere rederet pro
+            meo
+      - line[n=39]:
+          foreign[lg=lat-Latn]: timore. Nunc videbo, cuius pretii apud vos \ erit
+            Leo.
+      - line[n=40]:
+          foreign[lg=lat-Latn]: Omnes inimici mei risum et derisum \ de me fecerunt,
+      - line[n=41]:
+          foreign[lg=lat-Latn]: quia preceptum de quibusdam liberis, \ qui in Sancta
+      - line[n=42]:
+          foreign[lg=lat-Latn]: Agatha contra me erant, \ firmare noluistis, cum enim
+            non \
+      - line[n=43]:
+          foreign[lg=lat-Latn]: vultis, quod lex vult et iubet \. Imperatorum et regum
+    - page[n=B22]:
+      - line[n=44]:
+        - foreign[lg=lat-Latn]: 'parcere subiectis, \ et dei. Sed facio ego:'
+        - uuaregat self
+      - line[n=45]:
+        - iu\uua[re]
+        - got
+        - foreign[lg=lat-Latn]: . Et sin plumbo, saltem auro sigillatum,
+      - line[n=46]:
+        - foreign[lg=lat-Latn]: per hunc meum militem
+        - com
+        - foreign[lg=lat-Latn]: mittite.
+    - page[n=12]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]:
+  - text[n=Muenzleg.]:
+    - page[n=Schr174]:
+      - line[n=1]: IELITHIS
+      - line[n=2]: PENING
+      - line[n=3]: HIR STEID TE BISCOP
+    - page[n=13]:
+      - section:
+      - paragraph:
+      - manuscript:
+      - pb[type=manuscript]: |-
+          Copyright TITUS Project,
+          Frankfurt a/M, 15.10.2021.
+           No parts of this document may be republished in any form
+          without prior permission by the copyright holder.
