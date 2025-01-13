@@ -1,172 +1,202 @@
 - body:
-  - text[n=Hld.]:
-    - pb[type=manuscript]: 1r
-    - verse[n=1]: Ik gihorta ðat seggen
-    - verse[n=2]:
-      - ðat sih urhettun ænon
-      - muo
-      - tin
-      - ·
-    - verse[n=3]: hiltibraht enti haðubrant · untar heriun tuem,
-    - verse[n=4]: sunufatarungo · iro saro rihtun
-    - verse[n=5]:
-      - garutun sê iro
-      - guðhamun · gurtun sih · iro · suert ana ·
-    - verse[n=6]:
-      - helidos
-      - ubar hringa do sie to dero hiltiu ritun ·
-    - verse[n=7]:
-      - hiltibraht
-      - gimahalta heribrantes sunu · her uuas heroro
-      - man
-    - verse[n=8]: ferahes frotoro · her fragen gistuont
-    - verse[n=9]:
-      - fohem
-      - uuortum · wer sin fater wari
-    - verse[n=10]: fireo in folche
-    - verse[n=11]:
-      - eddo
-      - welihhes cnuosles du sis ·
-    - verse[n=12]:
-      - ibu du mi enan sages · ik
-      - mi de odre uuet
-    - verse[n=13]:
-      - chind in chunnincriche · chud ist
-      - min al irmindeot ·
-    - verse[n=14]:
-      - hadubraht gimahalta
-      - hilti
-      - brantes
-      - sunu
-    - verse[n=15]: dat sagetun mi usere liuti
-    - verse[n=16]:
-      - alte anti
-      - frote dea érhina warun ·
-    - verse[n=17]:
-      - dat hiltibrant hætti
-      - min fater · ih heittu hadubrant ·
-    - verse[n=18]:
-      - forn her ostar
-      - gihueit floh her otachres nid
-    - verse[n=19]:
-      - hina miti theotrihhe ·
-      - enti sinero degano filu ·
-    - verse[n=20]:
-      - her furlaet in lante luttila
-      - sitten
-    - verse[n=21]: prut in bure barn unwahsan
-    - verse[n=22]:
-      - arbeo laosa ·
-      - heraet ostar hina
-    - verse[n=23]:
-      - det sid detrihhe darba
-      - gi
-      - stuontum
-    - verse[n=24]:
-      - fatereres mines · dat uuas so
-      - friunt
-      - laos
-      - man
-    - verse[n=25]: her was otachre ummet tirri
-    - verse[n=26]:
-      - dega
-      - no
-      - dechisto unti deotrichhe · darba gistontun
-    - verse[n=27]: her was eo folches at ente imo wuas eo peheta ti leop ·
-    - verse[n=28]: chud was her chonnem mannum
-    - verse[n=29]:
-      - ni waniu ih
-      - iu lib habbe
-    - verse[n=30]:
-      - wettu irmingot quad
-      - pb[type=manuscript]: 76v
-      - hiltibraht obana ab heuane
-    - verse[n=31]:
-      - dat du neo dana halt mit sus
-      - sippan man
-    - verse[n=32]: dinc ni gileitos ·
-    - verse[n=33]:
-      - want her do ar arme wuntane
-      - bouga
-    - verse[n=34]: cheisuringu gitan · so imo se der chuning gap
-    - verse[n=35]: huneo truhtin · dat ih dir it nu bi huldi gibu ·
-    - verse[n=36]:
-      - hadubraht
-      - gimalta hiltibrantes sunu ·
-    - verse[n=37]:
-      - mit geru scal man geba
-      - infa
-      - han
-    - verse[n=38]: ort widar orte ·
-    - verse[n=39]: du bist dir alter hun ummet spaher
-    - verse[n=40]:
-      - spenis mih mit dinem wuortun wili mih dinu speru
-      - wer
-      - pan
-      - ·
-    - verse[n=41]: pist also gialtet man so du ewin inwit fortos ·
-    - verse[n=42]: dat sagetun mi seolidante
-    - verse[n=43]:
-      - westar ubar wentilseo dat
-      - man wic furnam ·
-    - verse[n=44]: tot ist hiltibrant heribrantes suno ·
-    - verse[n=45]: hiltibraht gimahalta heribrantes suno ·
-    - verse[n=46]:
-      - wela gisihu ih
-      - in dinem hrustim
-    - verse[n=47]: dat du habes heme herron goten
-    - verse[n=48]: dat du noh bi desemo riche reccheo ni wurti ·
-    - verse[n=49]:
-      - wela
-      - ga
-      - nu waltant got quad hiltibrant wewurt skihit ·
-    - verse[n=50]: ih wallota sumaro enti wintro sehstic ur lante ·
-    - verse[n=51]:
-      - dar
-      - man mih eo scerita in folc sceotantero
-    - verse[n=52]:
-      - so man mir at
-      - burc enigeru · banun ni gifasta ·
-    - verse[n=53]:
-      - nu scal mih suasat
-      - chind · suertu hauwan
-    - verse[n=54]:
-      - breton mit sinu billiu eddo
-      - ih imo ti banin werdan ·
-    - verse[n=55]:
-      - doh maht du nu aodlihho
-      - ibu dir din ellen taoc ·
-    - verse[n=56]:
-      - in sus heremo man hrusti
-      - gi
-      - winnan
-    - verse[n=57]:
-      - rauba bihrahanen · ibu du dar enic reht
-      - ha
-      - bes
-      - ·
-    - verse[n=58]: der si doh nu argosto quad hiltibrant ostarliuto
-    - verse[n=59]: der dir nu wiges warne nu dih es so wel lustit ·
-    - verse[n=60]:
-      - gudea
-      - gimeinun niuse de motti ·
-    - verse[n=61]:
-      - werdar sih dero hiutu hregilo
-      - hrumen muotti ·
-    - verse[n=62]:
-      - erdo desero brunnono bedero
-      - uual
-      - tan
-      - ·
-    - verse[n=63]: do lettun se ærist asckim scritan
-    - verse[n=64]:
-      - scarpen scurim
-      - dat in dem sciltim stont ·
-    - verse[n=65]:
-      - do stoptun tosamane
-      - staim
-      - bort
-      - chludun ·
-    - verse[n=66]: hewun harmlicco huitte scilti ·
-    - verse[n=67]: unti im iro lintun luttilo wurtun ·
-    - verse[n=68]: giwigan miti wabnum
+  - pb[type=manuscript]: 1r
+  - lb[type=manuscript]: 1
+  - verse[n=1]:
+    - Ik gihorta ðat seggen
+  - verse[n=2]:
+    - ðat sih urhettun ænon
+    - muo
+    - lb[type=manuscript,n=2]: tin ·
+  - verse[n=3]:
+    - hiltibraht enti haðubrant · untar heriun tuem,
+    - lb[type=manuscript]: 3
+  - verse[n=4]:
+    - sunufatarungo · iro saro rihtun
+  - verse[n=5]:
+    - garutun sê iro
+    - lb[type=manuscript,n=4]: guðhamun · gurtun sih · iro · suert ana ·
+  - verse[n=6]:
+    - helidos
+    - lb[type=manuscript,n=5]: ubar hringa do sie to dero hiltiu ritun ·
+  - verse[n=7]:
+    - hiltibraht
+    - lb[type=manuscript,n=6]: gimahalta heribrantes sunu · her uuas heroro
+    - lb[type=manuscript,n=7]: man
+  - verse[n=8]:
+    - ferahes frotoro · her fragen gistuont
+  - verse[n=9]:
+    - fohem
+    - lb[type=manuscript,n=8]: uuortum · wer sin fater wari
+  - verse[n=10]:
+    - fireo in folche
+  - verse[n=11]:
+    - eddo
+    - lb[type=manuscript,n=9]: welihhes cnuosles du sis ·
+  - verse[n=12]:
+    - ibu du mi enan sages · ik
+    - lb[type=manuscript,n=10]: mi de odre uuet
+  - verse[n=13]:
+    - chind in chunnincriche · chud ist
+    - lb[type=manuscript,n=11]: min al irmindeot ·
+  - verse[n=14]:
+    - hadubraht gimahalta
+    - hilti
+    - lb[type=manuscript,n=12]: brantes sunu
+  - verse[n=15]:
+    - dat sagetun mi usere liuti
+  - verse[n=16]:
+    - alte anti
+    - lb[type=manuscript,n=13]: frote dea érhina warun ·
+  - verse[n=17]:
+    - dat hiltibrant hætti
+    - lb[type=manuscript,n=14]: min fater · ih heittu hadubrant ·
+  - verse[n=18]:
+    - forn her ostar
+    - lb[type=manuscript,n=15]: gihueit floh her otachres nid
+  - verse[n=19]:
+    - hina miti theotrihhe ·
+    - lb[type=manuscript,n=16]: enti sinero degano filu ·
+  - verse[n=20]:
+    - her furlaet in lante luttila
+    - lb[type=manuscript,n=17]: sitten
+  - verse[n=21]:
+    - prut in bure barn unwahsan
+  - verse[n=22]:
+    - arbeo laosa ·
+    - lb[type=manuscript,n=18]: heraet ostar hina
+  - verse[n=23]:
+    - det sid detrihhe darba
+    - gi
+    - lb[type=manuscript,n=19]: stuontum
+  - verse[n=24]:
+    - fatereres mines · dat uuas so
+    - friunt
+    - lb[type=manuscript,n=20]: laos man
+  - verse[n=25]:
+    - her was otachre ummet tirri
+  - verse[n=26]:
+    - dega
+    - lb[type=manuscript,n=21]: no dechisto unti deotrichhe · darba gistontun
+    - lb[type=manuscript]: 22
+  - verse[n=27]:
+    - her was eo folches at ente imo wuas eo peheta ti leop ·
+    - lb[type=manuscript]: 23
+  - verse[n=28]:
+    - chud was her chonnem mannum
+  - verse[n=29]:
+    - ni waniu ih
+    - lb[type=manuscript,n=24]: iu lib habbe
+  - verse[n=30]:
+    - wettu irmingot quad
+    - pb[type=manuscript]: 76v
+    - lb[type=manuscript,n=1]: hiltibraht obana ab heuane
+  - verse[n=31]:
+    - dat du neo dana halt mit sus
+    - lb[type=manuscript,n=2]: sippan man
+  - verse[n=32]:
+    - dinc ni gileitos ·
+  - verse[n=33]:
+    - want her do ar arme wuntane
+    - lb[type=manuscript,n=3]: bouga
+  - verse[n=34]:
+    - cheisuringu gitan · so imo se der chuning gap
+    - lb[type=manuscript]: 4
+  - verse[n=35]:
+    - huneo truhtin · dat ih dir it nu bi huldi gibu ·
+  - verse[n=36]:
+    - hadubraht
+    - lb[type=manuscript,n=5]: gimalta hiltibrantes sunu ·
+  - verse[n=37]:
+    - mit geru scal man geba
+    - infa
+    - lb[type=manuscript,n=6]: han
+  - verse[n=38]:
+    - ort widar orte ·
+  - verse[n=39]:
+    - du bist dir alter hun ummet spaher
+    - lb[type=manuscript]: 7
+  - verse[n=40]:
+    - spenis mih mit dinem wuortun wili mih dinu speru
+    - wer
+    - lb[type=manuscript,n=8]: pan ·
+  - verse[n=41]:
+    - pist also gialtet man so du ewin inwit fortos ·
+    - lb[type=manuscript]: 9
+  - verse[n=42]:
+    - dat sagetun mi seolidante
+  - verse[n=43]:
+    - westar ubar wentilseo dat
+    - lb[type=manuscript,n=10]: man wic furnam ·
+  - verse[n=44]:
+    - tot ist hiltibrant heribrantes suno ·
+    - lb[type=manuscript]: 11
+  - verse[n=45]:
+    - hiltibraht gimahalta heribrantes suno ·
+  - verse[n=46]:
+    - wela gisihu ih
+    - lb[type=manuscript,n=12]: in dinem hrustim
+  - verse[n=47]:
+    - dat du habes heme herron goten
+    - lb[type=manuscript]: 13
+  - verse[n=48]:
+    - dat du noh bi desemo riche reccheo ni wurti ·
+  - verse[n=49]:
+    - wela
+    - lb[type=manuscript,n=14]: ga nu waltant got quad hiltibrant wewurt skihit ·
+    - lb[type=manuscript]: 15
+  - verse[n=50]:
+    - ih wallota sumaro enti wintro sehstic ur lante ·
+  - verse[n=51]:
+    - dar
+    - lb[type=manuscript,n=16]: man mih eo scerita in folc sceotantero
+  - verse[n=52]:
+    - so man mir at
+    - lb[type=manuscript,n=17]: burc enigeru · banun ni gifasta ·
+  - verse[n=53]:
+    - nu scal mih suasat
+    - lb[type=manuscript,n=18]: chind · suertu hauwan
+  - verse[n=54]:
+    - breton mit sinu billiu eddo
+    - lb[type=manuscript,n=19]: ih imo ti banin werdan ·
+  - verse[n=55]:
+    - doh maht du nu aodlihho
+    - lb[type=manuscript,n=20]: ibu dir din ellen taoc ·
+  - verse[n=56]:
+    - in sus heremo man hrusti
+    - gi
+    - lb[type=manuscript,n=21]: winnan
+  - verse[n=57]:
+    - rauba bihrahanen · ibu du dar enic reht
+    - ha
+    - lb[type=manuscript,n=22]: bes ·
+  - verse[n=58]:
+    - der si doh nu argosto quad hiltibrant ostarliuto
+    - lb[type=manuscript]: 23
+  - verse[n=59]:
+    - der dir nu wiges warne nu dih es so wel lustit ·
+  - verse[n=60]:
+    - gudea
+    - lb[type=manuscript,n=24]: gimeinun niuse de motti ·
+  - verse[n=61]:
+    - werdar sih dero hiutu hregilo
+    - lb[type=manuscript,n=25]: hrumen muotti ·
+  - verse[n=62]:
+    - erdo desero brunnono bedero
+    - uual
+    - lb[type=manuscript,n=26]: tan ·
+  - verse[n=63]:
+    - do lettun se ærist asckim scritan
+  - verse[n=64]:
+    - scarpen scurim
+    - lb[type=manuscript,n=27]: dat in dem sciltim stont ·
+  - verse[n=65]:
+    - do stoptun tosamane
+    - staim
+    - lb[type=manuscript,n=28]: bort chludun ·
+  - verse[n=66]:
+    - hewun harmlicco huitte scilti ·
+    - lb[type=manuscript]: 29
+  - verse[n=67]:
+    - unti im iro lintun luttilo wurtun ·
+  - verse[n=68]:
+    - giwigan miti wabnum
