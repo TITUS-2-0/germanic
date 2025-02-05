@@ -85,11 +85,11 @@
       - line[n=17]: te duomesdaga gistandan scalt endi gilouis thu livas ahtar dotha?
       - line[n=18]: Gilouiu.
       - line[n=19]:
-          foreign[lg=lat-Latn]: 'Sequitur hic: Suffla in faciem et dic hanc'
+        - foreign[lg=lat-Latn]: 'Sequitur hic: Suffla in faciem et dic hanc'
       - line[n=20]:
-          foreign[lg=lat-Latn]: 'orationem: Exi ab eo immunde spiritus et'
+        - foreign[lg=lat-Latn]: 'orationem: Exi ab eo immunde spiritus et'
       - line[n=21]:
-          foreign[lg=lat-Latn]: redde honorem deo vivo et vero.
+        - foreign[lg=lat-Latn]: redde honorem deo vivo et vero.
     - page[n=2]:
       - section:
       - paragraph:
@@ -719,10 +719,10 @@
         - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAIZ2
         - foreign[lg=lat-Latn]: DICIMUS. /
       - line[n=5]:
-          foreign[lg=lat-Latn]: Si in dextero pede contigerit. si in sinistro sanguis
+        - foreign[lg=lat-Latn]: Si in dextero pede contigerit. si in sinistro sanguis
             / minuatur.
       - line[n=6]:
-          foreign[lg=lat-Latn]: Si in sinistro pede in dextero aure minuatur / sanguis.3
+        - foreign[lg=lat-Latn]: Si in sinistro pede in dextero aure minuatur / sanguis.3
       - line[n=7]:
         - foreign[lg=lat-Latn]: DE HOC /
         - Q
@@ -741,12 +741,12 @@
       - line[n=12]: the seluo druhtin. thie thena / uisc gihelda.
       - line[n=13]: thie gihele. that hers theru. spurihelti. /
       - line[n=14]:
-          foreign[lg=lat-Latn]: AMEN.
+        - foreign[lg=lat-Latn]: AMEN.
   - text[n=Ness.]:
     - page[n=W19]:
       - pb[type=manuscript]: 188v
       - line[n=16]:
-          foreign[lg=lat-Latn]: CONTRA VERMES.5 /
+        - foreign[lg=lat-Latn]: CONTRA VERMES.5 /
       - line[n=17]: Gang út nesso,   mid nigun. nessiklinon.
       - line[n=18]: út fana themo. margę. / an that. ben.
       - line[n=19]: fan themo. bene. an that. flesg6
@@ -953,7 +953,7 @@
         - foreign[lg=lat-Latn]: liudgeri.
         - alterum ſancti
       - line[n=8]:
-          foreign[lg=lat-Latn]: martini.
+        - foreign[lg=lat-Latn]: martini.
       - line[n=9]:
         - Utermeri.
         - 'ſancti '
@@ -989,7 +989,7 @@
       - line[n=1]: Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.
       - line[n=2]: that bluod forstuond:3   so duo thu bluod!
       - line[n=3]:
-          foreign[lg=lat-Latn]: amen Ter. Pater noster Ter.
+        - foreign[lg=lat-Latn]: amen Ter. Pater noster Ter.
     - page[n=10]:
       - section:
       - paragraph:
@@ -1011,15 +1011,15 @@
         - foreign[lg=lat-Latn]: Semper
         - foreign[lg=lat-Latn]: expectavi, ut iussio vestra pacem mihi faceret
       - line[n=2]:
-          foreign[lg=lat-Latn]: et ab inimicis defenderet; sed aliter quam sperabam
+        - foreign[lg=lat-Latn]: et ab inimicis defenderet; sed aliter quam sperabam
             evenit.\
       - line[n=3]:
         - foreign[lg=lat-Latn]: Nam
         - foreign[lg=lat-Latn]: quotiens nuncii Uberti a corte vestra revertebantur,
       - line[n=4]:
-          foreign[lg=lat-Latn]: peius mihi totiens erat, et Vbertus elatior insurgebat.\
+        - foreign[lg=lat-Latn]: peius mihi totiens erat, et Vbertus elatior insurgebat.\
       - line[n=5]:
-          foreign[lg=lat-Latn]: Dulces enim sermones, qui ei a vestra parte mandabantur,
+        - foreign[lg=lat-Latn]: Dulces enim sermones, qui ei a vestra parte mandabantur,
       - line[n=6]:
         - foreign[lg=lat-Latn]: et fiducia meorum bonorum, quę sibi promittebantur,
             \
@@ -1028,7 +1028,7 @@
         - foreign[lg=lat-Latn]: runt
         - foreign[lg=lat-Latn]: eum cum fiducia peccare et in consilium mortis meę
       - line[n=8]:
-          foreign[lg=lat-Latn]: audacter intrare. In tantam enim confidentiam spe
+        - foreign[lg=lat-Latn]: audacter intrare. In tantam enim confidentiam spe
             gratie
       - line[n=9]:
         - foreign[lg=lat-Latn]: vestre sibi promisse erupit \
@@ -1045,7 +1045,7 @@
         - foreign[lg=lat-Latn]: sibus
         - foreign[lg=lat-Latn]: \ et cum ......... venit super me vexillis erectis,
       - line[n=13]:
-          foreign[lg=lat-Latn]: ut me obsideret, caperet et occideret. Sed quia plures
+        - foreign[lg=lat-Latn]: ut me obsideret, caperet et occideret. Sed quia plures
             milites
       - line[n=14]:
         - foreign[lg=lat-Latn]: mecum erant quam speraret, dei gratia omnes \
@@ -1056,7 +1056,7 @@
         - foreign[lg=lat-Latn]: '......... aliquibus captis et multis vulneratis,
             scutis'
       - line[n=16]:
-          foreign[lg=lat-Latn]: tultis et armis. In altera die venit a vobis eius
+        - foreign[lg=lat-Latn]: tultis et armis. In altera die venit a vobis eius
             missus
       - line[n=17]:
         - foreign[lg=lat-Latn]: gratiam
@@ -1066,9 +1066,9 @@
         - foreign[lg=lat-Latn]: '......sibi promittens.'
     - page[n=B21]:
       - line[n=18]:
-          foreign[lg=lat-Latn]: Ubertus statim elatus Sanctam Agatham contra me durius
+        - foreign[lg=lat-Latn]: Ubertus statim elatus Sanctam Agatham contra me durius
       - line[n=19]:
-          foreign[lg=lat-Latn]: firmavit et fiducia Mainfredi et Uuilielmi cum illis,
+        - foreign[lg=lat-Latn]: firmavit et fiducia Mainfredi et Uuilielmi cum illis,
             quibus
       - line[n=20]:
         - foreign[lg=lat-Latn]: me occidere voluit, \
@@ -1076,27 +1076,27 @@
         - foreign[lg=lat-Latn]: camp.............
         - foreign[lg=lat-Latn]: spe suorum
       - line[n=21]:
-          foreign[lg=lat-Latn]: consedit. Ego autem cum Papiensi et domno Nouariensi
+        - foreign[lg=lat-Latn]: consedit. Ego autem cum Papiensi et domno Nouariensi
       - line[n=22]:
-          foreign[lg=lat-Latn]: et cum Oberto et Anselmo et R. marchionibus obsessui
+        - foreign[lg=lat-Latn]: et cum Oberto et Anselmo et R. marchionibus obsessui
       - line[n=23]:
-          foreign[lg=lat-Latn]: super sanctam Agatham; die qua veni, castellum obsedi,\
+        - foreign[lg=lat-Latn]: super sanctam Agatham; die qua veni, castellum obsedi,\
       - line[n=24]:
-          foreign[lg=lat-Latn]: '.... pugnavi et vi, dei gratia, expugnavi, multis
+        - foreign[lg=lat-Latn]: '.... pugnavi et vi, dei gratia, expugnavi, multis
             occisis,'
       - line[n=25]:
-          foreign[lg=lat-Latn]: plurimis vulneratis. Ea die effugata est vulpes rufa
+        - foreign[lg=lat-Latn]: plurimis vulneratis. Ea die effugata est vulpes rufa
             cum
       - line[n=26]:
         - foreign[lg=lat-Latn]: omnibus vulpeculis suis
         - foreign[lg=lat-Latn]: et ita
         - foreign[lg=lat-Latn]: facto vobis hoc honore lętus \
       - line[n=27]:
-          foreign[lg=lat-Latn]: domum redivi et omnem meam terram de manu vestrorum
+        - foreign[lg=lat-Latn]: domum redivi et omnem meam terram de manu vestrorum
       - line[n=28]:
-          foreign[lg=lat-Latn]: et meorum inimicorum violenter detraxi. Hoc est inceptio
+        - foreign[lg=lat-Latn]: et meorum inimicorum violenter detraxi. Hoc est inceptio
       - line[n=29]:
-          foreign[lg=lat-Latn]: victorię vestrę, que omnes terruit et ad vos coegit
+        - foreign[lg=lat-Latn]: victorię vestrę, que omnes terruit et ad vos coegit
             redire.
       - line[n=30]:
         - foreign[lg=lat-Latn]: Nunc autem, si Ubertus ad vos mittat suum filium
@@ -1122,29 +1122,29 @@
         - foreign[lg=lat-Latn]: amicus
         - foreign[lg=lat-Latn]: episcopus Uuerciburgensis eius
       - line[n=35]:
-          foreign[lg=lat-Latn]: filium obsidem, \ sed vestram gratiam nullam habeat,
+        - foreign[lg=lat-Latn]: filium obsidem, \ sed vestram gratiam nullam habeat,
             donec
       - line[n=36]:
-          foreign[lg=lat-Latn]: ecclesię meę et morti meę satisfecerit. Et12 mandate
+        - foreign[lg=lat-Latn]: ecclesię meę et morti meę satisfecerit. Et12 mandate
             ipsi
       - line[n=37]:
         - foreign[lg=lat-Latn]: Uberto per suum missum,.................
         - foreign[lg=lat-Latn]: '........negatum'
       - line[n=38]:
-          foreign[lg=lat-Latn]: redderet pro vestra iussione, quam fere rederet pro
+        - foreign[lg=lat-Latn]: redderet pro vestra iussione, quam fere rederet pro
             meo
       - line[n=39]:
-          foreign[lg=lat-Latn]: timore. Nunc videbo, cuius pretii apud vos \ erit
+        - foreign[lg=lat-Latn]: timore. Nunc videbo, cuius pretii apud vos \ erit
             Leo.
       - line[n=40]:
-          foreign[lg=lat-Latn]: Omnes inimici mei risum et derisum \ de me fecerunt,
+        - foreign[lg=lat-Latn]: Omnes inimici mei risum et derisum \ de me fecerunt,
       - line[n=41]:
-          foreign[lg=lat-Latn]: quia preceptum de quibusdam liberis, \ qui in Sancta
+        - foreign[lg=lat-Latn]: quia preceptum de quibusdam liberis, \ qui in Sancta
       - line[n=42]:
-          foreign[lg=lat-Latn]: Agatha contra me erant, \ firmare noluistis, cum enim
+        - foreign[lg=lat-Latn]: Agatha contra me erant, \ firmare noluistis, cum enim
             non \
       - line[n=43]:
-          foreign[lg=lat-Latn]: vultis, quod lex vult et iubet \. Imperatorum et regum
+        - foreign[lg=lat-Latn]: vultis, quod lex vult et iubet \. Imperatorum et regum
     - page[n=B22]:
       - line[n=44]:
         - foreign[lg=lat-Latn]: 'parcere subiectis, \ et dei. Sed facio ego:'
