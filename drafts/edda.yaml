@@ -7521,129 +7521,130 @@
       - l[n=2]: lifa mun þat eptir á landi hverio,
       - l[n=3]: þeira þrámæli, hvargi er þióð heyrir.
   - song[n=Ghv.]:
-    - head: Frá Guðrúno.
-    - lg[n=1,type=stanza]:
-      - l[n=2]: Guðrún gecc þá til sævar, er hon hafði drepit Atla,
-      - l[n=3]: gecc út á sæinn oc vildi fara sér. Hon mátti eigi søcqva.
-      - l[n=4]: Rac hana yfir fiorðinn á land Iónacrs konungs. Hann
-      - l[n=5]: fecc hennar.
-      - l[n=6]: Þeira synir vóro þeir Sǫrli oc Erpr oc Hamðir. Þar
-      - l[n=7]: foddiz up Svanhildr, Sigurðar dóttir. Hon var gipt
-      - l[n=8]: Iormunrecc inum ríkia. Með hánom var Bicci. Hann
-      - l[n=9]: réð þat, at Randvér, konungs sonr, scyldi taca hana. Þat
-      - l[n=10]: sagði Bicci konungi. Konungr lét hengia Randvé, enn
-      - l[n=11]: troða Svanhildi undir hrossa fótom. Enn er þat spurði
-      - l[n=12]:
+    - head: GUÐRÚNARHVǪT.
+    - preface:
+      - head: Frá Guðrúno.
+      - p:
+        - Guðrún gecc þá til sævar, er hon hafði drepit Atla,
+        - gecc út á sæinn oc vildi fara sér. Hon mátti eigi søcqva.
+        - Rac hana yfir fiorðinn á land Iónacrs konungs. Hann
+        - fecc hennar.
+        - Þeira synir vóro þeir Sǫrli oc Erpr oc Hamðir. Þar
+        - foddiz up Svanhildr, Sigurðar dóttir. Hon var gipt
+        - Iormunrecc inum ríkia. Með hánom var Bicci. Hann
+        - réð þat, at Randvér, konungs sonr, scyldi taca hana. Þat
+        - sagði Bicci konungi. Konungr lét hengia Randvé, enn
         - Guðrún, þá qvaddi hon sono sína.
-        - GUÐRÚNARHVǪT.
-      - l[n=1]: Þá frá ec senno slíðrfengligsta,
-      - l[n=2]: trauð mál, talið af trega stórom,
-      - l[n=3]: er harðhuguð hvatti at vígi
-      - l[n=4]: grimmom orðom Guðrún sono.
-    - lg[n=2,type=stanza]:
-      - l[n=1]: '"Hví sitit, hví sofit lífi?'
-      - l[n=2]: hví tregrað ycr teiti at mæla?
-      - l[n=3]: er Iormunreccr yðra systor,
-      - l[n=4]: unga at aldri, ióm of traddi,
-      - l[n=5]: hvítom oc svortom, á hervegi,
-      - l[n=6]: grám, gangtǫmom Gotna hrossom.
-    - lg[n=3,type=stanza]:
-      - l[n=1]: Urðoa iþ glíkir þeim Gunnari,
-      - l[n=2]: né in heldr hugðir, sem var Hǫgni;
-      - l[n=3]: hennar myndoð iþ hefna leita,
-      - l[n=4]: ef iþ móð ættið minna broðra
-      - l[n=5]: eða harðan hug Húnkonunga."
-    - lg[n=4,type=stanza]:
-      - l[n=1]: 'Þá qvað þat Hamðir, inn hugomstóri:'
-      - l[n=2]: '"Lítt mundir þú leyfa dáð Hǫgna,'
-      - l[n=3]: þá er Sigurð vǫcþo svefni ór;
-      - l[n=4]: bocr vóro þínar, inar bláhvíto,
-      - l[n=5]: roðnar í vers dreyra, fólgnar í valblóði.
-    - lg[n=5,type=stanza]:
-      - l[n=1]: Urðo þér broðra hefndir
-      - l[n=2]: slíðrar oc sárar, er þú sono myrðir;
-      - l[n=3]: knættim allir Iormunrecci,
-      - l[n=4]: samhyggiendr, systor hefna.
-    - lg[n=6,type=stanza]:
-      - l[n=1]: Berið hnossir fram Húnkonunga!
-      - l[n=2]: hefir þú ocr hvatta at hiorþingi."
-    - lg[n=7,type=stanza]:
-      - l[n=1]: Hlæiandi Guðrún hvarf til scemmo,
-      - l[n=2]: kumbl konunga ór kerom valði,
-      - l[n=3]: síðar brynior, ok sonom forði;
-      - l[n=4]: hlóðuz móðgir á mara bógo.
-    - lg[n=8,type=stanza]:
-      - l[n=1]: 'Þá qvað þat Hamðir, inn hugomstóri:'
-      - l[n=2]: '"Svá komaz meirr aptr, móður at vitia,'
-      - l[n=3]: geir-Niorðr, hniginn á Goðþióðo,
-      - l[n=4]: at þú erfi at ǫll oss dryccir,
-      - l[n=5]: at Svanhildi oc sono þína."
-    - lg[n=9,type=stanza]:
-      - l[n=1]: Guðrún grátandi, Giúca dóttir,
-      - l[n=2]: gecc hon tregliga á tái sitia,
-      - l[n=3]: oc at telia, táruchlýra,
-      - l[n=4]: 'móðug spioll á margan veg:'
-    - lg[n=10,type=stanza]:
-      - l[n=1]: '"Þriá vissa ec elda, þriá vissa ec arna,'
-      - l[n=2]: var ec þrimr verom vegin at húsi;
-      - l[n=3]: einn var mér Sigurðr ǫllom betri,
-      - l[n=4]: er broðr mínir at bana urðo.
-    - lg[n=11,type=stanza]:
-      - l[n=1]: Svára sára sácað ec né kunna,
-      - l[n=2]: meirr þóttuz mér um stríða,
-      - l[n=3]: er mic ǫðlingar Atla gáfo.
-    - lg[n=12,type=stanza]:
-      - l[n=1]: Húna hvassa hét ec mér at rúnom;
-      - l[n=2]: máttigac bǫlva botr um vinna,
-      - l[n=3]: áðr ec hnóf hǫfuð af Hniflungom.
-    - lg[n=13,type=stanza]:
-      - l[n=1]: Gecc ec til strandar, grǫm varc nornom,
-      - l[n=2]: vilda ec hrinda stríð grið þeira;
-      - l[n=3]: hófo mic, né drecþo, hávar báror,
-      - l[n=4]: því ec land um stéc, at lifa scyldac.
-    - lg[n=14,type=stanza]:
-      - l[n=1]: Gecc ec á beð - hugðac mér fyr betra -
-      - l[n=2]: þriðia sinni þióðkonungi;
-      - l[n=3]: ól ec mér ióð, erfivorðo,
-      - l[n=4]: Iónacrs sonom.
-    - lg[n=15,type=stanza]:
-      - l[n=1]: Enn um Svanhildi sáto þýiar,
-      - l[n=2]: er ec minna barna bazt fullhugðac;
-      - l[n=3]: svá var Svanhildr í sal mínom,
-      - l[n=4]: sem væri somleitr sólar geisli.
-    - lg[n=16,type=stanza]:
-      - l[n=1]: Godda ec gulli oc guðvefiom,
-      - l[n=2]: áðr ec gæfac Goðþióðar til;
-      - l[n=3]: þat er mér harðast harma minna
-      - l[n=4]: 'of þann inn hvíta hadd Svanhildar:'
-      - l[n=5]: auri trǫddo und ióa fótom.
-    - lg[n=17,type=stanza]:
-      - l[n=1]: Enn sá sárastr, er þeir Sigurð minn,
-      - l[n=2]: sigri ræntan, í sæing vágo;
-      - l[n=3]: enn sá grimmastr, er þeir Gunnari,
-      - l[n=4]: fránir ormar, til fiors scriðo;
-      - l[n=5]: enn sá hvassastr, er til hiarta
-      - l[n=6]: konung óblauðan qviqvan scáro.
-    - lg[n=18,type=stanza]:
-      - l[n=1]: Fiolð man ec bǫlva . . .
-      - l[n=2]: Beittu, Sigurðr, inn blacca mar,
-      - l[n=3]: hest inn hraðfora, láttu hinig renna!
-      - l[n=4]: sitr eigi hér snør né dóttir,
-      - l[n=5]: sú er Guðrúno gæfi hnossir.
-    - lg[n=19,type=stanza]:
-      - l[n=1]: Minnztu, Sigurðr, hvat við mæltom,
-      - l[n=2]: þá er við á beð bæði sátom,
-      - l[n=3]: at þú myndir mín, móðugr, vitia,
-      - l[n=4]: halr, ór helio, enn ec þín ór heimi.
-    - lg[n=20,type=stanza]:
-      - l[n=1]: Hlaðit ér, iarlar, eikikǫstinn,
-      - l[n=2]: látið þann und hilmi hæstan verða!
-      - l[n=3]: megi brenna brióst bǫlvafult eldr,
-      - l[n=4]: . . . . um hiarta þiðni sorgir!"
-    - lg[n=21,type=stanza]:
-      - l[n=1]: Iorlom ǫllom óðal batni,
-      - l[n=2]: snótom ǫllom sorg at minni,
-      - l[n=3]: at þetta tregróf um talið væri.
+    - wrapper:
+      - lg[n=1,type=stanza]:
+        - l[n=1]: Þá frá ec senno slíðrfengligsta,
+        - l[n=2]: trauð mál, talið af trega stórom,
+        - l[n=3]: er harðhuguð hvatti at vígi
+        - l[n=4]: grimmom orðom Guðrún sono.
+      - lg[n=2,type=stanza]:
+        - l[n=1]: '"Hví sitit, hví sofit lífi?'
+        - l[n=2]: hví tregrað ycr teiti at mæla?
+        - l[n=3]: er Iormunreccr yðra systor,
+        - l[n=4]: unga at aldri, ióm of traddi,
+        - l[n=5]: hvítom oc svortom, á hervegi,
+        - l[n=6]: grám, gangtǫmom Gotna hrossom.
+      - lg[n=3,type=stanza]:
+        - l[n=1]: Urðoa iþ glíkir þeim Gunnari,
+        - l[n=2]: né in heldr hugðir, sem var Hǫgni;
+        - l[n=3]: hennar myndoð iþ hefna leita,
+        - l[n=4]: ef iþ móð ættið minna broðra
+        - l[n=5]: eða harðan hug Húnkonunga."
+      - lg[n=4,type=stanza]:
+        - l[n=1]: 'Þá qvað þat Hamðir, inn hugomstóri:'
+        - l[n=2]: '"Lítt mundir þú leyfa dáð Hǫgna,'
+        - l[n=3]: þá er Sigurð vǫcþo svefni ór;
+        - l[n=4]: bocr vóro þínar, inar bláhvíto,
+        - l[n=5]: roðnar í vers dreyra, fólgnar í valblóði.
+      - lg[n=5,type=stanza]:
+        - l[n=1]: Urðo þér broðra hefndir
+        - l[n=2]: slíðrar oc sárar, er þú sono myrðir;
+        - l[n=3]: knættim allir Iormunrecci,
+        - l[n=4]: samhyggiendr, systor hefna.
+      - lg[n=6,type=stanza]:
+        - l[n=1]: Berið hnossir fram Húnkonunga!
+        - l[n=2]: hefir þú ocr hvatta at hiorþingi."
+      - lg[n=7,type=stanza]:
+        - l[n=1]: Hlæiandi Guðrún hvarf til scemmo,
+        - l[n=2]: kumbl konunga ór kerom valði,
+        - l[n=3]: síðar brynior, ok sonom forði;
+        - l[n=4]: hlóðuz móðgir á mara bógo.
+      - lg[n=8,type=stanza]:
+        - l[n=1]: 'Þá qvað þat Hamðir, inn hugomstóri:'
+        - l[n=2]: '"Svá komaz meirr aptr, móður at vitia,'
+        - l[n=3]: geir-Niorðr, hniginn á Goðþióðo,
+        - l[n=4]: at þú erfi at ǫll oss dryccir,
+        - l[n=5]: at Svanhildi oc sono þína."
+      - lg[n=9,type=stanza]:
+        - l[n=1]: Guðrún grátandi, Giúca dóttir,
+        - l[n=2]: gecc hon tregliga á tái sitia,
+        - l[n=3]: oc at telia, táruchlýra,
+        - l[n=4]: 'móðug spioll á margan veg:'
+      - lg[n=10,type=stanza]:
+        - l[n=1]: '"Þriá vissa ec elda, þriá vissa ec arna,'
+        - l[n=2]: var ec þrimr verom vegin at húsi;
+        - l[n=3]: einn var mér Sigurðr ǫllom betri,
+        - l[n=4]: er broðr mínir at bana urðo.
+      - lg[n=11,type=stanza]:
+        - l[n=1]: Svára sára sácað ec né kunna,
+        - l[n=2]: meirr þóttuz mér um stríða,
+        - l[n=3]: er mic ǫðlingar Atla gáfo.
+      - lg[n=12,type=stanza]:
+        - l[n=1]: Húna hvassa hét ec mér at rúnom;
+        - l[n=2]: máttigac bǫlva botr um vinna,
+        - l[n=3]: áðr ec hnóf hǫfuð af Hniflungom.
+      - lg[n=13,type=stanza]:
+        - l[n=1]: Gecc ec til strandar, grǫm varc nornom,
+        - l[n=2]: vilda ec hrinda stríð grið þeira;
+        - l[n=3]: hófo mic, né drecþo, hávar báror,
+        - l[n=4]: því ec land um stéc, at lifa scyldac.
+      - lg[n=14,type=stanza]:
+        - l[n=1]: Gecc ec á beð - hugðac mér fyr betra -
+        - l[n=2]: þriðia sinni þióðkonungi;
+        - l[n=3]: ól ec mér ióð, erfivorðo,
+        - l[n=4]: Iónacrs sonom.
+      - lg[n=15,type=stanza]:
+        - l[n=1]: Enn um Svanhildi sáto þýiar,
+        - l[n=2]: er ec minna barna bazt fullhugðac;
+        - l[n=3]: svá var Svanhildr í sal mínom,
+        - l[n=4]: sem væri somleitr sólar geisli.
+      - lg[n=16,type=stanza]:
+        - l[n=1]: Godda ec gulli oc guðvefiom,
+        - l[n=2]: áðr ec gæfac Goðþióðar til;
+        - l[n=3]: þat er mér harðast harma minna
+        - l[n=4]: 'of þann inn hvíta hadd Svanhildar:'
+        - l[n=5]: auri trǫddo und ióa fótom.
+      - lg[n=17,type=stanza]:
+        - l[n=1]: Enn sá sárastr, er þeir Sigurð minn,
+        - l[n=2]: sigri ræntan, í sæing vágo;
+        - l[n=3]: enn sá grimmastr, er þeir Gunnari,
+        - l[n=4]: fránir ormar, til fiors scriðo;
+        - l[n=5]: enn sá hvassastr, er til hiarta
+        - l[n=6]: konung óblauðan qviqvan scáro.
+      - lg[n=18,type=stanza]:
+        - l[n=1]: Fiolð man ec bǫlva . . .
+        - l[n=2]: Beittu, Sigurðr, inn blacca mar,
+        - l[n=3]: hest inn hraðfora, láttu hinig renna!
+        - l[n=4]: sitr eigi hér snør né dóttir,
+        - l[n=5]: sú er Guðrúno gæfi hnossir.
+      - lg[n=19,type=stanza]:
+        - l[n=1]: Minnztu, Sigurðr, hvat við mæltom,
+        - l[n=2]: þá er við á beð bæði sátom,
+        - l[n=3]: at þú myndir mín, móðugr, vitia,
+        - l[n=4]: halr, ór helio, enn ec þín ór heimi.
+      - lg[n=20,type=stanza]:
+        - l[n=1]: Hlaðit ér, iarlar, eikikǫstinn,
+        - l[n=2]: látið þann und hilmi hæstan verða!
+        - l[n=3]: megi brenna brióst bǫlvafult eldr,
+        - l[n=4]: . . . . um hiarta þiðni sorgir!"
+      - lg[n=21,type=stanza]:
+        - l[n=1]: Iorlom ǫllom óðal batni,
+        - l[n=2]: snótom ǫllom sorg at minni,
+        - l[n=3]: at þetta tregróf um talið væri.
   - song[n=Hm.]:
     - head: HAMÐISMÁL.
     - lg[n=1,type=stanza]:
