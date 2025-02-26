@@ -31,10 +31,8 @@
 			<sourceDesc>
 				<bibl xml:id="edda">
 					<author>
-						<name>authors, Various</name>
-					</author>. <date>1983</date>. <title level="m">Edda, Die Lieder Des Codex Regius Nebst Verwandten Denkmälern</title>. Edited by <editor>
-						<name>Gustav Neckel</name>
-					</editor>. 5th ed. <publisher>Carl Winter</publisher>.</bibl>
+						<name>Neckel, Gustav</name>
+					</author>. <date>1983</date>. <title level="m">Edda, Die Lieder Des Codex Regius Nebst Verwandten Denkmälern</title>. 5th ed. <publisher>Carl Winter</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
