@@ -1,0 +1,135 @@
+- body:
+  - song[n=26]:
+    - head: Herzeliebez vrôwelîn
+    - note[lg=deu-Latn]: Cormeau 26
+    - lg[n=I,type=stanza]:
+      - l[n=1]: Herzeliebez vrowelîn,
+      - l[n=2]: got gebe dir hiute und iemer guot!
+      - l[n=3]: kund ich baz gedenken dîn,
+      - l[n=4]: des het ich willeclîchen muot.
+      - l[n=5]: Waz mac ich nû sagen mê,
+      - l[n=6]: wan daz dir nieman holder ist? owê, dâ von ist mir vil wê!
+    - lg[n=II,type=stanza]:
+      - l[n=1]: Si verwîzent mir, daz ich
+      - l[n=2]: zuo nider wende mînen sanc.
+      - l[n=3]: daz si niht versinnent sich,
+      - l[n=4]: waz liebe sî, des haben undanc!
+      - l[n=5]: Sie getraf diu liebe nie,
+      - l[n=6]: die dâ nâch dem guote und nâch der schœne minnent, wê, wie minnent
+          die?
+    - lg[n=III,type=stanza]:
+      - l[n=1]: Bî der schœne ist dicke haz,
+      - l[n=2]: zuo der schœne niemen sî ze gâch.
+      - l[n=3]: liep tuot dem herzen baz,
+      - l[n=4]: der liebe gêt diu schœne nâch.
+      - l[n=5]: Liebe machet schœne wîp,
+      - l[n=6]: des mac diu schœne niht getuon, sine machet nimmer lieben lîp.
+    - lg[n=IV,type=stanza]:
+      - l[n=1]: Ich vertrage, als ich vertruoc
+      - l[n=2]: und als ich immer will vertragen.
+      - l[n=3]: dû bist schœne und hâst genuoc,
+      - l[n=4]: waz mügen si mir dâ von gesagen?
+      - l[n=5]: Swaz si sagen, ich bin dir holt
+      - l[n=6]: und nim dîn glesîn vingerlîn vür einer küneginne golt.
+    - lg[n=V,type=stanza]:
+      - l[n=1]: Hâst dû triuwe und stætekeit,
+      - l[n=2]: sô bin ich dîn âne angest gar,
+      - l[n=3]: daz mir iemer herzeleit
+      - l[n=4]: mit dînem willen widervar.
+      - l[n=5]: Hâst aber dû der zweier niht,
+      - l[n=6]: sô müezest dû mîn niemer werden, ôwê dan, ob daz geschiht!
+  - song[n=27]:
+    - head: Bin ich dir unmaere
+    - note[lg=deu-Latn]: Cormeau 27
+    - lg[n=I,type=stanza]:
+      - l[n=1]: Bin ich dir unmære,
+      - l[n=2]: 'des enweiz ich niht: ich minne dich.'
+      - l[n=3]: einez ist mir swære,
+      - l[n=4]: dû sihest bî mir hin und über mich.
+      - l[n=5]: Daz solt dû vermîden,
+      - l[n=6]: ine mac niht erlîden
+      - l[n=7]: selke liebe ân grôzen schaden.
+      - l[n=8]: hilf mir tragen, ich bin ze vil geladen.
+    - lg[n=II,type=stanza]:
+      - l[n=1]: Sol daz sîn dîn huote,
+      - l[n=2]: daz dîn ouge mich sô selten siht?
+      - l[n=3]: tuost dû daz ze guote,
+      - l[n=4]: sône wîze ich dir dar umbe niht.
+      - l[n=5]: Sô mît mir daz houbet,
+      - l[n=6]: daz sî dir erloubet,
+      - l[n=7]: und sich nider an mînen fuoz,
+      - l[n=8]: 'sô dû baz enmügest: daz sî dîn gruoz.'
+    - lg[n=III,type=stanza]:
+      - l[n=1]: Swanne ichs alle schowe,
+      - l[n=2]: die mir suln von schulden wol behagen,
+      - l[n=3]: sô bist dûz mîn frowe.
+      - l[n=4]: daz mac ich wol âne rüemen sagen.
+      - l[n=5]: Edel unde rîche
+      - l[n=6]: sint si sumelîche,
+      - l[n=7]: 'daz zuo tragent si hôhen muot:'
+      - l[n=8]: lihte sint si bezzer, dû bist guot.
+    - lg[n=IV,type=stanza]:
+      - l[n=1]: Frowe, dû versinne
+      - l[n=2]: dich, ob ich dir zihte mære sî.
+      - l[n=3]: eines friundes minne,
+      - l[n=4]: diu ist niht guot, dâ sî ein ander bî.
+      - l[n=5]: Minne entouc niht eine,
+      - l[n=6]: si sol sîn gemeine,
+      - l[n=7]: sô gemeine, daz si gê
+      - l[n=8]: dur zwei herze und durch dekeinez mê.
+    - lg[n=V,type=stanza]:
+      - l[n=1]: Sie beginnent alle,
+      - l[n=2]: mîner frouwen füeze nehmen war.
+      - l[n=3]: mitten in dem schalle
+      - l[n=4]: sô sich, frouwe, ouch under wîlen dar.
+      - l[n=5]: Umbe die merkære
+      - l[n=6]: 'lâ dir sîn unmære:'
+      - l[n=7]: den griffe ich wol nâher baz.
+      - l[n=8]: daz versuoche alrêst sô denne daz.
+  - song[n=51]:
+    - head: Nement, frowe, disen cranz
+    - note[lg=deu-Latn]: Cormeau 51
+    - lg[n=I,type=stanza]:
+      - l[n=1]: "'Nement, frowe, disen cranz',"
+      - l[n=2]: alsô sprach ich zeiner wol getânen maget,
+      - l[n=3]: "'sô zieret ir den tanz"
+      - l[n=4]: mit den schœnen bluomen, als irs ûffe traget.
+      - l[n=5]: Het ich vil edele gesteine,
+      - l[n=6]: daz mües ûf iuwer houbet.
+      - l[n=7]: sênt mîne triuwe, daz ich ez meine.
+    - lg[n=II,type=stanza]:
+      - l[n=1]: '[ ] Ir sît sô wol getân,'
+      - l[n=2]: daz ich iu mîn schappel gerne geben will,
+      - l[n=3]: daz [ ] beste, daz ich hân.
+      - l[n=4]: wîzer unde rôter bluomen weiz ich vil,
+      - l[n=5]: Die stênt sô verre in jener heide.
+      - l[n=6]: dâ si schône entspringent
+      - l[n=7]: und die [ ] vogele singent,
+      - l[n=8]: dâ suln wir si brechen beide.'
+    - lg[n=III,type=stanza]:
+      - l[n=1]: Si nam, daz ich ir bôt,
+      - l[n=2]: einem kinde vil gelîch, daz êre hât.
+      - l[n=3]: ir wangen wurden rôt
+      - l[n=4]: same diu rôse, dâ bî der liljen stât,
+      - l[n=5]: Des erschamten sich ir liehten ougen.
+      - l[n=6]: doch neic si mir vil schône.
+      - l[n=7]: daz wart mir ze lône.
+      - l[n=8]: wirt mirs iht mêre, daz trage ich tougen.
+    - lg[n=IV,type=stanza]:
+      - l[n=1]: Mich dûhte, daz mir nie
+      - l[n=2]: lieber wurde, danne mir ze muote was.
+      - l[n=3]: die bluomen vielen ie
+      - l[n=4]: von den boumen bî uns nider an daz gras.
+      - l[n=5]: Seht, dô muoste ich von fröiden lachen,
+      - l[n=6]: dô ich sô wunneclîche
+      - l[n=7]: was in troume rîche,
+      - l[n=8]: dô taget ez und muose ich wachen.
+    - lg[n=V,type=stanza]:
+      - l[n=1]: Mir ist von ir geschehen,
+      - l[n=2]: daz ich disen sumer allen meiden muoz
+      - l[n=3]: vaste under diu ougen sehen.
+      - l[n=4]: lîhte wirt mir eine, sô ist mir sorgen buoz.
+      - l[n=5]: Waz obe si gêt an disem tanze?
+      - l[n=6]: frowe, dur iuwer güete
+      - l[n=7]: rucket ûf die hüete.
+      - l[n=8]: owê, gesæhe ichs under cranze!
