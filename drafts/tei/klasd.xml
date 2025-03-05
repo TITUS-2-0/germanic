@@ -3,7 +3,16 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Minor Old Saxon Monuments</title>
-				<author>Unknown</author>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 2003-2013</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 11.11.2003 / 16.11.2005 / 19.11.2008 / 18.8.2009 / 25.11.2013</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -14,47 +23,67 @@
 				<date>2024</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="klasd-1">
+					<author>
+						<name>Wadstein, Elis</name>
+					</author>. <date>1899</date>. <title level="m">Kleinere Altsächsische Sprachdenkmäler: Mit Anmerkungen Und Glossar</title>. <publisher>Soltau</publisher>.</bibl>
+				<bibl xml:id="klasd-2">
+					<author>
+						<name>Steinmeyer, Elias</name>
+					</author>. <date>1963</date>. <title level="m">Die Kleineren Althochdeutschen Denkmäler</title>. 2nd ed.</bibl>
+				<bibl xml:id="klasd-3">
+					<author>
+						<name>Holthausen, F.</name>
+					</author>. <date>1921</date>. <title level="m">Altsächsisches Elementarbuch</title>. <publisher>Winter</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
 				<language ident="osx-Latn-x-old-saxon">Old Saxon</language>
+				<language ident="deu-Latn">German</language>
 				<language ident="lat-Latn">Latin</language>
 				<language ident="deu-Latn-x-old-high-german">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text>
+	<text xml:lang="osx-Latn-x-old-saxon">
 		<body>
 			<div n="Schs.Taufgel." xml:id="text-1" type="text" data-level="1">
 				<div n="W3" xml:id="text-1-page-1" type="page" data-level="2">
 					<div xml:id="text-1-page-1-manuscript-1" type="manuscript" data-level="3">Vat.lat._577</div>
+					<foreign xml:lang="deu-Latn">I. Taufgelöbnis</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Pal. (Vatic.). lat. 577, p. 6 <foreign xml:lang="deu-Latn">v</foreign>
+					</foreign>
 					<div n="3" xml:id="text-1-page-1-line-1" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(Abrenuntiatio diaboli.1)</foreign>
 						<pb type="manuscript" n="6v" />
 					</div>
 					<div n="4" xml:id="text-1-page-1-line-2" type="line" data-level="3">
-						<lb n="1" />Forsaichistu2<foreign xml:lang="lat-Latn">diobolae</foreign>
+						<lb n="1" />Forsaichistu2 <foreign xml:lang="lat-Latn">diobolae</foreign>
 						<lb n="2" />.</div>
 					<div n="5" xml:id="text-1-page-1-line-3" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">et</foreign>
-						<lb n="3" />resp<foreign xml:lang="lat-Latn">ondeat.2</foreign>
-						<lb n="4" />ec forsacho<foreign xml:lang="lat-Latn">diabolae</foreign>
+						<lb n="3" />resp <foreign xml:lang="lat-Latn">ondeat.2</foreign>
+						<lb n="4" />ec forsacho <foreign xml:lang="lat-Latn">diabolae</foreign>
 					</div>
 					<div n="6" xml:id="text-1-page-1-line-4" type="line" data-level="3">end allum diobol/geldę</div>
 					<div n="7" xml:id="text-1-page-1-line-5" type="line" data-level="3">
-						<lb n="5" />respon<foreign xml:lang="lat-Latn">deat.</foreign>
+						<lb n="5" />respon <foreign xml:lang="lat-Latn">deat.</foreign>
 						<lb n="6" />end ec forsacho allum diobolgeldae.</div>
 					<div n="8" xml:id="text-1-page-1-line-6" type="line" data-level="3">
 						<lb n="7" />end<lb n="8" />allum 
 <lb n="9" />dioboles uuercum /</div>
 					<div n="9" xml:id="text-1-page-1-line-7" type="line" data-level="3">
-						<lb n="10" />resp<foreign xml:lang="lat-Latn">ondeat.</foreign>
+						<lb n="10" />resp <foreign xml:lang="lat-Latn">ondeat.</foreign>
 						<lb n="11" />end ec forsacho allum dioboles uuercum</div>
 					<div n="10" xml:id="text-1-page-1-line-8" type="line" data-level="3">and uuordum thunaer / ende uuoden3</div>
 					<div n="11" xml:id="text-1-page-1-line-9" type="line" data-level="3">ende saxnote ende allvm4 them unholdum</div>
-					<div n="12" xml:id="text-1-page-1-line-10" type="line" data-level="3">the hira genotas / sint.</div>
+					<div n="12" xml:id="text-1-page-1-line-10" type="line" data-level="3">
+						<lb n="12" />the hira genotas / sint. <foreign xml:lang="deu-Latn">
+							<lb n="13" />Cod. Pal. (Vatic.). lat. 577, p. 7 <foreign xml:lang="deu-Latn">r</foreign>
+						</foreign>
+					</div>
 					<div n="13" xml:id="text-1-page-1-line-11" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(Professio fidei.1)</foreign>
 						<pb type="manuscript" n="7r" />
@@ -76,10 +105,11 @@
 					<div xml:id="text-1-page-2-section-1" type="section" data-level="3" />
 					<div xml:id="text-1-page-2-paragraph-1" type="paragraph" data-level="3" />
 					<div xml:id="text-1-page-2-manuscript-2" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Westf.Taufgel." xml:id="text-2" type="text" data-level="1">
+				<foreign xml:lang="deu-Latn">Kölner (altwestfälisches) Taufgelöbnis</foreign>
 				<div n="BE38" xml:id="text-2-page-3" type="page" data-level="2">
 					<div n="1" xml:id="text-2-page-3-line-18" type="line" data-level="3">
 						<lb n="1" />Farsakis thu<lb n="2" />unholdon?</div>
@@ -118,11 +148,14 @@
 					<div xml:id="text-2-page-5-section-2" type="section" data-level="3" />
 					<div xml:id="text-2-page-5-paragraph-2" type="paragraph" data-level="3" />
 					<div xml:id="text-2-page-5-manuscript-3" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Psalmenausl." xml:id="text-3" type="text" data-level="1">
 				<div n="W4" xml:id="text-3-page-6" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">II. Fragmente einer Psalmenauslegung (Ps. IV-V)</foreign>
+					<foreign xml:lang="deu-Latn">[Gernroder Predigt]</foreign>
+					<foreign xml:lang="deu-Latn">[Johan H. Gallée (Hg.), Altsächsische Sprachdenkmäler, Facsimile Sammlung, Leiden 1895, Nr. IXa-c]</foreign>
 					<div xml:id="text-3-page-6-section-3" type="section" data-level="3">Ps._4,8</div>
 					<pb type="manuscript" n="1r" />
 					<div n="1" xml:id="text-3-page-6-line-39" type="line" data-level="3">(Sia) (ſindun) (mid) (themo) (fruhte) (iro)</div>
@@ -443,7 +476,7 @@
 						<lb n="158" />(l)ikhamon.<lb n="159" />theſ helireſ. mid theru manungu theroforhtu.<div xml:id="text-3-page-9-line-101-section-10" type="section" data-level="4">Ps._5,9</div>
 					</div>
 					<div n="5" xml:id="text-3-page-9-line-102" type="line" data-level="3">
-						<lb n="160" />(Dom)ine<foreign xml:lang="lat-Latn">deduc me.</foreign>
+						<lb n="160" />(Dom)ine <foreign xml:lang="lat-Latn">deduc me.</foreign>
 						<lb n="161" />Vuola thu drohtin
 <lb n="162" /> uth(-) </div>
 					<div n="6" xml:id="text-3-page-9-line-103" type="line" data-level="3">
@@ -516,12 +549,19 @@
 					<div xml:id="text-3-page-10-section-12" type="section" data-level="3" />
 					<div xml:id="text-3-page-10-paragraph-3" type="paragraph" data-level="3" />
 					<div xml:id="text-3-page-10-manuscript-4" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Beichtsp." xml:id="text-4" type="text" data-level="1">
 				<div n="W16" xml:id="text-4-page-11" type="page" data-level="2">
 					<div xml:id="text-4-page-11-manuscript-5" type="manuscript" data-level="3">Duess._D_2</div>
+					<foreign xml:lang="deu-Latn">III. Beichtspiegel</foreign>
+					<foreign xml:lang="deu-Latn">[Sächsische Beichte]</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Duess. (Landesbibl.) Ms. D 2, p. 204(2) <foreign xml:lang="deu-Latn">r</foreign>
+						<lb n="2" />, 204(2) <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="3" />, 205(2) <foreign xml:lang="deu-Latn">r</foreign>
+					</foreign>
 					<pb type="manuscript" n="204(2)r" />
 					<div n="3" xml:id="text-4-page-11-line-120" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">Confessio.</foreign>
@@ -591,27 +631,34 @@
 					<div xml:id="text-4-page-13-section-13" type="section" data-level="3" />
 					<div xml:id="text-4-page-13-paragraph-4" type="paragraph" data-level="3" />
 					<div xml:id="text-4-page-13-manuscript-6" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Hom.Bed." xml:id="text-5" type="text" data-level="1">
 				<div n="W18" xml:id="text-5-page-14" type="page" data-level="2">
 					<div xml:id="text-5-page-14-manuscript-7" type="manuscript" data-level="3">Duess._B_80</div>
+					<foreign xml:lang="deu-Latn">4. Bruchstück einer Homilie Bedas</foreign>
+					<foreign xml:lang="deu-Latn">[Pseudo-Beda, Allerheiligen-Homilie]</foreign>
+					<foreign xml:lang="deu-Latn">[Kindlinger apud Gotthelf Fischer, Aelteste deutsche Urkunde von 1251, in: Beschreibung einiger typographischen Seltenheiten nebst Beyträgen zur Erfindungsgeschichte der Buchdruckerkunst, V. Lieferung, Nürnberg 1804, p. 151]</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Duss. (Landesbibl.) Ms. B 80, p. 152 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />- 153 <foreign xml:lang="deu-Latn">r</foreign>
+					</foreign>
 					<pb type="manuscript" n="153r" />
 					<div n="3" xml:id="text-5-page-14-line-175" type="line" data-level="3">
-						<lb n="1" />Vui lesed tho<lb n="2" />s<foreign xml:lang="lat-Latn">an</foreign>
+						<lb n="1" />Vui lesed tho<lb n="2" />s <foreign xml:lang="lat-Latn">an</foreign>
 						<foreign xml:lang="lat-Latn">c</foreign>
 						<foreign xml:lang="lat-Latn">tu</foreign>
 						<foreign xml:lang="lat-Latn">s</foreign>
 						<foreign xml:lang="lat-Latn">Bonifacius</foreign>
 						<lb n="3" />pauos an roma uuas. / that he</div>
 					<div n="4" xml:id="text-5-page-14-line-176" type="line" data-level="3">
-						<lb n="4" />bedi thena kiesur<lb n="5" />aduocatu<foreign xml:lang="lat-Latn">m.</foreign>
+						<lb n="4" />bedi thena kiesur<lb n="5" />aduocatu <foreign xml:lang="lat-Latn">m.</foreign>
 						<lb n="6" />that / he imo an romoͮ en hus gefi. that</div>
 					<div n="5" xml:id="text-5-page-14-line-177" type="line" data-level="3">thia luidi1 / uuilon pantheon heton. wan thar uuor/thoͮn alla afgoda</div>
 					<div n="6" xml:id="text-5-page-14-line-178" type="line" data-level="3">inna begangana. So he / it imo tho iegiuan hadda. so wieda he it</div>
 					<div n="7" xml:id="text-5-page-14-line-179" type="line" data-level="3">
-						<lb n="7" />an / uses drohtines era. ende usero fruon<lb n="8" />s<foreign xml:lang="lat-Latn">an</foreign>
+						<lb n="7" />an / uses drohtines era. ende usero fruon<lb n="8" />s <foreign xml:lang="lat-Latn">an</foreign>
 						<foreign xml:lang="lat-Latn">c</foreign>
 						<foreign xml:lang="lat-Latn">t</foreign>
 						<foreign xml:lang="lat-Latn">ę2 /</foreign>
@@ -634,13 +681,19 @@
 					<div xml:id="text-5-page-15-section-14" type="section" data-level="3" />
 					<div xml:id="text-5-page-15-paragraph-5" type="paragraph" data-level="3" />
 					<div xml:id="text-5-page-15-manuscript-8" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Spurih.2" xml:id="text-6" type="text" data-level="1">
 				<div n="W19" xml:id="text-6-page-16" type="page" data-level="2">
 					<div xml:id="text-6-page-16-manuscript-9" type="manuscript" data-level="3">Vind._751</div>
+					<foreign xml:lang="deu-Latn">V. Segensformeln</foreign>
+					<foreign xml:lang="deu-Latn">A</foreign>
 					<pb type="manuscript" n="188v" />
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />, 1-4</foreign>
+					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
 					<div n="4" xml:id="text-6-page-16-line-191" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(DE EO QVO)D1</foreign>
 						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAIZ2</foreign>
@@ -651,17 +704,21 @@
 					</div>
 					<div n="6" xml:id="text-6-page-16-line-193" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">Si in sinistro pede in dextero aure minuatur / sanguis.3</foreign>
+						<foreign xml:lang="deu-Latn">
+							<lb n="3" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
+							<lb n="4" />, 17-22</foreign>
+						<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
 					</div>
 					<div n="7" xml:id="text-6-page-16-line-194" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">DE HOC /</foreign>
-						<lb n="1" />Q<foreign xml:lang="lat-Latn">VO</foreign>
+						<lb n="5" />Q <foreign xml:lang="lat-Latn">VO</foreign>
 						<foreign xml:lang="lat-Latn">D</foreign>
 						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAZ4</foreign>
 						<foreign xml:lang="lat-Latn">DICVNT.</foreign>
 					</div>
 					<div n="8" xml:id="text-6-page-16-line-195" type="line" data-level="3">
-						<lb n="2" />PRIMU<foreign xml:lang="lat-Latn">PATER</foreign>
-						<lb n="3" />NOST<foreign xml:lang="lat-Latn">ER. /</foreign>
+						<lb n="6" />PRIMU <foreign xml:lang="lat-Latn">PATER</foreign>
+						<lb n="7" />NOST <foreign xml:lang="lat-Latn">ER. /</foreign>
 					</div>
 					<div n="9" xml:id="text-6-page-16-line-196" type="line" data-level="3">Visc flot aftar themo uuatare.</div>
 					<div n="10" xml:id="text-6-page-16-line-197" type="line" data-level="3">uerbrustun. sina uetherun. /</div>
@@ -675,7 +732,13 @@
 			</div>
 			<div n="Ness." xml:id="text-7" type="text" data-level="1">
 				<div n="W19" xml:id="text-7-page-17" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">V. Segensformeln</foreign>
+					<foreign xml:lang="deu-Latn">B.</foreign>
 					<pb type="manuscript" n="188v" />
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />, 22-26</foreign>
+					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
 					<div n="16" xml:id="text-7-page-17-line-202" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">CONTRA VERMES.5 /</foreign>
 					</div>
@@ -690,11 +753,14 @@
 					<div xml:id="text-7-page-18-section-15" type="section" data-level="3" />
 					<div xml:id="text-7-page-18-paragraph-6" type="paragraph" data-level="3" />
 					<div xml:id="text-7-page-18-manuscript-10" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Abeced." xml:id="text-8" type="text" data-level="1">
 				<div n="W20" xml:id="text-8-page-19" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">VI. Abecedarium nordmannicum</foreign>
+					<foreign xml:lang="deu-Latn">Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen / Codices Electronici Sangallenses:</foreign>
+					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. XIIb (Facsimile Arx)</foreign>
 					<foreign xml:lang="lat-Latn">ABECEDARIUM NORD</foreign>
 					<pb type="manuscript" n="321" />
 					<div n="1" xml:id="text-8-page-19-line-209" type="line" data-level="3">
@@ -733,24 +799,31 @@
 					<div xml:id="text-8-page-20-section-16" type="section" data-level="3" />
 					<div xml:id="text-8-page-20-paragraph-7" type="paragraph" data-level="3" />
 					<div xml:id="text-8-page-20-manuscript-11" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Ess.Hebreg." xml:id="text-9" type="text" data-level="1">
 				<div n="W21" xml:id="text-9-page-21" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">VII. Essener Heberegister</foreign>
+					<foreign xml:lang="deu-Latn">[Essener Heberolle]</foreign>
+					<foreign xml:lang="deu-Latn">[Kindlinger apud Gotthelf Fischer, Aelteste deutsche Urkunde von 1251, in: Beschreibung einiger typographischen Seltenheiten nebst Beyträgen zur Erfindungsgeschichte der Buchdruckerkunst, V. Lieferung, Nürnberg 1804, p. 153-154]</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Duess. (Landesbibl.) Ms. B 80, p. 152 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />/ 153 <foreign xml:lang="deu-Latn">v</foreign>
+					</foreign>
 					<pb type="manuscript" n="153v" />
 					<div n="3" xml:id="text-9-page-21-line-221" type="line" data-level="3">Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod</div>
 					<div n="4" xml:id="text-9-page-21-line-222" type="line" data-level="3">tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.</div>
 					<div n="5" xml:id="text-9-page-21-line-223" type="line" data-level="3">te thrim hoge/tidon ahtetian mudde malteſ ende thriuu uother</div>
 					<div n="6" xml:id="text-9-page-21-line-224" type="line" data-level="3">holteſ. ende uiarhteg3 bikera. ende4 uſero herino / miſſo tua crukon.</div>
 					<div n="7" xml:id="text-9-page-21-line-225" type="line" data-level="3">
-						<lb n="1" />Van ekanſcetha<foreign xml:lang="lat-Latn">ſimiliter.</foreign>
+						<lb n="1" />Van ekanſcetha <foreign xml:lang="lat-Latn">ſimiliter.</foreign>
 						<lb n="2" />/</div>
 					<div n="8" xml:id="text-9-page-21-line-226" type="line" data-level="3">
-						<lb n="3" />Van rengerengthorpa<lb n="4" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+						<lb n="3" />Van rengerengthorpa<lb n="4" />ſimilit <foreign xml:lang="lat-Latn">er.</foreign>
 					</div>
 					<div n="9" xml:id="text-9-page-21-line-227" type="line" data-level="3">
-						<lb n="5" />Van hukre/tha<foreign xml:lang="lat-Latn">ſimiliter</foreign>
+						<lb n="5" />Van hukre/tha <foreign xml:lang="lat-Latn">ſimiliter</foreign>
 						<lb n="6" />ana that holt te then hoge/tidon.</div>
 					<div n="10" xml:id="text-9-page-21-line-228" type="line" data-level="3">that ne geldet thero ambahto neuue/thar.</div>
 					<div n="11" xml:id="text-9-page-21-line-229" type="line" data-level="3">Van brokhuſon. te then hogetidon / nigen mudde malteſ ende</div>
@@ -759,10 +832,10 @@
 					<div n="14" xml:id="text-9-page-21-line-232" type="line" data-level="3">thioreſ holteſ. tue mudde gerſton. uiar brot. / en ſuſter erito. tuenteg</div>
 					<div n="15" xml:id="text-9-page-21-line-233" type="line" data-level="3">bikera. endi tua / crukon. nigen mudde malteſ te then ho/getidon.</div>
 					<div n="16" xml:id="text-9-page-21-line-234" type="line" data-level="3">
-						<lb n="7" />Van nianhuſ<lb n="8" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+						<lb n="7" />Van nianhuſ<lb n="8" />ſimilit <foreign xml:lang="lat-Latn">er.</foreign>
 					</div>
 					<div n="17" xml:id="text-9-page-21-line-235" type="line" data-level="3">
-						<lb n="9" />Van / borthbeki<lb n="10" />ſimilit<foreign xml:lang="lat-Latn">er.</foreign>
+						<lb n="9" />Van / borthbeki<lb n="10" />ſimilit <foreign xml:lang="lat-Latn">er.</foreign>
 					</div>
 					<div n="18" xml:id="text-9-page-21-line-236" type="line" data-level="3">Van drene te uſero / herano miſſo tian ember honegaſ. Te</div>
 					<div n="19" xml:id="text-9-page-21-line-237" type="line" data-level="3">pin/coſton ſiuondon haluon ember honegaſ / endi ahtodoch bikera.</div>
@@ -771,9 +844,9 @@
 					</div>
 					<div n="21" xml:id="text-9-page-21-line-239" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">De6</foreign>
-						<lb n="1" />predio <foreign xml:lang="lat-Latn">eilę</foreign>
-						<lb n="2" />prepositurę . <foreign xml:lang="lat-Latn">Creia .x.</foreign>
-						<lb n="3" />ſicl<foreign xml:lang="lat-Latn">oſ.7</foreign>
+						<lb n="1" />predio  <foreign xml:lang="lat-Latn">eilę</foreign>
+						<lb n="2" />prepositurę .  <foreign xml:lang="lat-Latn">Creia .x.</foreign>
+						<lb n="3" />ſicl <foreign xml:lang="lat-Latn">oſ.7</foreign>
 					</div>
 					<div n="22" xml:id="text-9-page-21-line-240" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">De nouo</foreign>
@@ -785,53 +858,53 @@
 				<div n="W22" xml:id="text-9-page-22" type="page" data-level="2">
 					<div n="1" xml:id="text-9-page-22-line-242" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">.v.</foreign>
-						<lb n="6" />ſicl<foreign xml:lang="lat-Latn">oſ.1</foreign>
+						<lb n="6" />ſicl <foreign xml:lang="lat-Latn">oſ.1</foreign>
 						<lb n="7" />an ladthorpa.2</div>
 					<div n="2" xml:id="text-9-page-22-line-243" type="line" data-level="3">
-						<lb n="8" />An hammuinkile<foreign xml:lang="lat-Latn">xxx denarios.3</foreign>
+						<lb n="8" />An hammuinkile <foreign xml:lang="lat-Latn">xxx denarios.3</foreign>
 					</div>
 					<div n="3" xml:id="text-9-page-22-line-244" type="line" data-level="3">
-						<lb n="9" />An lindenun<foreign xml:lang="lat-Latn">.v. ſicloſ.</foreign>
+						<lb n="9" />An lindenun <foreign xml:lang="lat-Latn">.v. ſicloſ.</foreign>
 					</div>
 					<div n="4" xml:id="text-9-page-22-line-245" type="line" data-level="3">
-						<lb n="10" />An berghalehtrun4<foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
+						<lb n="10" />An berghalehtrun4 <foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
 						<foreign xml:lang="lat-Latn">et</foreign>
 						<foreign xml:lang="lat-Latn">ſex</foreign>
 						<lb n="11" />denarioſ.</div>
 					<div n="5" xml:id="text-9-page-22-line-246" type="line" data-level="3">
-						<lb n="12" />An hupelesuuik<foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
+						<lb n="12" />An hupelesuuik <foreign xml:lang="lat-Latn">.iii. ſicloſ3</foreign>
 						<foreign xml:lang="lat-Latn">et</foreign>
 						<foreign xml:lang="lat-Latn">iiii</foreign>
 						<lb n="13" />denarioſ.</div>
 					<div n="6" xml:id="text-9-page-22-line-247" type="line" data-level="3">
-						<lb n="14" />An brehton<foreign xml:lang="lat-Latn">xxx</foreign>
+						<lb n="14" />An brehton <foreign xml:lang="lat-Latn">xxx</foreign>
 						<lb n="15" />denarioſ.</div>
 					<div n="7" xml:id="text-9-page-22-line-248" type="line" data-level="3">
-						<lb n="16" />An driuere.<lb n="17" />unu<foreign xml:lang="lat-Latn">m</foreign>
-						<lb n="18" />ſicl<foreign xml:lang="lat-Latn">um.</foreign>
+						<lb n="16" />An driuere.<lb n="17" />unu <foreign xml:lang="lat-Latn">m</foreign>
+						<lb n="18" />ſicl <foreign xml:lang="lat-Latn">um.</foreign>
 					</div>
 					<div n="8" xml:id="text-9-page-22-line-249" type="line" data-level="3">
-						<lb n="19" />An / uueteringe<foreign xml:lang="lat-Latn">.vi.</foreign>
-						<lb n="20" />ſ<foreign xml:lang="lat-Latn">i</foreign>
+						<lb n="19" />An / uueteringe <foreign xml:lang="lat-Latn">.vi.</foreign>
+						<lb n="20" />ſ <foreign xml:lang="lat-Latn">i</foreign>
 						<foreign xml:lang="lat-Latn">cl</foreign>
 						<foreign xml:lang="lat-Latn">oſ.</foreign>
 					</div>
 					<div n="9" xml:id="text-9-page-22-line-250" type="line" data-level="3">
-						<lb n="21" />An hanevuic5<foreign xml:lang="lat-Latn">.iiii.</foreign>
-						<lb n="22" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+						<lb n="21" />An hanevuic5 <foreign xml:lang="lat-Latn">.iiii.</foreign>
+						<lb n="22" />ſicl <foreign xml:lang="lat-Latn">oſ.</foreign>
 						<foreign xml:lang="lat-Latn">et</foreign>
 						<foreign xml:lang="lat-Latn">vi.</foreign>
 						<lb n="23" />denarioſ.</div>
 					<div n="10" xml:id="text-9-page-22-line-251" type="line" data-level="3">
-						<lb n="24" />An vunnincthorpa<foreign xml:lang="lat-Latn">.iii.</foreign>
-						<lb n="25" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+						<lb n="24" />An vunnincthorpa <foreign xml:lang="lat-Latn">.iii.</foreign>
+						<lb n="25" />ſicl <foreign xml:lang="lat-Latn">oſ.</foreign>
 					</div>
 					<div n="11" xml:id="text-9-page-22-line-252" type="line" data-level="3">
-						<lb n="26" />An rinherre<foreign xml:lang="lat-Latn">.iii.</foreign>
-						<lb n="27" />ſicl<foreign xml:lang="lat-Latn">oſ.</foreign>
+						<lb n="26" />An rinherre <foreign xml:lang="lat-Latn">.iii.</foreign>
+						<lb n="27" />ſicl <foreign xml:lang="lat-Latn">oſ.</foreign>
 					</div>
 					<div n="12" xml:id="text-9-page-22-line-253" type="line" data-level="3">
-						<lb n="28" />An beckehem<foreign xml:lang="lat-Latn">.ii.</foreign>
+						<lb n="28" />An beckehem <foreign xml:lang="lat-Latn">.ii.</foreign>
 					</div>
 					<div n="13" xml:id="text-9-page-22-line-254" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">I.6</foreign>
@@ -847,11 +920,13 @@
 					<div xml:id="text-9-page-23-section-17" type="section" data-level="3" />
 					<div xml:id="text-9-page-23-paragraph-8" type="paragraph" data-level="3" />
 					<div xml:id="text-9-page-23-manuscript-12" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Werd.Urb." xml:id="text-10" type="text" data-level="1">
 				<div n="W23" xml:id="text-10-page-24" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">VIII. Aus dem Werdener Heberegister</foreign>
+					<foreign xml:lang="deu-Latn">[Werdener Urbare]</foreign>
 					<pb type="manuscript" n="34b" />
 					<div n="3" xml:id="text-10-page-24-line-257" type="line" data-level="3">
 						<lb n="1" />An naruthi thiu kirica endi kiricland. fan almeri / te<lb n="2" />tafal(-)</div>
@@ -859,25 +934,25 @@
 					<div n="5" xml:id="text-10-page-24-line-259" type="line" data-level="3">An uuerinon thiu kirica endi al that gilendi. /</div>
 					<div n="6" xml:id="text-10-page-24-line-260" type="line" data-level="3">Te amuthon thiu kirica endi kiricland</div>
 					<div n="7" xml:id="text-10-page-24-line-261" type="line" data-level="3">
-						<lb n="3" />an theru fehtu En uuérr /<lb n="4" />ſancti <foreign xml:lang="lat-Latn">liudgeri.</foreign>
+						<lb n="3" />an theru fehtu En uuérr /<lb n="4" />ſancti  <foreign xml:lang="lat-Latn">liudgeri.</foreign>
 						<lb n="5" />alterum ſancti</div>
 					<div n="8" xml:id="text-10-page-24-line-262" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">martini.</foreign>
 					</div>
 					<div n="9" xml:id="text-10-page-24-line-263" type="line" data-level="3">
-						<lb n="6" />Utermeri.<lb n="7" />ſancti <foreign xml:lang="lat-Latn">liudgeri</foreign>
+						<lb n="6" />Utermeri.<lb n="7" />ſancti  <foreign xml:lang="lat-Latn">liudgeri</foreign>
 						<lb n="8" />totum.</div>
 					<div n="10" xml:id="text-10-page-24-line-264" type="line" data-level="3">
 						<lb n="9" />ſpilmeri<lb n="10" />Similiter. /</div>
 					<div n="11" xml:id="text-10-page-24-line-265" type="line" data-level="3">pulmeri half.</div>
 					<div n="12" xml:id="text-10-page-24-line-266" type="line" data-level="3">
-						<lb n="11" />Suecſnon<foreign xml:lang="lat-Latn">ubi natus</foreign>
+						<lb n="11" />Suecſnon <foreign xml:lang="lat-Latn">ubi natus</foreign>
 						<lb n="12" />eſt 
-<lb n="13" />ſanctuſ <foreign xml:lang="lat-Latn">liudgeruſ</foreign>
+<lb n="13" />ſanctuſ  <foreign xml:lang="lat-Latn">liudgeruſ</foreign>
 						<lb n="14" />totum.</div>
 					<div n="13" xml:id="text-10-page-24-line-267" type="line" data-level="3">An upgoa / ſiuun hofstadi.</div>
 					<div n="14" xml:id="text-10-page-24-line-268" type="line" data-level="3">
-						<lb n="15" />ſiuun uerrſtadi. Te aiturnon.<lb n="16" />ſancti <foreign xml:lang="lat-Latn">liudgeri /</foreign>
+						<lb n="15" />ſiuun uerrſtadi. Te aiturnon.<lb n="16" />ſancti  <foreign xml:lang="lat-Latn">liudgeri /</foreign>
 					</div>
 					<div n="15" xml:id="text-10-page-24-line-269" type="line" data-level="3">Te kinleson. En alt giuuarki.</div>
 				</div>
@@ -885,12 +960,17 @@
 					<div xml:id="text-10-page-25-section-18" type="section" data-level="3" />
 					<div xml:id="text-10-page-25-paragraph-9" type="paragraph" data-level="3" />
 					<div xml:id="text-10-page-25-manuscript-13" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Trier.Bluts." xml:id="text-11" type="text" data-level="1">
 				<div n="S378" xml:id="text-11-page-26" type="page" data-level="2">
 					<div xml:id="text-11-page-26-manuscript-14" type="manuscript" data-level="3">Trev._40/1018</div>
+					<foreign xml:lang="deu-Latn">[LXIX. Bamberger Blutsegen]</foreign>
+					<foreign xml:lang="deu-Latn">Trierer Blutsegen</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Trev. (Trier, Stadtbibl.) Hs. 40/1018 8°, p. 19 <foreign xml:lang="deu-Latn">v</foreign>
+					</foreign>
 					<foreign xml:lang="lat-Latn">Ad catarrum1 dic:</foreign>
 					<pb type="manuscript" n="19v" />
 					<div n="1" xml:id="text-11-page-26-line-270" type="line" data-level="3">Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.</div>
@@ -903,11 +983,12 @@
 					<div xml:id="text-11-page-27-section-19" type="section" data-level="3" />
 					<div xml:id="text-11-page-27-paragraph-10" type="paragraph" data-level="3" />
 					<div xml:id="text-11-page-27-manuscript-15" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Glaubbek." xml:id="text-12" type="text" data-level="1">
 				<div n="H204" xml:id="text-12-page-28" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">6. Bruchstück eines Glaubensbekenntnisses</foreign>
 					<div n="1" xml:id="text-12-page-28-line-273" type="line" data-level="3">Flêskas arstandenussi, that thū an themo flêska, the thū nū an bist, te duomesdaga gistandan schalt. --</div>
 					<div n="2" xml:id="text-12-page-28-line-274" type="line" data-level="3">Èndi gilôvis thū līvas achter dôtha?</div>
 				</div>
@@ -915,11 +996,12 @@
 					<div xml:id="text-12-page-29-section-20" type="section" data-level="3" />
 					<div xml:id="text-12-page-29-paragraph-11" type="paragraph" data-level="3" />
 					<div xml:id="text-12-page-29-manuscript-16" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Verc." xml:id="text-13" type="text" data-level="1">
 				<div n="Bl20" xml:id="text-13-page-30" type="page" data-level="2">
+					<foreign xml:lang="deu-Latn">3. Brief des Bischofs Leo von Vercelli</foreign>
 					<div n="1" xml:id="text-13-page-30-line-275" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">Semper</foreign>
 						<foreign xml:lang="lat-Latn">expectavi, ut iussio vestra pacem mihi faceret</foreign>
@@ -1037,7 +1119,7 @@
 					</div>
 					<div n="32" xml:id="text-13-page-31-line-306" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">sub armis \</foreign>
-						<lb n="5" />de<foreign xml:lang="lat-Latn">vici</foreign>
+						<lb n="5" />de <foreign xml:lang="lat-Latn">vici</foreign>
 						<foreign xml:lang="lat-Latn">et effugavi. Rogo itaque vestram</foreign>
 						<lb n="6" />mi-</div>
 					<div n="33" xml:id="text-13-page-31-line-307" type="line" data-level="3">
@@ -1086,21 +1168,22 @@
 						<foreign xml:lang="lat-Latn">parcere subiectis, \ et dei. Sed facio ego:</foreign>
 						<lb n="8" />uuaregat self</div>
 					<div n="45" xml:id="text-13-page-32-line-319" type="line" data-level="3">
-						<lb n="9" />iu\uua[re]<lb n="10" />got<foreign xml:lang="lat-Latn">. Et sin plumbo, saltem auro sigillatum,</foreign>
+						<lb n="9" />iu\uua[re]<lb n="10" />got <foreign xml:lang="lat-Latn">. Et sin plumbo, saltem auro sigillatum,</foreign>
 					</div>
 					<div n="46" xml:id="text-13-page-32-line-320" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">per hunc meum militem</foreign>
-						<lb n="11" />com<foreign xml:lang="lat-Latn">mittite.</foreign>
+						<lb n="11" />com <foreign xml:lang="lat-Latn">mittite.</foreign>
 					</div>
 				</div>
 				<div n="12" xml:id="text-13-page-33" type="page" data-level="2">
 					<div xml:id="text-13-page-33-section-21" type="section" data-level="3" />
 					<div xml:id="text-13-page-33-paragraph-12" type="paragraph" data-level="3" />
 					<div xml:id="text-13-page-33-manuscript-17" type="manuscript" data-level="3" />
-					<pb type="manuscript" n="" />
+					<pb type="manuscript" />
 				</div>
 			</div>
 			<div n="Muenzleg." xml:id="text-14" type="text" data-level="1">
+				<foreign xml:lang="deu-Latn">Altsächsische Münzlegende</foreign>
 				<div n="Schr174" xml:id="text-14-page-34" type="page" data-level="2">
 					<div n="1" xml:id="text-14-page-34-line-321" type="line" data-level="3">IELITHIS</div>
 					<div n="2" xml:id="text-14-page-34-line-322" type="line" data-level="3">PENING</div>

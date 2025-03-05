@@ -2,6 +2,10 @@
   - text[n=Schs.Taufgel.]:
     - page[n=W3]:
       - manuscript: Vat.lat._577
+      - foreign[lg=deu-Latn]: I. Taufgelöbnis
+      - foreign[lg=deu-Latn]:
+        - Cod. Pal. (Vatic.). lat. 577, p. 6
+        - foreign[lg=deu-Latn]: v
       - line[n=3]:
         - foreign[lg=lat-Latn]: (Abrenuntiatio diaboli.1)
         - pb[type=manuscript]: 6v
@@ -30,7 +34,11 @@
         - end ec forsacho allum dioboles uuercum
       - line[n=10]: and uuordum thunaer / ende uuoden3
       - line[n=11]: ende saxnote ende allvm4 them unholdum
-      - line[n=12]: the hira genotas / sint.
+      - line[n=12]:
+        - the hira genotas / sint.
+        - foreign[lg=deu-Latn]:
+          - Cod. Pal. (Vatic.). lat. 577, p. 7
+          - foreign[lg=deu-Latn]: r
       - line[n=13]:
         - foreign[lg=lat-Latn]: (Professio fidei.1)
         - pb[type=manuscript]: 7r
@@ -55,6 +63,7 @@
       - manuscript:
       - pb[type=manuscript]:
   - text[n=Westf.Taufgel.]:
+    - foreign[lg=deu-Latn]: Kölner (altwestfälisches) Taufgelöbnis
     - page[n=BE38]:
       - line[n=1]:
         - Farsakis thu
@@ -97,6 +106,10 @@
       - pb[type=manuscript]:
   - text[n=Psalmenausl.]:
     - page[n=W4]:
+      - foreign[lg=deu-Latn]: II. Fragmente einer Psalmenauslegung (Ps. IV-V)
+      - foreign[lg=deu-Latn]: '[Gernroder Predigt]'
+      - foreign[lg=deu-Latn]: '[Johan H. Gallée (Hg.), Altsächsische Sprachdenkmäler,
+          Facsimile Sammlung, Leiden 1895, Nr. IXa-c]'
       - section: Ps._4,8
       - pb[type=manuscript]: 1r
       - line[n=1]: (Sia) (ſindun) (mid) (themo) (fruhte) (iro)
@@ -561,6 +574,15 @@
   - text[n=Beichtsp.]:
     - page[n=W16]:
       - manuscript: Duess._D_2
+      - foreign[lg=deu-Latn]: III. Beichtspiegel
+      - foreign[lg=deu-Latn]: '[Sächsische Beichte]'
+      - foreign[lg=deu-Latn]:
+        - Cod. Duess. (Landesbibl.) Ms. D 2, p. 204(2)
+        - foreign[lg=deu-Latn]: r
+        - ', 204(2)'
+        - foreign[lg=deu-Latn]: v
+        - ', 205(2)'
+        - foreign[lg=deu-Latn]: r
       - pb[type=manuscript]: 204(2)r
       - line[n=3]:
         - foreign[lg=lat-Latn]: Confessio.
@@ -659,6 +681,17 @@
   - text[n=Hom.Bed.]:
     - page[n=W18]:
       - manuscript: Duess._B_80
+      - foreign[lg=deu-Latn]: 4. Bruchstück einer Homilie Bedas
+      - foreign[lg=deu-Latn]: '[Pseudo-Beda, Allerheiligen-Homilie]'
+      - foreign[lg=deu-Latn]: '[Kindlinger apud Gotthelf Fischer, Aelteste deutsche
+          Urkunde von 1251, in: Beschreibung einiger typographischen Seltenheiten
+          nebst Beyträgen zur Erfindungsgeschichte der Buchdruckerkunst, V. Lieferung,
+          Nürnberg 1804, p. 151]'
+      - foreign[lg=deu-Latn]:
+        - Cod. Duss. (Landesbibl.) Ms. B 80, p. 152
+        - foreign[lg=deu-Latn]: v
+        - '- 153'
+        - foreign[lg=deu-Latn]: r
       - pb[type=manuscript]: 153r
       - line[n=3]:
         - Vui lesed tho
@@ -713,7 +746,15 @@
   - text[n=Spurih.2]:
     - page[n=W19]:
       - manuscript: Vind._751
+      - foreign[lg=deu-Latn]: V. Segensformeln
+      - foreign[lg=deu-Latn]: A
       - pb[type=manuscript]: 188v
+      - foreign[lg=deu-Latn]:
+        - Cod. Vind. (ÖNB) 751, p. 188
+        - foreign[lg=deu-Latn]: v
+        - ', 1-4'
+      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
+          Leiden 1895, Taf. VI'
       - line[n=4]:
         - foreign[lg=lat-Latn]: (DE EO QVO)D1
         - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAIZ2
@@ -723,6 +764,12 @@
             / minuatur.
       - line[n=6]:
         - foreign[lg=lat-Latn]: Si in sinistro pede in dextero aure minuatur / sanguis.3
+        - foreign[lg=deu-Latn]:
+          - Cod. Vind. (ÖNB) 751, p. 188
+          - foreign[lg=deu-Latn]: v
+          - ', 17-22'
+        - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler,
+            Facsimilesammlung, Leiden 1895, Taf. VI'
       - line[n=7]:
         - foreign[lg=lat-Latn]: DE HOC /
         - Q
@@ -744,7 +791,15 @@
         - foreign[lg=lat-Latn]: AMEN.
   - text[n=Ness.]:
     - page[n=W19]:
+      - foreign[lg=deu-Latn]: V. Segensformeln
+      - foreign[lg=deu-Latn]: B.
       - pb[type=manuscript]: 188v
+      - foreign[lg=deu-Latn]:
+        - Cod. Vind. (ÖNB) 751, p. 188
+        - foreign[lg=deu-Latn]: v
+        - ', 22-26'
+      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
+          Leiden 1895, Taf. VI'
       - line[n=16]:
         - foreign[lg=lat-Latn]: CONTRA VERMES.5 /
       - line[n=17]: Gang út nesso,   mid nigun. nessiklinon.
@@ -760,6 +815,11 @@
       - pb[type=manuscript]:
   - text[n=Abeced.]:
     - page[n=W20]:
+      - foreign[lg=deu-Latn]: VI. Abecedarium nordmannicum
+      - foreign[lg=deu-Latn]: 'Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen
+          / Codices Electronici Sangallenses:'
+      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
+          Leiden 1895, Taf. XIIb (Facsimile Arx)'
       - foreign[lg=lat-Latn]: ABECEDARIUM NORD
       - pb[type=manuscript]: 321
       - line[n=1]:
@@ -811,6 +871,17 @@
       - pb[type=manuscript]:
   - text[n=Ess.Hebreg.]:
     - page[n=W21]:
+      - foreign[lg=deu-Latn]: VII. Essener Heberegister
+      - foreign[lg=deu-Latn]: '[Essener Heberolle]'
+      - foreign[lg=deu-Latn]: '[Kindlinger apud Gotthelf Fischer, Aelteste deutsche
+          Urkunde von 1251, in: Beschreibung einiger typographischen Seltenheiten
+          nebst Beyträgen zur Erfindungsgeschichte der Buchdruckerkunst, V. Lieferung,
+          Nürnberg 1804, p. 153-154]'
+      - foreign[lg=deu-Latn]:
+        - Cod. Duess. (Landesbibl.) Ms. B 80, p. 152
+        - foreign[lg=deu-Latn]: v
+        - / 153
+        - foreign[lg=deu-Latn]: v
       - pb[type=manuscript]: 153v
       - line[n=3]: Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod
       - line[n=4]: tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.
@@ -940,6 +1011,8 @@
       - pb[type=manuscript]:
   - text[n=Werd.Urb.]:
     - page[n=W23]:
+      - foreign[lg=deu-Latn]: VIII. Aus dem Werdener Heberegister
+      - foreign[lg=deu-Latn]: '[Werdener Urbare]'
       - pb[type=manuscript]: 34b
       - line[n=3]:
         - An naruthi thiu kirica endi kiricland. fan almeri / te
@@ -984,6 +1057,11 @@
   - text[n=Trier.Bluts.]:
     - page[n=S378]:
       - manuscript: Trev._40/1018
+      - foreign[lg=deu-Latn]: '[LXIX. Bamberger Blutsegen]'
+      - foreign[lg=deu-Latn]: Trierer Blutsegen
+      - foreign[lg=deu-Latn]:
+        - Cod. Trev. (Trier, Stadtbibl.) Hs. 40/1018 8°, p. 19
+        - foreign[lg=deu-Latn]: v
       - foreign[lg=lat-Latn]: 'Ad catarrum1 dic:'
       - pb[type=manuscript]: 19v
       - line[n=1]: Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.
@@ -997,6 +1075,7 @@
       - pb[type=manuscript]:
   - text[n=Glaubbek.]:
     - page[n=H204]:
+      - foreign[lg=deu-Latn]: 6. Bruchstück eines Glaubensbekenntnisses
       - line[n=1]: Flêskas arstandenussi, that thū an themo flêska, the thū nū an
           bist, te duomesdaga gistandan schalt. --
       - line[n=2]: Èndi gilôvis thū līvas achter dôtha?
@@ -1007,6 +1086,7 @@
       - pb[type=manuscript]:
   - text[n=Verc.]:
     - page[n=Bl20]:
+      - foreign[lg=deu-Latn]: 3. Brief des Bischofs Leo von Vercelli
       - line[n=1]:
         - foreign[lg=lat-Latn]: Semper
         - foreign[lg=lat-Latn]: expectavi, ut iussio vestra pacem mihi faceret
@@ -1163,6 +1243,7 @@
       - manuscript:
       - pb[type=manuscript]:
   - text[n=Muenzleg.]:
+    - foreign[lg=deu-Latn]: Altsächsische Münzlegende
     - page[n=Schr174]:
       - line[n=1]: IELITHIS
       - line[n=2]: PENING
