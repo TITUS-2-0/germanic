@@ -8,7 +8,7 @@
         - foreign[lg=deu-Latn]: v
       - line[n=3]:
         - foreign[lg=lat-Latn]: (Abrenuntiatio diaboli.1)
-        - pb[type=manuscript]: 6v
+        - pb[type=manuscript,n=6v]
       - line[n=4]:
         - Forsaichistu2
         - foreign[lg=lat-Latn]: diobolae
@@ -41,7 +41,7 @@
           - foreign[lg=deu-Latn]: r
       - line[n=13]:
         - foreign[lg=lat-Latn]: (Professio fidei.1)
-        - pb[type=manuscript]: 7r
+        - pb[type=manuscript,n=7r]
       - line[n=14]:
         - gelobistu In got
         - 'alamehtigaN5 '
@@ -61,7 +61,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Westf.Taufgel.]:
     - foreign[lg=deu-Latn]: Kölner (altwestfälisches) Taufgelöbnis
     - page[n=BE38]:
@@ -103,7 +103,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Psalmenausl.]:
     - page[n=W4]:
       - foreign[lg=deu-Latn]: II. Fragmente einer Psalmenauslegung (Ps. IV-V)
@@ -111,7 +111,7 @@
       - foreign[lg=deu-Latn]: '[Johan H. Gallée (Hg.), Altsächsische Sprachdenkmäler,
           Facsimile Sammlung, Leiden 1895, Nr. IXa-c]'
       - section: Ps._4,8
-      - pb[type=manuscript]: 1r
+      - pb[type=manuscript,n=1r]
       - line[n=1]: (Sia) (ſindun) (mid) (themo) (fruhte) (iro)
       - line[n=2]:
         - vueteſ.
@@ -197,7 +197,7 @@
         - ik an themo
     - page[n=W5]:
       - section: Ps._5,1
-      - pb[type=manuscript]: 1v
+      - pb[type=manuscript,n=1v]
       - line[n=1]:
         - kuman
         - 1 . th(ia)
@@ -289,7 +289,7 @@
       - line[n=17]: an (the)ſ(a)
     - page[n=W6]:
       - section: Ps._5,7
-      - pb[type=manuscript]: 2r
+      - pb[type=manuscript,n=2r]
       - line[n=0]:
         - foreign[lg=lat-Latn]: (Odiſti.)
         - (Thu)
@@ -570,7 +570,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Beichtsp.]:
     - page[n=W16]:
       - manuscript: Duess._D_2
@@ -583,7 +583,7 @@
         - foreign[lg=deu-Latn]: v
         - ', 205(2)'
         - foreign[lg=deu-Latn]: r
-      - pb[type=manuscript]: 204(2)r
+      - pb[type=manuscript,n=204(2)r]
       - line[n=3]:
         - foreign[lg=lat-Latn]: Confessio.
         - Ik giuhu goda alomahtigon fadar. Endi / allon sinon
@@ -596,7 +596,7 @@
       - line[n=8]: gilouon uuari. endi vuithar / minemo bigihton uuari. endi uuithar
       - line[n=9]:
         - minemo mestra //
-        - pb[type=manuscript]: 204(2)v
+        - pb[type=manuscript,n=204(2)v]
         - uuari. endi vuithar1 minemo herdoma uuari. endi /
       - line[n=10]: uuithar minemo rehta uuari.
       - line[n=11]: Ik iuhu nithas. endi auun/stes. hetias. endi bisprakias. Sueriannias.
@@ -636,7 +636,7 @@
     - page[n=W17]:
       - line[n=1]:
         - Ik iuhu //
-        - pb[type=manuscript]: 205r
+        - pb[type=manuscript,n=205r]
         - unrehtaro gisihtio.1 unrehtaro gihorithano. Endi
       - line[n=2]: unrehtaro. / githankono. unrehtoro2 uuordo. unrehtaro uuerko. unrehtaro
           /
@@ -677,7 +677,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Hom.Bed.]:
     - page[n=W18]:
       - manuscript: Duess._B_80
@@ -692,7 +692,7 @@
         - foreign[lg=deu-Latn]: v
         - '- 153'
         - foreign[lg=deu-Latn]: r
-      - pb[type=manuscript]: 153r
+      - pb[type=manuscript,n=153r]
       - line[n=3]:
         - Vui lesed tho
         - s
@@ -736,19 +736,19 @@
       - line[n=17]: al hoͮdigoͮ gefullon.7 endi that vui thur thero / heligono gethingi
       - line[n=18]:
         - bekuman te themo ewigon //
-        - pb[type=manuscript]: 152v
+        - pb[type=manuscript,n=152v]
         - liua. helpandemo usemo drohtine.8
     - page[n=5]:
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Spurih.2]:
     - page[n=W19]:
       - manuscript: Vind._751
       - foreign[lg=deu-Latn]: V. Segensformeln
       - foreign[lg=deu-Latn]: A
-      - pb[type=manuscript]: 188v
+      - pb[type=manuscript,n=188v]
       - foreign[lg=deu-Latn]:
         - Cod. Vind. (ÖNB) 751, p. 188
         - foreign[lg=deu-Latn]: v
@@ -793,7 +793,7 @@
     - page[n=W19]:
       - foreign[lg=deu-Latn]: V. Segensformeln
       - foreign[lg=deu-Latn]: B.
-      - pb[type=manuscript]: 188v
+      - pb[type=manuscript,n=188v]
       - foreign[lg=deu-Latn]:
         - Cod. Vind. (ÖNB) 751, p. 188
         - foreign[lg=deu-Latn]: v
@@ -812,7 +812,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Abeced.]:
     - page[n=W20]:
       - foreign[lg=deu-Latn]: VI. Abecedarium nordmannicum
@@ -821,7 +821,7 @@
       - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
           Leiden 1895, Taf. XIIb (Facsimile Arx)'
       - foreign[lg=lat-Latn]: ABECEDARIUM NORD
-      - pb[type=manuscript]: 321
+      - pb[type=manuscript,n=321]
       - line[n=1]:
         - feu2
         - forman,3
@@ -868,7 +868,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Ess.Hebreg.]:
     - page[n=W21]:
       - foreign[lg=deu-Latn]: VII. Essener Heberegister
@@ -882,7 +882,7 @@
         - foreign[lg=deu-Latn]: v
         - / 153
         - foreign[lg=deu-Latn]: v
-      - pb[type=manuscript]: 153v
+      - pb[type=manuscript,n=153v]
       - line[n=3]: Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod
       - line[n=4]: tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.
       - line[n=5]: te thrim hoge/tidon ahtetian mudde malteſ ende thriuu uother
@@ -918,7 +918,7 @@
       - line[n=19]: pin/coſton ſiuondon haluon ember honegaſ / endi ahtodoch bikera.
       - line[n=20]:
         - endi uiar crukon.5
-        - pb[type=manuscript]: 152v
+        - pb[type=manuscript,n=152v]
       - line[n=21]:
         - foreign[lg=lat-Latn]: De6
         - 'predio '
@@ -1008,12 +1008,12 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Werd.Urb.]:
     - page[n=W23]:
       - foreign[lg=deu-Latn]: VIII. Aus dem Werdener Heberegister
       - foreign[lg=deu-Latn]: '[Werdener Urbare]'
-      - pb[type=manuscript]: 34b
+      - pb[type=manuscript,n=34b]
       - line[n=3]:
         - An naruthi thiu kirica endi kiricland. fan almeri / te
         - tafal(-)
@@ -1053,7 +1053,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Trier.Bluts.]:
     - page[n=S378]:
       - manuscript: Trev._40/1018
@@ -1063,7 +1063,7 @@
         - Cod. Trev. (Trier, Stadtbibl.) Hs. 40/1018 8°, p. 19
         - foreign[lg=deu-Latn]: v
       - foreign[lg=lat-Latn]: 'Ad catarrum1 dic:'
-      - pb[type=manuscript]: 19v
+      - pb[type=manuscript,n=19v]
       - line[n=1]: Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.
       - line[n=2]: that bluod forstuond:3   so duo thu bluod!
       - line[n=3]:
@@ -1072,7 +1072,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Glaubbek.]:
     - page[n=H204]:
       - foreign[lg=deu-Latn]: 6. Bruchstück eines Glaubensbekenntnisses
@@ -1083,7 +1083,7 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Verc.]:
     - page[n=Bl20]:
       - foreign[lg=deu-Latn]: 3. Brief des Bischofs Leo von Vercelli
@@ -1241,19 +1241,10 @@
       - section:
       - paragraph:
       - manuscript:
-      - pb[type=manuscript]:
+      - pb[type=manuscript]
   - text[n=Muenzleg.]:
     - foreign[lg=deu-Latn]: Altsächsische Münzlegende
     - page[n=Schr174]:
       - line[n=1]: IELITHIS
       - line[n=2]: PENING
       - line[n=3]: HIR STEID TE BISCOP
-    - page[n=13]:
-      - section:
-      - paragraph:
-      - manuscript:
-      - pb[type=manuscript]: |-
-          Copyright TITUS Project,
-          Frankfurt a/M, 15.10.2021.
-           No parts of this document may be republished in any form
-          without prior permission by the copyright holder.
