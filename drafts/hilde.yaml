@@ -1,6 +1,6 @@
 - body:
-  - pb[type=manuscript]: 1r
-  - lb[type=manuscript]: 1
+  - pb[type=manuscript,n=1r]
+  - lb[type=manuscript,n=1]
   - ab[n=1,type=verse]:
     - Ik gihorta ðat seggen
   - ab[n=2,type=verse]:
@@ -9,7 +9,7 @@
     - lb[type=manuscript,n=2]: tin ·
   - ab[n=3,type=verse]:
     - hiltibraht enti haðubrant · untar heriun tuem,
-    - lb[type=manuscript]: 3
+    - lb[type=manuscript,n=3]
   - ab[n=4,type=verse]:
     - sunufatarungo · iro saro rihtun
   - ab[n=5,type=verse]:
@@ -77,10 +77,10 @@
   - ab[n=26,type=verse]:
     - dega
     - lb[type=manuscript,n=21]: no dechisto unti deotrichhe · darba gistontun
-    - lb[type=manuscript]: 22
+    - lb[type=manuscript,n=22]
   - ab[n=27,type=verse]:
     - her was eo folches at ente imo wuas eo peheta ti leop ·
-    - lb[type=manuscript]: 23
+    - lb[type=manuscript,n=23]
   - ab[n=28,type=verse]:
     - chud was her chonnem mannum
   - ab[n=29,type=verse]:
@@ -88,7 +88,7 @@
     - lb[type=manuscript,n=24]: iu lib habbe
   - ab[n=30,type=verse]:
     - wettu irmingot quad
-    - pb[type=manuscript]: 76v
+    - pb[type=manuscript,n=76v]
     - lb[type=manuscript,n=1]: hiltibraht obana ab heuane
   - ab[n=31,type=verse]:
     - dat du neo dana halt mit sus
@@ -100,7 +100,7 @@
     - lb[type=manuscript,n=3]: bouga
   - ab[n=34,type=verse]:
     - cheisuringu gitan · so imo se der chuning gap
-    - lb[type=manuscript]: 4
+    - lb[type=manuscript,n=4]
   - ab[n=35,type=verse]:
     - huneo truhtin · dat ih dir it nu bi huldi gibu ·
   - ab[n=36,type=verse]:
@@ -114,14 +114,14 @@
     - ort widar orte ·
   - ab[n=39,type=verse]:
     - du bist dir alter hun ummet spaher
-    - lb[type=manuscript]: 7
+    - lb[type=manuscript,n=7]
   - ab[n=40,type=verse]:
     - spenis mih mit dinem wuortun wili mih dinu speru
     - wer
     - lb[type=manuscript,n=8]: pan ·
   - ab[n=41,type=verse]:
     - pist also gialtet man so du ewin inwit fortos ·
-    - lb[type=manuscript]: 9
+    - lb[type=manuscript,n=9]
   - ab[n=42,type=verse]:
     - dat sagetun mi seolidante
   - ab[n=43,type=verse]:
@@ -129,7 +129,7 @@
     - lb[type=manuscript,n=10]: man wic furnam ·
   - ab[n=44,type=verse]:
     - tot ist hiltibrant heribrantes suno ·
-    - lb[type=manuscript]: 11
+    - lb[type=manuscript,n=11]
   - ab[n=45,type=verse]:
     - hiltibraht gimahalta heribrantes suno ·
   - ab[n=46,type=verse]:
@@ -137,13 +137,13 @@
     - lb[type=manuscript,n=12]: in dinem hrustim
   - ab[n=47,type=verse]:
     - dat du habes heme herron goten
-    - lb[type=manuscript]: 13
+    - lb[type=manuscript,n=13]
   - ab[n=48,type=verse]:
     - dat du noh bi desemo riche reccheo ni wurti ·
   - ab[n=49,type=verse]:
     - wela
     - lb[type=manuscript,n=14]: ga nu waltant got quad hiltibrant wewurt skihit ·
-    - lb[type=manuscript]: 15
+    - lb[type=manuscript,n=15]
   - ab[n=50,type=verse]:
     - ih wallota sumaro enti wintro sehstic ur lante ·
   - ab[n=51,type=verse]:
@@ -171,7 +171,7 @@
     - lb[type=manuscript,n=22]: bes ·
   - ab[n=58,type=verse]:
     - der si doh nu argosto quad hiltibrant ostarliuto
-    - lb[type=manuscript]: 23
+    - lb[type=manuscript,n=23]
   - ab[n=59,type=verse]:
     - der dir nu wiges warne nu dih es so wel lustit ·
   - ab[n=60,type=verse]:
@@ -195,7 +195,7 @@
     - lb[type=manuscript,n=28]: bort chludun ·
   - ab[n=66,type=verse]:
     - hewun harmlicco huitte scilti ·
-    - lb[type=manuscript]: 29
+    - lb[type=manuscript,n=29]
   - ab[n=67,type=verse]:
     - unti im iro lintun luttilo wurtun ·
   - ab[n=68,type=verse]:
