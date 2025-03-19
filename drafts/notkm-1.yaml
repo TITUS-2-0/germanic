@@ -12,8 +12,8 @@
       - lb[main=yes,type=edition-king,n=36]
       - lb[type=manuscript,n=36]: uuerden ze erist finf-zehen buohsta-
       - lb[main=yes,type=edition-king,n=37,break=no]
-      - lb[type=manuscript,n=37,break=no]:
-        - 'ba . '
+      - lb[type=manuscript,n=37]:
+        - ba .
         - fure also manigen seitun . unte
         - pb[type=manuscript-2,n=L60va]
       - lb[main=yes,type=edition-king,n=1]
@@ -85,7 +85,9 @@
       - lb[main=yes,type=edition-king,n=14]
       - lb[type=manuscript,n=14]: teile aber in ahto teil . unte fure-
       - lb[main=yes,type=edition-king,n=15,break=no]
-      - lb[type=manuscript,n=15,break=no]: sezze imo den ahtoden teil . so ist
+      - lb[type=manuscript,n=15]:
+        - sezze
+        - imo den ahtoden teil . so ist
       - lb[main=yes,type=edition-king,n=16]
       - lb[type=manuscript,n=16]:
         - daz trite . der mit
@@ -100,8 +102,8 @@
       - lb[main=yes,type=edition-king,n=19]
       - lb[type=manuscript,n=19]: fure-sezze_imo den dritten teil si-
       - lb[main=yes,type=edition-king,n=20,break=no]
-      - lb[type=manuscript,n=20,break=no]:
-        - 'nero '
+      - lb[type=manuscript,n=20]:
+        - nero
         - lengi . so_habest tu
         - foreign[lg=lat-Latn]: nete diezeug-
       - lb[main=yes,type=edition-king,n=21,break=no]
@@ -131,9 +133,13 @@
         - foreign[lg=lat-Latn]: .B.
         - ge-
       - lb[main=yes,type=edition-king,n=26,break=no]
-      - lb[type=manuscript,n=26,break=no]: zeichenot ist. Ten selben teile in_ah-
+      - lb[type=manuscript,n=26,break=no]:
+        - zeichenot
+        - ist. Ten selben teile in_ah-
       - lb[main=yes,type=edition-king,n=27,break=no]
-      - lb[type=manuscript,n=27,break=no]: to teil . unte fure-sezze_imo daz
+      - lb[type=manuscript,n=27,break=no]:
+        - to
+        - teil . unte fure-sezze_imo daz
       - lb[main=yes,type=edition-king,n=28]
       - lb[type=manuscript,n=28]:
         - ahtoda . so_habest tu trite
@@ -149,7 +155,9 @@
         - Tara-nah sih uuio lanc
         - foreign[lg=lat-Latn]: nete diezeug-
       - lb[main=yes,type=edition-king,n=31,break=no]
-      - lb[type=manuscript,n=31,break=no]: menon si . unte fure-sezze_imo sinen
+      - lb[type=manuscript,n=31,break=no]:
+        - menon
+        - si . unte fure-sezze_imo sinen
       - lb[main=yes,type=edition-king,n=32]
       - lb[type=manuscript,n=32]:
         - dritten teil . so_habest tu
@@ -182,12 +190,14 @@
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=1]: imo ouh tie andra so_uilo gerobor uel  oborore in-
       - lb[main=yes,type=edition-king,n=2,break=no]
-      - lb[type=manuscript,n=2,break=no]: quedent . so_uilo so_si lengeren sint.
+      - lb[type=manuscript,n=2]:
+        - quedent .
+        - so_uilo so_si lengeren sint.
       - lb[main=yes,type=edition-king,n=3]
       - lb[type=manuscript,n=3]: Tara-nah fure-sezze mese sinen ah-
       - lb[main=yes,type=edition-king,n=4,break=no]
-      - lb[type=manuscript,n=4,break=no]:
-        - 'toden '
+      - lb[type=manuscript,n=4]:
+        - toden
         - teil . so_ist daz
         - foreign[lg=lat-Latn]: lychanos_meson
       - lb[main=yes,type=edition-king,n=5]
@@ -207,7 +217,9 @@
         - So_teile danne
         - foreign[lg=lat-Latn]: parame-
       - lb[main=yes,type=edition-king,n=8,break=no]
-      - lb[type=manuscript,n=8,break=no]: se in_zuei . unte fure-sezze imo sinen
+      - lb[type=manuscript,n=8,break=no]:
+        - se
+        - in_zuei . unte fure-sezze imo sinen
       - lb[main=yes,type=edition-king,n=10]
       - lb[type=manuscript,n=9]:
         - halben teil . daz ist
@@ -333,7 +345,9 @@
         - foreign[lg=lat-Latn]: usu .
         - daz chit tęa_einan slatha san-
       - lb[main=yes,type=edition-king,n=36,break=no]
-      - lb[type=manuscript,n=36,break=no]: ges V́obet man_nu . unte diu ist_nu
+      - lb[type=manuscript,n=36,break=no]:
+        - ges
+        - V́obet man_nu . unte diu ist_nu
       - lb[main=yes,type=edition-king,n=37]
       - lb[type=manuscript,n=37]: genge . also ouh iu_uoro ena_zuo uuaren.
   - chapter[n=5]:
@@ -361,7 +375,9 @@
         - foreign[lg=lat-Latn]: .II.
         - Tara-nah la an_-
       - lb[main=yes,type=edition-king,n=6,break=no]
-      - lb[type=manuscript,n=36,break=no]: _dero. eristun suegelun lengi fore . den
+      - lb[type=manuscript,n=36,break=no]:
+        - _dero.
+        - eristun suegelun lengi fore . den
       - lb[type=manuscript,n=37]: ahtoden teil dero uuîti . unte
       - lb[main=yes,type=edition-king,n=7]:
         - teile
@@ -428,7 +444,9 @@
       - lb[main=yes,type=edition-king,n=3]: dero zuei dero finftun .
       - lb[type=manuscript,n=24]:
         - daz ist iro lengi. Nim dara-nah sel-
-        - foreign[lg=lat-Latn]: bun .VI.
+        - foreign[lg=lat-Latn]:
+          - bun
+          - .VI.
       - lb[main=yes,type=edition-king,n=4]
       - lb[type=manuscript,n=25]: dia finftun unte la in_iro lengi
       - lb[type=manuscript,n=26]:
@@ -560,8 +578,8 @@
         - foreign[lg=lat-Latn]: organicus
       - lb[type=manuscript,n=35]: fure finfzehene ode fure sehs-
       - lb[main=yes,type=edition-king,n=2,break=no]
-      - lb[type=manuscript,n=36,break=no]:
-        - 'ze/ne '
+      - lb[type=manuscript,n=36]:
+        - ze/ne
         - buohstabe folliu driu
         - foreign[lg=lat-Latn]: alfabeta
       - lb[type=manuscript,n=37]: machon . so scol_er daz dritta
@@ -569,7 +587,9 @@
         - mez-
         - pb[type=manuscript-2,n=L61vb,break=no]
       - lb[main=yes,type=edition-king,n=3,break=no]
-      - lb[type=manuscript,n=1,break=no]: zan nah den eron zuein . also er
+      - lb[type=manuscript,n=1,break=no]:
+        - zan
+        - nah den eron zuein . also er
       - lb[type=manuscript,n=2]: daz ander maz nah demo
       - lb[main=yes,type=edition-king,n=4]
       - lb[type=manuscript,n=3]: erestun.
