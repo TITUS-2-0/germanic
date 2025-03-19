@@ -47,7 +47,7 @@
         - foreign[lg=lat-Latn]: lycha-
       - lb[main=yes,type=edition-king,n=7,break=no]
       - lb[type=manuscript,n=7,break=no]:
-        - nos .
+        - foreign[lg=lat-Latn]: nos .
         - der triualta lengi habe gagen
         - foreign[lg=lat-Latn]: nete .
       - lb[main=yes,type=edition-king,n=8]
@@ -105,7 +105,7 @@
         - foreign[lg=lat-Latn]: nete diezeug-
       - lb[main=yes,type=edition-king,n=21,break=no]
       - lb[type=manuscript,n=21,break=no]:
-        - menon .
+        - foreign[lg=lat-Latn]: menon .
         - der_mit
         - foreign[lg=lat-Latn]: .C.
         - gezeichenot ist.
@@ -123,7 +123,7 @@
         - pb[type=edition-pip,n=852,break=no]
       - lb[main=yes,type=edition-king,n=25,break=no]
       - lb[type=manuscript,n=25,break=no]:
-        - te
+        - foreign[lg=lat-Latn]: te
         - foreign[lg=lat-Latn]: diezeugmenon .
         - der_mit
         - foreign[lg=lat-Latn]: .B.
@@ -142,7 +142,7 @@
         - foreign[lg=lat-Latn]: diezeug-
       - lb[main=yes,type=edition-king,n=29,break=no]
       - lb[type=manuscript,n=29,break=no]:
-        - menon
+        - foreign[lg=lat-Latn]: menon
         - der_mit
         - foreign[lg=lat-Latn]: .A.
         - gezeichenet ist.
@@ -152,7 +152,7 @@
         - foreign[lg=lat-Latn]: nete diezeug-
       - lb[main=yes,type=edition-king,n=31,break=no]
       - lb[type=manuscript,n=31,break=no]:
-        - menon
+        - foreign[lg=lat-Latn]: menon
         - si . unte fure-sezze_imo sinen
       - lb[main=yes,type=edition-king,n=32]
       - lb[type=manuscript,n=32]:
@@ -206,14 +206,14 @@
         - foreign[lg=lat-Latn]: parypate me-
       - lb[main=yes,type=edition-king,n=7,break=no]
       - lb[type=manuscript,n=7,break=no]:
-        - son
+        - foreign[lg=lat-Latn]: son
         - mit
         - foreign[lg=lat-Latn]: .D.
         - So_teile danne
         - foreign[lg=lat-Latn]: parame-
       - lb[main=yes,type=edition-king,n=8,break=no]
       - lb[type=manuscript,n=8,break=no]:
-        - se
+        - foreign[lg=lat-Latn]: se
         - in_zuei . unte fure-sezze imo sinen
       - lb[main=yes,type=edition-king,n=10]
       - lb[type=manuscript,n=9]:
@@ -228,7 +228,7 @@
         - foreign[lg=lat-Latn]: lychanos_ypa-
       - lb[main=yes,type=edition-king,n=11,break=no]
       - lb[type=manuscript,n=11,break=no]:
-        - ton
+        - foreign[lg=lat-Latn]: ton
         - mit
         - foreign[lg=lat-Latn]: .B.
         - der driualta geroluti
@@ -249,7 +249,7 @@
         - foreign[lg=lat-Latn]: parypate_ypa-
       - lb[main=yes,type=edition-king,n=16,break=no]
       - lb[type=manuscript,n=16,break=no]:
-        - ton
+        - foreign[lg=lat-Latn]: ton
         - mit
         - foreign[lg=lat-Latn]: .A.
         - Nim dara-nah den drit-
@@ -292,7 +292,7 @@
         - foreign[lg=lat-Latn]: proslam-
       - lb[main=yes,type=edition-king,n=25,break=no]
       - lb[type=manuscript,n=25,break=no]:
-        - banomeno
+        - foreign[lg=lat-Latn]: banomeno
         - sinen ahtoden teil mit
         - foreign[lg=lat-Latn]: .F.
       - lb[main=yes,type=edition-king,n=26]
@@ -323,7 +323,7 @@
         - foreign[lg=lat-Latn]: armo-
       - lb[main=yes,type=edition-king,n=33,break=no]
       - lb[type=manuscript,n=33,break=no]:
-        - nico
+        - foreign[lg=lat-Latn]: nico
         - foreign[lg=lat-Latn]: genere .
         - daz lierne in_
         - foreign[lg=lat-Latn]: musica
@@ -413,7 +413,7 @@
         - foreign[lg=lat-Latn]: dya-
       - lb[main=yes,type=edition-king,n=16,break=no]
       - lb[type=manuscript,n=18,break=no]:
-        - tesseron .
+        - foreign[lg=lat-Latn]: tesseron .
         - mit
         - foreign[lg=lat-Latn]: tono tono semitonio.
       - lb[type=manuscript,n=19]: Vnte fer-nim ioh ze_iegelichemo
