@@ -1,7 +1,46 @@
+- facsimiles:
+  - facsimile:
+    - surface[xml:id=L60rb]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60r.jpg]:
+  - facsimile:
+    - surface[xml:id=K295v]:
+      - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_593]:
+  - facsimile:
+    - surface[xml:id=L60va]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60v.jpg]:
+  - facsimile:
+    - surface[xml:id=K296r]:
+      - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_594]:
+  - facsimile:
+    - surface[xml:id=L60vb]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60v.jpg]:
+  - facsimile:
+    - surface[xml:id=K296v]:
+      - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_595]:
+  - facsimile:
+    - surface[xml:id=K297r]:
+      - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_596]:
+  - facsimile:
+    - surface[xml:id=L61ra]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61r.jpg]:
+  - facsimile:
+    - surface[xml:id=N50v_1]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/WolfenbGudLat72_2o_Bl50v.jpg]:
+  - facsimile:
+    - surface[xml:id=L61rb]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61r.jpg]:
+  - facsimile:
+    - surface[xml:id=L61va]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61v.jpg]:
+  - facsimile:
+    - surface[xml:id=L61vb]:
+      - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61v.jpg]:
 - body:
   - chapter[n=1]:
     - pb[main=yes,type=edition-king,n=331]
     - pb[type=edition-pip,n=851]
+    - pb[type=manuscript-2,n=L60rb,facs=#L60rb]
+    - pb[type=manuscript-2,n=K295v,facs=#K295v]
     - p:
       - lb[main=yes,type=edition-king,n=35]
       - lb[type=manuscript,n=35]:
@@ -13,6 +52,7 @@
       - lb[type=manuscript,n=37]:
         - ba .
         - fure also manigen seitun . unte
+        - pb[type=manuscript-2,n=L60va,facs=#L60va]
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=1]:
         - si
@@ -110,6 +150,7 @@
         - foreign[lg=lat-Latn]: .C.
         - gezeichenot ist.
         - pb[main=yes,type=edition-king,n=333]
+        - pb[type=manuscript-2,n=K296r,facs=#K296r]
       - lb[main=yes,type=edition-king,n=22]
       - lb[type=manuscript,n=22]: So_teile aber in_zuei den churzesten
       - lb[main=yes,type=edition-king,n=23]
@@ -182,6 +223,7 @@
       - lb[type=manuscript,n=37,break=no]:
         - ta
         - er zui-ualtero lengi habet . also
+        - pb[type=manuscript-2,n=L60vb,facs=#L60vb]
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=1]: imo ouh tie andra so_uilo gerobor uel  oborore in-
       - lb[main=yes,type=edition-king,n=2,break=no]
@@ -220,6 +262,7 @@
         - halben teil . daz ist
         - foreign[lg=lat-Latn]: ypate_meson .
         - pb[main=yes,type=edition-king,n=335]
+        - pb[type=manuscript-2,n=K296v,facs=#K296v]
       - lb[main=yes,type=edition-king,n=10]
       - lb[type=manuscript,n=10]:
         - mit
@@ -328,6 +371,7 @@
         - daz lierne in_
         - foreign[lg=lat-Latn]: musica
         - pb[type=edition-pip,n=853]
+        - pb[type=manuscript-2,n=K297r,facs=#K297r]
       - lb[main=yes,type=edition-king,n=34]
       - lb[type=manuscript,n=34]:
         - foreign[lg=lat-Latn]: boetii. Diatonicum
@@ -345,6 +389,8 @@
       - lb[type=manuscript,n=37]: genge . also ouh iu_uoro ena_zuo uuaren.
   - chapter[n=5]:
     - pb[main=yes,type=edition-king,n=340]
+    - pb[type=manuscript-2,n=L61ra,facs=#L61ra]
+    - pb[type=manuscript-2,n=N50v,1,facs=#N50v,1]
     - p:
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=27]: Sid tu_nu_benechennest uuio alle_die
@@ -370,7 +416,9 @@
         - _dero.
         - eristun suegelun lengi fore . den
       - lb[type=manuscript,n=37]: ahtoden teil dero uuîti . unte
-      - lb[main=yes,type=edition-king,n=7]: teile
+      - lb[main=yes,type=edition-king,n=7]:
+        - teile
+        - pb[type=manuscript-2,n=L61rb,facs=#L61rb]
       - lb[main=yes,type=edition-king,n=7]
       - lb[type=manuscript,n=1]: sîa dannan nider unze ze_dero zun/gun
       - lb[type=manuscript,n=2]:
@@ -416,7 +464,9 @@
         - foreign[lg=lat-Latn]: tesseron .
         - mit
         - foreign[lg=lat-Latn]: tono tono semitonio.
-      - lb[type=manuscript,n=19]: Vnte fer-nim ioh ze_iegelichemo
+      - lb[type=manuscript,n=19]:
+        - Vnte fer-nim ioh ze_iegelichemo
+        - pb[type=manuscript-3,n=M75r,1]
       - lb[main=yes,type=edition-king,n=17]:
         - male
         - foreign[lg=lat-Latn]: .V.
@@ -467,7 +517,9 @@
         - in_ahto teil .
       - lb[type=manuscript,n=36]: unte lâ daz ahtoda fore .
       - lb[main=yes,type=edition-king,n=10]: unte fon
-      - lb[type=manuscript,n=37]: dero zungun ûf teil daz ander
+      - lb[type=manuscript,n=37]:
+        - dero zungun ûf teil daz ander
+        - pb[type=manuscript-2,n=L61va,facs=#L61va]
       - lb[main=yes,type=edition-king,n=10]
       - lb[type=manuscript,n=1]: in_niuniu . unte gib dero
       - lb[main=yes,type=edition-king,n=11]: ahto-uuiu
@@ -513,6 +565,7 @@
       - lb[type=manuscript,n=18]:
         - foreign[lg=lat-Latn]: diametrum
         - ubere. Aber diu
+        - pb[type=manuscript-3,n=M75v,1]
       - lb[main=yes,type=edition-king,n=20]: erista
       - lb[type=manuscript,n=19]: habet fier lengi dero finftunzehen/tun .
       - lb[type=manuscript,n=20]: unte dara-ubere driu
@@ -567,9 +620,11 @@
         - buohstabe folliu driu
         - foreign[lg=lat-Latn]: alfabeta
       - lb[type=manuscript,n=37]: machon . so scol_er daz dritta
-      - lb[main=yes,type=edition-king,n=3]: mez-
+      - lb[main=yes,type=edition-king,n=3]:
+        - mez-
+        - pb[type=manuscript-2,n=L61vb,facs=#L61vb,break=no]
       - lb[main=yes,type=edition-king,n=3,break=no]
-      - lb[type=manuscript,n=1]:
+      - lb[type=manuscript,n=1,break=no]:
         - zan
         - nah den eron zuein . also er
       - lb[type=manuscript,n=2]: daz ander maz nah demo
