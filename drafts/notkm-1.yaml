@@ -390,7 +390,7 @@
   - chapter[n=5]:
     - pb[main=yes,type=edition-king,n=340]
     - pb[type=manuscript-2,n=L61ra,facs=#L61ra]
-    - pb[type=manuscript-2,n=N50v,1,facs=#N50v,1]
+    - pb[type=manuscript-2,n=N50v,1,facs=#N50v_1]
     - p:
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=27]: Sid tu_nu_benechennest uuio alle_die

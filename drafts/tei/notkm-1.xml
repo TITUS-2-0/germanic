@@ -242,7 +242,7 @@
 			<div n="5" xml:id="chapter-2" type="chapter" data-level="1">
 				<pb main="yes" type="edition-king" n="340" />
 				<pb type="manuscript-2" n="L61ra" facs="#L61ra" />
-				<pb type="manuscript-2" n="N50v 1" facs="#N50v 1" />
+				<pb type="manuscript-2" n="N50v 1" facs="#N50v_1" />
 				<p xml:id="chapter-2-p-2">
 					<lb main="yes" type="edition-king" n="1" />
 					<lb type="manuscript" n="27" />Sid tu_nu_benechennest uuio alle_die<lb type="manuscript" n="28" />suegalan ein-anderen<lb main="yes" type="edition-king" n="2" />encheden .<lb type="manuscript" n="29" />so_ne-bedrieze dich ouch iro mazza<lb type="manuscript" n="30" />ze_lirnenne. <foreign xml:lang="lat-Latn">PRIMA.</foreign>
