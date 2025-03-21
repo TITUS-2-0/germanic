@@ -1,3 +1,7 @@
+- facsimiles:
+  - facsimile:
+    - surface[id=facs-1]:
+      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg]:
 - body:
   - song[n=Vsp.]:
     - head: VǪLOSPÁ
@@ -4854,7 +4858,6 @@
         - menn aðra um afl oc vǫxt oc hug oc alla atgervi. Sigurðr
         - var þó allra framarstr, oc hann kalla allir menn í fornfroðom
         - um alla menn fram oc gǫfgastan herkonunga.
-    - wrapper:
   - song[n=Grp.]:
     - head: GRÍPISSPÁ
     - preface:
@@ -5612,6 +5615,9 @@
         - í gognom niðr, oc svá út í gognom báðar ermar. Þá tóc
         - hann brynio af henni; enn hon vacnaði, oc settiz hon up
         - 'oc sá Sigurð oc mælti:'
+    - note[lg=deu-Latn]:
+      - Cod.reg. Cop. p. 63
+    - milestone[facs=#facs-1,unit=ref]
     - wrapper:
       - lg[n=1,type=stanza]:
         - l[n=1]: '"Hvat beit brynio, hví brá ec svefni?'
@@ -6561,7 +6567,6 @@
         - Þióðrecr konungr var með Atla oc hafði þar látið
         - flesta alla menn sína. Þióðrecr oc Guðrún kærðo harma
         - 'sín á milli. Hon sagði hánom oc qvað:'
-    - wrapper:
   - song[n=Gdhr.II]:
     - head: GUÐRÚNARQVIÐA (ǪNNOR).
     - lg[n=1,type=stanza]:
