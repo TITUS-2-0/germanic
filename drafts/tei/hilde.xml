@@ -23,9 +23,31 @@
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
+	<facsimile>
+		<surface xml:id="facs-1">
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2o.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="facs-2">
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1o.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="p1r">
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="p76v">
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg" />
+		</surface>
+	</facsimile>
 	<text xml:lang="deu-Latn-x-old-high-german">
 		<body>
-			<pb type="manuscript" n="1r" />
+			<milestone facs="#facs-2" unit="ref" xml:id="milestone-1" />
+			<milestone facs="#facs-1" unit="ref" xml:id="milestone-2" />
+			<pb type="manuscript" n="1r" facs="#p1r" />
 			<lb type="manuscript" n="1" />
 			<ab n="1" type="verse" xml:id="ab-1">Ik gihorta ðat seggen</ab>
 			<ab n="2" type="verse" xml:id="ab-2">ðat sih urhettun ænon muo<lb type="manuscript" n="2" />tin ·</ab>
@@ -59,7 +81,7 @@
 			</ab>
 			<ab n="28" type="verse" xml:id="ab-28">chud was her chonnem mannum</ab>
 			<ab n="29" type="verse" xml:id="ab-29">ni waniu ih<lb type="manuscript" n="24" />iu lib habbe</ab>
-			<ab n="30" type="verse" xml:id="ab-30">wettu irmingot quad<pb type="manuscript" n="76v" />
+			<ab n="30" type="verse" xml:id="ab-30">wettu irmingot quad<pb type="manuscript" n="76v" facs="#p76v" />
 				<lb type="manuscript" n="1" />hiltibraht obana ab heuane</ab>
 			<ab n="31" type="verse" xml:id="ab-31">dat du neo dana halt mit sus<lb type="manuscript" n="2" />sippan man</ab>
 			<ab n="32" type="verse" xml:id="ab-32">dinc ni gileitos ·</ab>
