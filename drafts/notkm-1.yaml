@@ -1,39 +1,39 @@
 - facsimiles:
   - facsimile:
-    - surface[xml:id=L60rb]:
+    - surface[id=L60rb]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60r.jpg]:
   - facsimile:
-    - surface[xml:id=K295v]:
+    - surface[id=K295v]:
       - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_593]:
   - facsimile:
-    - surface[xml:id=L60va]:
+    - surface[id=L60va]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60v.jpg]:
   - facsimile:
-    - surface[xml:id=K296r]:
+    - surface[id=K296r]:
       - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_594]:
   - facsimile:
-    - surface[xml:id=L60vb]:
+    - surface[id=L60vb]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_60v.jpg]:
   - facsimile:
-    - surface[xml:id=K296v]:
+    - surface[id=K296v]:
       - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_595]:
   - facsimile:
-    - surface[xml:id=K297r]:
+    - surface[id=K297r]:
       - graphic[url=http://daten.digitale-sammlungen.de/bsb00002110/image_596]:
   - facsimile:
-    - surface[xml:id=L61ra]:
+    - surface[id=L61ra]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61r.jpg]:
   - facsimile:
-    - surface[xml:id=N50v_1]:
+    - surface[id=N50v_1]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/WolfenbGudLat72_2o_Bl50v.jpg]:
   - facsimile:
-    - surface[xml:id=L61rb]:
+    - surface[id=L61rb]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61r.jpg]:
   - facsimile:
-    - surface[xml:id=L61va]:
+    - surface[id=L61va]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61v.jpg]:
   - facsimile:
-    - surface[xml:id=L61vb]:
+    - surface[id=L61vb]:
       - graphic[url=http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61v.jpg]:
 - body:
   - chapter[n=1]:
