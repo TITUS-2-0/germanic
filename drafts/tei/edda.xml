@@ -44,7 +44,7 @@
 		</profileDesc>
 	</teiHeader>
 	<facsimile>
-		<surface id="facs-1">
+		<surface xml:id="facs-1">
 			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg" />
 		</surface>
 	</facsimile>
