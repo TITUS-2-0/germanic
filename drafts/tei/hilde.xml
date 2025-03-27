@@ -2,8 +2,17 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Hildebrandslied</title>
-				<author>Unknown</author>
+				<title>Hildebrandlied</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Rolf-Jürgen Jacob</name>
+					<note>Neukirchen-Vluyn, 2001</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 15.7.2001</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -13,8 +22,26 @@
 				<pubPlace>Frankfurt</pubPlace>
 				<date>2025</date>
 			</publicationStmt>
+			<notesStmt>
+				<note>Diplomatic edition of the text, together with images of the original manuscript pages, kindly provided by the library.
+</note>
+			</notesStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<msDesc xml:id="kassel-ms-2-theol-54-1r-76v">
+					<msIdentifier>
+						<country>Germany</country>
+						<settlement>Kassel</settlement>
+						<repository>Landes- und Murhardsche Bibliothek</repository>
+						<collection>Handschriftensammlung</collection>
+						<idno>2° Ms. theol.54</idno>
+						<altIdentifier>
+							<idno type="siglum">Codex Casselanus</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<p>
+						<ref target="#p1r">Facsimile (fol. 1r)</ref>, <ref target="#p76v">Facsimile (fol. 76v)</ref>
+					</p>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -24,29 +51,19 @@
 		</profileDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs-1">
-			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2o.jpg" />
-		</surface>
-	</facsimile>
-	<facsimile>
-		<surface xml:id="facs-2">
-			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1o.jpg" />
-		</surface>
-	</facsimile>
-	<facsimile>
 		<surface xml:id="p1r">
-			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg" />
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1o.jpg" type="original" />
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg" type="enhanced" />
 		</surface>
 	</facsimile>
 	<facsimile>
 		<surface xml:id="p76v">
-			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg" />
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2o.jpg" type="original" />
+			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg" type="enhanced" />
 		</surface>
 	</facsimile>
 	<text xml:lang="deu-Latn-x-old-high-german">
 		<body>
-			<milestone facs="#facs-2" unit="ref" xml:id="milestone-1" />
-			<milestone facs="#facs-1" unit="ref" xml:id="milestone-2" />
 			<pb type="manuscript" n="1r" facs="#p1r" />
 			<lb type="manuscript" n="1" />
 			<ab n="1" type="verse" xml:id="ab-1">Ik gihorta ðat seggen</ab>
