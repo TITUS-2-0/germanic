@@ -54,6 +54,12 @@
 					<foreign xml:lang="deu-Latn">I. Taufgelöbnis</foreign>
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Pal. (Vatic.). lat. 577, p. 6 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />
+						<facsimile xml:id="text-1-page-1-facsimile-1">
+							<surface xml:id="text-1-page-1-facsimile-1-surface-1">
+								<graphic url="gallee_XIa_Vatic_577_6b.jpg" />
+							</surface>
+						</facsimile>
 					</foreign>
 					<div n="3" xml:id="text-1-page-1-line-1" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(Abrenuntiatio diaboli.1)</foreign>
@@ -82,6 +88,12 @@
 					<div n="12" xml:id="text-1-page-1-line-10" type="line" data-level="3">
 						<lb n="12" />the hira genotas / sint. <foreign xml:lang="deu-Latn">
 							<lb n="13" />Cod. Pal. (Vatic.). lat. 577, p. 7 <foreign xml:lang="deu-Latn">r</foreign>
+							<lb n="14" />
+							<facsimile xml:id="text-1-page-1-line-10-facsimile-2">
+								<surface xml:id="text-1-page-1-line-10-facsimile-2-surface-2">
+									<graphic url="gallee_XIa_Vatic_577_7ao.jpg" />
+								</surface>
+							</facsimile>
 						</foreign>
 					</div>
 					<div n="13" xml:id="text-1-page-1-line-11" type="line" data-level="3">
@@ -158,6 +170,11 @@
 					<foreign xml:lang="deu-Latn">[Johan H. Gallée (Hg.), Altsächsische Sprachdenkmäler, Facsimile Sammlung, Leiden 1895, Nr. IXa-c]</foreign>
 					<div xml:id="text-3-page-6-section-3" type="section" data-level="3">Ps._4,8</div>
 					<pb type="manuscript" n="1r" />
+					<facsimile xml:id="text-3-page-6-facsimile-3">
+						<surface xml:id="text-3-page-6-facsimile-3-surface-3">
+							<graphic url="gallee_IXa_Bernb_Dess_1a_5-11.jpg" />
+						</surface>
+					</facsimile>
 					<div n="1" xml:id="text-3-page-6-line-39" type="line" data-level="3">(Sia) (ſindun) (mid) (themo) (fruhte) (iro)</div>
 					<div n="2" xml:id="text-3-page-6-line-40" type="line" data-level="3">
 						<lb n="1" />vueteſ.<lb n="2" />en(di)
@@ -193,6 +210,11 @@
 <lb n="32" />(vueroldlikon)
 <lb n="33" />(vuillion.)
 <lb n="34" />2<div xml:id="text-3-page-6-line-46-section-4" type="section" data-level="4">Ps._4,9</div>
+						<facsimile xml:id="text-3-page-6-line-46-facsimile-4">
+							<surface xml:id="text-3-page-6-line-46-facsimile-4-surface-4">
+								<graphic url="gallee_IXb_Bernb_Dess_1a_11-21.jpg" />
+							</surface>
+						</facsimile>
 					</div>
 					<div n="9" xml:id="text-3-page-6-line-47" type="line" data-level="3">
 						<lb n="35" />Ik ſcal ſcla(p)a(n) endi reſtia(n) an themo<lb n="36" />frethu
@@ -515,6 +537,11 @@
 <lb n="195" /> ge(-) </div>
 					<div n="15" xml:id="text-3-page-9-line-112" type="line" data-level="3">
 						<lb n="196" />(ſcriuo.)<lb n="197" />1<div xml:id="text-3-page-9-line-112-section-11" type="section" data-level="4">Ps._5,10</div>
+						<facsimile xml:id="text-3-page-9-line-112-facsimile-5">
+							<surface xml:id="text-3-page-9-line-112-facsimile-5-surface-5">
+								<graphic url="gallee_IXc_Bernb_Dess_2b_15-21.jpg" />
+							</surface>
+						</facsimile>
 					</div>
 					<div n="15" xml:id="text-3-page-9-line-113" type="line" data-level="3">
 						<lb n="198" />(Th)iu<lb n="199" />vuarhed
@@ -560,7 +587,13 @@
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Duess. (Landesbibl.) Ms. D 2, p. 204(2) <foreign xml:lang="deu-Latn">r</foreign>
 						<lb n="2" />, 204(2) <foreign xml:lang="deu-Latn">v</foreign>
-						<lb n="3" />, 205(2) <foreign xml:lang="deu-Latn">r</foreign>
+						<lb n="3" />
+						<facsimile xml:id="text-4-page-11-facsimile-6">
+							<surface xml:id="text-4-page-11-facsimile-6-surface-6">
+								<graphic url="gallee_IIId_Duess_Beichte.jpg" />
+							</surface>
+						</facsimile>
+						<lb n="4" />, 205(2) <foreign xml:lang="deu-Latn">r</foreign>
 					</foreign>
 					<pb type="manuscript" n="204(2)r" />
 					<div n="3" xml:id="text-4-page-11-line-120" type="line" data-level="3">
@@ -643,6 +676,12 @@
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Duss. (Landesbibl.) Ms. B 80, p. 152 <foreign xml:lang="deu-Latn">v</foreign>
 						<lb n="2" />- 153 <foreign xml:lang="deu-Latn">r</foreign>
+						<lb n="3" />
+						<facsimile xml:id="text-5-page-14-facsimile-7">
+							<surface xml:id="text-5-page-14-facsimile-7-surface-7">
+								<graphic url="gallee_IIIc_Duess_Beda_Hom.jpg" />
+							</surface>
+						</facsimile>
 					</foreign>
 					<pb type="manuscript" n="153r" />
 					<div n="3" xml:id="text-5-page-14-line-175" type="line" data-level="3">
@@ -693,7 +732,13 @@
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
 						<lb n="2" />, 1-4</foreign>
-					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="3" />[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI<facsimile xml:id="text-6-page-16-facsimile-8">
+							<surface xml:id="text-6-page-16-facsimile-8-surface-8">
+								<graphic url="gallee_VI_Wien_Beschw_188.jpg" />
+							</surface>
+						</facsimile>
+					</foreign>
 					<div n="4" xml:id="text-6-page-16-line-191" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(DE EO QVO)D1</foreign>
 						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAIZ2</foreign>
@@ -705,20 +750,32 @@
 					<div n="6" xml:id="text-6-page-16-line-193" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">Si in sinistro pede in dextero aure minuatur / sanguis.3</foreign>
 						<foreign xml:lang="deu-Latn">
-							<lb n="3" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
-							<lb n="4" />, 17-22</foreign>
-						<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
+							<lb n="4" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
+							<lb n="5" />, 17-22</foreign>
+						<foreign xml:lang="deu-Latn">
+							<lb n="6" />[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI<facsimile xml:id="text-6-page-16-line-193-facsimile-9">
+								<surface xml:id="text-6-page-16-line-193-facsimile-9-surface-9">
+									<graphic url="gallee_VI_Wien_Beschw_188.jpg" />
+								</surface>
+							</facsimile>
+							<lb n="7" />
+							<facsimile xml:id="text-6-page-16-line-193-facsimile-10">
+								<surface xml:id="text-6-page-16-line-193-facsimile-10-surface-10">
+									<graphic url="contra_nessia_spurih_2_Dorow_Denkmaeler_Anh_2.jpg" />
+								</surface>
+							</facsimile>
+						</foreign>
 					</div>
 					<div n="7" xml:id="text-6-page-16-line-194" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">DE HOC /</foreign>
-						<lb n="5" />Q <foreign xml:lang="lat-Latn">VO</foreign>
+						<lb n="8" />Q <foreign xml:lang="lat-Latn">VO</foreign>
 						<foreign xml:lang="lat-Latn">D</foreign>
 						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAZ4</foreign>
 						<foreign xml:lang="lat-Latn">DICVNT.</foreign>
 					</div>
 					<div n="8" xml:id="text-6-page-16-line-195" type="line" data-level="3">
-						<lb n="6" />PRIMU <foreign xml:lang="lat-Latn">PATER</foreign>
-						<lb n="7" />NOST <foreign xml:lang="lat-Latn">ER. /</foreign>
+						<lb n="9" />PRIMU <foreign xml:lang="lat-Latn">PATER</foreign>
+						<lb n="10" />NOST <foreign xml:lang="lat-Latn">ER. /</foreign>
 					</div>
 					<div n="9" xml:id="text-6-page-16-line-196" type="line" data-level="3">Visc flot aftar themo uuatare.</div>
 					<div n="10" xml:id="text-6-page-16-line-197" type="line" data-level="3">uerbrustun. sina uetherun. /</div>
@@ -738,7 +795,19 @@
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Vind. (ÖNB) 751, p. 188 <foreign xml:lang="deu-Latn">v</foreign>
 						<lb n="2" />, 22-26</foreign>
-					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="3" />[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. VI<facsimile xml:id="text-7-page-17-facsimile-11">
+							<surface xml:id="text-7-page-17-facsimile-11-surface-11">
+								<graphic url="gallee_VI_Wien_Beschw_188.jpg" />
+							</surface>
+						</facsimile>
+						<lb n="4" />
+						<facsimile xml:id="text-7-page-17-facsimile-12">
+							<surface xml:id="text-7-page-17-facsimile-12-surface-12">
+								<graphic url="contra_nessia_spurih_2_Dorow_Denkmaeler_Anh_2.jpg" />
+							</surface>
+						</facsimile>
+					</foreign>
 					<div n="16" xml:id="text-7-page-17-line-202" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">CONTRA VERMES.5 /</foreign>
 					</div>
@@ -759,8 +828,20 @@
 			<div n="Abeced." xml:id="text-8" type="text" data-level="1">
 				<div n="W20" xml:id="text-8-page-19" type="page" data-level="2">
 					<foreign xml:lang="deu-Latn">VI. Abecedarium nordmannicum</foreign>
-					<foreign xml:lang="deu-Latn">Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen / Codices Electronici Sangallenses:</foreign>
-					<foreign xml:lang="deu-Latn">[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. XIIb (Facsimile Arx)</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="1" />Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen / Codices Electronici Sangallenses:<facsimile xml:id="text-8-page-19-facsimile-13">
+							<surface xml:id="text-8-page-19-facsimile-13-surface-13">
+								<graphic url="http://www.e-codices.unifr.ch/de/csg/0878/321/medium" />
+							</surface>
+						</facsimile>
+					</foreign>
+					<foreign xml:lang="deu-Latn">
+						<lb n="2" />[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden 1895, Taf. XIIb (Facsimile Arx)<facsimile xml:id="text-8-page-19-facsimile-14">
+							<surface xml:id="text-8-page-19-facsimile-14-surface-14">
+								<graphic url="gallee_XIIb_Sang_878_321_facs_Arx.jpg" />
+							</surface>
+						</facsimile>
+					</foreign>
 					<foreign xml:lang="lat-Latn">ABECEDARIUM NORD</foreign>
 					<pb type="manuscript" n="321" />
 					<div n="1" xml:id="text-8-page-19-line-209" type="line" data-level="3">
@@ -810,6 +891,12 @@
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Duess. (Landesbibl.) Ms. B 80, p. 152 <foreign xml:lang="deu-Latn">v</foreign>
 						<lb n="2" />/ 153 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="3" />
+						<facsimile xml:id="text-9-page-21-facsimile-15">
+							<surface xml:id="text-9-page-21-facsimile-15-surface-15">
+								<graphic url="gallee_IIIb_Essen_Heberolle.jpg" />
+							</surface>
+						</facsimile>
 					</foreign>
 					<pb type="manuscript" n="153v" />
 					<div n="3" xml:id="text-9-page-21-line-221" type="line" data-level="3">Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod</div>
@@ -970,6 +1057,12 @@
 					<foreign xml:lang="deu-Latn">Trierer Blutsegen</foreign>
 					<foreign xml:lang="deu-Latn">
 						<lb n="1" />Cod. Trev. (Trier, Stadtbibl.) Hs. 40/1018 8°, p. 19 <foreign xml:lang="deu-Latn">v</foreign>
+						<lb n="2" />
+						<facsimile xml:id="text-11-page-26-facsimile-16">
+							<surface xml:id="text-11-page-26-facsimile-16-surface-16">
+								<graphic url="http://web.uni-marburg.de/hosting/mr/mrfd/Trier_SB_Hs_40_1018_8%b0_Bl_19v.jpg" />
+							</surface>
+						</facsimile>
 					</foreign>
 					<foreign xml:lang="lat-Latn">Ad catarrum1 dic:</foreign>
 					<pb type="manuscript" n="19v" />
@@ -1184,6 +1277,11 @@
 			</div>
 			<div n="Muenzleg." xml:id="text-14" type="text" data-level="1">
 				<foreign xml:lang="deu-Latn">Altsächsische Münzlegende</foreign>
+				<facsimile xml:id="text-14-facsimile-17">
+					<surface xml:id="text-14-facsimile-17-surface-17">
+						<graphic url="ielithes.jpg" />
+					</surface>
+				</facsimile>
 				<div n="Schr174" xml:id="text-14-page-34" type="page" data-level="2">
 					<div n="1" xml:id="text-14-page-34-line-321" type="line" data-level="3">IELITHIS</div>
 					<div n="2" xml:id="text-14-page-34-line-322" type="line" data-level="3">PENING</div>
