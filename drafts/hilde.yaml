@@ -1,5 +1,12 @@
+- facsimiles:
+  - facsimile:
+    - surface[id=p1r]:
+      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg]:
+  - facsimile:
+    - surface[id=p76v]:
+      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg]:
 - body:
-  - pb[type=manuscript,n=1r]
+  - pb[type=manuscript,n=1r,facs=#p1r]
   - lb[type=manuscript,n=1]
   - ab[n=1,type=verse]:
     - Ik gihorta ðat seggen
@@ -88,7 +95,7 @@
     - lb[type=manuscript,n=24]: iu lib habbe
   - ab[n=30,type=verse]:
     - wettu irmingot quad
-    - pb[type=manuscript,n=76v]
+    - pb[type=manuscript,n=76v,facs=#p76v]
     - lb[type=manuscript,n=1]: hiltibraht obana ab heuane
   - ab[n=31,type=verse]:
     - dat du neo dana halt mit sus

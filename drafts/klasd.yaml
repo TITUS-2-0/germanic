@@ -6,6 +6,10 @@
       - foreign[lg=deu-Latn]:
         - Cod. Pal. (Vatic.). lat. 577, p. 6
         - foreign[lg=deu-Latn]: v
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_XIa_Vatic_577_6b.jpg]:
       - line[n=3]:
         - foreign[lg=lat-Latn]: (Abrenuntiatio diaboli.1)
         - pb[type=manuscript,n=6v]
@@ -39,6 +43,10 @@
         - foreign[lg=deu-Latn]:
           - Cod. Pal. (Vatic.). lat. 577, p. 7
           - foreign[lg=deu-Latn]: r
+          - 
+          - facsimile:
+            - surface:
+              - graphic[url=gallee_XIa_Vatic_577_7ao.jpg]:
       - line[n=13]:
         - foreign[lg=lat-Latn]: (Professio fidei.1)
         - pb[type=manuscript,n=7r]
@@ -112,6 +120,9 @@
           Facsimile Sammlung, Leiden 1895, Nr. IXa-c]'
       - section: Ps._4,8
       - pb[type=manuscript,n=1r]
+      - facsimile:
+        - surface:
+          - graphic[url=gallee_IXa_Bernb_Dess_1a_5-11.jpg]:
       - line[n=1]: (Sia) (ſindun) (mid) (themo) (fruhte) (iro)
       - line[n=2]:
         - vueteſ.
@@ -155,6 +166,9 @@
         - (vuillion.)
         - 2
         - section: Ps._4,9
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_IXb_Bernb_Dess_1a_11-21.jpg]:
       - line[n=9]:
         - Ik ſcal ſcla(p)a(n) endi reſtia(n) an themo
         - frethu
@@ -532,6 +546,9 @@
         - (ſcriuo.)
         - 1
         - section: Ps._5,10
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_IXc_Bernb_Dess_2b_15-21.jpg]:
       - line[n=15]:
         - (Th)iu
         - vuarhed
@@ -581,6 +598,10 @@
         - foreign[lg=deu-Latn]: r
         - ', 204(2)'
         - foreign[lg=deu-Latn]: v
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_IIId_Duess_Beichte.jpg]:
         - ', 205(2)'
         - foreign[lg=deu-Latn]: r
       - pb[type=manuscript,n=204(2)r]
@@ -692,6 +713,10 @@
         - foreign[lg=deu-Latn]: v
         - '- 153'
         - foreign[lg=deu-Latn]: r
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_IIIc_Duess_Beda_Hom.jpg]:
       - pb[type=manuscript,n=153r]
       - line[n=3]:
         - Vui lesed tho
@@ -753,8 +778,12 @@
         - Cod. Vind. (ÖNB) 751, p. 188
         - foreign[lg=deu-Latn]: v
         - ', 1-4'
-      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
-          Leiden 1895, Taf. VI'
+      - foreign[lg=deu-Latn]:
+        - '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden
+          1895, Taf. VI'
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_VI_Wien_Beschw_188.jpg]:
       - line[n=4]:
         - foreign[lg=lat-Latn]: (DE EO QVO)D1
         - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAIZ2
@@ -768,8 +797,16 @@
           - Cod. Vind. (ÖNB) 751, p. 188
           - foreign[lg=deu-Latn]: v
           - ', 17-22'
-        - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler,
-            Facsimilesammlung, Leiden 1895, Taf. VI'
+        - foreign[lg=deu-Latn]:
+          - '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
+            Leiden 1895, Taf. VI'
+          - facsimile:
+            - surface:
+              - graphic[url=gallee_VI_Wien_Beschw_188.jpg]:
+          - 
+          - facsimile:
+            - surface:
+              - graphic[url=contra_nessia_spurih_2_Dorow_Denkmaeler_Anh_2.jpg]:
       - line[n=7]:
         - foreign[lg=lat-Latn]: DE HOC /
         - Q
@@ -798,8 +835,16 @@
         - Cod. Vind. (ÖNB) 751, p. 188
         - foreign[lg=deu-Latn]: v
         - ', 22-26'
-      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
-          Leiden 1895, Taf. VI'
+      - foreign[lg=deu-Latn]:
+        - '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden
+          1895, Taf. VI'
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_VI_Wien_Beschw_188.jpg]:
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=contra_nessia_spurih_2_Dorow_Denkmaeler_Anh_2.jpg]:
       - line[n=16]:
         - foreign[lg=lat-Latn]: CONTRA VERMES.5 /
       - line[n=17]: Gang út nesso,   mid nigun. nessiklinon.
@@ -816,10 +861,18 @@
   - text[n=Abeced.]:
     - page[n=W20]:
       - foreign[lg=deu-Latn]: VI. Abecedarium nordmannicum
-      - foreign[lg=deu-Latn]: 'Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen
-          / Codices Electronici Sangallenses:'
-      - foreign[lg=deu-Latn]: '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung,
-          Leiden 1895, Taf. XIIb (Facsimile Arx)'
+      - foreign[lg=deu-Latn]:
+        - 'Cod. Sang. 878, p. 321, Stiftsbibliothek St. Gallen / Codices Electronici
+          Sangallenses:'
+        - facsimile:
+          - surface:
+            - graphic[url=http://www.e-codices.unifr.ch/de/csg/0878/321/medium]:
+      - foreign[lg=deu-Latn]:
+        - '[Johan H. Gallée, Altsaechsische Sprachdenkmäler, Facsimilesammlung, Leiden
+          1895, Taf. XIIb (Facsimile Arx)'
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_XIIb_Sang_878_321_facs_Arx.jpg]:
       - foreign[lg=lat-Latn]: ABECEDARIUM NORD
       - pb[type=manuscript,n=321]
       - line[n=1]:
@@ -882,6 +935,10 @@
         - foreign[lg=deu-Latn]: v
         - / 153
         - foreign[lg=deu-Latn]: v
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=gallee_IIIb_Essen_Heberolle.jpg]:
       - pb[type=manuscript,n=153v]
       - line[n=3]: Van uehuſ ahte ende ahtedeg mudde malteſ / ende ahte brod
       - line[n=4]: tuena ſoſtra erito uiar1 mudde / gerſton uiar uother2 thioreſ holteſ.
@@ -1062,6 +1119,10 @@
       - foreign[lg=deu-Latn]:
         - Cod. Trev. (Trier, Stadtbibl.) Hs. 40/1018 8°, p. 19
         - foreign[lg=deu-Latn]: v
+        - 
+        - facsimile:
+          - surface:
+            - graphic[url=http://web.uni-marburg.de/hosting/mr/mrfd/Trier_SB_Hs_40_1018_8%b0_Bl_19v.jpg]:
       - foreign[lg=lat-Latn]: 'Ad catarrum1 dic:'
       - pb[type=manuscript,n=19v]
       - line[n=1]: Christ uuarth giuund,   tho uuarth he hel gi ok2 gisund.
@@ -1244,6 +1305,9 @@
       - pb[type=manuscript]
   - text[n=Muenzleg.]:
     - foreign[lg=deu-Latn]: Altsächsische Münzlegende
+    - facsimile:
+      - surface:
+        - graphic[url=ielithes.jpg]:
     - page[n=Schr174]:
       - line[n=1]: IELITHIS
       - line[n=2]: PENING
