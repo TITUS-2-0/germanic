@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -37,7 +37,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="non-Latn-x-old-norse">Old Norse</language>
+				<language ident="non-Latn">Old Norse</language>
 				<language ident="deu-Latn">German</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
@@ -48,7 +48,7 @@
 			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg" />
 		</surface>
 	</facsimile>
-	<text xml:lang="non-Latn-x-old-norse">
+	<text xml:lang="non-Latn">
 		<body>
 			<div n="Vsp." xml:id="song-1" type="song" data-level="1">
 				<head>VǪLOSPÁ</head>

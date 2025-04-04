@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -36,12 +36,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-middle-high-german">Middle High German</language>
+				<language ident="gmh-Latn-x-mhg">Middle High German</language>
 				<language ident="deu-Latn">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="gmh-Latn-x-middle-high-german">
+	<text xml:lang="gmh-Latn-x-mhg">
 		<body>
 			<div n="1" xml:id="book-1" type="book" data-level="1">
 				<div n="Prol." xml:id="book-1-chapter-1" type="chapter" data-level="2">

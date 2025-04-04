@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -34,13 +34,13 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-middle-high-german">Middle High German</language>
+				<language ident="gmh-Latn-x-mhg">Middle High German</language>
 				<language ident="deu-Latn">German</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="gmh-Latn-x-middle-high-german">
+	<text xml:lang="gmh-Latn-x-mhg">
 		<body>
 			<div n="2" xml:id="chapter-1" type="chapter" data-level="1">
 				<head xml:lang="deu-Latn">1. Predigt</head>

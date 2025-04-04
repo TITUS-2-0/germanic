@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -34,7 +34,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="deu-Latn-x-old-high-german">German</language>
+				<language ident="goh-Latn-x-old-hg">Old High German (ca. 750-1050)</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
@@ -99,7 +99,7 @@
 			<graphic url="http://www.marburger-repertorien.de/abbildungen/pr/pic_leipzig1493_61v.jpg" />
 		</surface>
 	</facsimile>
-	<text xml:lang="deu-Latn-x-old-high-german">
+	<text xml:lang="goh-Latn-x-old-hg">
 		<body>
 			<div n="1" xml:id="chapter-1" type="chapter" data-level="1">
 				<pb main="yes" type="edition-king" n="331" />

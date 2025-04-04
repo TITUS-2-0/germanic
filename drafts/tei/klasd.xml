@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -39,14 +39,14 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="osx-Latn-x-old-saxon">Old Saxon</language>
+				<language ident="osx-Latn">Old Saxon</language>
 				<language ident="deu-Latn">German</language>
 				<language ident="lat-Latn">Latin</language>
-				<language ident="deu-Latn-x-old-high-german">German</language>
+				<language ident="goh-Latn">Old High German (ca. 750-1050)</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="osx-Latn-x-old-saxon">
+	<text xml:lang="osx-Latn">
 		<body>
 			<div n="Schs.Taufgel." xml:id="text-1" type="text" data-level="1">
 				<div n="W3" xml:id="text-1-page-1" type="page" data-level="2">
@@ -741,7 +741,7 @@
 					</foreign>
 					<div n="4" xml:id="text-6-page-16-line-191" type="line" data-level="3">
 						<foreign xml:lang="lat-Latn">(DE EO QVO)D1</foreign>
-						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAIZ2</foreign>
+						<foreign xml:lang="goh-Latn">SPURIHAIZ2</foreign>
 						<foreign xml:lang="lat-Latn">DICIMUS. /</foreign>
 					</div>
 					<div n="5" xml:id="text-6-page-16-line-192" type="line" data-level="3">
@@ -770,7 +770,7 @@
 						<foreign xml:lang="lat-Latn">DE HOC /</foreign>
 						<lb n="8" />Q <foreign xml:lang="lat-Latn">VO</foreign>
 						<foreign xml:lang="lat-Latn">D</foreign>
-						<foreign xml:lang="deu-Latn-x-old-high-german">SPURIHAZ4</foreign>
+						<foreign xml:lang="goh-Latn">SPURIHAZ4</foreign>
 						<foreign xml:lang="lat-Latn">DICVNT.</foreign>
 					</div>
 					<div n="8" xml:id="text-6-page-16-line-195" type="line" data-level="3">

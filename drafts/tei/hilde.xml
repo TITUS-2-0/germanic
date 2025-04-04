@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -46,7 +46,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="deu-Latn-x-old-high-german">German</language>
+				<language ident="goh-Latn-x-old-hg">Old High German (ca. 750-1050)</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
@@ -62,7 +62,7 @@
 			<graphic url="http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg" type="enhanced" />
 		</surface>
 	</facsimile>
-	<text xml:lang="deu-Latn-x-old-high-german">
+	<text xml:lang="goh-Latn-x-old-hg">
 		<body>
 			<pb type="manuscript" n="1r" facs="#p1r" />
 			<lb type="manuscript" n="1" />
