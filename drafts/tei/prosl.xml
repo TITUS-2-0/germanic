@@ -31,12 +31,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-middle-high-german">Middle High German</language>
+				<language ident="gmh-Latn-x-mhg">Middle High German</language>
 				<language ident="deu-Latn">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="gmh-Latn-x-middle-high-german">
+	<text xml:lang="gmh-Latn-x-mhg">
 		<body>
 			<div xml:id="book-1" type="book" data-level="1">
 				<head xml:lang="deu-Latn">DIE SCHMERZENREICHE KÖNIGIN</head>

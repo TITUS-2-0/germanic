@@ -3603,9 +3603,9 @@
     - l[n=2396]: 'niht anders wan daz eine wort:'
   - lg@couplet[n=1199]:
     - l[n=2397]:
-    - label[lg=fra-Latn-x-old-french]: "'bêâs Tristant, cûrtois Tristant,"
+    - label[lg=fro-Latn]: "'bêâs Tristant, cûrtois Tristant,"
     - l[n=2398]:
-  - label[lg=fra-Latn-x-old-french]: tun cors, ta vie a dê commant!
+  - label[lg=fro-Latn]: tun cors, ta vie a dê commant!
   - lg@couplet[n=1200]:
     - l[n=2399]: dîn schoener lîp, dîn süeze leben
     - l[n=2400]: daz sî hiute gote ergeben!'
@@ -25105,7 +25105,7 @@
   - lg@couplet[n=8350]:
     - l[n=16699]: 'und was der Minnen benant:'
     - l[n=16700]:
-  - label[lg=fra-Latn-x-old-french]: la fossiure a la gent amant
+  - label[lg=fro-Latn]: la fossiure a la gent amant
   - lg@couplet[n=8351]:
     - l[n=16701]: 'daz kiut: der minnenden hol.'
     - l[n=16702]: der name gehal dem dinge ouch wol.
