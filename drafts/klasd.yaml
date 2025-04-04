@@ -786,7 +786,7 @@
             - graphic[url=gallee_VI_Wien_Beschw_188.jpg]:
       - line[n=4]:
         - foreign[lg=lat-Latn]: (DE EO QVO)D1
-        - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAIZ2
+        - foreign[lg=goh-Latn]: SPURIHAIZ2
         - foreign[lg=lat-Latn]: DICIMUS. /
       - line[n=5]:
         - foreign[lg=lat-Latn]: Si in dextero pede contigerit. si in sinistro sanguis
@@ -812,7 +812,7 @@
         - Q
         - foreign[lg=lat-Latn]: VO
         - foreign[lg=lat-Latn]: D
-        - foreign[lg=deu-Latn-x-old-high-german]: SPURIHAZ4
+        - foreign[lg=goh-Latn]: SPURIHAZ4
         - foreign[lg=lat-Latn]: DICVNT.
       - line[n=8]:
         - PRIMU

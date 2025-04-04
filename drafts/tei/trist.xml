@@ -36,13 +36,13 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-middle-high-german">Middle High German</language>
+				<language ident="gmh-Latn-x-mhg">Middle High German</language>
 				<language ident="deu-Latn">German</language>
-				<language ident="fra-Latn-x-old-french">French</language>
+				<language ident="fro-Latn">Old French (842-ca. 1400)</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="gmh-Latn-x-middle-high-german">
+	<text xml:lang="gmh-Latn-x-mhg">
 		<body>
 			<milestone unit="chapter" n="1" xml:id="milestone-1" />
 			<label xml:lang="deu-Latn">Prolog</label>
@@ -4846,10 +4846,10 @@
 			</lg>
 			<lg n="1199" type="couplet" xml:id="lg-1199">
 				<l n="2397" xml:id="lg-1199-l-2397" />
-				<label xml:lang="fra-Latn-x-old-french">'bêâs Tristant, cûrtois Tristant,</label>
+				<label xml:lang="fro-Latn">'bêâs Tristant, cûrtois Tristant,</label>
 				<l n="2398" xml:id="lg-1199-l-2398" />
 			</lg>
-			<label xml:lang="fra-Latn-x-old-french">tun cors, ta vie a dê commant!</label>
+			<label xml:lang="fro-Latn">tun cors, ta vie a dê commant!</label>
 			<lg n="1200" type="couplet" xml:id="lg-1200">
 				<l n="2399" xml:id="lg-1200-l-2399">dîn schoener lîp, dîn süeze leben</l>
 				<l n="2400" xml:id="lg-1200-l-2400">daz sî hiute gote ergeben!'</l>
@@ -33500,7 +33500,7 @@
 				<l n="16699" xml:id="lg-8350-l-16699">und was der Minnen benant:</l>
 				<l n="16700" xml:id="lg-8350-l-16700" />
 			</lg>
-			<label xml:lang="fra-Latn-x-old-french">la fossiure a la gent amant</label>
+			<label xml:lang="fro-Latn">la fossiure a la gent amant</label>
 			<lg n="8351" type="couplet" xml:id="lg-8351">
 				<l n="16701" xml:id="lg-8351-l-16701">daz kiut: der minnenden hol.</l>
 				<l n="16702" xml:id="lg-8351-l-16702">der name gehal dem dinge ouch wol.</l>
