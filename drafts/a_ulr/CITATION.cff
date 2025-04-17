@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: The Middle High German Books on The Great Alexander'
+version: unreleased
+contributors:
+- name: Stefanie Heine
+  roles:
+  - digitization
+- name: Ralf Schlechtweg-Jahn
+  roles:
+  - digitization
+- name: Ralf Schlechtweg-Jahn
+  roles:
+  - TITUS version
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-03-07
+message: 'Derived from: von Eschenbach, Ulrich. 1888. Alexander. Edited by Wendelin
+  Toischer. Tübingen.'
+preferred-citation: "Digital version of The Middle High German Books on The Great\
+  \ Alexander' by Ulrich von Eschenbach (unreleased). 2025-03-07. By: Jost Gippert,\
+  \ Stefanie Heine, Florian Matter, Ralf Schlechtweg-Jahn. In: Carling, Gerd & Jost\
+  \ Gippert (2025). TITUS 2.0. Frankfurt: Goethe University."

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Das Buch der Natur
+version: unreleased
+contributors:
+- name: Koyka Stoyanova
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-03-06
+message: 'Derived from: von Megenberg, Konrad. 1861. Das Buch Der Natur: Die Erste
+  Naturgeschichte in Deutscher Sprache. Edited by Franz Pfeiffer. Stuttgart.'
+preferred-citation: 'Digital version of Das Buch der Natur by Konrad von Megenburg
+  (unreleased). 2025-03-06. By: Jost Gippert, Florian Matter, Koyka Stoyanova. In:
+  Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.'

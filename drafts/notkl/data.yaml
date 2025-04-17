@@ -1,0 +1,334 @@
+- body:
+  - book[n=Part.Log.]:
+    - pb[type=edition-pip]: 591
+    - pb[type=manuscript]: |-
+        Page of ms. D: D51v  
+        Line: 14
+    - foreign[lg=lat-Latn]: INCIPIT DE PARTIBUS LOICĘ.
+    - pb[type=manuscript-2]: E91v
+    - pb[type=manuscript-2]: G64va
+    - pb[type=manuscript-2]: F267
+    - lb: 15
+    - foreign[lg=lat-Latn]: Quot sunt partes logicę? quinque secundum aristotilem.
+        Sextam partem
+    - pb[type=manuscript-2]: G64vb
+    - lb: 16
+    - foreign[lg=lat-Latn]: addidit aristotelicus porphirius. Quę sunt? isagoge .
+        cathegorie .
+    - lb: 17
+    - foreign[lg=lat-Latn]: periermenie . prima analitica . secunda analitica . topica.
+    - lb: 18
+    - foreign[lg=lat-Latn]: Quid consideratur in isagogis? quid sit genus . quit species
+        . quid
+    - lb: 19
+    - foreign[lg=lat-Latn]: diferentia . quid proprium . quid accidens. Quid est genus?
+    - pb[type=manuscript]: |-
+        Page of ms. D: D52r  
+        Line: 1
+    - foreign[lg=lat-Latn]: Genus est . quod de pluribus specie differentibus in eo
+        quod quid sit pre\dicatur.
+    - lb: 2
+    - foreign[lg=lat-Latn]: Species est quę ponitur sub genere . et de qua genus in
+        eo quod
+    - lb: 3
+    - foreign[lg=lat-Latn]: quid sit prędicatur. Item species est . quę de pluribus
+        numero differen\tibus
+    - lb: 4
+    - foreign[lg=lat-Latn]: in eo quod quid sit predicatur. Differentia est quę de
+        pluribus
+    - lb: 5
+    - foreign[lg=lat-Latn]: specie differentibus in eo quod quale sit predicatur.
+        Proprium
+    - lb: 6
+    - foreign[lg=lat-Latn]: dialectici quadrifariam diuidunt . nam id quod alicui
+        speciei
+    - lb: 7
+    - foreign[lg=lat-Latn]: accidit . soli etsi non omni . vt homini accidit . medicum
+        esse
+    - lb: 8
+    - foreign[lg=lat-Latn]: uel geometrem . et quod omni etsi non soli . vt homini
+        bipedem esse.
+    - lb: 9
+    - foreign[lg=lat-Latn]: Et quod soli . et omni . et aliquando . vt homini in senectute
+    - lb: 10
+    - foreign[lg=lat-Latn]: canescere. Quartum est in quo concurrit . soli homini
+        risibile
+    - pb[type=edition-pip]: 592
+    - lb: 11
+    - foreign[lg=lat-Latn]: esse . quamuis non semper rideat . tamen naturam habet
+        ridendi .
+    - lb: 12
+    - foreign[lg=lat-Latn]: quia quicquid risibile est . homo est . et quicquid homo
+        est risibile est .
+    - lb: 13
+    - foreign[lg=lat-Latn]: et quicquid equus est . hinnibile est . et quicquid hinnibile
+        est ęquvs est.
+    - lb: 14
+    - foreign[lg=lat-Latn]: Accidens est . quod adest . et quod abest . id est quod
+        accedit et recedit .
+    - lb: 15
+    - foreign[lg=lat-Latn]: propter subiecti corrupcionem . et quod neque genus .
+        nec species . nec
+    - lb: 16
+    - foreign[lg=lat-Latn]: differentia . nec proprium est. Quid tractatur in cathegoriis?
+    - lb: 17
+    - foreign[lg=lat-Latn]: Prima rerum significatio . et quid singule dictiones significent
+    - lb: 18
+    - foreign[lg=lat-Latn]: Vtrum substanciam . an accidens. Et si substanciam . quid
+        in
+    - pb[type=manuscript-2]: F268
+    - lb: 19
+    - foreign[lg=lat-Latn]: substancia . generalem . uel specialem . vniuersalem .
+        an particularem.
+    - pb[type=manuscript]: |-
+        Page of ms. D: D52v  
+        Line: 1
+    - foreign[lg=lat-Latn]: Primam an secundam . partes primarum . uel partes secundarum
+    - lb: 2
+    - foreign[lg=lat-Latn]: substantiarum. Subiecta<m> an prędicata<m> . superiorem
+        an inferiorem.
+    - lb: 3
+    - foreign[lg=lat-Latn]: Quid narratur in periermeniis? quid composite . et quid
+        coniuncte
+    - lb: 4
+    - foreign[lg=lat-Latn]: dictiones significent. Vt cicero disputat . cicero non
+        dis\putat .
+    - lb: 5
+    - foreign[lg=lat-Latn]: homo currit homo non currit . et proloquia. Omnis <ho>mo
+        animal est .
+    - lb: 6
+    - foreign[lg=lat-Latn]: uniuersale dedicatiuum . Nullus homo animal est uniuersa\le
+    - lb: 7
+    - foreign[lg=lat-Latn]: abdicatiuum. Quidam homo animal est . particulare de\dicatiuum
+        .
+    - lb: 8
+    - foreign[lg=lat-Latn]: quidam homo animal non est . particulare
+    - pb[type=manuscript-2]: P3,61r
+    - pb[type=manuscript-2]: Be2v
+    - lb: 9
+    - foreign[lg=lat-Latn]: abdicatiuum. Quid consideratur in primis analiticis? sillogis\tica
+    - lb: 10
+    - foreign[lg=lat-Latn]: quae est communis regula . omnium sillogismorum . neces\sariorum
+        .
+    - lb: 11
+    - foreign[lg=lat-Latn]: et probabilium . cathegoricorum . et ippothe\ticorum .
+    - lb: 12
+    - foreign[lg=lat-Latn]: id est predicatiuorvm et conditionalium. Quid
+    - pb[type=edition-pip]: 593
+    - lb: 13
+    - foreign[lg=lat-Latn]: tractatur in secundis analiticis? Apodictica id est demon\stratiua
+    - lb: 14
+    - foreign[lg=lat-Latn]: quę demonstrat ueritatem . id est necessarios sillo\gismos.
+    - pb[type=manuscript-2]: H75r
+    - pb[type=manuscript-2]: J46r
+    - lb: 15
+    - foreign[lg=lat-Latn]: Quid consideratur in topicis? Dialectica id est sedecim
+    - lb: 16
+    - foreign[lg=lat-Latn]: loca argumentorum. Quot sunt loca argumentorum?
+    - lb: 17
+    - foreign[lg=lat-Latn]: XVI. Quę? a toto . a parte . a nota . id est ab ethimolo\gia
+        .
+    - lb: 18
+    - foreign[lg=lat-Latn]: hęc tria loca argumentorum sunt intrinsecus . hoc
+    - pb[type=manuscript-2]: J46v
+    - lb: 19
+    - foreign[lg=lat-Latn]: est in ipso negocio . extrinsecus autem sunt ista tredecim
+        .
+    - pb[type=manuscript]: |-
+        Page of ms. D: D53r  
+        Line: 1
+    - foreign[lg=lat-Latn]: quę sequuntur. A con[g]iugatis . a genere . a specie.
+        Ab adiunctis .
+    - lb: 2
+    - foreign[lg=lat-Latn]: A simili. A dissimili. Ab antecedentibus A consequentibus
+        A contra\riis.
+    - lb: 3
+    - foreign[lg=lat-Latn]: A repugnantibus Ab efficientibus id est a causis. Ab effectis
+    - lb: 4
+    - foreign[lg=lat-Latn]: id est ab euentu. A comparacione quę est triplex . a maiori
+        . a mino\ri .
+    - lb: 5
+    - foreign[lg=lat-Latn]: a pari. A toto fit argumentum ad partem . ita. Si mundvs
+    - lb: 6
+    - foreign[lg=lat-Latn]: regitur diuina prouidentia . quomodo fiet vt non homo
+        .
+    - lb: 7
+    - foreign[lg=lat-Latn]: eius nanque pars est non uilis. Item. Si quis habuit argentea
+    - lb: 8
+    - foreign[lg=lat-Latn]: uasa et absque liberis moriens alicui legauit totam pecuniam
+        .
+    - lb: 9
+    - foreign[lg=lat-Latn]: cuius sunt illa argentea uasa nisi illius cui legauit
+        totam
+    - lb: 10
+    - foreign[lg=lat-Latn]: peccuniam. Item omnibus membris validus pede non claudicat.
+    - lb: 11
+    - foreign[lg=lat-Latn]: Et tevtonice.
+    - Târ-der íst ein fúnt úbelero féndingo Tár nist
+    - lb[n=12]: nehéiner guot Vnde dârder íst ein hûs follez úbelero lîuto
+    - lb[n=13]: Târ níst nehéiner chústic.
+    - foreign[lg=lat-Latn]: A parte fit argumentum ad totum ita .
+    - lb: 14
+    - foreign[lg=lat-Latn]: Vno membro languente compatiuntur omnia membra. Et in
+    - lb: 15
+    - foreign[lg=lat-Latn]: euangelio. Si oculus tuus fuerit simplex totum corpus
+        luci\dum
+    - lb: 16
+    - foreign[lg=lat-Latn]: erit . et si nequam totum corpus tuum tenebrosum erit.
+        Teu\tonice.
+    - lb[n=17]: Fóne_demo límble so_begínnit tír húnt léder éz\zen.
+    - lb: 18
+    - foreign[lg=lat-Latn]: A nota hoc est ab ethimoloia fit argumentum teutonice
+    - lb[n=19]: Dir árgo dér íst dér úbelo. Ter-der stúrzzet dér uállet
+    - pb[type=manuscript]: |-
+        Page of ms. D: D53v  
+        Line: 1
+    - foreign[lg=lat-Latn]: Latine etiam qui amat parsimoniam non odit abstinentiam
+        . hęc
+    - lb: 2
+    - foreign[lg=lat-Latn]: tria loca sunt intrinsecus hoc est in ipso negotio . extrinsecus
+        autem sunt haec
+    - pb[type=edition-pip]: 594
+    - pb[type=manuscript-2]: J47r
+    - lb: 3
+    - foreign[lg=lat-Latn]: tredecim quę secuntur. A coniugatis fit argumentum . vt
+        est ci\ceronis
+    - lb: 4
+    - foreign[lg=lat-Latn]: exemplum si compascuus ager est licet eum compascere
+    - lb: 5
+    - foreign[lg=lat-Latn]: Si rex est oportet eum regere. Si dux est oportet eum
+        ducere
+    - lb: 6
+    - foreign[lg=lat-Latn]: Si consul est oportet eum consulere. Si doctor est oportet
+        eum docere
+    - lb: 7
+    - foreign[lg=lat-Latn]: Si scriptor est oportet eum scribere. Et ęua si de uiro
+        sumpta est
+    - lb: 8
+    - foreign[lg=lat-Latn]: uirago est Et in euangelio . si filivs uos liberauerit
+        uere liberi
+    - lb: 9
+    - foreign[lg=lat-Latn]: eritis. Teutonice.
+    - Dír scólo dír scófficit îo Vnde dir gouh
+    - lb[n=10]: dér gúccot îo.
+    - foreign[lg=lat-Latn]: A genere fit argumentum . ita. Si uirtus bona
+    - pb[type=manuscript-2]: H75v
+    - lb: 11
+    - foreign[lg=lat-Latn]: est castitas quoque bona est. Vnde in uirgilio varium
+        et mutabi\le
+    - lb: 12
+    - foreign[lg=lat-Latn]: semper est femina. Ergo et dido uarium et mutabile uide\atur.
+    - lb: 13
+    - foreign[lg=lat-Latn]: Teutonice.
+    - V́be_man álliu dîer fúrtin sál nehéin
+    - lb[n=14]: só harto só den mán.
+    - foreign[lg=lat-Latn]: A specie fit argumentum . ita . si homo ra\cionabilis
+    - lb: 15
+    - foreign[lg=lat-Latn]: est non omne animal brutum est. Item possumus coniec\tari
+    - lb: 16
+    - foreign[lg=lat-Latn]: omne genus mulierum esse auarum . quia euriphila uitam
+    - lb: 17
+    - foreign[lg=lat-Latn]: uendidit auro uiri. Ab adiunctis fit argumentum . ita.
+    - lb: 18
+    - foreign[lg=lat-Latn]: Vbi dolor ibi manus . ubi amor ibi oculus . ubi mors ibi
+        timor.
+    - lb: 19
+    - foreign[lg=lat-Latn]: A simili locatus alicui bos aut equus si casu mortuus
+        fuerit
+    - pb[type=manuscript]: |-
+        Page of ms. D: D54r  
+        Line: 1
+    - foreign[lg=lat-Latn]: non iure repetitur . quia nec seruus alicui comes aut
+        operari\us
+    - lb: 2
+    - foreign[lg=lat-Latn]: datus si casu mortuus fuerit restituitur. A dissimili.
+        Non
+    - lb: 3
+    - foreign[lg=lat-Latn]: si holeribus uesci licet propterea ellebore aut cicuta
+        herbis
+    - lb: 4
+    - foreign[lg=lat-Latn]: uenenosis uesci oportet. Differt namque multum inter hortu\lanas
+    - lb: 5
+    - foreign[lg=lat-Latn]: et agrestes Nec sic alea sicut trocho ludendum
+    - lb: 6
+    - foreign[lg=lat-Latn]: est. Dissimilis est enim simplex et contentiosus ludus.
+        Ab ante\cedentibus.
+    - lb: 7
+    - foreign[lg=lat-Latn]: Si semel et secundo fefellit forsitan et tertio
+    - pb[type=manuscript-2]: J47v
+    - lb: 8
+    - foreign[lg=lat-Latn]: fefellerit. Et si omnes maiores mortui sunt quomodo mino\res
+    - lb: 9
+    - foreign[lg=lat-Latn]: qui successerunt eis inmortales sunt? Et si nupsit uirgo
+    - lb: 10
+    - foreign[lg=lat-Latn]: non est. A consequentibus Si peperit cum uiro concubuit.
+    - lb: 11
+    - foreign[lg=lat-Latn]: Si cicatrix est uulnus fuit. Si mortuus est antea uixit.
+        Si
+    - pb[type=edition-pip]: 595
+    - lb: 12
+    - foreign[lg=lat-Latn]: senex est quondam iuuenis. A contrariis. Si mors fugenda
+    - lb: 13
+    - foreign[lg=lat-Latn]: est vita est apetenda. Et si stulticia est fugenda sapientia
+    - lb: 14
+    - foreign[lg=lat-Latn]: est apetenda. Si sanus est imbecillis non est. Et si in
+        uiridi
+    - lb: 15
+    - foreign[lg=lat-Latn]: ligno haec faciunt . in arido quid fiet?
+    - V́be dír
+    - lb[n=16]: wé íst sô_níst dír áber nîeht wóla.
+    - foreign[lg=lat-Latn]: A repugnantibus
+    - lb: 17
+    - foreign[lg=lat-Latn]: Non potueris simul parasitus esse et non ridiculus. Qui
+        non
+    - lb: 18
+    - foreign[lg=lat-Latn]: colligit mecum . spargit. Et si satanas in se ipso diuisus
+        est .
+    - lb: 19
+    - foreign[lg=lat-Latn]: quomodo stabit regnum eius?
+    - Túne máht niêht mít
+    - pb[type=manuscript]: |-
+        Page of ms. D: D54v  
+        Line: 1
+    - eínero dóh-der zeuuena eidima máchon. Nóh tú_nemáht
+    - lb[n=2]: nieht fóllén múnt háben mélues únde dóh blásen
+    - lb: 3
+    - foreign[lg=lat-Latn]: Ab efficientibus id est a causis. Intercessio lunę est
+        defectio
+    - lb: 4
+    - foreign[lg=lat-Latn]: solis. Et percussio aeris . vocis est effeccio. Teutonice.
+    - Sôz
+    - pb[type=manuscript-2]: X352
+    - lb[n=5]: régenôt só_náz-zênt tî bôuma Sô iz uuât só uuágôt íz
+    - lb: 6
+    - foreign[lg=lat-Latn]: Ab effectis . uel ab euentu . eodem possumus <uti> exemplo.
+        Si audieris
+    - lb: 7
+    - foreign[lg=lat-Latn]: sonum scias aerem percussum et si eclipsin solis videas
+        inter\uentum
+    - lb: 8
+    - foreign[lg=lat-Latn]: lunae non dubites. A comparacione tribus modis
+    - lb: 9
+    - foreign[lg=lat-Latn]: A maiori Ne mireris . qui patrem occidit . si fratrem
+        cedat;
+    - lb: 10
+    - foreign[lg=lat-Latn]: Et item Si patrem familias beelzebub uocauerunt. Quan\to
+    - lb: 11
+    - foreign[lg=lat-Latn]: magis domesticos eius? A minori. Si pro furto quis
+    - lb: 12
+    - foreign[lg=lat-Latn]: iure damnatur quid pro sacrileio? Et item. Si in minimo
+    - lb: 13
+    - foreign[lg=lat-Latn]: infidelis est . quod maius est? quis commendabit ei? A
+        pari .
+    - lb: 14
+    - foreign[lg=lat-Latn]: ut apostolus ait. Quoniam qui talia agunt digni sunt morte.
+        Et
+    - lb: 15
+    - foreign[lg=lat-Latn]: non solum qui faciunt . sed et qui consentiunt facientibus
+        Item
+    - lb: 16
+    - foreign[lg=lat-Latn]: Merito diues ille guttam aquae non impetrauit . qui
+    - lb: 17
+    - foreign[lg=lat-Latn]: micas panis lazaro negauit.
+    - V́bilo tûo bezzeres
+    - lb[n=18]: né-wâne //

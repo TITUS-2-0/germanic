@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: De Musica
+version: unreleased
+contributors:
+- name: Nikolaus Neagu
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-03-18
+message: 'Derived from: der Deutsche, Notker. 1996. Die Kleineren Schriften. Edited
+  by James C. King and Petrus W. Tax. Die Werke Notkers Des Deutschen. Tübingen: Niemeyer.'
+preferred-citation: 'Digital version of De Musica by Notker (unreleased). 2025-03-18.
+  By: Jost Gippert, Florian Matter, Nikolaus Neagu. In: Carling, Gerd & Jost Gippert
+  (2025). TITUS 2.0. Frankfurt: Goethe University.'

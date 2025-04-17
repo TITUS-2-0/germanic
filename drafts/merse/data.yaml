@@ -1,0 +1,34 @@
+- body:
+  - text[n=Mers.1]:
+    - pb[type=manuscript]: 1
+    - verse[n=1]: Eiris sazun idisi sazun hera duoder
+    - verse[n=2]:
+      - suma
+      - hapt heptidun suma heri lezidun
+    - verse[n=3]:
+      - suma
+      - clu
+      - bodun
+      - umbi cuoniouuidi
+    - verse[n=4]:
+      - insprinc
+      - hapt
+      - bandun
+      - inuar uigandun.
+  - text[n=Mers.2]:
+    - pb[type=manuscript]: 1
+    - verse[n=1]: Phol ende uuodan uuorun zi holza
+    - verse[n=2]:
+      - du uuart
+      - demo balderes uolon sin uuoz birenkit
+    - verse[n=3]: thu biguol en sinhtgunt. sunna era suister
+    - verse[n=4]: thu biguol en friia uolla era suister
+    - verse[n=5]:
+      - thu
+      - biguol en uuodan so he uuola conda
+    - verse[n=6]:
+      - sose benrenki sose bluotrenki. sose
+      - lidi
+      - renki
+    - verse[n=7]: ben zi bena bluot zi bluoda
+    - verse[n=8]: lid zi geliden sose gelimida sin.

@@ -1,0 +1,146 @@
+- body:
+  - book[n=Comp.]:
+    - manuscript[n=Isny._554/1_C]:
+      - pb[n=2va,type=manuscript]:
+        - lb[n=12,type=manuscript]:
+            foreign[lg=lat-Latn]: IT[ERU]M
+        - lb[n=13,type=manuscript]:
+            foreign[lg=lat-Latn]: INCIPIT COMPOTUS NOTKE\RI
+        - lb[n=14,type=manuscript]:
+            foreign[lg=lat-Latn]: MAGISTRI TEUTONICE
+        - lb[n=15,type=manuscript]:
+          - foreign[lg=lat-Latn]: I.
+          - foreign[lg=lat-Latn]: UBI PASCH[A] FIAT
+        - lb[n=16,type=manuscript]:
+          - Eín
+          - foreign[lg=lat-Latn]: questio
+          - íst
+          - foreign[lg=lat-Latn]: in compoto,
+          - ze
+        - lb[n=17,type=manuscript]: déro dîe andere séhent.
+        - lb[n=18,type=manuscript]: Táz ist tiu, uuâr die ôstrûn
+        - lb[n=19,type=manuscript]: stân súlin. [Dé]s uuirt spûoti\go
+        - lb[n=20,type=manuscript]: 'sus ka[ntu]uúrtet: Sô'
+        - lb[n=21,type=manuscript]:
+          - êrist
+          - foreign[lg=lat-Latn]: ple[nilu]nium
+          - keskihet
+        - lb[n=22,type=manuscript]: nâh ébe[nná]htin, án démo
+        - lb[n=23,type=manuscript]:
+          - foreign[lg=lat-Latn]: plenilu[nio]
+          - uuérdent ôstrûn.
+        - lb[n=24,type=manuscript]: Ében[náhte sín]t iárlichen
+        - lb[n=25,type=manuscript]:
+          - foreign[lg=lat-Latn]: in XII. kalendis aprilis.
+          - Aber
+          - foreign[lg=lat-Latn]: ple\nilunium
+      - pb[n=2vb,type=manuscript]:
+        - lb[n=1,type=manuscript]: íst a[ller]o mâno[d]li\chen
+        - lb[n=2,type=manuscript]:
+          - foreign[lg=lat-Latn]: in XV. luna.
+          - Chumit tíu
+        - lb[n=3,type=manuscript]: mórgenôn af[te]r dîen ében\náhten
+        - lb[n=4,type=manuscript]:
+          - foreign[lg=lat-Latn]: in XI. kalendis aprilis,
+          - sô íst
+        - lb[n=5,type=manuscript]: táz tér ôstertág, úbe tâz
+        - lb[n=6,type=manuscript]: súnnûntág ist. Úbe iz sún\nûntág
+        - lb[n=7,type=manuscript]: níst, sô êrist súnnûn\tág
+        - lb[n=8,type=manuscript]: chúmit, sô sínt óuh ôstrûn
+        - lb[n=9,type=manuscript]: chómen. Fóne díu ferním
+        - lb[n=10,type=manuscript]:
+          - 'iz áber: Suuenne êrist'
+          - foreign[lg=lat-Latn]: ple\nilunium
+        - lb[n=11,type=manuscript]:
+          - keskéhe nâh
+          - foreign[lg=lat-Latn]: equi\noctio
+        - lb[n=12,type=manuscript]:
+          - foreign[lg=lat-Latn]: in martio
+          - âlde
+          - foreign[lg=lat-Latn]: in a\prili,
+        - lb[n=13,type=manuscript]: sô hûote tes sunnûnta\ges,
+        - lb[n=14,type=manuscript]: târ hábist tû ôstrûn.
+        - lb[n=15,type=manuscript]: Tés neuuírdet nîomer uuéhsel.
+        - lb[n=16,type=manuscript]:
+          - foreign[lg=lat-Latn]: II.
+          - foreign[lg=lat-Latn]: QUOD PASCHA TYPICUM SIT
+        - lb[n=17,type=manuscript]: Zíu sól man áber pîten, únz
+        - lb[n=18,type=manuscript]:
+          - foreign[lg=lat-Latn]: ęquinoctium
+          - fergánge unde
+        - lb[n=19,type=manuscript]:
+          - foreign[lg=lat-Latn]: plenilunium
+          - chóme? Âne dáz
+        - lb[n=20,type=manuscript]: táz uuâre ôstrûn sínt un\de
+        - lb[n=21,type=manuscript]:
+          - uuâriu
+          - foreign[lg=lat-Latn]: resurrectio ani\mę,
+        - lb[n=22,type=manuscript]: úbe uuír dîa fínstri
+        - lb[n=23,type=manuscript]: dero súndôn úberuuíndên
+        - lb[n=24,type=manuscript]: mít témo lîehte dero gûoti,
+        - lb[n=25,type=manuscript]: also díu súnna pegúnnet [úberuuíndên díu náht.]
+  - book[n=Comp.Lat.]:
+    - manuscript[n=Zur._Car._C_176]:
+        pb[n=232r,type=manuscript]:
+        - lb[n=1,type=manuscript]:
+            foreign[lg=lat-Latn]: DE QUATUOR QUĘSTIONIBUS COMPOTI.
+        - lb[n=2,type=manuscript]:
+            foreign[lg=lat-Latn]: PRINCIPALIS COMPOTI QUĘSTIO AD QUAM CĘTERE
+        - lb[n=3,type=manuscript]:
+            foreign[lg=lat-Latn]: spectant . illa est . vbi pascha fiat . Cuius rei
+              . breuis
+        - lb[n=4,type=manuscript]:
+            foreign[lg=lat-Latn]: in hunc modum datur responsio . quia singulis annis
+        - lb[n=5,type=manuscript]:
+            foreign[lg=lat-Latn]: post uernale ęquinoctium quod primum occurrit pleniluni\um
+              .
+        - lb[n=6,type=manuscript]:
+            foreign[lg=lat-Latn]: in eo pascha celebrandum est. Est autem ęquinoctium
+        - lb[n=7,type=manuscript]:
+          - foreign[lg=lat-Latn]: uernale . in xii. kalendis
+          - A
+          - foreign[lg=lat-Latn]: prilis
+          - foreign[lg=lat-Latn]: . et omne plenilunium
+        - lb[n=8,type=manuscript]:
+            foreign[lg=lat-Latn]:
+            - in
+            - 
+            - xv
+            - foreign[lg=lat-Latn]: a
+            - luna cernitur. Si ergo
+            - 
+            - xv
+            - foreign[lg=lat-Latn]: a
+            - luna quę post ęquino\ctium
+        - lb[n=9,type=manuscript]:
+            foreign[lg=lat-Latn]: prima declaratur in dominicum diem inciderit . in
+              ea
+        - lb[n=10,type=manuscript]:
+            foreign[lg=lat-Latn]: procul dubio pascha domini est . Si autem nondum
+              adest dominicvs
+        - lb[n=11,type=manuscript]:
+            foreign[lg=lat-Latn]: dies . mox ut aduenerit . simul et pascha erit.
+              Nec
+        - lb[n=12,type=manuscript]:
+          - foreign[lg=lat-Latn]: huius regulę perturbatio ulla erit umquam.
+          - foreign[lg=lat-Latn]: QUOD TY\PICUM
+        - lb[n=13,type=manuscript]:
+          - foreign[lg=lat-Latn]: Hoc autem fit certi causa mysterii.
+          - foreign[lg=lat-Latn]: SIT PASCHA.
+        - lb[n=14,type=manuscript]:
+            foreign[lg=lat-Latn]: Nam ut post equinoctium dies solet supercrescere
+              noctem . et
+        - lb[n=15,type=manuscript]:
+            foreign[lg=lat-Latn]: in plenilunio lunaris splendor ad superiora reuol\uitur
+              .
+        - lb[n=16,type=manuscript]:
+            foreign[lg=lat-Latn]: ita in nobis fieri oportet . si digne uolumus pa\scha
+        - lb[n=17,type=manuscript]:
+          - foreign[lg=lat-Latn]: celebrare. Est enim uera resurrectio
+          - A
+          - foreign[lg=lat-Latn]: ni\mę .
+        - lb[n=18,type=manuscript]:
+            foreign[lg=lat-Latn]: peccatorum tenebras luce pietatis et fidei uince\re
+              .
+        - lb[n=19,type=manuscript]:
+            foreign[lg=lat-Latn]: et a terrenis mentem ad cęlestia uertere.

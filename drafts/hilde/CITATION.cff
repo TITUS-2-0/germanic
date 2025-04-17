@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Hildebrandlied
+version: unreleased
+contributors:
+- name: Rolf-Jürgen Jacob
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-01-11
+message: 'Derived from: authors, Various. n.d..'
+preferred-citation: 'Digital version of Hildebrandlied (unreleased). 2025-01-11. By:
+  Jost Gippert, Rolf-Jürgen Jacob, Florian Matter. In: Carling, Gerd & Jost Gippert
+  (2025). TITUS 2.0. Frankfurt: Goethe University.'

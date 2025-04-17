@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Edda
+version: unreleased
+contributors:
+- name: David Stifter
+  roles:
+  - digitization
+- name: Sigurdur H. Palsson
+  roles:
+  - digitization
+- name: Fabrizio Ducci
+  roles:
+  - correction
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-01-08
+message: 'Derived from: Neckel, Gustav. 1983. Edda, Die Lieder Des Codex Regius Nebst
+  Verwandten Denkmälern. 5th ed. Heidelberg: Carl Winter.'
+preferred-citation: 'Digital version of Edda (unreleased). 2025-01-08. By: Fabrizio
+  Ducci, Jost Gippert, Florian Matter, Sigurdur H. Palsson, David Stifter. In: Carling,
+  Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.'
