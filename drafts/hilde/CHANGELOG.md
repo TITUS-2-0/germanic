@@ -10,9 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - initial creation (2025-01-11)
-- klasd; hilde (2025-01-11)
-- structure (2025-01-13)
-- ab@verse (2025-03-03)
+- update structure (2025-01-13)
+- `ab@verse` (2025-03-03)
 - smoother breaks (2025-03-14)
 - add facsimiles (2025-03-21)
 - remove metadata facsimiles (2025-03-26)

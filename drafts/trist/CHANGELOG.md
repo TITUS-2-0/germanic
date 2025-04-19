@@ -11,6 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - initial creation (2025-03-05)
 - valid version (2025-03-05)
-- fix TEI namespace (2025-03-28)
-- valid version (2025-04-01)
 - language update (2025-04-04)

@@ -10,9 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - initial creation (2025-01-11)
-- klasd; hilde (2025-01-11)
-- lists, not dicts (2025-02-05)
-- xml:lang (2025-03-05)
+- use lists, not dicts (2025-02-05)
 - cleanup (2025-03-14)
 - facsimiles (2025-03-21)
 - language update (2025-04-04)
