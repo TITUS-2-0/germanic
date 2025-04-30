@@ -1,10 +1,4 @@
-- facsimiles:
-  - facsimile:
-    - surface[id=p1r]:
-      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg]:
-  - facsimile:
-    - surface[id=p76v]:
-      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg]:
+text:
 - body:
   - pb[type=manuscript,n=1r,facs=#p1r]
   - lb[type=manuscript,n=1]
@@ -207,3 +201,10 @@
     - unti im iro lintun luttilo wurtun ·
   - ab[n=68,type=verse]:
     - giwigan miti wabnum
+facsimiles:
+- facsimile:
+  - surface[id=p1r]:
+    - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb1x.jpg]:
+- facsimile:
+  - surface[id=p76v]:
+    - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hildebrd/hildeb2x.jpg]:

@@ -1,7 +1,4 @@
-- facsimiles:
-  - facsimile:
-    - surface[id=facs-1]:
-      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg]:
+text:
 - body:
   - song[n=Vsp.]:
     - head: VǪLOSPÁ
@@ -9206,3 +9203,7 @@
       - l[n=8]: aðra í tyfrom.
     - p:
       - 'scáldit qvað:'
+facsimiles:
+- facsimile:
+  - surface[id=facs-1]:
+    - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg]:
