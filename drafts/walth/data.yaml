@@ -2,7 +2,7 @@ text:
 - body:
   - song[n=26]:
     - head: Herzeliebez vrôwelîn
-    - note[lg=deu-Latn]: Cormeau 26
+    - note[lg=und-Latn-x-general]: Cormeau 26
     - lg[n=I,type=stanza]:
       - l[n=1]: Herzeliebez vrowelîn,
       - l[n=2]: got gebe dir hiute und iemer guot!
@@ -41,7 +41,7 @@ text:
       - l[n=6]: sô müezest dû mîn niemer werden, ôwê dan, ob daz geschiht!
   - song[n=27]:
     - head: Bin ich dir unmaere
-    - note[lg=deu-Latn]: Cormeau 27
+    - note[lg=und-Latn-x-general]: Cormeau 27
     - lg[n=I,type=stanza]:
       - l[n=1]: Bin ich dir unmære,
       - l[n=2]: 'des enweiz ich niht: ich minne dich.'
@@ -89,7 +89,7 @@ text:
       - l[n=8]: daz versuoche alrêst sô denne daz.
   - song[n=51]:
     - head: Nement, frowe, disen cranz
-    - note[lg=deu-Latn]: Cormeau 51
+    - note[lg=und-Latn-x-general]: Cormeau 51
     - lg[n=I,type=stanza]:
       - l[n=1]: "'Nement, frowe, disen cranz',"
       - l[n=2]: alsô sprach ich zeiner wol getânen maget,
