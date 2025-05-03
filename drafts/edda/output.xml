@@ -46,6 +46,7 @@
 			<langUsage>
 				<language ident="non-Latn">Old Norse</language>
 				<language ident="deu-Latn">German</language>
+				<language ident="und-Latn-x-general">General</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
@@ -6624,7 +6625,7 @@
 <lb n="411" />hann brynio af henni; enn hon vacnaði, oc settiz hon up
 <lb n="412" />oc sá Sigurð oc mælti:</p>
 				</div>
-				<note xml:id="song-20-note-3" xml:lang="deu-Latn">
+				<note xml:id="song-20-note-3" xml:lang="und-Latn-x-general">
 					<lb n="413" />Cod.reg. Cop. p. 63</note>
 				<milestone facs="#facs-1" unit="ref" xml:id="song-20-milestone-1" />
 				<div xml:id="song-20-wrapper-12" type="wrapper" data-level="2">
