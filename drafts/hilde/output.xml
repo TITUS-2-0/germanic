@@ -53,7 +53,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="goh-Latn">Old High German (ca. 750-1050)</language>
+				<language ident="goh-Latn" ana="primary">Old High German (ca. 750-1050)</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
