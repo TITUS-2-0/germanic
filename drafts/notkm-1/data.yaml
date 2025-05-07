@@ -13,7 +13,7 @@ text:
       - lb[main=yes,type=edition-king,n=36]
       - lb[type=manuscript,n=36]: uuerden ze erist finf-zehen buohsta-
       - lb[main=yes,type=edition-king,n=37,break=no]
-      - lb[type=manuscript,n=37]:
+      - lb[type=manuscript,n=37,break=no]:
         - ba .
         - fure also manigen seitun . unte
         - pb[type=manuscript-2,n=L60va,facs=#L60va]
@@ -86,7 +86,7 @@ text:
       - lb[main=yes,type=edition-king,n=14]
       - lb[type=manuscript,n=14]: teile aber in ahto teil . unte fure-
       - lb[main=yes,type=edition-king,n=15,break=no]
-      - lb[type=manuscript,n=15]:
+      - lb[type=manuscript,n=15,break=no]:
         - sezze
         - imo den ahtoden teil . so ist
       - lb[main=yes,type=edition-king,n=16]
@@ -103,7 +103,7 @@ text:
       - lb[main=yes,type=edition-king,n=19]
       - lb[type=manuscript,n=19]: fure-sezze_imo den dritten teil si-
       - lb[main=yes,type=edition-king,n=20,break=no]
-      - lb[type=manuscript,n=20]:
+      - lb[type=manuscript,n=20,break=no]:
         - nero
         - lengi . so_habest tu
         - foreign[lg=lat-Latn]: nete diezeug-
@@ -191,13 +191,13 @@ text:
       - lb[main=yes,type=edition-king,n=1]
       - lb[type=manuscript,n=1]: imo ouh tie andra so_uilo gerobor uel  oborore in-
       - lb[main=yes,type=edition-king,n=2,break=no]
-      - lb[type=manuscript,n=2]:
+      - lb[type=manuscript,n=2,break=no]:
         - quedent .
         - so_uilo so_si lengeren sint.
       - lb[main=yes,type=edition-king,n=3]
       - lb[type=manuscript,n=3]: Tara-nah fure-sezze mese sinen ah-
       - lb[main=yes,type=edition-king,n=4,break=no]
-      - lb[type=manuscript,n=4]:
+      - lb[type=manuscript,n=4,break=no]:
         - toden
         - teil . so_ist daz
         - foreign[lg=lat-Latn]: lychanos_meson
@@ -579,7 +579,7 @@ text:
         - foreign[lg=lat-Latn]: organicus
       - lb[type=manuscript,n=35]: fure finfzehene ode fure sehs-
       - lb[main=yes,type=edition-king,n=2,break=no]
-      - lb[type=manuscript,n=36]:
+      - lb[type=manuscript,n=36,break=no]:
         - ze/ne
         - buohstabe folliu driu
         - foreign[lg=lat-Latn]: alfabeta
