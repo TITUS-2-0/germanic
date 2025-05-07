@@ -25,7 +25,7 @@
 				<date when="2025-03-18">2025-03-18</date>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of De Musica by Notker (unreleased). 2025-03-18. By: Jost Gippert, Florian Matter, Nikolaus Neagu. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					<p>Preferred citation: <note type="citation">Digital version of De Musica by Notker (draft version). 2025-03-18. By: Jost Gippert, Florian Matter, Nikolaus Neagu. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
 					</p>
 				</availability>
 				<idno type="version">unreleased</idno>
@@ -36,7 +36,7 @@
 						<name>der Deutsche, Notker</name>
 					</author>. <date>1996</date>. <title level="m">Die Kleineren Schriften</title>. Edited by <editor>
 						<name>James C. King and Petrus W. Tax</name>
-					</editor>. <title level="m">Die Werke Notkers Des Deutschen</title>. <pubPlace>Tübingen</pubPlace>: <publisher>Niemeyer</publisher>.</bibl>
+					</editor>. <title level="m">Die Werke Notkers Des Deutschen</title>. Vol. <biblScope unit="volume">7</biblScope>. <pubPlace>Tübingen</pubPlace>: <publisher>Niemeyer</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -118,7 +118,7 @@
 					<lb type="manuscript" n="35" />An_demo <foreign xml:lang="lat-Latn">regulari monachordo</foreign>
 					<lb main="yes" type="edition-king" n="36" />
 					<lb type="manuscript" n="36" />uuerden ze erist finf-zehen buohsta-<lb main="yes" type="edition-king" n="37" break="no" />
-					<lb type="manuscript" n="37" />ba . fure also manigen seitun . unte<pb type="manuscript-2" n="L60va" facs="#L60va" />
+					<lb type="manuscript" n="37" break="no" />ba . fure also manigen seitun . unte<pb type="manuscript-2" n="L60va" facs="#L60va" />
 					<lb main="yes" type="edition-king" n="1" />
 					<lb type="manuscript" n="1" />si <foreign xml:lang="lat-Latn">.F.</foreign> der_niderosto fure den lengesten<lb main="yes" type="edition-king" n="2" />
 					<lb type="manuscript" n="2" />seitun . der . <foreign xml:lang="lat-Latn">Proslambanomenos</foreign> heizzit .<lb main="yes" type="edition-king" n="3" />
@@ -140,13 +140,13 @@
 					<lb type="manuscript" n="13" break="no" />zeichenet ist. Ten selben <foreign xml:lang="lat-Latn">paranete</foreign>
 					<lb main="yes" type="edition-king" n="14" />
 					<lb type="manuscript" n="14" />teile aber in ahto teil . unte fure-<lb main="yes" type="edition-king" n="15" break="no" />
-					<lb type="manuscript" n="15" />sezze imo den ahtoden teil . so ist<lb main="yes" type="edition-king" n="16" />
+					<lb type="manuscript" n="15" break="no" />sezze imo den ahtoden teil . so ist<lb main="yes" type="edition-king" n="16" />
 					<lb type="manuscript" n="16" />daz trite . der mit <foreign xml:lang="lat-Latn">.D.</foreign> gezeichenet<lb main="yes" type="edition-king" n="17" />
 					<lb type="manuscript" n="17" />ist. So fah aber an_den churzisten<lb main="yes" type="edition-king" n="18" />
 					<lb type="manuscript" n="18" />
 					<foreign xml:lang="lat-Latn">nete .</foreign> unte teile in nin_driu . unte<lb main="yes" type="edition-king" n="19" />
 					<lb type="manuscript" n="19" />fure-sezze_imo den dritten teil si-<lb main="yes" type="edition-king" n="20" break="no" />
-					<lb type="manuscript" n="20" />nero lengi . so_habest tu <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
+					<lb type="manuscript" n="20" break="no" />nero lengi . so_habest tu <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
 					<lb main="yes" type="edition-king" n="21" break="no" />
 					<lb type="manuscript" n="21" break="no" />
 					<foreign xml:lang="lat-Latn">menon .</foreign> der_mit <foreign xml:lang="lat-Latn">.C.</foreign> gezeichenot ist.<pb main="yes" type="edition-king" n="333" />
@@ -181,9 +181,9 @@
 					<lb type="manuscript" n="37" break="no" />ta er zui-ualtero lengi habet . also<pb type="manuscript-2" n="L60vb" facs="#L60vb" />
 					<lb main="yes" type="edition-king" n="1" />
 					<lb type="manuscript" n="1" />imo ouh tie andra so_uilo gerobor uel  oborore in-<lb main="yes" type="edition-king" n="2" break="no" />
-					<lb type="manuscript" n="2" />quedent . so_uilo so_si lengeren sint.<lb main="yes" type="edition-king" n="3" />
+					<lb type="manuscript" n="2" break="no" />quedent . so_uilo so_si lengeren sint.<lb main="yes" type="edition-king" n="3" />
 					<lb type="manuscript" n="3" />Tara-nah fure-sezze mese sinen ah-<lb main="yes" type="edition-king" n="4" break="no" />
-					<lb type="manuscript" n="4" />toden teil . so_ist daz <foreign xml:lang="lat-Latn">lychanos_meson</foreign>
+					<lb type="manuscript" n="4" break="no" />toden teil . so_ist daz <foreign xml:lang="lat-Latn">lychanos_meson</foreign>
 					<lb main="yes" type="edition-king" n="5" />
 					<lb type="manuscript" n="5" />mit <foreign xml:lang="lat-Latn">.E.</foreign> Temo fure-sezze ouh sinen<lb main="yes" type="edition-king" n="6" />
 					<lb type="manuscript" n="6" />ahtoden teil . daz ist <foreign xml:lang="lat-Latn">parypate me-</foreign>
@@ -302,7 +302,7 @@
 					<lb main="yes" type="edition-king" n="1" />
 					<lb type="manuscript" n="34" />Vuile auer der <foreign xml:lang="lat-Latn">organicus</foreign>
 					<lb type="manuscript" n="35" />fure finfzehene ode fure sehs-<lb main="yes" type="edition-king" n="2" break="no" />
-					<lb type="manuscript" n="36" />ze/ne buohstabe folliu driu <foreign xml:lang="lat-Latn">alfabeta</foreign>
+					<lb type="manuscript" n="36" break="no" />ze/ne buohstabe folliu driu <foreign xml:lang="lat-Latn">alfabeta</foreign>
 					<lb type="manuscript" n="37" />machon . so scol_er daz dritta<lb main="yes" type="edition-king" n="3" />mez-<pb type="manuscript-2" n="L61vb" facs="#L61vb" break="no" />
 					<lb main="yes" type="edition-king" n="3" break="no" />
 					<lb type="manuscript" n="1" break="no" />zan nah den eron zuein . also er<lb type="manuscript" n="2" />daz ander maz nah demo<lb main="yes" type="edition-king" n="4" />

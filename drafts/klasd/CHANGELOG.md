@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- initial creation (2025-01-11)
-- use lists, not dicts (2025-02-05)
-- cleanup (2025-03-14)
-- facsimiles (2025-03-21)
 - language update (2025-04-04)
+- facsimiles (2025-03-21)
+- cleanup (2025-03-14)
+- use lists, not dicts (2025-02-05)
+- initial creation (2025-01-11)

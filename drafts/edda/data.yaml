@@ -1,7 +1,4 @@
-- facsimiles:
-  - facsimile:
-    - surface[id=facs-1]:
-      - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg]:
+text:
 - body:
   - song[n=Vsp.]:
     - head: VǪLOSPÁ
@@ -5615,7 +5612,7 @@
         - í gognom niðr, oc svá út í gognom báðar ermar. Þá tóc
         - hann brynio af henni; enn hon vacnaði, oc settiz hon up
         - 'oc sá Sigurð oc mælti:'
-    - note[lg=deu-Latn]:
+    - note[lg=und-Latn-x-general]:
       - Cod.reg. Cop. p. 63
     - milestone[facs=#facs-1,unit=ref]
     - wrapper:
@@ -9206,3 +9203,7 @@
       - l[n=8]: aðra í tyfrom.
     - p:
       - 'scáldit qvað:'
+facsimiles:
+- facsimile:
+  - surface[id=facs-1]:
+    - graphic[url=http://titus.uni-frankfurt.de/texte/etcs/germ/anord/edda/edda1.jpg]:

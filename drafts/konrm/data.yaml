@@ -1,3 +1,4 @@
+text:
 - body:
   - prologue:
     - pb[n=1]
@@ -47,7 +48,7 @@
   - book[n=I]:
     - pb[n=3]
     - lb[n=1]:
-      - milestone[lg=deu-Latn,unit=book,n=I.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=I.]
     - head:
       - lb[n=2]: VON DEM MENSCHEN IN SEINER GEMAINEN
       - lb[n=3]: NATUR.
@@ -90,7 +91,7 @@
       - lb[n=9]: werlt in ainem rock.
     - chapter[n=1]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=11]: VON DER HIRNSCHAL.
       - p:
@@ -174,7 +175,7 @@
         - lb[n=2]: zuo der nasen und smack oft dar an und slâf dir gnuog.
     - chapter[n=2]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=4]: VON DEM HIRN.
       - p:
@@ -230,7 +231,7 @@
         - lb[n=18]: hirns habe.
     - chapter[n=3]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=20]: VON DEM HAR.
       - p:
@@ -267,7 +268,7 @@
         - lb[n=15]: hâr auz wehst.
     - chapter[n=4]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=17]: VON DEM SLAF.
       - p:
@@ -300,7 +301,7 @@
         - lb[n=8]: menschen enzucken sint dem slâf geleich.
     - chapter[n=5]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=10]: VON DEN AUGEN
       - p:
@@ -353,7 +354,7 @@
         - lb[n=18]: man leut funden, den ir gesiht über zehen jâr wider wart.
     - chapter[n=6]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=20]: VON DEN AUGENPRAWEN
       - p:
@@ -369,7 +370,7 @@
         - lb[n=30]: und räuher.
     - chapter[n=7]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=32]: VON DEN OREN.
       - p:
@@ -403,7 +404,7 @@
         - lb[n=24]: stimm unz dar gefüeren müg.
     - chapter[n=8]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=26]: VON DER NASEN.
       - p:
@@ -431,7 +432,7 @@
         - lb[n=12]: mäuslein von nâtûr sint verdorben.
     - chapter[n=9]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=14]: VON DEM PART.
       - p:
@@ -449,7 +450,7 @@
         - lb[n=26]: mänleichen muot und gewinnet ainen weibleichen sin.
     - chapter[n=10]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=28]: VON DEM MUND.
       - p:
@@ -474,7 +475,7 @@
         - lb[n=13]: an ainr âdern, die gespannen ist durch die zungen.
     - chapter[n=11]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=15]: VON DEN ZENDEN
       - p:
@@ -523,7 +524,7 @@
         - lb[n=21]: die sint langes lebens.
     - chapter[n=12]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=23]: VON DER ZUNGEN.
       - p:
@@ -564,7 +565,7 @@
         - lb[n=22]: besleuzt, oder von andern sachen.
     - chapter[n=13]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=24]: VON DER STIMM.
       - p:
@@ -617,7 +618,7 @@
         - lb[n=31]: ie der mensch sein aigen stimm.
     - chapter[n=14]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=33]: VON DEM AICHEL ODER WEINPERL.
       - p:
@@ -639,7 +640,7 @@
         - lb[n=9]: müg. aber ez ist mit sorgen.
     - chapter[n=15]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15]
       - head:
         - lb[n=11]: VON DEM ÜBERVALL.
       - p:
@@ -662,7 +663,7 @@
         - lb[n=25]: zuo allerlaie stimm ze machen.
     - chapter[n=16]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=27]: VON DER SLUNTRŒRN.
       - p:
@@ -679,7 +680,7 @@
           - pb[n=18]
     - chapter[n=17]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=2]: VON DER LUFTRŒRN.
       - p:
@@ -701,7 +702,7 @@
         - lb[n=16]: wellent.
     - chapter[n=18]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=18]: VON DER KELN.
       - p:
@@ -718,7 +719,7 @@
         - lb[n=29]: daz sei, daz si der wort nicht formier.
     - chapter[n=19]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19]
       - head:
         - lb[n=31]: VON DEM HALS.
       - p:
@@ -734,7 +735,7 @@
         - lb[n=6]: der sêl.
     - chapter[n=20]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=8]: VON DEN ACHSELN.
       - p:
@@ -751,7 +752,7 @@
         - lb[n=19]: der prust.
     - chapter[n=21]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21]
       - head:
         - lb[n=21]: VON DEN ARMEN.
       - p:
@@ -772,7 +773,7 @@
           - pb[n=20]
     - chapter[n=22]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=2]: VON DEN MÄUSLEIN.
       - p:
@@ -800,7 +801,7 @@
         - lb[n=24]: den armen.
     - chapter[n=23]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23]
       - head:
         - lb[n=26]: VON DEN HENDEN.
       - p:
@@ -817,7 +818,7 @@
         - lb[n=2]: in trewen.
     - chapter[n=24]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=4]: VON DEN VINGERN.
       - p:
@@ -829,7 +830,7 @@
         - lb[n=10]: aller anderr vinger.
     - chapter[n=25]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=12]: VON DEN NEGELN.
       - p:
@@ -857,7 +858,7 @@
           - pb[n=22]
     - chapter[n=26]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=2]: VON DEN PAINEN IN DEN GLIDERN.
       - p:
@@ -875,7 +876,7 @@
         - lb[n=14]: und der frawen lant haizt von etleichen der maide lant.
     - chapter[n=27]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27]
       - head:
         - lb[n=16]: VON DEM MARK.
       - p:
@@ -909,7 +910,7 @@
         - lb[n=8]: niht markes.
     - chapter[n=28]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=10]: VON DEM FLAISCH.
       - p:
@@ -930,7 +931,7 @@
         - lb[n=25]: swarz oder swarzlot.
     - chapter[n=29]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=27]: VON DER HAUT.
       - p:
@@ -950,7 +951,7 @@
         - lb[n=5]: fäuht ist senftiger an dem griff.
     - chapter[n=30]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=7]: VON DEM RUCKEN.
       - p:
@@ -964,7 +965,7 @@
         - lb[n=15]: hals unz an daz end geleich ainem strick.
     - chapter[n=31]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=17]: VON DER PRUST.
       - p:
@@ -990,7 +991,7 @@
           - pb[n=25]
     - chapter[n=32]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=2]: VON DEN PRÜSTLEIN.
       - p:
@@ -1020,7 +1021,7 @@
         - lb[n=26]: der prust sam der mensch hât seineu prüstel.
     - chapter[n=33]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=28]: VON DEM HERZEN.
       - p:
@@ -1103,7 +1104,7 @@
         - lb[n=30]: durch ain sicherhait, daz ez niht leihticleichen leid.
     - chapter[n=34]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=32]: VON DER LEBERN.
       - p:
@@ -1133,7 +1134,7 @@
         - lb[n=20]: sag wir mêr, wenn wir von dem magen schreiben.
     - chapter[n=35]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=22]: VON DER GALLEN.
       - p:
@@ -1173,7 +1174,7 @@
         - lb[n=20]: oder daz merswein.
     - chapter[n=36]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=22]: VON DER LUNGEN.
       - p:
@@ -1216,7 +1217,7 @@
         - lb[n=23]: manik tier niht stimm, daz doch ain lungen hât.
     - chapter[n=37]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37.]
       - head:
         - lb[n=25]: VON DEM MILZ
       - p:
@@ -1242,7 +1243,7 @@
         - lb[n=9]: milzen grœzen und sich minder nâch des milzen klainen.
     - chapter[n=38]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38]
       - head:
         - lb[n=11]: VON DEM PAUCH.
       - p:
@@ -1273,7 +1274,7 @@
           - pb[n=32]
     - chapter[n=39]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=2]: VON DEM MAGEN.
       - p:
@@ -1330,7 +1331,7 @@
         - lb[n=16]: pant, dâ mit leib und sêl zesamen sint gepunden.
     - chapter[n=40]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=18]: VON DEM NABELN.
       - p:
@@ -1362,7 +1363,7 @@
         - lb[n=8]: dâ mit si daz kint umbhüllet in der muoter leib.
     - chapter[n=41]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41.]
       - head:
         - lb[n=10]: VON DER PLASEN
       - p:
@@ -1384,7 +1385,7 @@
         - lb[n=26]: aber ain iegsleich tier vierfüezig hât ain plâsen.
     - chapter[n=42]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=28]: VON DEN NIERN.
       - p:
@@ -1406,7 +1407,7 @@
         - lb[n=10]: leident in seltsamer sprâch.
     - chapter[n=43]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=12]: VON DEN ADERN.
       - p:
@@ -1505,7 +1506,7 @@
         - lb[n=19]: von dem herzen, wâ hin si gên schüllen.
     - chapter[n=44]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44]
       - head:
         - lb[n=21]: VON DEN PANTADERN.
       - p:
@@ -1539,7 +1540,7 @@
         - lb[n=11]: zesamen pindent.
     - chapter[n=45]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45.]
       - head:
         - lb[n=13]: VON DEN ZAICHEN, OB AIN FRAW SWANGER SEI ODER NIHT.
       - p:
@@ -1619,7 +1620,7 @@
         - lb[n=12]: haben zuo seiner machung wan daz dirnlein.
     - chapter[n=47]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=14]: VON DEN ZAICHEN, OB AIN FRAW AIN KNÄBLEIN TRAGE.
       - p:
@@ -1660,7 +1661,7 @@
         - lb[n=13]: fraw mit ainem knäblein gê oder mit aim dirnlein.
     - chapter[n=48]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=15]: WIE DIU GEPURT AN DIE WERLT KOME
       - p:
@@ -1699,7 +1700,7 @@
         - lb[n=12]: gepurt, daz si dester leihticleicher geper.
     - chapter[n=49]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=14]: VON DEN ZAICHEN DER NATÜRLEICHEN SITEN
     - chapter[n=49a]:
@@ -2177,7 +2178,7 @@
         - lb[n=2]: under derlai leuten.
     - chapter[n=50]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=4]: VON DEN TRÄUMEN.
       - p:
@@ -2240,13 +2241,13 @@
         - lb[n=24]: der werden muoter und dar nâch guoten freunden.
   - book[n=II]:
     - lb[n=25]:
-      - milestone[lg=deu-Latn,unit=book,n=II.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=II.]
     - head:
       - lb[n=26]: VON DEN HIMELN UND VON DEN SIBEN
       - lb[n=27]: PLANÊTEN.
     - chapter[n=1]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=29]: DES ÊRSTEN VON DEM SATJAR.
       - p:
@@ -2322,7 +2323,7 @@
           - pb[n=57]
     - chapter[n=2]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=2]: VON DEM HELFVATER.
       - p:
@@ -2350,7 +2351,7 @@
         - lb[n=21]: stern volpringt seinen lauf in zwelf jârn.
     - chapter[n=3]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=23]: VON DEM STREITGOT.
       - p:
@@ -2365,7 +2366,7 @@
         - lb[n=29]: ain glüender kol und volpringt seinen lauf in zwain jâren.
     - chapter[n=4]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4]
       - head:
         - lb[n=31]: VON DER SUNNEN.
       - p:
@@ -2534,7 +2535,7 @@
         - lb[n=4]: irn füezen, daz ist alliu wandeleicheu crêatûr.
     - chapter[n=5]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5]
       - head:
         - lb[n=6]: VON DEM MORGENSTERN.
       - p:
@@ -2621,7 +2622,7 @@
         - lb[n=7]
     - chapter[n=6]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=9]: VON DEM KAUFHERREN.
       - p:
@@ -2643,7 +2644,7 @@
         - lb[n=20]
     - chapter[n=7]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=22]: VON DEM MONEN.
       - p:
@@ -2788,7 +2789,7 @@
         - lb[n=9]: die zeit der ungenâden.
     - chapter[n=8]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8]
       - head:
         - lb[n=11]: VON DEN PLANÊTEN IN AINER GEMAIN.
       - p:
@@ -2807,7 +2808,7 @@
         - lb[n=24]: dâ vint man vil hübscher dinge inn.
     - chapter[n=9]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9]
       - head:
         - lb[n=26]: VON DEM VEUR.
       - p:
@@ -2999,7 +3000,7 @@
         - lb[n=26]: smerzen der sêl, den diu prunst diser werlt hât prâht.
     - chapter[n=10]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=28]: VON DEM LUFT.
       - p:
@@ -3051,7 +3052,7 @@
           - pb[n=75]
     - chapter[n=11]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=2]: VON DEM GESCHOPFTEN STERN.
       - p:
@@ -3126,7 +3127,7 @@
         - lb[n=31]: läut und ir tôt weiter erschillet denn armer läut tôt.
     - chapter[n=12]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=33]: VON DEN FEWERN IN DEN LÜFTEN.
       - p:
@@ -3185,7 +3186,7 @@
         - lb[n=11]: der erden frühte niht sô wol gerâtent sam andreu jâr.
     - chapter[n=13]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=13]: VON DER HERSTRAZ AN DEM HIMEL.
       - p:
@@ -3206,7 +3207,7 @@
         - lb[n=28]: noch Ptolomêô noch andern maistern, die den volgent.
     - chapter[n=14]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=30]: VON DES HIMELS ABGRUNT
       - p:
@@ -3229,7 +3230,7 @@
         - lb[n=13]: sint, dünne und dicke, klâr und trüeb, wäzzrig und erdisch.
     - chapter[n=15]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=15]: VON DEN WINDEN
       - p:
@@ -3303,7 +3304,7 @@
         - lb[n=3]: habent.
     - chapter[n=16]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=5]: VON DEM REGEN
       - p:
@@ -3393,7 +3394,7 @@
         - lb[n=15]: möht niht gesein, wær regen oder wint dar auf gewesen.
     - chapter[n=17]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=17]: VON DEM TAWE.
       - p:
@@ -3434,7 +3435,7 @@
         - lb[n=16]: gepärerinne!
     - chapter[n=18]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=18]: VON DEM SNÊWE.
       - p:
@@ -3456,7 +3457,7 @@
           - pb[n=85]
     - chapter[n=19]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=2]: VON DEM REIFEN.
       - p:
@@ -3501,7 +3502,7 @@
           - foreign[lg=lat-Latn]: granula.
     - chapter[n=20]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=4]: VON DEM SCHAWR.
       - p:
@@ -3522,7 +3523,7 @@
         - lb[n=19]: her ab in regens weis.
     - chapter[n=21]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21]
       - head:
         - lb[n=21]: VON DEM MILTAWE.
       - p:
@@ -3560,7 +3561,7 @@
         - lb[n=19]: maistern niht hân genomen.
     - chapter[n=22]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22]
       - head:
         - lb[n=21]: VON DEM HONIG.
       - p:
@@ -3610,7 +3611,7 @@
         - lb[n=29]: peinn sagen.
     - chapter[n=23]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23]
       - head:
         - lb[n=31]: VON DEM HIMELFLAD.
       - p:
@@ -3670,7 +3671,7 @@
         - lb[n=5]: daz haiz ich allz ainz.
     - chapter[n=24]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=7]: VON DEM HIMELPROT.
       - p:
@@ -3718,7 +3719,7 @@
         - lb[n=11]: lait.
     - chapter[n=25]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=13]: VON DEM DONR UND VON DEM PLITZEN.
       - p:
@@ -3873,7 +3874,7 @@
         - lb[n=12]: fuozstapfen an den vazzen.
     - chapter[n=26]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=14]: VON DEM NEBEL.
       - p:
@@ -3918,7 +3919,7 @@
         - lb[n=16]: durchsleuft und durchizzet.
     - chapter[n=27]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=18]: VON DER SUNNEN HOF.
       - p:
@@ -3943,7 +3944,7 @@
           - pb[n=97]
     - chapter[n=28]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=2]: VON DEN ZUOSUNNEN.
       - p:
@@ -3963,7 +3964,7 @@
           - foreign[lg=grc-Grek]: parelius.
     - chapter[n=29]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29]
       - head:
         - lb[n=16]: VON DEN SUNNENSTRICKEN.
       - p:
@@ -3981,7 +3982,7 @@
         - lb[n=28]: gel, nâch der wolken mangerlai schickung.
     - chapter[n=30]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=30]: VON DEM REGENPOGEN
       - p:
@@ -4097,7 +4098,7 @@
         - lb[n=30]: element, daz ist daz wazzer.
     - chapter[n=31]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=32]: VON DEM WAZZER.
       - p:
@@ -4304,7 +4305,7 @@
         - lb[n=4]: den padmaiden.
     - chapter[n=32]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32]
       - head:
         - lb[n=6]: VON DEM ERTREICH.
       - p:
@@ -4352,7 +4353,7 @@
         - lb[n=12]: lêrer.
     - chapter[n=33]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=14]: VON DEM ERTPIDEM.
       - p:
@@ -4594,13 +4595,13 @@
         - lb[n=24]: Hie hât daz ander stück des puochs ain end.
   - book[n=III]:
     - lb[n=25]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=26]: HIE HEBT SICH AN DAZ DRITT STÜCK DES
       - lb[n=27]: PUOCHS.
     - chapter[n=A]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=A.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=A.]
       - head:
         - lb[n=29]: VON DEN TIERN IN AINER GEMAIN
       - p:
@@ -4808,7 +4809,7 @@
         - lb[n=25]: ABC stêt.
     - chapter[n=1]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=27]: VON DEM ESEL.
       - p:
@@ -4869,7 +4870,7 @@
         - lb[n=5]: unfuor tragen, dâ sei wir starch.
     - chapter[n=2]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=7]: VON DEM WILDEN EBER.
       - p:
@@ -4906,7 +4907,7 @@
           - pb[n=122]
     - chapter[n=3]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=2]: VON DEM HAIMISCHEN EBER.
       - p:
@@ -4926,7 +4927,7 @@
         - lb[n=16]: der grœzen, die daz varch hât.
     - chapter[n=4]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=18]: VON DEM ALCHES.
       - p:
@@ -4940,7 +4941,7 @@
         - lb[n=26]: wellent sein denn junger.
     - chapter[n=5]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=28]: VON DEM HAANE.
       - p:
@@ -4958,7 +4959,7 @@
         - lb[n=7]: valschen pitterkait.
     - chapter[n=6]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=9]: VON DEM AURRINT.
       - p:
@@ -4982,7 +4983,7 @@
           - foreign[lg=lat-Latn]: bisontes.
     - chapter[n=7]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=25]: VON DEM BOMACHEN
       - p:
@@ -5004,7 +5005,7 @@
         - lb[n=6]: daz si ir undertân lêrent mit den worten
     - chapter[n=8]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=8]: VON DEM KÄMEL.
       - p:
@@ -5038,7 +5039,7 @@
           - pb[n=125]
     - chapter[n=9]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=2]: VON DEM HUND.
       - p:
@@ -5117,7 +5118,7 @@
           - pb[n=127]
     - chapter[n=10]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=2]: VON DEM PIBER.
       - p:
@@ -5144,7 +5145,7 @@
         - lb[n=21]: durch der gailn willen.
     - chapter[n=11]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=23]: VON DER GAIZ.
       - p:
@@ -5161,7 +5162,7 @@
           - pb[n=128]
     - chapter[n=12]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=2]: VON DER WILDEN GAIZ, DIU HAIZT GÄMZ.
       - p:
@@ -5192,7 +5193,7 @@
         - lb[n=27]: sneller auz dem leib ziehen.
     - chapter[n=13]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=29]: VON DEM RÊCH.
       - p:
@@ -5210,7 +5211,7 @@
           - pb[n=129]
     - chapter[n=14]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=2]: VON DEM CATHEN.
       - p:
@@ -5225,7 +5226,7 @@
         - lb[n=11]: feur, daz ist mit den worten, diu auz irm hals gênt.
     - chapter[n=15]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=13]: VON DEM HIRZ.
       - p:
@@ -5319,7 +5320,7 @@
         - lb[n=20]: schaden, sô si in vor verr entloffen sint.
     - chapter[n=16]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=22]: VON DEN CATHAPLEBEN.
       - p:
@@ -5332,7 +5333,7 @@
         - lb[n=29]: dieb.
     - chapter[n=17]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17]
       - head:
         - lb[n=31]: VON DEM CYROGRILLEN ODER VON DEM GROZEN IGEL.
       - p:
@@ -5348,7 +5349,7 @@
         - lb[n=6]: sei ain igel, daz ist niht, ez ist grœzer.
     - chapter[n=18]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=8]: VON DEM CALOPEN.
       - p:
@@ -5362,7 +5363,7 @@
         - lb[n=16]: wazzer Eufrates und sint gevallen.
     - chapter[n=19]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=18]: VON DEM CYROGRATEN.
       - p:
@@ -5384,7 +5385,7 @@
           - pb[n=133]
     - chapter[n=20]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=2]: VON DEN DAMMEN.
       - p:
@@ -5403,7 +5404,7 @@
         - lb[n=13]: danne ain rêch.
     - chapter[n=21]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=15]: VON DEM DURAN
       - p:
@@ -5418,7 +5419,7 @@
         - lb[n=24]: und si ir pôshait lâzen treiben.
     - chapter[n=22]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22]
       - head:
         - lb[n=26]: VON DEM DACHS.
       - p:
@@ -5436,7 +5437,7 @@
         - lb[n=3]: ist, und daz sein pizz sô gar schädleich und swær sint.
     - chapter[n=23]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=5]: VON DEM DROMEDAR
       - p:
@@ -5448,7 +5449,7 @@
         - lb[n=11]: idruckt.
     - chapter[n=24]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=13]: VON DEM HELFAND.
       - p:
@@ -5549,7 +5550,7 @@
         - lb[n=25]: pœs gaist dem menschen.
     - chapter[n=25]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=27]: VON DEM PFÄRD.
       - p:
@@ -5593,7 +5594,7 @@
         - lb[n=27]: ain wurm in dem wazzer in kurzen tagen.
     - chapter[n=26]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=29]: VON DEM IGEL.
       - p:
@@ -5629,7 +5630,7 @@
         - lb[n=21]: ruck; des gelaub ich paz, wan daz ist gemachsamer.
     - chapter[n=27]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=23]: VON DEM FALEN.
       - p:
@@ -5647,7 +5648,7 @@
           - pb[n=139]
     - chapter[n=28]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=2]: VON DEM GRÜTZ.
       - p:
@@ -5661,7 +5662,7 @@
         - lb[n=8]: hitz der unkäusch entzünt, sô geswillt ez und stirbt.
     - chapter[n=29]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=10]: VON DEM FURION
       - p:
@@ -5695,7 +5696,7 @@
         - lb[n=3]: wan der mensch.
     - chapter[n=30]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=5]: VON DEN RATTEN
       - p:
@@ -5712,7 +5713,7 @@
         - lb[n=14]: si dâ mit salbe.
     - chapter[n=31]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31]
       - head:
         - lb[n=16]: VON DEM GALY.
       - p:
@@ -5725,7 +5726,7 @@
         - lb[n=23]: sein kost nement.
     - chapter[n=32]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=25]: VON DEM RŒSEL
       - p:
@@ -5745,7 +5746,7 @@
         - lb[n=3]: vliehent dar inne der läut angesiht und ir lob.
     - chapter[n=33]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=5]: VON DEM ÄLCH
       - p:
@@ -5760,7 +5761,7 @@
         - lb[n=14]: leibes, daz verstên ich klaines leibs gegen ainem hirz.
     - chapter[n=34]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34]
       - head:
         - lb[n=16]: VON DEM IBRIDA.
       - p:
@@ -5774,7 +5775,7 @@
         - lb[n=24]: ainem wider, daz mag man haizen ze däutsch ain schâfgaiz.
     - chapter[n=35]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35]
       - head:
         - lb[n=26]: VON DEM DORNSWEIN.
       - p:
@@ -5795,7 +5796,7 @@
         - lb[n=7]: Jacobus.
     - chapter[n=36]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=9]: VON DEM GRABTIER.
       - p:
@@ -5823,7 +5824,7 @@
         - lb[n=29]: im gelokt; sô frizzet ez si danne.
     - chapter[n=37]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37]
       - head:
         - lb[n=31]: VON DEM LEWEN.
       - p:
@@ -5916,7 +5917,7 @@
         - lb[n=4]: gesiht.
     - chapter[n=38]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38]
       - head:
         - lb[n=6]: VON DEM LEOPARDEN.
       - p:
@@ -5944,7 +5945,7 @@
         - lb[n=28]: der leopard und der pard áin tier sei und zwên namen.
     - chapter[n=39]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=30]: VON DEM LAMI
       - p:
@@ -5964,7 +5965,7 @@
         - lb[n=10]: und hindernt die, die in ez gern püten und gæben.
     - chapter[n=40]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=12]: VON DEM LAZAN.
       - p:
@@ -5982,7 +5983,7 @@
         - lb[n=24]: sô ist er der aller grimmst, wenn er angehebt.
     - chapter[n=41]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41]
       - head:
         - lb[n=26]: VON DEM LUHS.
       - p:
@@ -6002,7 +6003,7 @@
         - lb[n=4]: aber der stain nütz sei, daz wirt her nâch kunt.
     - chapter[n=42]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=6]: VON DEM WOLF.
       - p:
@@ -6063,7 +6064,7 @@
         - lb[n=20]: alsô sprechent die ez versuocht habent.
     - chapter[n=43]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=22]: VON DEM LINSEN.
       - p:
@@ -6076,7 +6077,7 @@
         - lb[n=29]: wan er ist starch und grimm.
     - chapter[n=44]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44]
       - head:
         - lb[n=31]: VON DEM LEOCAFFEN.
       - p:
@@ -6095,7 +6096,7 @@
         - lb[n=9]: daz si sich dâ von bekêrn.
     - chapter[n=45]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45]
       - head:
         - lb[n=11]: VON DEM HASEN.
       - p:
@@ -6118,7 +6119,7 @@
         - lb[n=26]: ain vaizten und stirbt.
     - chapter[n=46]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=46.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=46.]
       - head:
         - lb[n=28]: VON DEM OTTER.
       - p:
@@ -6142,7 +6143,7 @@
         - lb[n=10]: enpfunden mit irm schaden.
     - chapter[n=47]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=12]: VON DEM LOCUSTEN.
       - p:
@@ -6166,7 +6167,7 @@
         - lb[n=27]: wirt ân den man.
     - chapter[n=48]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=29]: VON DEM MAUL.
       - p:
@@ -6182,7 +6183,7 @@
           - pb[n=151]
     - chapter[n=49]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=2]: VON DEM RÜDEN.
       - p:
@@ -6196,7 +6197,7 @@
         - lb[n=8]: selb gesehen von unsern rüden ze Megenperg und anderswâ.
     - chapter[n=50]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=10]: VON DEM PISEMTIER
       - p:
@@ -6219,7 +6220,7 @@
         - lb[n=22]: und den stinkenden smack verlæzt.
     - chapter[n=51]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=51.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=51.]
       - head:
         - lb[n=24]: VON DER KATZEN.
       - p:
@@ -6250,7 +6251,7 @@
         - lb[n=10]: und allermaist jung katzen, die sich noch niht ervarn habent.
     - chapter[n=52]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=52.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=52.]
       - head:
         - lb[n=12]: VON DER WISEL.
       - p:
@@ -6277,7 +6278,7 @@
         - lb[n=28]: ain snelleu ræcherinn irs unrehten.
     - chapter[n=53]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=53.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=53.]
       - head:
         - lb[n=30]: VON DER MAUS
       - p:
@@ -6309,7 +6310,7 @@
         - lb[n=20]: neun jârn. iedoch pringt daz härmlein weiziu härmel.
     - chapter[n=54]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=54.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=54.]
       - head:
         - lb[n=22]: VON DEM WALTESEL.
       - p:
@@ -6338,7 +6339,7 @@
         - lb[n=7]: und schreit sô vast, daz andreu tier dar ab erschreckent.
     - chapter[n=55]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=55.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=55.]
       - head:
         - lb[n=9]: VON DEM WUNDERTIER.
       - p:
@@ -6350,7 +6351,7 @@
         - lb[n=15]: und halbez ain esel niden hin ab.
     - chapter[n=56]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=56.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=56.]
       - head:
         - lb[n=17]: VON DEM SCHAF.
       - p:
@@ -6423,7 +6424,7 @@
         - lb[n=9]: würmlein dar inne auf der erden, wan auz anderm hâr.
     - chapter[n=57]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=57]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=57]
       - head:
         - lb[n=11]: VON DEM PARDE.
       - p:
@@ -6442,7 +6443,7 @@
         - lb[n=22]: muotes.
     - chapter[n=58]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=58.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=58.]
       - head:
         - lb[n=24]: VON DEM PANTIER.
       - p:
@@ -6475,7 +6476,7 @@
         - lb[n=16]: tier mêr.
     - chapter[n=59]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=59.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=59.]
       - head:
         - lb[n=18]: VON DEM PILOS.
       - p:
@@ -6494,7 +6495,7 @@
           - foreign[lg=lat-Latn]: faunum.
     - chapter[n=60]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=60.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=60.]
       - head:
         - lb[n=27]: VON DEM ELTES.
       - p:
@@ -6516,7 +6517,7 @@
         - lb[n=3]: oder galliceps, dar umb, daz er diu hüenr tœtt und si væht.
     - chapter[n=61]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=61.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=61.]
       - head:
         - lb[n=5]: VON DEM AICHORN
       - p:
@@ -6536,7 +6537,7 @@
         - lb[n=17]: gegen perg als ainen segel, sô treibt ez der wint über.
     - chapter[n=62]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=62.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=62.]
       - head:
         - lb[n=19]: VON DEM AFFEN.
       - p:
@@ -6570,7 +6571,7 @@
         - lb[n=11]: hunt.
     - chapter[n=63]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=63.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=63.]
       - head:
         - lb[n=13]: VON DEM OHSEN.
       - p:
@@ -6611,7 +6612,7 @@
         - lb[n=9]: pindet an ainen veigenpaum, der macht in zam und sänftig.
     - chapter[n=64]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=64]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=64]
       - head:
         - lb[n=11]: VON DEM TRAGELAPHEN.
       - p:
@@ -6628,7 +6629,7 @@
         - lb[n=18]
     - chapter[n=65]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=65.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=65.]
       - head:
         - lb[n=20]: VON DEM SCHERN.
       - p:
@@ -6650,7 +6651,7 @@
           - pb[n=161]
     - chapter[n=66]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=66.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=66.]
       - head:
         - lb[n=2]: VON DEM TIGERTIER.
       - p:
@@ -6672,7 +6673,7 @@
         - lb[n=16]: und ist sein flaisch süez. dar umb væht man ez.
     - chapter[n=67]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=67.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=67.]
       - head:
         - lb[n=18]: VON DEM AINHÜRN.
       - p:
@@ -6707,7 +6708,7 @@
         - lb[n=12]: unwerden, die ez dann hât.
     - chapter[n=68]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=68.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=68.]
       - head:
         - lb[n=14]: VON DEM PERN.
       - p:
@@ -6749,7 +6750,7 @@
         - lb[n=12]: daz er dem weg volge und in die gruob vall.
     - chapter[n=69]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=69.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=69.]
       - head:
         - lb[n=14]: VON DEM FUHS.
       - p:
@@ -6790,10 +6791,10 @@
         - lb[n=11]: sô springet er sein strâz.
   - book[n=IIIB]:
     - lb[n=12]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=13]:
-        - foreign[lg=deu-Latn]: B.
+        - foreign[lg=und-Latn-x-general]: B.
       - lb[n=14]: VON DEM GEFÜGEL IN AINER GEMAIN.
     - p:
       - lb[n=15]: Nu schüll wir sagen von allem gefügel und des êr\sten
@@ -6862,7 +6863,7 @@
       - lb[n=3]: ertœten an der sêle, ob si si tœten an dem leib.
     - chapter[n=1]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=5]: VON DEM ADELARN
       - p:
@@ -6927,7 +6928,7 @@
         - lb[n=26]: den schuz vâhe sam ain schilt vor den kinden.
     - chapter[n=2]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=28]: VON DEM ARPEN.
       - p:
@@ -6950,7 +6951,7 @@
         - lb[n=9]: stimm, aber er hât niht menschleich vernunft.
     - chapter[n=3]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=11]: VON DEM RAIGEL.
       - p:
@@ -6969,7 +6970,7 @@
         - lb[n=22]: ainen darm sam der storch.
     - chapter[n=4]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=24]: VON DER GANS.
       - p:
@@ -7003,7 +7004,7 @@
         - lb[n=12]: slâfen ist in girich.
     - chapter[n=5]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=14]: VON DER ÄNT.
       - p:
@@ -7018,7 +7019,7 @@
         - lb[n=21]: nâch dem andern, und peizent sich dar umb.
     - chapter[n=6]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=23]: VON DEM HABICH.
       - p:
@@ -7060,7 +7061,7 @@
         - lb[n=23]: Augustinus spricht, daz daz prôt den habich tœt.
     - chapter[n=7]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=25]: VON DEM AMER
       - p:
@@ -7076,7 +7077,7 @@
           - pb[n=171]
     - chapter[n=8]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=2]: VON DEM ACHANT.
       - p:
@@ -7090,7 +7091,7 @@
         - lb[n=10]: wann er pringt zwelf kinder mit enander.
     - chapter[n=9]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=12]: VON DER LERCHEN.
       - p:
@@ -7113,7 +7114,7 @@
         - lb[n=27]: aber der habich nümmer.
     - chapter[n=10]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=29]: VON DEM ALZEN.
       - p:
@@ -7144,7 +7145,7 @@
         - lb[n=21]: niht vermügen.
     - chapter[n=11]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=23]: VON DEM BACHAD.
       - p:
@@ -7166,7 +7167,7 @@
           - pb[n=173]
     - chapter[n=12]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=2]: VON DEM HAUWEN ODER AUFEN.
       - p:
@@ -7192,7 +7193,7 @@
         - lb[n=20]: und ist doch an im selber swær.
     - chapter[n=13]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=22]: VON DEM CALADER.
       - p:
@@ -7216,7 +7217,7 @@
         - lb[n=5]: dâ mit salbet.
     - chapter[n=14]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=7]: VON DEN ELBIZ ODER SWAN.
       - p:
@@ -7253,7 +7254,7 @@
         - lb[n=29]: sêrung vil geleiden.
     - chapter[n=15]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=31]: VON DEM CARISTEN.
       - p:
@@ -7266,7 +7267,7 @@
         - lb[n=3]: die daz feur diser werlt niht versêren moht.
     - chapter[n=16]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=5]: VON DEM STORCHEN.
       - p:
@@ -7306,7 +7307,7 @@
         - lb[n=2]: irr pôshait. daz hât man oft gesehen.
     - chapter[n=17]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=4]: VON DEM GALANDER.
       - p:
@@ -7332,7 +7333,7 @@
         - lb[n=22]: deinem sünder, dû waist allain, frawe, wen ich main.
     - chapter[n=18]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=24]: VON DEM RABEN.
       - p:
@@ -7375,7 +7376,7 @@
         - lb[n=27]: der achilon ist des raben veint.
     - chapter[n=19]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=29]: VON DER KRAEN.
       - p:
@@ -7397,7 +7398,7 @@
         - lb[n=7]: ir sien, wenne diu prüett und niht auzfleugt.
     - chapter[n=20]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=9]: VON DEM CUKUK.
       - p:
@@ -7440,7 +7441,7 @@
         - lb[n=8]: spaicheln lie.
     - chapter[n=21]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=10]: VON DEM COREDEL
       - p:
@@ -7459,7 +7460,7 @@
         - lb[n=23]: herz.
     - chapter[n=22]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=25]: VON DER TAUBEN
       - p:
@@ -7570,7 +7571,7 @@
         - lb[n=11]: allen guoten freunden.
     - chapter[n=23]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=13]: VON DER WAHTELN.
       - p:
@@ -7631,7 +7632,7 @@
         - lb[n=23]: weis läut ob irn tischen.
     - chapter[n=24]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=25]: VON DEM STIGLITZ
       - p:
@@ -7663,7 +7664,7 @@
         - lb[n=14]: des sei dir gedanket, daz dû armuot nie versmæht hâst.
     - chapter[n=25]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=16]: VON DEM KÜNIGEL.
       - p:
@@ -7690,7 +7691,7 @@
           - pb[n=185]
     - chapter[n=26]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=2]: VON DEM KÜNIGSVOGEL.
       - p:
@@ -7721,7 +7722,7 @@
         - lb[n=23]: umb müezent si sich verkêren an dem einflug von der waid.
     - chapter[n=27]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=25]: VON DEM GREIFFALKEN
       - p:
@@ -7751,7 +7752,7 @@
         - lb[n=13]: greiffalk, greiffalk!
     - chapter[n=28]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=15]: VON DEM FENICEN
       - p:
@@ -7816,7 +7817,7 @@
           - pb[n=188]
     - chapter[n=29]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=2]: VON DEM FALKEN.
       - p:
@@ -7859,7 +7860,7 @@
           - pb[n=189]
     - chapter[n=30]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=2]: VON DEM FULKEN.
       - p:
@@ -7871,7 +7872,7 @@
         - lb[n=8]: si nerent.
     - chapter[n=31]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=10]: VON DEM FATER
       - p:
@@ -7884,7 +7885,7 @@
         - lb[n=17]: werdent des oft entwert.
     - chapter[n=32]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=19]: VON DEM GRACENDER.
       - p:
@@ -7905,7 +7906,7 @@
           - pb[n=190]
     - chapter[n=33]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=2]: VON DEM GREIFEN.
       - p:
@@ -7929,7 +7930,7 @@
         - lb[n=18]: fräuen, wenn si daz golt ansehen.
     - chapter[n=34]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=20]: VON DEM KRANICHEN
       - p:
@@ -7999,7 +8000,7 @@
         - lb[n=9]: stêt, wenne si der kranch vogelt.
     - chapter[n=35]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=11]: VON DEM HANEN.
       - p:
@@ -8035,7 +8036,7 @@
           - pb[n=193]
     - chapter[n=36]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=2]: VON DER HENNEN.
       - p:
@@ -8176,7 +8177,7 @@
         - lb[n=17]: sa schol man den hüenren ir air underlegen.
     - chapter[n=37]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37.]
       - head:
         - lb[n=19]: VON DEM CAPPAN.
       - p:
@@ -8238,7 +8239,7 @@
           - pb[n=198]
     - chapter[n=38]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38.]
       - head:
         - lb[n=2]: VON DEM VASANT.
       - p:
@@ -8285,7 +8286,7 @@
         - lb[n=4]: guot wilpræt.
     - chapter[n=39]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=6]: VON DEM HEHER.
       - p:
@@ -8311,7 +8312,7 @@
         - lb[n=24]: êrbern läuten in irm valschen klaffen.
     - chapter[n=40]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=26]: VON DEM RUOCHEN.
       - p:
@@ -8336,7 +8337,7 @@
         - lb[n=9]: und daz geschiht allermaist in der zeit der götleichen lieb.
     - chapter[n=41]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41.]
       - head:
         - lb[n=11]: VON DER SWALBEN.
       - p:
@@ -8392,7 +8393,7 @@
         - lb[n=20]: mer, wan pei uns airnt si neur ains mâls.
     - chapter[n=42]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=22]: VON DEM EIB.
       - p:
@@ -8424,7 +8425,7 @@
         - lb[n=10]: verderbent.
     - chapter[n=43]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=12]: VON DEM EISVOGEL.
       - p:
@@ -8448,7 +8449,7 @@
         - lb[n=28]: unser schier vergezzen wirt von aller diser werlt!
     - chapter[n=44]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44.]
       - head:
         - lb[n=30]: VON DEM KEICHEN
       - p:
@@ -8473,7 +8474,7 @@
         - lb[n=13]: dû dein verstantnüss hin?
     - chapter[n=45]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45.]
       - head:
         - lb[n=15]: VON DEM LAUREN
       - p:
@@ -8493,7 +8494,7 @@
         - lb[n=27]: unstæt.
     - chapter[n=46]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=46.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=46.]
       - head:
         - lb[n=29]: VON DEM LEUZEN.
       - p:
@@ -8514,7 +8515,7 @@
         - lb[n=8]: und würkent swarz.
     - chapter[n=47]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=10]: VON DEM WEIEN
       - p:
@@ -8556,7 +8557,7 @@
         - lb[n=8]: auch mit andern dingen, diu mich anvehtent.
     - chapter[n=48]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=10]: VON DER MERGANS
       - p:
@@ -8580,7 +8581,7 @@
         - lb[n=26]: an verplendet, sô væht er uns leiht.
     - chapter[n=49]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=28]: VON DER AMSELN.
       - p:
@@ -8624,7 +8625,7 @@
         - lb[n=26]: die selben vogel gesehent under stunden niht, als man sagt.
     - chapter[n=50]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=28]: VON DER TAHEN.
       - p:
@@ -8646,7 +8647,7 @@
         - lb[n=6]: niht, wem er ez sament.
     - chapter[n=51]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=51.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=51.]
       - head:
         - lb[n=8]: VON DEM TAUCHERL.
       - p:
@@ -8669,7 +8670,7 @@
         - lb[n=23]: luftes mêr denn des trüeben.
     - chapter[n=52]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=52.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=52.]
       - head:
         - lb[n=25]: VON DEM SPARWÆR
       - p:
@@ -8704,7 +8705,7 @@
         - lb[n=18]: umb guot. der ist laider vil auf erden.
     - chapter[n=53]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=53.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=53.]
       - head:
         - lb[n=20]: VON DER ÄULEN.
       - p:
@@ -8741,7 +8742,7 @@
         - lb[n=10]: wer übel würkt, der hazzet daz lieht.
     - chapter[n=54]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=54.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=54.]
       - head:
         - lb[n=12]: VON DEM ANKRÄTEL.
       - p:
@@ -8771,7 +8772,7 @@
           - pb[n=210]
     - chapter[n=55]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=55.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=55.]
       - head:
         - lb[n=2]: VON DEM PELLICAN.
       - p:
@@ -8855,7 +8856,7 @@
           - pb[n=212]
     - chapter[n=56]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=56.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=56.]
       - head:
         - lb[n=2]: VON DEM PORPHIRI.
       - p:
@@ -8886,7 +8887,7 @@
         - lb[n=25]: von den valschen prüedern.'
     - chapter[n=57]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=57.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=57.]
       - head:
         - lb[n=27]: VON DEM PFAWEN.
       - p:
@@ -8983,7 +8984,7 @@
         - lb[n=5]: daz müez got erparmen!
     - chapter[n=58]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=58.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=58.]
       - head:
         - lb[n=7]: VON DEM REPHUON.
       - p:
@@ -9040,7 +9041,7 @@
         - lb[n=20]: vil honges gemischt macht des menschen augen gar klâr.
     - chapter[n=59]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=59.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=59.]
       - head:
         - lb[n=22]: VON DEM PRUODER PIRO.
       - p:
@@ -9152,7 +9153,7 @@
         - lb[n=14]: gaislærn.
     - chapter[n=60]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=60.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=60.]
       - head:
         - lb[n=16]: VON DER AGLASTERN.
       - p:
@@ -9180,7 +9181,7 @@
           - pb[n=220]
     - chapter[n=61]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=61.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=61.]
       - head:
         - lb[n=2]: VON DER SPERKEN.
       - p:
@@ -9217,7 +9218,7 @@
         - lb[n=28]: si iht vallen.
     - chapter[n=62]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=62.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=62.]
       - head:
         - lb[n=30]: VON DER NAHTIGAL
       - p:
@@ -9258,7 +9259,7 @@
         - lb[n=25]: paideu leipleich und gaistleich.
     - chapter[n=63]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=63.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=63.]
       - head:
         - lb[n=27]: VON DEM SITICH.
       - p:
@@ -9297,7 +9298,7 @@
         - lb[n=22]: gar lustig.
     - chapter[n=64]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=64.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=64.]
       - head:
         - lb[n=24]: VON DEM STRAUZEN.
       - p:
@@ -9355,7 +9356,7 @@
         - lb[n=29]: daz in niht freuset, wenn er von den federn enplœzt wirt.
     - chapter[n=65]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=65.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=65.]
       - head:
         - lb[n=31]: VON DEM WUTSCH ODER ÄMRINCH.
       - p:
@@ -9406,7 +9407,7 @@
           - haizen.
     - chapter[n=66]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=66.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=66.]
       - head:
         - lb[n=30]: VON DEM STARN
       - p:
@@ -9427,7 +9428,7 @@
         - lb[n=7]: schaden in den weingarten herbstzeiten.
     - chapter[n=67]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=67.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=67.]
       - head:
         - lb[n=9]: VON DEM TROGOPEL.
       - p:
@@ -9444,7 +9445,7 @@
         - lb[n=16]: er hörner vorn dar an hât, als wir vor gesprochen haben.
     - chapter[n=68]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=68.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=68.]
       - head:
         - lb[n=18]: VON DER TURTELTAUBEN.
       - p:
@@ -9498,7 +9499,7 @@
         - lb[n=24]: der unstætichait.
     - chapter[n=69]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=69.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=69.]
       - head:
         - lb[n=26]: VON DER FLEDERMAUS.
       - p:
@@ -9538,7 +9539,7 @@
         - lb[n=18]: niht an daz lieht?
     - chapter[n=70]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=70.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=70.]
       - head:
         - lb[n=20]: VON DEM KLAGVOGEL
       - p:
@@ -9559,7 +9560,7 @@
         - lb[n=30]: zuo dem pœsten.
     - chapter[n=71]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=71.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=71.]
       - head:
         - lb[n=32]: VON DEM WIDHOPFEN.
       - p:
@@ -9609,7 +9610,7 @@
           - pb[n=229]
     - chapter[n=72]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=72.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=72.]
       - head:
         - lb[n=2]: VON DEM GEIRN.
       - p:
@@ -9677,10 +9678,10 @@
         - lb[n=25]: Mit der red haben die vogel nu ain end.
   - book[n=IIIC]:
     - lb[n=26]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=27]:
-        - foreign[lg=deu-Latn]: C.
+        - foreign[lg=und-Latn-x-general]: C.
       - lb[n=28]: VON DEN MERWUNDERN.
     - p:
       - lb[n=29]: Nu ist zeit, daz wir sagen von den merwundern, dâ
@@ -9699,7 +9700,7 @@
       - lb[n=7]: ainem B, als unser sit vor gewesen ist.
     - chapter[n=1]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=9]: VON DEM AUZGÄNGEL.
       - p:
@@ -9728,7 +9729,7 @@
         - lb[n=29]: tiefel.
     - chapter[n=2]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=31]: VON DEM MERFRAZ.
       - p:
@@ -9764,7 +9765,7 @@
         - lb[n=24]
     - chapter[n=3]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=26]: VON DEM HERTSNABEL.
       - p:
@@ -9782,7 +9783,7 @@
           - pb[n=233]
     - chapter[n=4]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=2]: VON DEM KUTSCHDRILLEN.
       - p:
@@ -9808,7 +9809,7 @@
         - lb[n=20]: alsô ganz.
     - chapter[n=5]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=22]: VON DEM DENKFUOZ.
       - p:
@@ -9828,7 +9829,7 @@
           - pb[n=234]
     - chapter[n=6]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=2]: VON DEM KILON.
       - p:
@@ -9846,7 +9847,7 @@
         - lb[n=14]: selber.
     - chapter[n=7]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=16]: VON DEM MERHUND.
       - p:
@@ -9866,7 +9867,7 @@
         - lb[n=28]: sælichait ab gerizzen! got erparm sich über uns!
     - chapter[n=8]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=30]: VON DEM MERTRACKEN
       - p:
@@ -9891,7 +9892,7 @@
         - lb[n=13]: und werdent armen arbaitern nümmer holt.
     - chapter[n=9]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=15]: VON DEM DELPHIN
       - p:
@@ -9947,7 +9948,7 @@
         - lb[n=27]: und dem ich wil und dem der ez wil.
     - chapter[n=10]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=29]: VON DEM WAZZERPFÄRD.
       - p:
@@ -9967,7 +9968,7 @@
         - lb[n=5]: als ain esel. dâ mach auz waz dû wellest.
     - chapter[n=11]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=7]: VON DEM MERRIND.
       - p:
@@ -9989,7 +9990,7 @@
         - lb[n=21]: mit seiner hausfrawen noch mit seim gesind.
     - chapter[n=12]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=23]: VON DEM SWERTRÜEZEL.
       - p:
@@ -10012,7 +10013,7 @@
         - lb[n=3]: sprech an dem letzten geriht!
     - chapter[n=13]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=5]: VON DEM KILLEN
       - p:
@@ -10029,7 +10030,7 @@
         - lb[n=16]: über die penk hupfent und wâ daz adel unedelt.
     - chapter[n=14]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=18]: VON DEM LUDLACHER.
       - p:
@@ -10054,7 +10055,7 @@
           - pb[n=239]
     - chapter[n=15]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=2]: VON DEM MERMÜNCH.
       - p:
@@ -10083,7 +10084,7 @@
         - lb[n=23]: laider diu werlt vol über al.
     - chapter[n=16]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=25]: VON DEM KLAGANT
       - p:
@@ -10104,7 +10105,7 @@
         - lb[n=3]: ist diser kranken werlt.
     - chapter[n=17]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=5]: VON DEN MERWEIBEN.
       - p:
@@ -10133,7 +10134,7 @@
         - lb[n=28]: verlaugent habent, diu lockent mangen man ze pôshait.
     - chapter[n=18]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=30]: VON DER MERJUNCFRAWEN
       - p:
@@ -10162,7 +10163,7 @@
         - lb[n=16]: girig nâch.
     - chapter[n=19]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=18]: VON DEM STICHEN.
       - p:
@@ -10183,7 +10184,7 @@
         - lb[n=31]: puoz.
     - chapter[n=20]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=33]: VON DEM TESTE.
       - p:
@@ -10206,10 +10207,10 @@
         - lb[n=11]: aber in daz trüeb pitter wazzer der sünden.
   - book[n=IIID]:
     - lb[n=12]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=13]:
-        - foreign[lg=deu-Latn]: D.
+        - foreign[lg=und-Latn-x-general]: D.
       - lb[n=14]: VON DEN VISCHEN.
     - p:
       - lb[n=15]: Hie schüll wir sagen von den vischen und des êrsten
@@ -10287,7 +10288,7 @@
       - lb[n=11]: an seiner wonung.
     - chapter[n=1]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=13]: VON DEM ÆL.
       - p:
@@ -10326,7 +10327,7 @@
         - lb[n=6]: elnpogen lang.
     - chapter[n=2]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=8]: VON DFM HÄRING.
       - p:
@@ -10345,7 +10346,7 @@
         - lb[n=19]: pei däutschen landen.
     - chapter[n=3]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=21]: VON DER GOLTWOLLEN.
       - p:
@@ -10374,7 +10375,7 @@
         - lb[n=7]: gedenke, daz dû pist aller sünder hoffnung und zuofluht.
     - chapter[n=4]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=9]: VON DEM KLAINEN VISCHL.
       - p:
@@ -10387,7 +10388,7 @@
         - lb[n=14]: gevallen, diemüetichait ist ain ursprinch aller tugent.
     - chapter[n=5]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=16]: VON DER MERSPINNEN.
       - p:
@@ -10406,7 +10407,7 @@
         - lb[n=27]: allen redærn und sagern gelauben.
     - chapter[n=6]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=29]: VON DEM REGENVISCH.
       - p:
@@ -10428,7 +10429,7 @@
         - lb[n=8]: oben auf dem ruck erdvar.
     - chapter[n=7]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=10]: VON DEM WALVISCH.
       - p:
@@ -10481,7 +10482,7 @@
         - lb[n=17]: er gar schatzpær und teur.
     - chapter[n=8]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=19]: VON DEM KREBZ.
       - p:
@@ -10516,7 +10517,7 @@
         - lb[n=10]: und ist ain schedleich ezzen.
     - chapter[n=9]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=12]: VON DEM SNECKEN.
       - p:
@@ -10550,7 +10551,7 @@
           - pb[n=250]
     - chapter[n=10]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=2]: VON DEM MERRABEN.
       - p:
@@ -10565,7 +10566,7 @@
         - lb[n=9]: dâ von werdent si dick gevangen mit des teufels stricken.
     - chapter[n=11]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=11]: VON DEM CLAUREN.
       - p:
@@ -10582,7 +10583,7 @@
         - lb[n=20]: sich lesterleich und pœsleich, dâ von niht mêr ze reden ist.
     - chapter[n=12]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=22]: VON DEM DELPHIN.
       - p:
@@ -10604,7 +10605,7 @@
         - lb[n=3]: werdent, und sô wirft si daz mer dann auz an daz lant.
     - chapter[n=13]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=5]: VON DEM ECHEN
       - p:
@@ -10650,7 +10651,7 @@
         - lb[n=7]: aber dir allermaist zuo unser frawen, diu wirt snell gewert.
     - chapter[n=14]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=9]: VON DEM HAUSEN.
       - p:
@@ -10675,7 +10676,7 @@
         - lb[n=26]: si sint waich an den werken.
     - chapter[n=15]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=28]: VON DEM GRAN.
       - p:
@@ -10696,7 +10697,7 @@
         - lb[n=7]: zuckt unser füez auz dem strick des êwigen tôdes.
     - chapter[n=16]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=9]: VON DER MERSWALBEN.
       - p:
@@ -10715,7 +10716,7 @@
         - lb[n=20]: leben und werdent gar guot.
     - chapter[n=17]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=22]: VON DEM KALOS.
       - p:
@@ -10735,7 +10736,7 @@
           - pb[n=254]
     - chapter[n=18]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=2]: VON DEM HECHT.
       - p:
@@ -10756,7 +10757,7 @@
         - lb[n=15]: frezzent und auch ir aigen mâg und freunt verderbent.
     - chapter[n=19]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=17]: VON DER MURÊN.
       - p:
@@ -10783,7 +10784,7 @@
         - lb[n=2]: pulvert, daz pulver ist guot für die selben pizz.
     - chapter[n=20]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=4]: VON DEM MEGAR.
       - p:
@@ -10812,7 +10813,7 @@
         - lb[n=25]: und der witzigist swimt vor und füert die andern.
     - chapter[n=21]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=27]: VON DEM KAINVISCH.
       - p:
@@ -10830,7 +10831,7 @@
         - lb[n=3]: weder im selber noch der werlt nütz ist noch got êrleich.
     - chapter[n=22]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=5]: VON DEM OSTER.
       - p:
@@ -10848,7 +10849,7 @@
         - lb[n=15]: zwival ist gar guot in der vasten.
     - chapter[n=23]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=17]: VON DEM MERSWEIN.
       - p:
@@ -10865,7 +10866,7 @@
         - lb[n=26]: rehten swein. si habent den rüezel pei der keln.
     - chapter[n=24]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=28]: VON DEM STÜRN.
       - p:
@@ -10890,7 +10891,7 @@
         - lb[n=13]: lang ân wazzer.
     - chapter[n=25]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=15]: VON DEM HAMFREZZEN
       - p:
@@ -10930,7 +10931,7 @@
         - lb[n=7]: machet den menschen käusch der in tregt.
     - chapter[n=26]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=9]: VON DEM MERSCHERN.
       - p:
@@ -10947,7 +10948,7 @@
         - lb[n=20]: und mit leiden gestrâft.
     - chapter[n=27]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=22]: VON DEM MERSNEKEN.
       - p:
@@ -10974,7 +10975,7 @@
         - lb[n=3]: sô die sneken zder rehten seiten dar an hangen.
     - chapter[n=28]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=5]: VON DEM TRIBIAN
       - p:
@@ -10988,7 +10989,7 @@
         - lb[n=11]: ez her auz dem gar tiefen prunnen.
     - chapter[n=29]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=13]: VON DER MERSLANGEN.
       - p:
@@ -11005,10 +11006,10 @@
         - lb[n=22]: gar guot ze ezzen.
   - book[n=IIIE]:
     - lb[n=23]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=24]:
-        - foreign[lg=deu-Latn]: E.
+        - foreign[lg=und-Latn-x-general]: E.
       - lb[n=25]: VON DEN SLANGEN
       - lb[n=26]: UND DES ÊRSTEN IN AINER GEMAIN.
     - p:
@@ -11109,7 +11110,7 @@
       - lb[n=9]: ist des menschen tôt und der slangen leben.
     - chapter[n=1]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=11]: VON DER ASPEN.
       - p:
@@ -11149,7 +11150,7 @@
         - lb[n=4]: die läut als ir aigeneu kint.
     - chapter[n=2]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=6]: VON DER ANSIBÊN.
       - p:
@@ -11180,7 +11181,7 @@
         - lb[n=24]: slâf und daz ander wach.
     - chapter[n=3]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=26]: VON DEM UNKEN.
       - p:
@@ -11239,7 +11240,7 @@
         - lb[n=2]: daz er wolt.
     - chapter[n=4]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=4]: VON DER BOA.
       - p:
@@ -11277,7 +11278,7 @@
           - pb[n=266]
     - chapter[n=5]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=2]: VON DEM BERN.
       - p:
@@ -11299,7 +11300,7 @@
         - lb[n=16]: der pœs gaist an der sêl.
     - chapter[n=6]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=18]: VON DER CERASTEN.
       - p:
@@ -11324,7 +11325,7 @@
           - pb[n=267]
     - chapter[n=7]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=2]: VON DER CILIDER.
       - p:
@@ -11353,7 +11354,7 @@
         - lb[n=11]: zespielt si vonenander.
     - chapter[n=8]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=13]: VON DER CENKER.
       - p:
@@ -11368,7 +11369,7 @@
         - lb[n=20]: vil füez hât, sam Isidorus spricht.
     - chapter[n=9]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=22]: VON DER DISPEN.
       - p:
@@ -11401,7 +11402,7 @@
         - lb[n=14]: scorpen.
     - chapter[n=10]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=16]: VON DEM TRACKEN.
       - p:
@@ -11482,7 +11483,7 @@
         - lb[n=17]: er und entweicht und wirt gehôrsam.
     - chapter[n=11]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=19]: VON DEM DRACHENKOPP.
       - p:
@@ -11545,7 +11546,7 @@
           - pb[n=272]
     - chapter[n=12]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=2]: VON DER IPNAPPEN.
       - p:
@@ -11566,7 +11567,7 @@
         - lb[n=15]: fraw iren wirt.
     - chapter[n=13]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=17]: VON DER EMOROIEN.
       - p:
@@ -11591,7 +11592,7 @@
         - lb[n=30]: etleichen christen nâch des mônen änderung
     - chapter[n=14]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=32]: VON DER WAZZERSLANGEN.
       - p:
@@ -11644,7 +11645,7 @@
         - lb[n=31]: ez vier pôshait für ain.
     - chapter[n=15]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=33]: VON DER SCHOZSLANGEN.
       - p:
@@ -11663,7 +11664,7 @@
         - lb[n=7]: sprechent, ez hab unreht, ê si die wârhait verhœrent.
     - chapter[n=16]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=9]: VON DER EGDEHSEN.
       - p:
@@ -11695,7 +11696,7 @@
         - lb[n=30]: von den wir her nâch sagen.
     - chapter[n=17]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=32]: VON DER NATER.
       - p:
@@ -11713,7 +11714,7 @@
         - lb[n=6]: mischent.
     - chapter[n=18]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=8]: VON DER NADERN.
       - p:
@@ -11753,7 +11754,7 @@
         - lb[n=3]: geriben sint.
     - chapter[n=19]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=5]: VON DER SCHELMSLANGEN.
       - p:
@@ -11767,7 +11768,7 @@
         - lb[n=11]: und stirbt alsô.
     - chapter[n=20]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=13]: VON DER PARI.
       - p:
@@ -11779,7 +11780,7 @@
         - lb[n=17]: parias gêt, dâ machet si ain furch an dem weg irs ganges.
     - chapter[n=21]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=19]: VON DER RUTELN.
       - p:
@@ -11794,7 +11795,7 @@
         - lb[n=26]: si lang lebent ân ezzen, iedoch besunder die rutel.
     - chapter[n=22]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=28]: VON DER SALAMANDER.
       - p:
@@ -11890,7 +11891,7 @@
         - lb[n=2]: verswint in der flammen.
     - chapter[n=23]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=4]: VON DER SERPEN.
       - p:
@@ -11903,7 +11904,7 @@
         - lb[n=9]: und kraft.
     - chapter[n=24]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=11]: VON DER SEURN.
       - p:
@@ -11925,7 +11926,7 @@
         - lb[n=24]: dem êwigen leben.
     - chapter[n=25]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=26]: VON DER WISPELN.
       - p:
@@ -11943,7 +11944,7 @@
           - pb[n=280]
     - chapter[n=26]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=2]: VON DER SPETWIFT.
       - p:
@@ -11955,7 +11956,7 @@
         - lb[n=6]: vergêt und verswindet in irm maul.
     - chapter[n=27]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=8]: VON DER SALPEN.
       - p:
@@ -11968,7 +11969,7 @@
         - lb[n=13]: sagt und schadet gem haimleich wâ ez mag.
     - chapter[n=28]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=15]: VON DER STERNSLANGEN
       - p:
@@ -12000,7 +12001,7 @@
         - lb[n=2]: zuozug.
     - chapter[n=29]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=4]: VON DER GEMAINEN SLANGEN.
       - p:
@@ -12016,7 +12017,7 @@
         - lb[n=12]: verr pœser wan die rehten slangen.
     - chapter[n=30]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=14]: VON DER DURSTSLANGEN.
       - p:
@@ -12036,7 +12037,7 @@
         - lb[n=26]: hitz und wirt verzert und verprint in im selber.
     - chapter[n=31]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=28]: VON DER SIRÊN.
       - p:
@@ -12056,7 +12057,7 @@
         - lb[n=5]: smerzen.
     - chapter[n=32]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=7]: VON DEM SCORPEN.
       - p:
@@ -12101,7 +12102,7 @@
         - lb[n=5]: her nâch kunt wirt.
     - chapter[n=33]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=7]: VON DER TORTUKEN.
       - p:
@@ -12126,7 +12127,7 @@
         - lb[n=24]: diu habent alleu niht plâtern, ân dáz tier.
     - chapter[n=34]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=26]: VON DEM TARANT.
       - p:
@@ -12147,7 +12148,7 @@
         - lb[n=4]: daz öl ist guot wider des tarandes hecken und stechen.
     - chapter[n=35]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=6]: VON DER TIERSLANGEN.
       - p:
@@ -12178,7 +12179,7 @@
         - lb[n=29]: haizt tichycon.
     - chapter[n=36]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=31]: VON DER TISEN.
       - p:
@@ -12252,10 +12253,10 @@
         - lb[n=23]: Nu haben die slangen ain end.
   - book[n=IIIF]:
     - lb[n=24]:
-      - milestone[lg=deu-Latn,unit=book,n=III.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=III.]
     - head:
       - lb[n=25]:
-        - foreign[lg=deu-Latn]: F.
+        - foreign[lg=und-Latn-x-general]: F.
       - lb[n=26]: VON DEN WÜRMEN IN EINER GEMAIN.
     - p:
       - lb[n=27]: Ez ist noch ainrlai tierl, die haizent würm. von den
@@ -12293,7 +12294,7 @@
       - lb[n=24]: allen.
     - chapter[n=1]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=26]: VON DER PEIN.
       - p:
@@ -12570,7 +12571,7 @@
         - lb[n=22]: main, parmherzigerv́got, lâ dein genâd erscheinen!
     - chapter[n=2]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=24]: VON DER SPINNEN.
       - p:
@@ -12612,7 +12613,7 @@
         - lb[n=22]: ir antlütz gegen dem netz.
     - chapter[n=3]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=24]: VON DER KLAINEN KROTEN.
       - p:
@@ -12640,7 +12641,7 @@
         - lb[n=8]: pei verstê wir die geitigen.
     - chapter[n=4]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=10]: VON DER GROZEN KROTEN
       - p:
@@ -12674,7 +12675,7 @@
           - pb[n=297]
     - chapter[n=5]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=2]: VON DEM SEIDENWÜRMEL.
       - p:
@@ -12700,7 +12701,7 @@
         - lb[n=18]: aller auzern lieb niht, diu in diser werlt ist.
     - chapter[n=6]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=20]: VON DEM GLEIMEL.
       - p:
@@ -12728,7 +12729,7 @@
         - lb[n=6]: schüllent läuhten vor den menschen.'
     - chapter[n=7]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=8]: VON DER HUNDSMUCKEN.
       - p:
@@ -12759,7 +12760,7 @@
         - lb[n=29]: gedenke, die den menschen von got schaident.
     - chapter[n=8]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=31]: VON DEN SNAKEN.
       - p:
@@ -12778,7 +12779,7 @@
         - lb[n=6]: uns slâfend stechent mit nâchred.
     - chapter[n=9]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=8]: VON DEN PREMEN.
       - p:
@@ -12806,7 +12807,7 @@
         - lb[n=25]: wol hin, lâ varn! ez schat niht der witzig wirt.
     - chapter[n=10]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=27]: VON DEN PAUMWÜRMEN.
       - p:
@@ -12833,7 +12834,7 @@
         - lb[n=10]: prand, und ist als guot sam manig prant, der ain jâr wert.
     - chapter[n=11]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=12]: VON DEM HARLIZ.
       - p:
@@ -12865,7 +12866,7 @@
           - pb[n=301]
     - chapter[n=12]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=2]: VON DEM KRAUTWURM.
       - p:
@@ -12887,7 +12888,7 @@
         - lb[n=13]: sein vergift niht grôzen schaden pring.
     - chapter[n=13]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=15]: VON DER AMAIZEN
       - p:
@@ -12924,7 +12925,7 @@
         - lb[n=9]: werden.
     - chapter[n=14]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=11]: VON DEM AMAIZLEB.
       - p:
@@ -12957,7 +12958,7 @@
         - lb[n=30]: irr arbait.
     - chapter[n=15]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=32]: VON DEM ERDSNECKEN.
       - p:
@@ -12983,7 +12984,7 @@
         - lb[n=11]: daz kain geswer dar inn wachs.
     - chapter[n=16]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=13]: VON DEM HÆSCHRECKEN.
       - p:
@@ -13034,7 +13035,7 @@
         - lb[n=14]: dem geschöpften stern.
     - chapter[n=17]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=16]: VON DER MUCKEN.
       - p:
@@ -13067,7 +13068,7 @@
         - lb[n=4]: si ain klain verr dâ von, sô sterbent si.
     - chapter[n=18]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=6]: VON DEM FLOCH.
       - p:
@@ -13081,7 +13082,7 @@
         - lb[n=12]: salbest.
     - chapter[n=19]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=14]: VON DEM FÜEZLING.
       - p:
@@ -13099,7 +13100,7 @@
         - lb[n=24]: wer sein klaider dâ mit reibt, daz hilft auch.
     - chapter[n=20]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=26]: VON DEM FROSCH.
       - p:
@@ -13140,7 +13141,7 @@
         - lb[n=22]: grôz.
     - chapter[n=21]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=24]: VON DER EGELN.
       - p:
@@ -13166,7 +13167,7 @@
         - lb[n=5]: ain dreieckot wunden.
     - chapter[n=22]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=7]: VON DEM WAZZERLÄUFEL.
       - p:
@@ -13184,7 +13185,7 @@
         - lb[n=17]: mit henden heltst, noch stirbt dâ von.
     - chapter[n=23]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=19]: VON SALOMONS WURM.
       - p:
@@ -13218,7 +13219,7 @@
         - lb[n=7]: zuo deinem pesten freund!
     - chapter[n=24]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=9]: VON DEM RAUBÆR.
       - p:
@@ -13233,7 +13234,7 @@
         - lb[n=16]: mit dem êwigen tôd.
     - chapter[n=25]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=18]: VON DEM WEIZSNECKEN.
       - p:
@@ -13259,7 +13260,7 @@
           - pb[n=309]
     - chapter[n=26]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=2]: VON DEM HOLZWURM.
       - p:
@@ -13276,7 +13277,7 @@
         - lb[n=11]: oder die paum hawen wellent.
     - chapter[n=27]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=13]: VON DER SCHABEN.
       - p:
@@ -13288,7 +13289,7 @@
         - lb[n=17]: durchnegt si.
     - chapter[n=28]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=19]: VON DEM SPECKMADEN.
       - p:
@@ -13302,7 +13303,7 @@
         - lb[n=25]: und mit rehter handlung.
     - chapter[n=29]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=27]: VON DEM WEFSEN.
       - p:
@@ -13317,7 +13318,7 @@
           - pb[n=310]
     - chapter[n=30]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=2]: VON DEM REGENWURM.
       - p:
@@ -13338,7 +13339,7 @@
         - lb[n=15]: her ab warf hie vor in der wüesten.
     - chapter[n=31]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=17]: VON DEM CELIDONIER.
       - p:
@@ -13366,10 +13367,10 @@
           - pb[n=311]
   - book[n=IV]:
     - lb[n=1]:
-      - milestone[lg=deu-Latn,unit=book,n=IV.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=IV.]
     - head:
       - lb[n=2]:
-        - foreign[lg=deu-Latn]: A.
+        - foreign[lg=und-Latn-x-general]: A.
       - lb[n=3]: VON DEN PAUMEN.
     - p:
       - lb[n=4]: Wir schüllen nu in disem vierden stuck des puoches
@@ -13382,7 +13383,7 @@
       - lb[n=11]: dingen.
     - chapter[n=1]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=13]: VON DEM KÄUSCHEN LAMP.
       - p:
@@ -13428,7 +13429,7 @@
         - lb[n=21]: läuten.
     - chapter[n=2]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=23]: VON ADAMS PAUM.
       - p:
@@ -13440,7 +13441,7 @@
         - lb[n=29]: des êrsten menschen sünd wolt zaigen an derlai frühten.
     - chapter[n=3]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=31]: VON DES PARADIS PAUM.
       - p:
@@ -13465,7 +13466,7 @@
         - lb[n=11]: an ainem ast der sælichait tregt mêr dann hundert tugent.
     - chapter[n=4]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=13]: VON DEM WUNDERLEICHEM PAUM.
       - p:
@@ -13489,7 +13490,7 @@
         - lb[n=29]: twinget mich zuo gar guoter will.
     - chapter[n=5]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=31]: VON DER TANNEN.
       - p:
@@ -13533,7 +13534,7 @@
         - lb[n=28]: durch die linden pödem, und dâ von wirt daz gedœn süez.
     - chapter[n=6]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=30]: VON DER ERLN
       - p:
@@ -13561,7 +13562,7 @@
         - lb[n=14]: andreu werk.
     - chapter[n=7]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=16]: VON DEM MANDELPAUM.
       - p:
@@ -13590,7 +13591,7 @@
           - pb[n=316]
     - chapter[n=8]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=2]: VON DEM HAGDORN.
       - p:
@@ -13614,7 +13615,7 @@
         - lb[n=18]: wäzriger fäuhten koment.
     - chapter[n=9]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=20]: VON DEM PUCHSPAUM
       - p:
@@ -13641,7 +13642,7 @@
         - lb[n=4]: holz. iedoch smeckt der wein paz auz viechteim maser.
     - chapter[n=10]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=6]: VON DEM KESTENPAUM.
       - p:
@@ -13663,7 +13664,7 @@
         - lb[n=20]: pizz und wider der töbigen hund pizz.
     - chapter[n=11]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=22]: VON DEM CEDERPAUM.
       - p:
@@ -13722,7 +13723,7 @@
         - lb[n=30]: des lâz mich geniezen durch all dein wirdikait!
     - chapter[n=12]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=32]: VON DEM CYPRESSENPAUM.
       - p:
@@ -13757,7 +13758,7 @@
         - lb[n=25]: und valschait.
     - chapter[n=13]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=27]: VON DEM KÜTENPAUM.
       - p:
@@ -13815,7 +13816,7 @@
           - pb[n=321]
     - chapter[n=14]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=2]: VON DEM EIBAN.
       - p:
@@ -13842,7 +13843,7 @@
         - lb[n=21]: püechern.
     - chapter[n=15]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=23]: VON DEM EPAUM.
       - p:
@@ -13863,7 +13864,7 @@
           - pb[n=322]
     - chapter[n=16]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=2]: VON DEM VEIGENPAUM.
       - p:
@@ -13929,7 +13930,7 @@
         - lb[n=23]: rôten veigen die pesten und die swarzen die allerpœsten.
     - chapter[n=17]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=25]: VON DER PUOCHEN
       - p:
@@ -13959,7 +13960,7 @@
         - lb[n=11]: aicheln tuont.
     - chapter[n=18]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=13]: VON DEM SLINTPAUM.
       - p:
@@ -13998,7 +13999,7 @@
         - lb[n=7]: pain, diu wachsent schier zesamen.
     - chapter[n=19]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=9]: VON DEM EILPAUM.
       - p:
@@ -14011,7 +14012,7 @@
         - lb[n=14]: des êrsten aicheln.
     - chapter[n=20]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=16]: VON DEM KRANWITPAUM.
       - p:
@@ -14084,7 +14085,7 @@
         - lb[n=4]: wider.
     - chapter[n=21]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=6]: VON DEM LORPAUM.
       - p:
@@ -14134,7 +14135,7 @@
         - lb[n=2]: guot und der tauphait.
     - chapter[n=22]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=4]: VON DEM LORANT.
       - p:
@@ -14149,7 +14150,7 @@
         - lb[n=9]: ist ain erznei etleicher töbichait, die die läut anvehtent.
     - chapter[n=23]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=11]: VON DEM HAUSPAUM.
       - p:
@@ -14164,7 +14165,7 @@
         - lb[n=18]: an ainem feur, sô macht ez kainen koln.
     - chapter[n=24]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=20]: VON DEM LENDPAUM.
       - p:
@@ -14199,7 +14200,7 @@
         - lb[n=5]: hals gorgeln oder hab sich über den dunst, sô wirt im paz.
     - chapter[n=25]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=7]: VON DEM MALGRANPAUM.
       - p:
@@ -14242,7 +14243,7 @@
         - lb[n=24]: daz ezzen gar wol kocht.
     - chapter[n=26]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=26]: VON DEM HOLZÖPFEL.
       - p:
@@ -14265,7 +14266,7 @@
         - lb[n=5]: werden.
     - chapter[n=27]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=7]: VON DEM MAULPERPAUM.
       - p:
@@ -14321,7 +14322,7 @@
         - lb[n=10]: hâr swarz.
     - chapter[n=28]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=12]: VON DER PIRKEN.
       - p:
@@ -14350,7 +14351,7 @@
         - lb[n=30]: daz pei im tregt, daz ist für den krampf guot.]
     - chapter[n=29]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=32]: VON DEM MIRTELPAUM.
       - p:
@@ -14412,7 +14413,7 @@
         - lb[n=9]: leib und besterkent daz herz und benement den herzriten.
     - chapter[n=30]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=11]: VON DEM NESPELPAUM.
       - p:
@@ -14438,7 +14439,7 @@
         - lb[n=24]: macht man gar guot knütel ze kämpfen und ze vehten.
     - chapter[n=31]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=26]: VON DEM NUZPAUM.
       - p:
@@ -14464,7 +14465,7 @@
         - lb[n=7]: sprechent.
     - chapter[n=32]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=9]: VON DEN HASELNUZZEN.
       - p:
@@ -14491,7 +14492,7 @@
         - lb[n=25]
     - chapter[n=33]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=27]: VON DEM WILDEN ÖLPAUM.
       - p:
@@ -14507,7 +14508,7 @@
           - pb[n=335]
     - chapter[n=34]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=2]: VON DEM ÖLPAUM.
       - p:
@@ -14593,7 +14594,7 @@
           - pb[n=337]
     - chapter[n=35]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=2]: VON DEM PALMPAUM.
       - p:
@@ -14648,7 +14649,7 @@
         - lb[n=6]: dein gnâd an mir niht verzagen.
     - chapter[n=36]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=8]: VON DEM AHORNPAUM.
       - p:
@@ -14681,7 +14682,7 @@
         - lb[n=31]: der deineu freund!
     - chapter[n=37]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37.]
       - head:
         - lb[n=33]: VON DER VIECHTEN.
       - p:
@@ -14723,7 +14724,7 @@
         - lb[n=24]: mit der nasen in sich ziehen, der die huosten hât.
     - chapter[n=38]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38.]
       - head:
         - lb[n=26]: VON DEM ALBERPAUM.
       - p:
@@ -14758,7 +14759,7 @@
         - lb[n=14]: klâr und vertreibt des leibes ruor oder daz hinlaufen.
     - chapter[n=39]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=16]: VON DEM PIRPAUM.
       - p:
@@ -14808,7 +14809,7 @@
         - lb[n=22]: würm in den pirn und wert in, daz si iht wachsen.
     - chapter[n=40]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=24]: VON DEM KRIECHPAUM.
       - p:
@@ -14844,7 +14845,7 @@
         - lb[n=16]: wert dem fluz auz dem haupt in die kel.
     - chapter[n=41]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41.]
       - head:
         - lb[n=18]: VON DEM PFERSICHPAUM.
       - p:
@@ -14869,7 +14870,7 @@
           - pb[n=343]
     - chapter[n=42]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=2]: VON DER AICH.
       - p:
@@ -14915,7 +14916,7 @@
           - pb[n=344]
     - chapter[n=43]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=2]: VON DEM RŒTELPAUM.
       - p:
@@ -14929,7 +14930,7 @@
         - lb[n=10]: wider die vergift.
     - chapter[n=44]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44.]
       - head:
         - lb[n=12]: VON DEM ROSENPAUM.
       - p:
@@ -15032,7 +15033,7 @@
         - lb[n=30]: fraw, dû waist wol, ob ich ez mit ernst main.
     - chapter[n=45]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45.]
       - head:
         - lb[n=32]: VON DER SETHIN.
       - p:
@@ -15046,7 +15047,7 @@
         - lb[n=4]: niht leiht und fault auch niht.
     - chapter[n=46]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=46.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=46.]
       - head:
         - lb[n=6]: VON DER WEIDEN.
       - p:
@@ -15073,7 +15074,7 @@
         - lb[n=25]: den luft und sänftigent die hitz an den siechen läuten.
     - chapter[n=47]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=27]: VON DEM HOHEN MAULPERPAUM.
       - p:
@@ -15093,7 +15094,7 @@
         - lb[n=2]: puoch Amos.
     - chapter[n=48]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=4]: VON DEM HOLÆR.
       - p:
@@ -15119,7 +15120,7 @@
         - lb[n=16]: dar auz macht.
     - chapter[n=49]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=18]: VON DEM SPERHAGEN.
       - p:
@@ -15134,7 +15135,7 @@
         - lb[n=27]: sterben. wer aber si seudet und izzet, daz waicht den leip.
     - chapter[n=50]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=29]: VON DEM THIMPAUM.
       - p:
@@ -15155,7 +15156,7 @@
         - lb[n=8]: weiz und gar vast scheinend, reht sam daz helfenpain.
     - chapter[n=51]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=51.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=51.]
       - head:
         - lb[n=10]: VON DEM THEREBINTEN
       - p:
@@ -15169,7 +15170,7 @@
         - lb[n=18]: paums weirâch smeckt gar wol.
     - chapter[n=52]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=52.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=52.]
       - head:
         - lb[n=20]: VON DEM DACHSPAUM
       - p:
@@ -15198,7 +15199,7 @@
         - lb[n=2]: sei daz ain pein den paum anrüer, si sterb.
     - chapter[n=53]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=53.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=53.]
       - head:
         - lb[n=4]: VON DER LINDEN.
       - p:
@@ -15216,7 +15217,7 @@
         - lb[n=12]: schat.
     - chapter[n=54]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=54.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=54.]
       - head:
         - lb[n=14]: VON DEM WEINREBEN.
       - p:
@@ -15346,7 +15347,7 @@
         - lb[n=23]: trunkenhait wert niht sô lang sam von eitelm wein.
     - chapter[n=55]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=55.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=55.]
       - head:
         - lb[n=25]: VON DEM ULMPAUM
       - p:
@@ -15373,7 +15374,7 @@
         - lb[n=8]: IV.
     - chapter[n=B]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=B.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=B.]
       - head:
         - lb[n=10]: VON DEN WOLSMECKENDEN PAUMEN
       - p:
@@ -15386,7 +15387,7 @@
         - lb[n=17]: well wir nu reden.
     - chapter[n=1]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=19]: VON DER SALBEN ALOE.
       - p:
@@ -15426,7 +15427,7 @@
         - lb[n=17]: wermuotsaf.
     - chapter[n=2]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=19]: VON DEM ALOES.
       - p:
@@ -15462,7 +15463,7 @@
         - lb[n=12]: haupt dâ mit, der singt tag und naht niht.
     - chapter[n=3]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=14]: VON DEM AMOMO.
       - p:
@@ -15500,7 +15501,7 @@
         - lb[n=10]: pflaster dâ von macht, daz ist guot für der scorpen hecken.
     - chapter[n=4]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=12]: VON DEM CARDAMOM.
       - p:
@@ -15531,7 +15532,7 @@
           - pb[n=358]
     - chapter[n=5]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=2]: VON DEM BIDELL.
       - p:
@@ -15553,7 +15554,7 @@
         - lb[n=16]: des mannes gezeuglein, wenn man in mit ezzeich twirt.
     - chapter[n=6]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=18]: VON DEM BALSEMPAUM.
       - p:
@@ -15680,7 +15681,7 @@
         - lb[n=23]: mich und gibt mir ain kraft, mêr dann aller balsem smack.
     - chapter[n=7]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=25]: VON DEM CINAMOMPAUM
       - p:
@@ -15742,7 +15743,7 @@
         - lb[n=5]: über leipleich nâtûr.
     - chapter[n=8]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=7]: VON DER HOLZGATZ.
       - p:
@@ -15772,7 +15773,7 @@
         - lb[n=29]: läuten geben ze trinken.
     - chapter[n=9]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=31]: VON DEM CASSIANPAUM.
       - p:
@@ -15799,7 +15800,7 @@
         - lb[n=15]: in der hant oder in dem puosem.
     - chapter[n=10]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=17]: VON DER CASSENRŒRN.
       - p:
@@ -15826,7 +15827,7 @@
           - pb[n=365]
     - chapter[n=11]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=2]: VON DEM WOLSMECKENDEN HALM.
       - p:
@@ -15847,7 +15848,7 @@
         - lb[n=15]: daz ist auch guot zuo der prust.
     - chapter[n=12]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=17]: VON DEM ALEXANDRISCHEN KÜRBIZ.
       - p:
@@ -15863,7 +15864,7 @@
         - lb[n=25]: dem hals, daz hilft für den zantswern.
     - chapter[n=13]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=27]: VON DEM CAPPAR.
       - p:
@@ -15886,7 +15887,7 @@
         - lb[n=8]: in dem magen und lutzent den kalten magen.
     - chapter[n=14]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=10]: VON DEN KUBEBEN
       - p:
@@ -15903,7 +15904,7 @@
         - lb[n=19]: hirn, daz ist dem haupt gar gesunt.
     - chapter[n=15]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=21]: VON DEM DIADRAGANT.
       - p:
@@ -15926,7 +15927,7 @@
         - lb[n=3]: kalten huosten und wider die dürren der prust.
     - chapter[n=16]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=5]: VON DEM GALBAN.
       - p:
@@ -15953,7 +15954,7 @@
         - lb[n=21]: vor gesait haben.
     - chapter[n=17]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=23]: VON DEN NÄGELLEIN.
       - p:
@@ -15992,7 +15993,7 @@
         - lb[n=17]: wüllen.
     - chapter[n=18]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=19]: VON DEM GALGAN.
       - p:
@@ -16024,7 +16025,7 @@
         - lb[n=3]: dem niersmerzen und zuo vil andern dingen in erznei.
     - chapter[n=19]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=5]: VON DEM ARABISCHEN ZAHER
       - p:
@@ -16049,7 +16050,7 @@
         - lb[n=22]: ains ais und legt ez auf die stat.
     - chapter[n=20]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=24]: VON DEM ARABISCHEN MIRREN.
       - p:
@@ -16115,7 +16116,7 @@
         - lb[n=9]: enpfieng.
     - chapter[n=21]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=11]: VON DEM MATZENPAUM.
       - p:
@@ -16139,7 +16140,7 @@
         - lb[n=29]: zersträw.
     - chapter[n=22]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=31]: VON DEM MUSKATPAUM.
       - p:
@@ -16166,7 +16167,7 @@
         - lb[n=13]: schüllent auch wein trinken, der dâ mit gesoten sei.
     - chapter[n=23]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=15]: VON DER ONICHEN
       - p:
@@ -16191,7 +16192,7 @@
         - lb[n=31]
     - chapter[n=24]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=33]: VON DEM PFEFFERPAUM.
       - p:
@@ -16255,7 +16256,7 @@
         - lb[n=12]: der wirft er die gepurt auz.
     - chapter[n=25]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=14]: VON DEM TAUBENPAUM.
       - p:
@@ -16271,7 +16272,7 @@
         - lb[n=22]: dô wir von den tauben schriben.
     - chapter[n=26]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=24]: VON DEM MIRRENZAHER.
       - p:
@@ -16291,7 +16292,7 @@
         - lb[n=3]: andern.
     - chapter[n=27]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=5]: VON DEM STORAX
       - p:
@@ -16319,7 +16320,7 @@
         - lb[n=27]: sigia.
     - chapter[n=28]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=29]: VON DEM SANDAL.
       - p:
@@ -16350,7 +16351,7 @@
         - lb[n=18]: tuon.
     - chapter[n=29]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=20]: VON DEM WEIRACHPAUM
       - p:
@@ -16412,7 +16413,7 @@
           - pb[n=378]
   - book[n=V]:
     - lb[n=1]:
-      - milestone[lg=deu-Latn,unit=book,n=V.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=V.]
     - head:
       - lb[n=2]: VON DEN KRÄUTERN
       - lb[n=3]: IN AINER GEMAIN.
@@ -16521,7 +16522,7 @@
       - lb[n=27]: etwaz von und andern zuckern.
     - chapter[n=1]:
       - lb[n=28]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=29]: VON DER WERMUOT.
       - p:
@@ -16563,7 +16564,7 @@
         - lb[n=25]: andern.
     - chapter[n=2]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=27]: VON DEM ANETKRAUT.
       - p:
@@ -16592,7 +16593,7 @@
         - lb[n=11]: als her nâch kunt wirt.
     - chapter[n=3]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=13]: VON DEM EPF.
       - p:
@@ -16629,7 +16630,7 @@
         - lb[n=2]: der unkäuschen stat.
     - chapter[n=4]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=4]: VON DER HOBWURZ.
       - p:
@@ -16673,7 +16674,7 @@
           - pb[n=384]
     - chapter[n=5]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=2]: VON DEM KNOBLAUCH.
       - p:
@@ -16691,7 +16692,7 @@
         - lb[n=12]: magen. aber rôch knoblauch tuot in dem haupt wê.
     - chapter[n=6]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=14]: VON DEM VERBKRAUT.
       - p:
@@ -16711,7 +16712,7 @@
         - lb[n=26]: auch cinamomespulver guot, hâst dû kainen andern.
     - chapter[n=7]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=28]: VON DEM ANEIS.
       - p:
@@ -16735,7 +16736,7 @@
         - lb[n=10]: treibt vergift auz.
     - chapter[n=8]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=12]: VON DEM PEIPOZ.
       - p:
@@ -16748,7 +16749,7 @@
         - lb[n=17]: wan ich gelaub sein niht, ez wær dann bezaubert.
     - chapter[n=9]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=19]: VON DER MALTEN.
       - p:
@@ -16768,7 +16769,7 @@
         - lb[n=28]: auz den pletern.
     - chapter[n=10]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=30]: VON DER WEIZEN PAPELN
       - p:
@@ -16795,7 +16796,7 @@
         - lb[n=11]: mit wein und mit öl, daz ist guot für vergift.
     - chapter[n=11]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=13]: VON DEM MÄUSŒRL.
       - p:
@@ -16809,7 +16810,7 @@
         - lb[n=19]: niest dar auz, daz ist den hinvallenden guot.
     - chapter[n=12]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=21]: VON DER PATONIGEN.
       - p:
@@ -16831,7 +16832,7 @@
           - pb[n=387]
     - chapter[n=13]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=2]: VON DEM BASILIGEN.
       - p:
@@ -16861,7 +16862,7 @@
         - lb[n=18]: üebet mit flêh, mit gâb oder mit andern dingen.
     - chapter[n=14]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=20]: VON DER HAUSWURZ
       - p:
@@ -16877,7 +16878,7 @@
         - lb[n=28]: wider die haizen apostem.
     - chapter[n=15]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=30]: VON DEM PIEZENKRAUT
       - p:
@@ -16898,7 +16899,7 @@
         - lb[n=7]: kocht pei dem feur.
     - chapter[n=16]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=9]: VON DER GAMILLEN.
       - p:
@@ -16919,7 +16920,7 @@
         - lb[n=22]: der lenden siehtum.
     - chapter[n=17]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=24]: VON DEM ZWIVAL.
       - p:
@@ -16946,7 +16947,7 @@
         - lb[n=4]: auz macht und ez über pindet.
     - chapter[n=18]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=6]: VON DEM KICHERKRAUT.
       - p:
@@ -16986,7 +16987,7 @@
         - lb[n=2]: an den vorgenanten werken.
     - chapter[n=19]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=4]: VON DEM SCHELLKRAUT.
       - p:
@@ -17003,7 +17004,7 @@
         - lb[n=13]: in den augen und die scherpfen und diu weizen mail.
     - chapter[n=20]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=15]: VON DER HUNDSZUNGEN
       - p:
@@ -17015,7 +17016,7 @@
         - lb[n=19]: püechern, diu von den kräutern sagent, niht mêr dâ von.
     - chapter[n=21]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=21]: VON DER PINZEN.
       - p:
@@ -17044,7 +17045,7 @@
           - dar umb, daz ez ainem swert geleicht.
     - chapter[n=22]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=5]: VON DEM ERDAPFEL
       - p:
@@ -17065,7 +17066,7 @@
         - lb[n=15]: sint guot für der töbigen hunde piz.
     - chapter[n=23]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=17]: VON DEM SWEINKRAUT.
       - p:
@@ -17086,7 +17087,7 @@
         - lb[n=26]: die zeplæt sint und doch niht vliezent.
     - chapter[n=24]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=28]: VON DER KÜNIGSKRON.
       - p:
@@ -17113,7 +17114,7 @@
         - lb[n=7]: auch sant Johannskraut.
     - chapter[n=25]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=9]: VON DEM SAFFRAN.
       - p:
@@ -17168,7 +17169,7 @@
         - lb[n=5]: und sich zesamen hab gezogen.
     - chapter[n=26]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=7]: VON DEM KÜRBIZ.
       - p:
@@ -17205,7 +17206,7 @@
           - pb[n=394]
     - chapter[n=27]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=2]: VON DEM KÖLKRAUT.
       - p:
@@ -17226,7 +17227,7 @@
         - lb[n=15]: wurzel, sô verderbent si die weinreben.
     - chapter[n=28]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=17]: VON DEM SUNNENWERBEL.
       - p:
@@ -17253,7 +17254,7 @@
         - lb[n=30]: sam ain edelstain, haizt jâchant.
     - chapter[n=29]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=32]: VON DER HONIGRŒREN.
       - p:
@@ -17270,7 +17271,7 @@
         - lb[n=5]: hab, daz wirt her nâch kunt.
     - chapter[n=30]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=7]: VON DEM WANZENKRAUT.
       - p:
@@ -17295,7 +17296,7 @@
         - lb[n=24]: kraut, des ich niht acht an dém stuck, ich volg dem pezzern.
     - chapter[n=31]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=26]: VON DEM CAMPFER.
       - p:
@@ -17321,7 +17322,7 @@
         - lb[n=9]: sei ains pâms saf und daz werd alsô hert.
     - chapter[n=32]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=11]: VON DEM KÜMEL.
       - p:
@@ -17357,7 +17358,7 @@
         - lb[n=3]: daz hilft für der vergiftigen tier piz.
     - chapter[n=33]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=5]: VON DER ERDGALLEN
       - p:
@@ -17416,7 +17417,7 @@
         - lb[n=12]: als man spricht.
     - chapter[n=34]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=14]: VON DEM PFEFFERKRAUT.
       - p:
@@ -17435,7 +17436,7 @@
         - lb[n=25]: auz; dâ von hiez ez wol hirzwurz.
     - chapter[n=35]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=27]: VON DEM WEIZEN SENIF.
       - p:
@@ -17459,7 +17460,7 @@
         - lb[n=8]: und daz würkt allermaist des krautes sâm.
     - chapter[n=36]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=10]: VON DER NIESWURZ
       - p:
@@ -17522,7 +17523,7 @@
         - lb[n=26]: hât genozzen.
     - chapter[n=37]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37.]
       - head:
         - lb[n=28]: VON DEM VENICHELKRAUT.
       - p:
@@ -17557,7 +17558,7 @@
         - lb[n=18]: träuft, sô macht ez diu dunkeln augen clâr.
     - chapter[n=38]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38.]
       - head:
         - lb[n=20]: VON DEN SWAMMEN
       - p:
@@ -17601,7 +17602,7 @@
         - lb[n=11]: dich vor in allen, daz ist mein rât.
     - chapter[n=39]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=13]: VON DEN PONN.
       - p:
@@ -17627,7 +17628,7 @@
         - lb[n=28]: korn.
     - chapter[n=40]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=30]: VON DEM KORN
       - p:
@@ -17655,7 +17656,7 @@
         - lb[n=14]: cleien, dem nement si die unsauberkait vast abe.
     - chapter[n=41]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41.]
       - head:
         - lb[n=16]: VON DEM HIRS.
       - p:
@@ -17681,7 +17682,7 @@
         - lb[n=28]: den leip haben, sô vergêt im der smerz.
     - chapter[n=42]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=30]: VON DEM SLATENKRAUT
       - p:
@@ -17705,7 +17706,7 @@
         - lb[n=11]: und sein storren. daz kraut haizet auch carectum.
     - chapter[n=43]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=13]: VON DEM HOPFEN.
       - p:
@@ -17729,7 +17730,7 @@
         - lb[n=25]: mêr adels an dem kraut wan diu pluom.
     - chapter[n=44]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44.]
       - head:
         - lb[n=27]: VON DEM PILSENKRAUT.
       - p:
@@ -17762,7 +17763,7 @@
         - lb[n=14]: und für alle die siehtüem, die von haizer sach koment.
     - chapter[n=45]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45.]
       - head:
         - lb[n=16]: VON DER ISPEN.
       - p:
@@ -17779,7 +17780,7 @@
         - lb[n=25]: als man lêrt in der ärzt kunst und in iren püechern.
     - chapter[n=46]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=46.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=46.]
       - head:
         - lb[n=27]: VON DER LACTUKEN.
       - p:
@@ -17796,7 +17797,7 @@
           - pb[n=406]
     - chapter[n=47]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=2]: VON DER LILIGEN.
       - p:
@@ -17826,7 +17827,7 @@
         - lb[n=24]: hêr und gnâden vol, des lâz mich geniezen.
     - chapter[n=48]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=26]: VON DER ALRAUN.
       - p:
@@ -17877,7 +17878,7 @@
         - lb[n=30]: der muoter fluz.
     - chapter[n=49]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=32]: VON DER PAPELN.
       - p:
@@ -17896,7 +17897,7 @@
         - lb[n=6]: als man spricht.
     - chapter[n=50]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=8]: VON DER MINZ.
       - p:
@@ -17927,7 +17928,7 @@
         - lb[n=31]: benimt des pluots lauf von inwendig auz dem leib.
     - chapter[n=51]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=51.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=51.]
       - head:
         - lb[n=33]: VON DEM MAROBEL.
       - p:
@@ -17949,7 +17950,7 @@
         - lb[n=8]: haizent, wenn man ez berait nâch arztei lêr.
     - chapter[n=52]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=52.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=52.]
       - head:
         - lb[n=10]: VON DEM NARDENKRAUT
       - p:
@@ -17994,7 +17995,7 @@
         - lb[n=4]: genâden ist.
     - chapter[n=53]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=53.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=53.]
       - head:
         - lb[n=6]: VON DEM KRESSEN.
       - p:
@@ -18023,7 +18024,7 @@
         - lb[n=25]: kreft, wenn man ez reht und wol beraitet.
     - chapter[n=54]:
       - lb[n=26]:
-        - milestone[lg=deu-Latn,unit=chapter,n=54.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=54.]
       - head:
         - lb[n=27]: VON DER SÊWURZ.
       - p:
@@ -18047,7 +18048,7 @@
         - lb[n=7]: wenn man si nimpt in ainem syrop von mâgen gemacht.
     - chapter[n=55]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=55.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=55.]
       - head:
         - lb[n=9]: VON DER ROTEN KORNPLUOM.
       - p:
@@ -18066,7 +18067,7 @@
         - lb[n=20]: ez daz wullein tuoch gar weiz rainig.
     - chapter[n=56]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=56.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=56.]
       - head:
         - lb[n=22]: VON DEM NAPPELNKRAUT.
       - p:
@@ -18088,7 +18089,7 @@
           - pb[n=412]
     - chapter[n=57]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=57.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=57.]
       - head:
         - lb[n=2]: VON DEM KRÄSSELKRAUT.
       - p:
@@ -18110,7 +18111,7 @@
         - lb[n=14]: der frawen haimleichen fluz und hindert die unkäusch.
     - chapter[n=58]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=58.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=58.]
       - head:
         - lb[n=16]: VON DER VELTPLUOMEN.
       - p:
@@ -18142,7 +18143,7 @@
           - pb[n=413]
     - chapter[n=59]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=59.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=59.]
       - head:
         - lb[n=2]: VON DER GERSTEN.
       - p:
@@ -18173,7 +18174,7 @@
         - lb[n=22]: von seiner kelten wegen.
     - chapter[n=60]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=60.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=60.]
       - head:
         - lb[n=24]: VON DEM PETERSIL.
       - p:
@@ -18196,7 +18197,7 @@
           - pb[n=414]
     - chapter[n=61]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=61.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=61.]
       - head:
         - lb[n=2]: VON DEM MAGENKRAUT.
       - p:
@@ -18222,7 +18223,7 @@
         - lb[n=20]: zimleich wirt.
     - chapter[n=62]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=62.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=62.]
       - head:
         - lb[n=22]: VON DEM PEONKRAUT.
       - p:
@@ -18286,7 +18287,7 @@
         - lb[n=28]: überflüzzichait auz im.
     - chapter[n=63]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=63.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=63.]
       - head:
         - lb[n=30]: VON DEM PFORREN.
       - p:
@@ -18312,7 +18313,7 @@
         - lb[n=11]: und der plâtern.
     - chapter[n=64]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=64.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=64.]
       - head:
         - lb[n=13]: VON DEM PÖRZELKRAUT.
       - p:
@@ -18331,7 +18332,7 @@
         - lb[n=24]: der unkäusch. des krautes izt man vil ze Parîs.
     - chapter[n=65]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=65.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=65.]
       - head:
         - lb[n=26]: VON DER POLAIEN.
       - p:
@@ -18343,7 +18344,7 @@
         - lb[n=30]: ez an sich zeucht und daz ez entsleuzt.
     - chapter[n=66]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=66.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=66.]
       - head:
         - lb[n=32]: VON DEM PSILLENKRAUT.
       - p:
@@ -18366,7 +18367,7 @@
         - lb[n=11]: dem siechen mit ainem andern kalten wazzer.
     - chapter[n=67]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=67.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=67.]
       - head:
         - lb[n=13]: VON DER RAUTEN.
       - p:
@@ -18409,7 +18410,7 @@
         - lb[n=11]
     - chapter[n=68]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=68.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=68.]
       - head:
         - lb[n=13]: VON DEM RÄTICH.
       - p:
@@ -18449,7 +18450,7 @@
         - lb[n=4]: und senkt daz ezzen hin ab.
     - chapter[n=69]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=69.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=69.]
       - head:
         - lb[n=6]: VON DER RUOBEN.
       - p:
@@ -18462,7 +18463,7 @@
         - lb[n=11]: ruoben waichent den leip und machent ingeng,
     - chapter[n=70]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=70.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=70.]
       - head:
         - lb[n=13]: VON DEM REIS.
       - p:
@@ -18478,7 +18479,7 @@
         - lb[n=21]: sâmen der unkäusch.
     - chapter[n=71]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=71.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=71.]
       - head:
         - lb[n=23]: VON DEM WAITKRAUT.
       - p:
@@ -18492,7 +18493,7 @@
         - lb[n=29]: Ertfurt.
     - chapter[n=72]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=72.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=72.]
       - head:
         - lb[n=31]: VON DEM GAIZVENICHEL.
       - p:
@@ -18510,7 +18511,7 @@
         - lb[n=5]: swanger. alsô spricht Alexander der arzt.
     - chapter[n=73]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=73.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=73.]
       - head:
         - lb[n=7]: VON DER VELTISPEN.
       - p:
@@ -18523,7 +18524,7 @@
         - lb[n=12]: die unkäusch an dem menschen.
     - chapter[n=74]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=74.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=74.]
       - head:
         - lb[n=14]: VON DEM PERCHKICHER.
       - p:
@@ -18548,7 +18549,7 @@
         - lb[n=29]: dâ pei.
     - chapter[n=75]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=75.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=75.]
       - head:
         - lb[n=31]: VON DER STAINPRECH.
       - p:
@@ -18565,7 +18566,7 @@
         - lb[n=5]: dâ für guot.
     - chapter[n=76]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=76.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=76.]
       - head:
         - lb[n=7]: VON DEM SALVEI.
       - p:
@@ -18587,7 +18588,7 @@
           - ze latein.
     - chapter[n=77]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=77.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=77.]
       - head:
         - lb[n=19]: VON DEM MÄUSZWIVAL.
       - p:
@@ -18617,7 +18618,7 @@
           - pb[n=422]
     - chapter[n=78]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=78.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=78.]
       - head:
         - lb[n=2]: VON DER SINGRÜEN.
       - p:
@@ -18629,7 +18630,7 @@
         - lb[n=6]: daz kraut ist an kraft kalt und trucken.
     - chapter[n=79]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=79.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=79.]
       - head:
         - lb[n=8]: VON DEM SENIF.
       - p:
@@ -18652,7 +18653,7 @@
         - lb[n=21]: unkäusch.
     - chapter[n=80]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=80.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=80.]
       - head:
         - lb[n=23]: VON DEM LINSAT.
       - p:
@@ -18671,7 +18672,7 @@
           - pb[n=423]
     - chapter[n=81]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=81.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=81.]
       - head:
         - lb[n=2]: VON DEM STERZELKRAUT.
       - p:
@@ -18686,7 +18687,7 @@
         - lb[n=9]: die wurz und legent sich alsô zerplæt an die strâz.
     - chapter[n=82]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=82.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=82.]
       - head:
         - lb[n=11]: VON DER NEZZELN.
       - p:
@@ -18722,7 +18723,7 @@
         - lb[n=2]: macht in vertich.
     - chapter[n=83]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=83.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=83.]
       - head:
         - lb[n=4]: VON DEM EISENKRAUT.
       - p:
@@ -18744,7 +18745,7 @@
         - lb[n=18]: unsauberkait.
     - chapter[n=84]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=84.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=84.]
       - head:
         - lb[n=20]: VON DER WICKEN
       - p:
@@ -18765,7 +18766,7 @@
         - lb[n=33]: der werlt.
     - chapter[n=85]:
       - lb[n=34]:
-        - milestone[lg=deu-Latn,unit=chapter,n=85.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=85.]
       - head:
         - lb[n=35]: VON DEM VIOL
       - p:
@@ -18793,7 +18794,7 @@
         - lb[n=18]: siehtüem.
     - chapter[n=86]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=86.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=86.]
       - head:
         - lb[n=20]: VON DEM INGWER
       - p:
@@ -18819,7 +18820,7 @@
           - pb[n=426]
     - chapter[n=87]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=87.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=87.]
       - head:
         - lb[n=2]: VON DEM ZITWAR.
       - p:
@@ -18841,7 +18842,7 @@
           - haizt, und pringt lust zuo ezzen.
     - chapter[n=88]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=88.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=88.]
       - head:
         - lb[n=14]: VON DEM ZUKKER.
       - p:
@@ -18857,7 +18858,7 @@
         - lb[n=22]: gesoten mit viol und misch daz zesamen und trink ez.
     - chapter[n=89]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=89.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=89.]
       - head:
         - lb[n=24]: VON DEM RATENKRAUT.
       - p:
@@ -18876,7 +18877,7 @@
           - pb[n=427]
   - book[n=VI]:
     - lb[n=1]:
-      - milestone[lg=deu-Latn,unit=book,n=VI.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=VI.]
     - head:
       - lb[n=2]: VON DEN EDELN STAINEN
       - lb[n=3]: UND DES ÊRSTEN IN AINER GEMAIN.
@@ -19058,7 +19059,7 @@
       - lb[n=28]: gemain.
     - chapter[n=1]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=30]: VON DEM AMETISTEN
       - p:
@@ -19085,7 +19086,7 @@
         - lb[n=14]: in die schôz meiner letzten hofnung.
     - chapter[n=2]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=16]: VON DEM ACHATEN.
       - p:
@@ -19106,7 +19107,7 @@
         - lb[n=31]: härpfen in der hant.
     - chapter[n=3]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=33]: VON DEM ADAMAS.
       - p:
@@ -19167,7 +19168,7 @@
         - lb[n=13]: der stain wil, daz man in trag an der tenken seiten.
     - chapter[n=4]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=15]: VON DEM ABESTON
       - p:
@@ -19180,7 +19181,7 @@
         - lb[n=22]: ungewiter noch kain regen erleschen mag.
     - chapter[n=5]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=24]: VON DEM AMANTEN.
       - p:
@@ -19192,7 +19193,7 @@
         - lb[n=30]: vergiftigen dingen und der zaubrær werken.
     - chapter[n=6]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=32]: VON DEM ALLECTORI.
       - p:
@@ -19215,7 +19216,7 @@
         - lb[n=10]: schol man in tragen beslozzen in dem mund.
     - chapter[n=7]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=12]: VON DEM ABSINT.
       - p:
@@ -19224,7 +19225,7 @@
         - lb[n=15]: dem feur, sô behelt er die hitz siben tag.
     - chapter[n=8]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=17]: VON DEM ALABANDER.
       - p:
@@ -19239,7 +19240,7 @@
         - lb[n=26]: der stain erweckt des pluotes fluz und mêrt in.
     - chapter[n=9]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=28]: VON DEM AMANDIN.
       - p:
@@ -19252,7 +19253,7 @@
           - pb[n=436]
     - chapter[n=10]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=2]: VON DEM ANDROMANT.
       - p:
@@ -19263,7 +19264,7 @@
         - lb[n=7]: auch die unkäusch.
     - chapter[n=11]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=11.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=11.]
       - head:
         - lb[n=9]: VON DEM BERILLEN.
       - p:
@@ -19293,7 +19294,7 @@
         - lb[n=30]: gar lieht sam ain cristall, und koment von dem land India.
     - chapter[n=12]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=12.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=12.]
       - head:
         - lb[n=32]: VON DEM KROTENSTAIN.
       - p:
@@ -19316,7 +19317,7 @@
         - lb[n=13]: wider sei.
     - chapter[n=13]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=13.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=13.]
       - head:
         - lb[n=15]: VON DEM CARBUNKELSTAIN
       - p:
@@ -19362,7 +19363,7 @@
         - lb[n=9]: zwain stainn würd ain guoteu predig von unserr frawen.
     - chapter[n=14]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=14.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=14.]
       - head:
         - lb[n=11]: VON DEM CALCEDONI.
       - p:
@@ -19400,7 +19401,7 @@
         - lb[n=7]: stainn geleicht.
     - chapter[n=15]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=15.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=15.]
       - head:
         - lb[n=9]: VON DEM CORALLEN.
       - p:
@@ -19425,7 +19426,7 @@
           - haizt.
     - chapter[n=16]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=16.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=16.]
       - head:
         - lb[n=28]: VON DEM CRISOPRASSEN.
       - p:
@@ -19445,7 +19446,7 @@
         - lb[n=5]: dingen und bestætigt uns in allen götleichen werken.
     - chapter[n=17]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=17.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=17.]
       - head:
         - lb[n=7]: VON DEM SWALBENSTAIN.
       - p:
@@ -19472,7 +19473,7 @@
         - lb[n=26]: sô macht er daz gesiht tunkel.
     - chapter[n=18]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=18.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=18.]
       - head:
         - lb[n=28]: VON DEM CALOF.
       - p:
@@ -19486,7 +19487,7 @@
           - pb[n=441]
     - chapter[n=19]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=19.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=19.]
       - head:
         - lb[n=2]: VON DER CRISTALLEN.
       - p:
@@ -19501,7 +19502,7 @@
         - lb[n=11]: der stain ist auch guot zuo den augen.
     - chapter[n=20]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=20.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=20.]
       - head:
         - lb[n=13]: VON DEM CRYSOLECTER.
       - p:
@@ -19522,7 +19523,7 @@
         - lb[n=28]: vel auf diezent.
     - chapter[n=21]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=21.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=21.]
       - head:
         - lb[n=30]: VON DEM DONRSTAIN
       - p:
@@ -19537,7 +19538,7 @@
           - pb[n=442]
     - chapter[n=22]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=22.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=22.]
       - head:
         - lb[n=2]: VON DEM CORNEOL.
       - p:
@@ -19551,7 +19552,7 @@
         - lb[n=10]: wüesten hie vor, und daz tâten si niht ân sach.
     - chapter[n=23]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=23.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=23.]
       - head:
         - lb[n=12]: VON DEM CRYSOLIT.
       - p:
@@ -19568,7 +19569,7 @@
         - lb[n=23]: êwigen tôdes.
     - chapter[n=24]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=24.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=24.]
       - head:
         - lb[n=25]: VON DEM SNECKENSTAIN
       - p:
@@ -19588,7 +19589,7 @@
           - pb[n=443]
     - chapter[n=25]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=25.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=25.]
       - head:
         - lb[n=2]: VON DEM CEGOLITEN.
       - p:
@@ -19597,7 +19598,7 @@
         - lb[n=5]: zuo dem niernstain und zuo dem stain in der plâtern.
     - chapter[n=26]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=26.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=26.]
       - head:
         - lb[n=7]: VON DEM CRYSOPASION.
       - p:
@@ -19607,7 +19608,7 @@
         - lb[n=11]: sam ain nahtgleimel.
     - chapter[n=27]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=27.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=27.]
       - head:
         - lb[n=13]: VON DEM WETZSTAIN.
       - p:
@@ -19633,7 +19634,7 @@
         - lb[n=31]: kalt und sleht man doch feur dar auz.
     - chapter[n=28]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=28.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=28.]
       - head:
         - lb[n=33]: VON DEM DEMON.
       - p:
@@ -19645,7 +19646,7 @@
         - lb[n=2]: daz puoch ze latein von dem stain.
     - chapter[n=29]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=29.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=29.]
       - head:
         - lb[n=4]: VON DEM DRACHENSTAIN.
       - p:
@@ -19662,7 +19663,7 @@
         - lb[n=13]: si die künig gern in den landen gegen der sunnen aufganch.
     - chapter[n=30]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=30.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=30.]
       - head:
         - lb[n=15]: VON DEM DYONISI
       - p:
@@ -19674,7 +19675,7 @@
         - lb[n=21]: trunkenhait, ob man in jô niht trinkt.
     - chapter[n=31]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=31.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=31.]
       - head:
         - lb[n=23]: VON DEM DYADOCHEN.
       - p:
@@ -19686,7 +19687,7 @@
         - lb[n=29]: berillen.
     - chapter[n=32]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=32.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=32.]
       - head:
         - lb[n=31]: VON DEM EMATHITEN.
       - p:
@@ -19704,7 +19705,7 @@
         - lb[n=8]: stain in der plâtern.
     - chapter[n=33]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=33.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=33.]
       - head:
         - lb[n=10]: VON DEM ECHITEN
       - p:
@@ -19723,7 +19724,7 @@
         - lb[n=23]: diu kint vor schaden.
     - chapter[n=34]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=34.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=34.]
       - head:
         - lb[n=25]: VON DEM SUNNENWENDEL
       - p:
@@ -19748,7 +19749,7 @@
         - lb[n=5]: der môren land und in Zyper und in Africa.
     - chapter[n=35]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=35.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=35.]
       - head:
         - lb[n=7]: VON DEM EPISTUTEN.
       - p:
@@ -19762,7 +19763,7 @@
         - lb[n=15]: vergêt der wal und dar nâch wirt daz wazzer kalt.
     - chapter[n=36]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=36.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=36.]
       - head:
         - lb[n=17]: VON DEM EXACOLIT.
       - p:
@@ -19772,7 +19773,7 @@
         - lb[n=21]: colera kümt.
     - chapter[n=37]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=37.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=37.]
       - head:
         - lb[n=23]: VON DEM ELIDER.
       - p:
@@ -19783,7 +19784,7 @@
         - lb[n=28]: hert und ganz ümmer mêr.
     - chapter[n=38]:
       - lb[n=29]:
-        - milestone[lg=deu-Latn,unit=chapter,n=38.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=38.]
       - head:
         - lb[n=30]: VON DEM GRANATEN
       - p:
@@ -19801,7 +19802,7 @@
         - lb[n=7]: der granât ist von des jâchants art und ist seines geslähts.
     - chapter[n=39]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=39.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=39.]
       - head:
         - lb[n=9]: VON DEM AITSTAIN.
       - p:
@@ -19830,7 +19831,7 @@
         - lb[n=30]: alsô melt si ir aigen wazzer.
     - chapter[n=40]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=40.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=40.]
       - head:
         - lb[n=32]: VON DEM GELASEN.
       - p:
@@ -19843,7 +19844,7 @@
         - lb[n=3]: den zorn senftigt und die unkäusch.
     - chapter[n=41]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=41.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=41.]
       - head:
         - lb[n=5]: VON DEM GALARITEN.
       - p:
@@ -19855,7 +19856,7 @@
         - lb[n=11]: man in in dem wazzer Nilus, daz durch Egyptenlant fleuzt.
     - chapter[n=42]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=42.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=42.]
       - head:
         - lb[n=13]: VON DEM GEGATROM.
       - p:
@@ -19867,7 +19868,7 @@
         - lb[n=19]: pei im het.
     - chapter[n=43]:
       - lb[n=20]:
-        - milestone[lg=deu-Latn,unit=chapter,n=43.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=43.]
       - head:
         - lb[n=21]: VON DEM GERARCHITEN.
       - p:
@@ -19881,7 +19882,7 @@
         - lb[n=29]: den selben menschen.
     - chapter[n=44]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=44.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=44.]
       - head:
         - lb[n=31]: VON DEM JASPEN.
       - p:
@@ -19912,7 +19913,7 @@
         - lb[n=18]: und gaistleichz gesiht.
     - chapter[n=45]:
       - lb[n=19]:
-        - milestone[lg=deu-Latn,unit=chapter,n=45.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=45.]
       - head:
         - lb[n=20]: VON DEM JACHANT.
       - p:
@@ -19951,7 +19952,7 @@
         - lb[n=14]: edelz gestain.
     - chapter[n=46]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=46.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=46.]
       - head:
         - lb[n=16]: VON DEM REGENPOGEN.
       - p:
@@ -19967,7 +19968,7 @@
         - lb[n=24]: landen an dem stainotem geperg.
     - chapter[n=47]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=47.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=47.]
       - head:
         - lb[n=26]: VON DEM IEN.
       - p:
@@ -19978,7 +19979,7 @@
         - lb[n=31]: dann in dem mund under der zungen.
     - chapter[n=48]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=48.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=48.]
       - head:
         - lb[n=33]: VON DEM LUHSSTAIN.
       - p:
@@ -20005,7 +20006,7 @@
         - lb[n=15]: sam der aitstain tuot.
     - chapter[n=49]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=49.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=49.]
       - head:
         - lb[n=17]: VON DEM LAGAPEN.
       - p:
@@ -20014,7 +20015,7 @@
         - lb[n=20]: guot. der stain zeucht daz eisen auz den wunden.
     - chapter[n=50]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=50.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=50.]
       - head:
         - lb[n=22]: VON DEM MAGNETEN.
       - p:
@@ -20047,7 +20048,7 @@
         - lb[n=13]: von des staines kreften.
     - chapter[n=51]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=51.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=51.]
       - head:
         - lb[n=15]: VON DEM MEMPHITEN
       - p:
@@ -20059,7 +20060,7 @@
         - lb[n=21]: der marter niht enpfindent.
     - chapter[n=52]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=52.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=52.]
       - head:
         - lb[n=23]: VON DEM MEDEN.
       - p:
@@ -20086,7 +20087,7 @@
         - lb[n=3]: er plint.
     - chapter[n=53]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=53.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=53.]
       - head:
         - lb[n=5]: VON DEM SPAT
       - p:
@@ -20099,7 +20100,7 @@
         - lb[n=10]: und entsleuzt und ist guot für die gelsuht.
     - chapter[n=54]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=54.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=54.]
       - head:
         - lb[n=12]: VON DEM ALABASTER.
       - p:
@@ -20113,7 +20114,7 @@
         - lb[n=20]: er sô gemain ist, ahtet man sein niht vil.
     - chapter[n=55]:
       - lb[n=21]:
-        - milestone[lg=deu-Latn,unit=chapter,n=55.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=55.]
       - head:
         - lb[n=22]: VON DEM NOSECH.
       - p:
@@ -20127,7 +20128,7 @@
         - lb[n=30]: schol man paid mit ainander einmachen und besliezen.
     - chapter[n=56]:
       - lb[n=31]:
-        - milestone[lg=deu-Latn,unit=chapter,n=56.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=56.]
       - head:
         - lb[n=32]: VON DEM ONICHEN.
       - p:
@@ -20170,7 +20171,7 @@
         - lb[n=29]: klaineu wonung, wan ez leidet kainen gast.'
     - chapter[n=57]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=57.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=57.]
       - head:
         - lb[n=31]: VON DEM OSTOLAN.
       - p:
@@ -20182,7 +20183,7 @@
           - pb[n=455]
     - chapter[n=58]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=58.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=58.]
       - head:
         - lb[n=2]: VON DEM ORITEN.
       - p:
@@ -20196,7 +20197,7 @@
         - lb[n=10]: die purt.
     - chapter[n=59]:
       - lb[n=11]:
-        - milestone[lg=deu-Latn,unit=chapter,n=59.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=59.]
       - head:
         - lb[n=12]: VON DEM PERITEN.
       - p:
@@ -20214,7 +20215,7 @@
         - lb[n=21]: nimt auf und ab mit dem mônn.
     - chapter[n=60]:
       - lb[n=22]:
-        - milestone[lg=deu-Latn,unit=chapter,n=60.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=60.]
       - head:
         - lb[n=23]: VON DEM PANTER.
       - p:
@@ -20233,7 +20234,7 @@
           - pb[n=456]
     - chapter[n=61]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=61.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=61.]
       - head:
         - lb[n=2]: VON DEM PRASEN.
       - p:
@@ -20243,7 +20244,7 @@
         - lb[n=6]: den smaragt auz dem stain.
     - chapter[n=62]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=62.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=62.]
       - head:
         - lb[n=8]: VON DEM LEUTSSTAIN.
       - p:
@@ -20280,7 +20281,7 @@
           - pb[n=457]
     - chapter[n=63]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=63.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=63.]
       - head:
         - lb[n=2]: VON DEM PEANITEN.
       - p:
@@ -20290,7 +20291,7 @@
         - lb[n=6]: geleichen stain. der stain ist swangern frawen nütz.
     - chapter[n=64]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=64.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=64.]
       - head:
         - lb[n=8]: VON DEM WITHOPFENSTAIN.
       - p:
@@ -20301,7 +20302,7 @@
         - lb[n=11]: dem slâf und mêrt die träum und daz gesiht in dem slâf.
     - chapter[n=65]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=65.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=65.]
       - head:
         - lb[n=13]: VON DEM GEIRSTAIN.
       - p:
@@ -20312,7 +20313,7 @@
         - lb[n=16]: füllet den ammen ireu prüstel mit milch.
     - chapter[n=66]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=66.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=66.]
       - head:
         - lb[n=18]: VON DEM SAPHIR.
       - p:
@@ -20383,7 +20384,7 @@
         - lb[n=5]: mensch leid mêr dann anderr hundert.
     - chapter[n=67]:
       - lb[n=6]:
-        - milestone[lg=deu-Latn,unit=chapter,n=67.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=67.]
       - head:
         - lb[n=7]: VON DEM SMARAGDEN.
       - p:
@@ -20427,7 +20428,7 @@
         - lb[n=8]: käuschen juncfrawen und mensch wart durch unsern willen.
     - chapter[n=68]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=68.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=68.]
       - head:
         - lb[n=10]: VON DEM SARDONIX
       - p:
@@ -20477,7 +20478,7 @@
         - lb[n=17]: wê, wie gar ain schœneu predig dar auz würd!
     - chapter[n=69]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=69.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=69.]
       - head:
         - lb[n=19]: VON DEM SARDEN.
       - p:
@@ -20510,7 +20511,7 @@
         - lb[n=9]: die vorht hât unser frawe ganz gehabt zuo got auf erden.
     - chapter[n=70]:
       - lb[n=10]:
-        - milestone[lg=deu-Latn,unit=chapter,n=70.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=70.]
       - head:
         - lb[n=11]: VON DEM SIRN.
       - p:
@@ -20520,7 +20521,7 @@
         - lb[n=15]: vellt er ze podem. daz ist gnuog wunderleich.
     - chapter[n=71]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=71.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=71.]
       - head:
         - lb[n=17]: VON DEM LEICHSTAIN.
       - p:
@@ -20533,7 +20534,7 @@
         - lb[n=22]: zwain worten kümt der gesamnet nam sarcophagus.
     - chapter[n=72]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=72.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=72.]
       - head:
         - lb[n=24]: VON DEM SAMI.
       - p:
@@ -20548,7 +20549,7 @@
           - pb[n=463]
     - chapter[n=73]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=73.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=73.]
       - head:
         - lb[n=2]: VON DEM SUCCIN.
       - p:
@@ -20570,7 +20571,7 @@
         - lb[n=16]: dâ der zaher ein gevallen ist.
     - chapter[n=74]:
       - lb[n=17]:
-        - milestone[lg=deu-Latn,unit=chapter,n=74.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=74.]
       - head:
         - lb[n=18]: VON DEM SILENITEN.
       - p:
@@ -20599,7 +20600,7 @@
           - haizt.
     - chapter[n=75]:
       - lb[n=3]:
-        - milestone[lg=deu-Latn,unit=chapter,n=75.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=75.]
       - head:
         - lb[n=4]: VON DEM SPIEGELSTAIN.
       - p:
@@ -20611,7 +20612,7 @@
         - lb[n=8]: sam Isidorus spricht.
     - chapter[n=76]:
       - lb[n=9]:
-        - milestone[lg=deu-Latn,unit=chapter,n=76.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=76.]
       - head:
         - lb[n=10]: VON DEM SADDEN
       - p:
@@ -20620,7 +20621,7 @@
         - lb[n=13]: der stain ist grüenvar sam ain lauch.
     - chapter[n=77]:
       - lb[n=14]:
-        - milestone[lg=deu-Latn,unit=chapter,n=77.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=77.]
       - head:
         - lb[n=15]: VON DEM TOPAZI
       - p:
@@ -20653,7 +20654,7 @@
         - lb[n=7]: gæben, hiet wir iht, und daz nimt si dan gar für guot.
     - chapter[n=78]:
       - lb[n=8]:
-        - milestone[lg=deu-Latn,unit=chapter,n=78.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=78.]
       - head:
         - lb[n=9]: VON DEM TEROBOLN.
       - p:
@@ -20664,7 +20665,7 @@
         - lb[n=14]: aber wenn si von enander sint, sô tuont si des niht.
     - chapter[n=79]:
       - lb[n=15]:
-        - milestone[lg=deu-Latn,unit=chapter,n=79.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=79.]
       - head:
         - lb[n=16]: VON DEM VERTILLEN.
       - p:
@@ -20676,7 +20677,7 @@
         - lb[n=22]: smerzen, wenn man in in wazzer wescht.
     - chapter[n=80]:
       - lb[n=23]:
-        - milestone[lg=deu-Latn,unit=chapter,n=80.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=80.]
       - head:
         - lb[n=24]: VON DEM VERNIX.
       - p:
@@ -20687,7 +20688,7 @@
         - lb[n=29]: cardiaca haizt.
     - chapter[n=81]:
       - lb[n=30]:
-        - milestone[lg=deu-Latn,unit=chapter,n=81.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=81.]
       - head:
         - lb[n=31]: VON DEM LAZURSTAIN.
       - p:
@@ -20704,7 +20705,7 @@
         - lb[n=4]: fäuhten kümt, diu melancolia haizt.
     - chapter[n=82]:
       - lb[n=5]:
-        - milestone[lg=deu-Latn,unit=chapter,n=82.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=82.]
       - head:
         - lb[n=6]: VON DEM ZIGNITEN.
       - p:
@@ -20717,7 +20718,7 @@
         - lb[n=11]: verlescht er die flammen an dem lieht.
     - chapter[n=83]:
       - lb[n=12]:
-        - milestone[lg=deu-Latn,unit=chapter,n=83.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=83.]
       - head:
         - lb[n=13]: VON DER ALTEN VÄTER RED.
       - p:
@@ -20831,7 +20832,7 @@
         - lb[n=3]: stark und stæt und genæm allen läuten.
     - chapter[n=84]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=84.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=84.]
       - head:
         - lb[n=5]: VON DEM TETHELSPÜECHL
       - p:
@@ -20863,7 +20864,7 @@
         - lb[n=31]: got, daz er imz gibt.
     - chapter[n=85]:
       - lb[n=32]:
-        - milestone[lg=deu-Latn,unit=chapter,n=85.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=85.]
       - head:
         - lb[n=33]: NU HEBT SICH TETHELS PÜECHL AN.
       - p:
@@ -20964,7 +20965,7 @@
         - lb[n=15]: habent.
     - chapter[n=86]:
       - lb[n=16]:
-        - milestone[lg=deu-Latn,unit=chapter,n=86.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=86.]
       - head:
         - lb[n=17]: WIE MAN DIE STAIN WIDERPRINGT AN IREN KREFTEN.
       - p:
@@ -21008,7 +21009,7 @@
         - lb[n=18]: seculorum. Amen.
   - book[n=VII]:
     - lb[n=19]:
-      - milestone[lg=deu-Latn,unit=book,n=VII.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=VII.]
     - head:
       - lb[n=20]: VON DEM GESMEID.
     - p:
@@ -21020,7 +21021,7 @@
       - lb[n=26]: eisen.
     - chapter[n=1]:
       - lb[n=27]:
-        - milestone[lg=deu-Latn,unit=chapter,n=1.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=1.]
       - head:
         - lb[n=28]: VON DEM GOLD
       - p:
@@ -21088,7 +21089,7 @@
           - pb[n=476]
     - chapter[n=2]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=2.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=2.]
       - head:
         - lb[n=2]: VON DEM SILBER.
       - p:
@@ -21126,7 +21127,7 @@
         - lb[n=32]: âfternâdern.
     - chapter[n=3]:
       - lb[n=33]:
-        - milestone[lg=deu-Latn,unit=chapter,n=3.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=3.]
       - head:
         - lb[n=34]: VON DEM KÖCKSILBER.
       - p:
@@ -21155,7 +21156,7 @@
         - lb[n=17]: man mag auch nihts vergulden ân köksilber.
     - chapter[n=4]:
       - lb[n=18]:
-        - milestone[lg=deu-Latn,unit=chapter,n=4.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=4.]
       - head:
         - lb[n=19]: VON DEM GOLTLAIM.
       - p:
@@ -21184,7 +21185,7 @@
         - lb[n=3]: zehant prünn auf dem schragen und würd ain flamm.
     - chapter[n=5]:
       - lb[n=4]:
-        - milestone[lg=deu-Latn,unit=chapter,n=5.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=5.]
       - head:
         - lb[n=5]: VON DEM GUNDERFAI
       - p:
@@ -21210,7 +21211,7 @@
         - lb[n=23]: sei, daz auz der inseln Cypro köm.
     - chapter[n=6]:
       - lb[n=24]:
-        - milestone[lg=deu-Latn,unit=chapter,n=6.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=6.]
       - head:
         - lb[n=25]: VON DEM KUPFER
       - p:
@@ -21247,7 +21248,7 @@
         - lb[n=12]: und dœnt doch wol und zerpricht von kaim rost.
     - chapter[n=7]:
       - lb[n=13]:
-        - milestone[lg=deu-Latn,unit=chapter,n=7.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=7.]
       - head:
         - lb[n=14]: VON DEM EISEN.
       - p:
@@ -21281,7 +21282,7 @@
           - pb[n=480]
     - chapter[n=8]:
       - lb[n=1]:
-        - milestone[lg=deu-Latn,unit=chapter,n=8.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=8.]
       - head:
         - lb[n=2]: VON DEM ZIN.
       - p:
@@ -21311,7 +21312,7 @@
         - lb[n=24]: ist guot zuo den plâtern in den augen.
     - chapter[n=9]:
       - lb[n=25]:
-        - milestone[lg=deu-Latn,unit=chapter,n=9.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=9.]
       - head:
         - lb[n=26]: VON DEM SWEBEL.
       - p:
@@ -21336,7 +21337,7 @@
         - lb[n=6]: gemächt alsô haiz, daz golt värbt sich gar wol.
     - chapter[n=10]:
       - lb[n=7]:
-        - milestone[lg=deu-Latn,unit=chapter,n=10.]
+        - milestone[lg=und-Latn-x-general,unit=chapter,n=10.]
       - head:
         - lb[n=8]: VON DEM PLEI.
       - p:
@@ -21372,7 +21373,7 @@
           - pb[n=482]
   - book[n=VIII]:
     - lb[n=1]:
-      - milestone[lg=deu-Latn,unit=book,n=VIII.]
+      - milestone[lg=und-Latn-x-general,unit=book,n=VIII.]
     - head:
       - lb[n=2]: VON DEN WUNDERLEICHEN PRUNNEN.
     - p:

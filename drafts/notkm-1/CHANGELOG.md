@@ -16,3 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fix linebreaks (2025-03-19)
 - first valid version (2025-03-18)
 - initial creation (2025-03-18)
+
+### Fixed
+- break='no' for some <lb> (2025-05-07)
