@@ -45,8 +45,8 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="non-Latn" ana="primary">Old Norse</language>
-				<language ident="und-Latn-x-general" ana="meta">General</language>
 				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="und-Latn-x-general" ana="meta">General</language>
 				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>

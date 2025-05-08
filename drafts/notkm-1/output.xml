@@ -41,8 +41,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="lat-Latn" ana="secondary">Latin</language>
 				<language ident="goh-Latn" ana="primary">Old High German (ca. 750-1050)</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
