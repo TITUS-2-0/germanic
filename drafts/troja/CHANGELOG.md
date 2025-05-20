@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- initial creation (2025-03-05)
-- valid version (2025-03-05)
-- add line breaks (2025-03-07)
-- smoother lb handling (2025-03-13)
 - smoother breaks (2025-03-14)
+- smoother lb handling (2025-03-13)
+- add line breaks (2025-03-07)
+- valid version (2025-03-05)
+- initial creation (2025-03-05)

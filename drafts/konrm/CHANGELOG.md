@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- initial creation (2025-03-06)
-- valid version (2025-03-06)
-- fix `lb` and `milestone` (2025-03-14)
 - language update (2025-04-04)
+- fix `lb` and `milestone` (2025-03-14)
+- valid version (2025-03-06)
+- initial creation (2025-03-06)
