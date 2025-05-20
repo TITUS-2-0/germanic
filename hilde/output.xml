@@ -70,7 +70,7 @@
 		</surface>
 	</facsimile>
 	<text xml:lang="goh-Latn">
-		<body xml:lang="goh-Latn">
+		<body>
 			<pb type="manuscript" n="1r" facs="#p1r" />
 			<lb type="manuscript" n="1" />
 			<ab n="1" type="verse" xml:id="ab-1">Ik gihorta ðat seggen</ab>
