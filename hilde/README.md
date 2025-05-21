@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/hildebrd/hilde.htm).
 
-* URL: https://github.com/TITUS-2-0/germanic/tree/main/drafts/hilde/
-* version: unreleased
-* date: 2025-01-11
+* URL: https://titus2.uni-frankfurt.de/dataset/hilde
+* version: 0.1.0
+* date: 2025-05-20
 
 ## Citation
 ```text
-Digital version of Hildebrandlied (draft version). By: Jost Gippert, Rolf-Jürgen Jacob, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/germanic/tree/main/drafts/hilde/, visited on <insert date>)
+Digital version of Hildebrandlied (v0.1.0). By: Jost Gippert, Rolf-Jürgen Jacob, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/hilde, visited on <insert date>)
 ```
 
 ## TEI encoding
