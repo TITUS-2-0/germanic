@@ -43,9 +43,9 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-mhg">Middle High German</language>
-				<language ident="deu-Latn">German</language>
-				<language ident="fro-Latn">Old French (842-ca. 1400)</language>
+				<language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
+				<language ident="fro-Latn" ana="secondary">Old French (842-ca. 1400)</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

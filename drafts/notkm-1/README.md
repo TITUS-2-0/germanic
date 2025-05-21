@@ -40,8 +40,8 @@ text (@xml:lang=goh-Latn)
         [lb (@n, @type=manuscript) (multiple)]
         [foreign (@xml:lang=lat-Latn) (multiple)]
         [lb (@break=no, @main=yes, @n, @type=edition-king) (multiple)]
-        [pb (@facs=#K296r | #K296v | #K297r | #L60va | #L60vb | #L61rb | #L61va, @n, @type=manuscript-2) (multiple)]
         [lb (@break=no, @n, @type=manuscript) (multiple)]
+        [pb (@facs=#K296r | #K296v | #K297r | #L60va | #L60vb | #L61rb | #L61va, @n, @type=manuscript-2) (multiple)]
         [pb (@main=yes, @n, @type=edition-king) (multiple)]
         [pb (@break=no, @n, @type=edition-pip)]
         [pb (@n, @type=edition-pip | manuscript-3) (multiple)]
@@ -64,7 +64,7 @@ text (@xml:lang=goh-Latn)
 					<lb type="manuscript" n="35"/>An_demo <foreign xml:lang="lat-Latn">regulari monachordo</foreign>
 					<lb main="yes" type="edition-king" n="36"/>
 					<lb type="manuscript" n="36"/>uuerden ze erist finf-zehen buohsta-<lb main="yes" type="edition-king" n="37" break="no"/>
-					<lb type="manuscript" n="37"/>ba . fure also manigen seitun . unte<pb type="manuscript-2" n="L60va" facs="#L60va"/>
+					<lb type="manuscript" n="37" break="no"/>ba . fure also manigen seitun . unte<pb type="manuscript-2" n="L60va" facs="#L60va"/>
 					<lb main="yes" type="edition-king" n="1"/>
   ...
 ```

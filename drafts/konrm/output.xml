@@ -41,10 +41,10 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-mhg">Middle High German</language>
-				<language ident="und-Latn-x-general">General</language>
-				<language ident="grc-Grek">Ionic-Attic Ancient Greek</language>
-				<language ident="lat-Latn">Latin</language>
+				<language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
+				<language ident="grc-Grek" ana="secondary">Ionic-Attic Ancient Greek</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="und-Latn-x-general" ana="meta">General</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

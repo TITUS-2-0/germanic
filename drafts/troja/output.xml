@@ -40,9 +40,9 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="gmh-Latn-x-mhg">Middle High German</language>
-				<language ident="lat-Latn">Latin</language>
-				<language ident="deu-Latn">German</language>
+				<language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
