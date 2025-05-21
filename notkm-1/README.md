@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/germ/ahd/notkmusl/notkm.htm).
 
-* URL: https://github.com/TITUS-2-0/germanic/tree/main/drafts/notkm-1/
-* version: unreleased
-* date: 2025-03-18
+* URL: https://titus2.uni-frankfurt.de/dataset/notkm-1
+* version: 0.1.0
+* date: 2025-05-20
 
 ## Citation
 ```text
-Digital version of De Musica by Notker (draft version). By: Jost Gippert, Florian Matter, Nikolaus Neagu. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/germanic/tree/main/drafts/notkm-1/, visited on <insert date>)
+Digital version of De Musica by Notker (v0.1.0). By: Jost Gippert, Florian Matter, Nikolaus Neagu. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/notkm-1, visited on <insert date>)
 ```
 
 ## TEI encoding
