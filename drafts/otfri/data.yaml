@@ -1788,8 +1788,7 @@ text:
     - l[n=28]: XXVIII. Spiritaliter.
     - l[n=29,lg=lat-Latn]: Expliciunt capitula libri primi.
     - chapter[n=1]:
-      - head[lg=lat-Latn]: I.
-      - head[lg=lat-Latn]: CUR SCRIPTOR HUNC LIBRUM THEOTISCE DICTAVERIT.
+      - head: I. CUR SCRIPTOR HUNC LIBRUM THEOTISCE DICTAVERIT.
       - l[n=1]:
         - seg[type=hemistich]: Was líuto filu in flíze,
         - seg[type=hemistich]: in managemo ágaleize,
@@ -2175,8 +2174,7 @@ text:
         - seg[type=hemistich]: joh wír ouh thaz gilébetun,
         - seg[type=hemistich]: in frénkisgon nan lóbotun!
     - chapter[n=2]:
-      - head[lg=lat-Latn]: II.
-      - head[lg=lat-Latn]: INVOCATIO SCRIPTORIS AD DEUM.
+      - head: II. INVOCATIO SCRIPTORIS AD DEUM.
       - l[n=1]:
         - seg[type=hemistich]: Wola drúhtin mín,
         - seg[type=hemistich]: já bin ih scálc thin,
@@ -2355,8 +2353,7 @@ text:
         - seg[type=hemistich]: fon éwon unz in éwon
         - seg[type=hemistich]: mit then sáligen sélon!
     - chapter[n=3]:
-      - head[lg=lat-Latn]: III.
-      - head[lg=lat-Latn]: LIBER GENERATIONIS JESU CHRISTI FILII DAVID.
+      - head: III. LIBER GENERATIONIS JESU CHRISTI FILII DAVID.
       - l[n=1]:
         - seg[type=hemistich]: 'Thiz sint búah frono:'
         - seg[type=hemistich]: sio zéigont filu scóno,
@@ -2510,8 +2507,7 @@ text:
         - seg[type=hemistich]: thie wega ríht er ịmo ubar ál,
         - seg[type=hemistich]: so man héreren scal.
     - chapter[n=4]:
-      - head[lg=lat-Latn]: IV.
-      - head[lg=lat-Latn]: FUIT IN DIEBUS HERODIS REGIS SACERDOS NOMINE ZACHARIAS.
+      - head: IV. FUIT IN DIEBUS HERODIS REGIS SACERDOS NOMINE ZACHARIAS.
       - l[n=1]:
         - seg[type=hemistich]: In dágon eines kúninges,
         - seg[type=hemistich]: joh hárto firdánes,
@@ -2775,8 +2771,7 @@ text:
         - seg[type=hemistich]: tház siu scolta in élti
         - seg[type=hemistich]: mit kínde gan in hénti.
     - chapter[n=5]:
-      - head[lg=lat-Latn]: V.
-      - head[lg=lat-Latn]: MISSUS EST GABRIHEL ANGELUS.
+      - head: V. MISSUS EST GABRIHEL ANGELUS.
       - l[n=1]:
         - seg[type=hemistich]: Ward áfter thiu irscrítan sár,
         - seg[type=hemistich]: so móht es sin, ein halb jár,
@@ -2998,8 +2993,7 @@ text:
         - seg[type=hemistich]: ságatạ er in fróno
         - seg[type=hemistich]: thaz árunti scóno.
     - chapter[n=6]:
-      - head[lg=lat-Latn]: VI.
-      - head[lg=lat-Latn]: EXURGENS AUTEM MARIA ABIIT IN MONTANA.
+      - head: VI. EXURGENS AUTEM MARIA ABIIT IN MONTANA.
       - l[n=1]:
         - seg[type=hemistich]: Fúar tho sancta Mária,
         - seg[type=hemistich]: thíarna thiu mára,
@@ -3056,8 +3050,7 @@ text:
         - seg[type=hemistich]: ja kúndt er uns thia héili,
         - seg[type=hemistich]: er er gibóran wari.
     - chapter[n=7]:
-      - head[lg=lat-Latn]: VII.
-      - head[lg=lat-Latn]: DE CANTICO SANCTAE MARIAE.
+      - head: VII. DE CANTICO SANCTAE MARIAE.
       - l[n=1]:
         - seg[type=hemistich]: Thó sprah sancta Mária
         - seg[type=hemistich]: thaz siu zi húge hábeta;
@@ -3144,8 +3137,7 @@ text:
         - seg[type=hemistich]: tház er uns firdánen
         - seg[type=hemistich]: giwérdo ginádon.
     - chapter[n=8]:
-      - head[lg=lat-Latn]: VIII.
-      - head[lg=lat-Latn]: CUM ESSET DESPONSATA MATER JESU.
+      - head: VIII. CUM ESSET DESPONSATA MATER JESU.
       - l[n=1]:
         - seg[type=hemistich]: Ther mán theih noh ni ságeta,
         - seg[type=hemistich]: ther thaz wíb mahalta --
@@ -3232,8 +3224,7 @@ text:
         - seg[type=hemistich]: gihéilit thiu sin gúati
         - seg[type=hemistich]: allo wóroltliuti."
     - chapter[n=9]:
-      - head[lg=lat-Latn]: IX.
-      - head[lg=lat-Latn]: ELISABETH AUTEM IMPLETUM EST TEMPUS PARIENDI.
+      - head: IX. ELISABETH AUTEM IMPLETUM EST TEMPUS PARIENDI.
       - l[n=1]:
         - seg[type=hemistich]: Thes ér ju ward giwáhinit,
         - seg[type=hemistich]: tho ward irfúllit thiu zít,
@@ -3357,8 +3348,7 @@ text:
         - seg[type=hemistich]: thiu zúht was wáhsenti
         - seg[type=hemistich]: in drúhtines hénti.
     - chapter[n=10]:
-      - head[lg=lat-Latn]: X.
-      - head[lg=lat-Latn]: CANTICUM ZACHARIAE.
+      - head: X. CANTICUM ZACHARIAE.
       - l[n=1]:
         - seg[type=hemistich]: Tho ward ther fáter alter
         - seg[type=hemistich]: gótes wihi irfúlter,
@@ -3446,8 +3436,7 @@ text:
         - seg[type=hemistich]: joh fástota io zi nóte
         - seg[type=hemistich]: in waldes éinote.
     - chapter[n=11]:
-      - head[lg=lat-Latn]: XI.
-      - head[lg=lat-Latn]: EXIIT EDICTUM A CAESARE AUGUSTO.
+      - head: XI. EXIIT EDICTUM A CAESARE AUGUSTO.
       - l[n=1]:
         - seg[type=hemistich]: Wúntar ward tho máraz
         - seg[type=hemistich]: joh filu séltsanaz,
@@ -3638,8 +3627,7 @@ text:
         - seg[type=hemistich]: thụ uns hélpha, druhtin, dáti
         - seg[type=hemistich]: ze thero óberostun noti!
     - chapter[n=12]:
-      - head[lg=lat-Latn]: XII.
-      - head[lg=lat-Latn]: ET PASTORES ERANT IN REGIONE EADEM.
+      - head: XII. ET PASTORES ERANT IN REGIONE EADEM.
       - l[n=1]:
         - seg[type=hemistich]: Tho wárun thar in lánte
         - seg[type=hemistich]: hirta háltente,
@@ -3744,8 +3732,7 @@ text:
         - seg[type=hemistich]: in gisíht frono;
         - seg[type=hemistich]: thar zámun se scono.
     - chapter[n=13]:
-      - head[lg=lat-Latn]: XIII.
-      - head[lg=lat-Latn]: PASTORES LOQUEBANTUR AD INVICEM.
+      - head: XIII. PASTORES LOQUEBANTUR AD INVICEM.
       - l[n=1]:
         - seg[type=hemistich]: Spráchun tho thie hírta,
         - seg[type=hemistich]: thie selbun féhewarta
@@ -3821,8 +3808,7 @@ text:
         - seg[type=hemistich]: thes lóbotun sie iogilicho
         - seg[type=hemistich]: drúhtin gúallicho.
     - chapter[n=14]:
-      - head[lg=lat-Latn]: XIV.
-      - head[lg=lat-Latn]: DE CIRCUMCISIONE PUERI ET DE PURGATIONE SANCTAE MARIAE.
+      - head: XIV. DE CIRCUMCISIONE PUERI ET DE PURGATIONE SANCTAE MARIAE.
       - l[n=1]:
         - seg[type=hemistich]: So ther ántdag sih tho óugta,
         - seg[type=hemistich]: thaz siu thaz kínd sougta,
@@ -3897,8 +3883,7 @@ text:
         - seg[type=hemistich]: so ther wízzod hiaz iz máchon,
         - seg[type=hemistich]: zua dúbono gimáchon.
     - chapter[n=15]:
-      - head[lg=lat-Latn]: XV.
-      - head[lg=lat-Latn]: DE OBVIATIONE ET BENEDICTIONE SYMEONIS.
+      - head: XV. DE OBVIATIONE ET BENEDICTIONE SYMEONIS.
       - l[n=1]:
         - seg[type=hemistich]: Thar was ein mán alter,
         - seg[type=hemistich]: zi sálidon gizálter;
@@ -4052,8 +4037,7 @@ text:
         - seg[type=hemistich]: giborgan níd in mánne --
         - seg[type=hemistich]: al óugit er sih thanne."
     - chapter[n=16]:
-      - head[lg=lat-Latn]: XVI.
-      - head[lg=lat-Latn]: DE ANNA PROPHETISSA.
+      - head: XVI. DE ANNA PROPHETISSA.
       - l[n=1]:
         - seg[type=hemistich]: Ánna hiaz ein wíb thar,
         - seg[type=hemistich]: si thíonota thar mánag jar,
@@ -4141,8 +4125,7 @@ text:
         - seg[type=hemistich]: want iz wás imọ anan hénti
         - seg[type=hemistich]: zi síneru giwelti.
     - chapter[n=17]:
-      - head[lg=lat-Latn]: XVII.
-      - head[lg=lat-Latn]: DE STELLA ET ADVENTU MAGORUM.
+      - head: XVII. DE STELLA ET ADVENTU MAGORUM.
       - l[n=1]:
         - seg[type=hemistich]: Nist mán nihein in wórolti
         - seg[type=hemistich]: thaz sáman al irságeti,
@@ -4381,8 +4364,7 @@ text:
         - seg[type=hemistich]: hárto ílente
         - seg[type=hemistich]: zi éiginemo lánte.
     - chapter[n=18]:
-      - head[lg=lat-Latn]: XVIII.
-      - head[lg=lat-Latn]: MYSTICE.
+      - head: XVIII. MYSTICE.
       - l[n=1]:
         - seg[type=hemistich]: Mánot unsih thisu fárt,
         - seg[type=hemistich]: thaz wír es wesen ánawart,
@@ -4525,8 +4507,7 @@ text:
         - seg[type=hemistich]: so bistu góte liober,
         - seg[type=hemistich]: ni intratist scádon niamer.
     - chapter[n=19]:
-      - head[lg=lat-Latn]: XIX.
-      - head[lg=lat-Latn]: DE FUGA JOSEPH CUM MATRE IN AEGYPTUM.
+      - head: XIX. DE FUGA JOSEPH CUM MATRE IN AEGYPTUM.
       - l[n=1]:
         - seg[type=hemistich]: Jóseph io thes sínthes
         - seg[type=hemistich]: er húatta thes kíndes;
@@ -4613,8 +4594,7 @@ text:
         - seg[type=hemistich]: thoh mag man wízan thiu jár,
         - seg[type=hemistich]: wío man siu zélit thar.
     - chapter[n=20]:
-      - head[lg=lat-Latn]: XX.
-      - head[lg=lat-Latn]: DE OCCISIONE INFANTUM.
+      - head: XX. DE OCCISIONE INFANTUM.
       - l[n=1]:
         - seg[type=hemistich]: So Heród ther kúning tho bifánd,
         - seg[type=hemistich]: 'thaz ér fon in bidrógan ward:'
@@ -4726,8 +4706,7 @@ text:
         - seg[type=hemistich]: thaz thér nist hiar in líbe
         - seg[type=hemistich]: ther thia zála irscribe.
     - chapter[n=21]:
-      - head[lg=lat-Latn]: XXI.
-      - head[lg=lat-Latn]: DE MORTE HERODIS.
+      - head: XXI. DE MORTE HERODIS.
       - l[n=1]:
         - seg[type=hemistich]: Tho ẹrstarp ther kúning Heród,
         - seg[type=hemistich]: joh hina fúarta inan tod,
@@ -4778,9 +4757,7 @@ text:
         - seg[type=hemistich]: mit góte joh mit mánne.
     - chapter[n=22]:
       - pb[type=manuscript,n=33v,facs=#p33v]
-      - head[lg=lat-Latn]: XXII.
-      - head[lg=lat-Latn]: CUM FACTUS ESSET JESUS ANNORUM
-      - head[lg=lat-Latn]: XII.
+      - head: XXII. CUM FACTUS ESSET JESUS ANNORUM XII.
       - l[n=1]:
         - seg[type=hemistich]: So er thó ward áltero,
         - seg[type=hemistich]: 'zuiro séhs jaro:'
@@ -4971,8 +4948,7 @@ text:
         - seg[type=hemistich]: uns állen io zi núzze.
     - chapter[n=23]:
       - pb[type=manuscript,n=35r,facs=#p35r]
-      - head[lg=lat-Latn]: XXIII.
-      - head[lg=lat-Latn]: DE PRAEDICATIONE JOHANNIS.
+      - head: XXIII. DE PRAEDICATIONE JOHANNIS.
       - l[n=1]:
         - seg[type=hemistich]: Tho thisu wórolt ellu
         - seg[type=hemistich]: quám zi theru stúllu,
@@ -5169,8 +5145,7 @@ text:
         - seg[type=hemistich]: 'ni wáne theih thir gélbo):'
         - seg[type=hemistich]: drúhtin ist iz sélbo.
     - chapter[n=24]:
-      - head[lg=lat-Latn]: XXIV.
-      - head[lg=lat-Latn]: 'INTERROGABANT EUM TURBE: QUID FACIEMUS?'
+      - head: 'XXIV. INTERROGABANT EUM TURBE: QUID FACIEMUS?'
       - l[n=1]:
         - seg[type=hemistich]: Tho bátun nan thie líuti,
         - seg[type=hemistich]: er in fon góte riati,
@@ -5233,8 +5208,7 @@ text:
         - seg[type=hemistich]: ther ist (ih ságen thir ubarlút)
         - seg[type=hemistich]: sélben druhtines drút.
     - chapter[n=25]:
-      - head[lg=lat-Latn]: XXV.
-      - head[lg=lat-Latn]: VENIT JESUS A GALILEA AD JOHANNEM.
+      - head: XXV. VENIT JESUS A GALILEA AD JOHANNEM.
       - l[n=1]:
         - seg[type=hemistich]: Fon themo héiminge
         - seg[type=hemistich]: quam Kríst zi themo thínge,
@@ -5327,8 +5301,7 @@ text:
         - seg[type=hemistich]: súaznissi inti gúati
         - seg[type=hemistich]: joh mámmunti gimúati.
     - chapter[n=26]:
-      - head[lg=lat-Latn]: XXVI.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: XXVI. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Ther dóuf uns allen thíhit;
         - seg[type=hemistich]: thaz wazar theist giwíhit,
@@ -5373,9 +5346,8 @@ text:
         - seg[type=hemistich]: thiu gilouba unsih ouh réhte
         - seg[type=hemistich]: in thíonost sinaz ríhte.
     - chapter[n=27]:
-      - head[lg=lat-Latn]: XXVII.
-      - head[lg=lat-Latn]: COGITANTIBUS TURBIS, NE FORTE JOHANNES ESSET CHRISTUS,
-          ET QUOMODO MISERUNT PRINCIPES AD EUM.
+      - head: XXVII. COGITANTIBUS TURBIS, NE FORTE JOHANNES ESSET CHRISTUS, ET QUOMODO
+          MISERUNT PRINCIPES AD EUM.
       - l[n=1]:
         - seg[type=hemistich]: Thie líuti datun mári,
         - seg[type=hemistich]: thaz Johannes Kríst wari,
@@ -5590,8 +5562,7 @@ text:
         - seg[type=hemistich]: thaz sie sih irhúabin
         - seg[type=hemistich]: inti héimortes fuarin.
     - chapter[n=28]:
-      - head[lg=lat-Latn]: XXVIII.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: XXVIII. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Mit állen unsen kréftin
         - seg[type=hemistich]: bíttemes nu drúhtin,
@@ -5693,8 +5664,7 @@ text:
       - Incipit liber secundus.
     - chapter[n=1]:
       - pb[type=manuscript,n=42r,facs=#p42r]
-      - head[lg=lat-Latn]: I.
-      - head[lg=lat-Latn]: IN PRINCIPIO ERAT VERBUM.
+      - head: I. IN PRINCIPIO ERAT VERBUM.
       - l[n=1]:
         - seg[type=hemistich]: Er allen wóroltkreftin
         - seg[type=hemistich]: joh éngilo giscéftin,
@@ -5848,8 +5818,7 @@ text:
         - seg[type=hemistich]: so iz blíntan man birínit,
         - seg[type=hemistich]: then súnna biscínit.
     - chapter[n=2]:
-      - head[lg=lat-Latn]: II.
-      - head[lg=lat-Latn]: FUIT HOMO MISSUS A DEO.
+      - head: II. FUIT HOMO MISSUS A DEO.
       - l[n=1]:
         - seg[type=hemistich]: Tho sánta got giwáran
         - seg[type=hemistich]: gómon filu máran,
@@ -5967,8 +5936,7 @@ text:
         - seg[type=hemistich]: wáres inti gúates *
         - seg[type=hemistich]: joh drúhtines gimúates.
     - chapter[n=3]:
-      - head[lg=lat-Latn]: III.
-      - head[lg=lat-Latn]: RECAPITULATIO SIGNORUM IN NATIVITATE CHRISTI.
+      - head: III. RECAPITULATIO SIGNORUM IN NATIVITATE CHRISTI.
       - l[n=1]:
         - seg[type=hemistich]: Er quam uns súlih hera héim,
         - seg[type=hemistich]: thes nist lóugna nihéin,
@@ -6177,8 +6145,7 @@ text:
         - seg[type=hemistich]: ther nan sélbo ubarwánt,
         - seg[type=hemistich]: so thu thir hiar nu lesan scalt.
     - chapter[n=4]:
-      - head[lg=lat-Latn]: IV.
-      - head[lg=lat-Latn]: DUCTUS EST JESUS IN DESERTUM.
+      - head: IV. DUCTUS EST JESUS IN DESERTUM.
       - l[n=1]:
         - seg[type=hemistich]: Giléitit ward tho druhtin Kríst
         - seg[type=hemistich]: thar ein éinoti ist,
@@ -6509,8 +6476,7 @@ text:
         - seg[type=hemistich]: ouh sélbun theso férti
         - seg[type=hemistich]: ni wúrtin, er ni wólti.
     - chapter[n=5]:
-      - head[lg=lat-Latn]: V.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: V. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Wir scúlun uns zi gúate
         - seg[type=hemistich]: nu kéren thaz zi múate,
@@ -6598,8 +6564,7 @@ text:
         - seg[type=hemistich]: ther únsih ju biskránkta,
         - seg[type=hemistich]: fon hímilriche irwánta.
     - chapter[n=6]:
-      - head[lg=lat-Latn]: VI.
-      - head[lg=lat-Latn]: ITEM DE EODEM.
+      - head: VI. ITEM DE EODEM.
       - l[n=1]:
         - seg[type=hemistich]: Ih állaz, soso ih wólta,
         - seg[type=hemistich]: tharfórna ni gizálta
@@ -6777,8 +6742,7 @@ text:
         - seg[type=hemistich]: nu wir thaz wízi miden
         - seg[type=hemistich]: joh hímilriches bliden.
     - chapter[n=7]:
-      - head[lg=lat-Latn]: VII.
-      - head[lg=lat-Latn]: STABAT JOHANNES ET EX DISCIPULIS EIUS DUO.
+      - head: VII. STABAT JOHANNES ET EX DISCIPULIS EIUS DUO.
       - pb[type=manuscript,n=50v,facs=#p50v]
       - l[n=1]:
         - seg[type=hemistich]: Bigínnu ih hiar nu rédinon,
@@ -7012,8 +6976,7 @@ text:
         - seg[type=hemistich]: zi zúhti joh zi wízze
         - seg[type=hemistich]: fon themo físgizze.
     - chapter[n=8]:
-      - head[lg=lat-Latn]: VIII.
-      - head[lg=lat-Latn]: NUPTIAE FACTAE SUNT.
+      - head: VIII. NUPTIAE FACTAE SUNT.
       - l[n=1]:
         - seg[type=hemistich]: After thíu in war mín
         - seg[type=hemistich]: so mohtun thrí daga sin;
@@ -7186,8 +7149,7 @@ text:
         - seg[type=hemistich]: tho gilóubtun ekordị éine
         - seg[type=hemistich]: thie júngoron síne.
     - chapter[n=9]:
-      - head[lg=lat-Latn]: IX.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: IX. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Thísu selba rédina
         - seg[type=hemistich]: theih zálta nu hiar óbana,
@@ -7488,8 +7450,7 @@ text:
         - seg[type=hemistich]: sumes óuh, so thu wéist,
         - seg[type=hemistich]: then selbon héiligon géist.
     - chapter[n=10]:
-      - head[lg=lat-Latn]: X.
-      - head[lg=lat-Latn]: CUR EX AQUA ET NON EX NIHILO VINUM FECISSET.
+      - head: X. CUR EX AQUA ET NON EX NIHILO VINUM FECISSET.
       - l[n=1]:
         - seg[type=hemistich]: Ni wolt ér fon níawihti
         - seg[type=hemistich]: (thoh er so dúan mohti,
@@ -7558,8 +7519,7 @@ text:
         - seg[type=hemistich]: joh wír zi themo gúate
         - seg[type=hemistich]: io wesen fástmuate.
     - chapter[n=11]:
-      - head[lg=lat-Latn]: XI.
-      - head[lg=lat-Latn]: PROPE ERAT PASCHA JUDAEORUM.
+      - head: XI. PROPE ERAT PASCHA JUDAEORUM.
       - l[n=1]:
         - seg[type=hemistich]: Tho fuar ther sún guater
         - seg[type=hemistich]: thar ínan zoh sin múater
@@ -7768,8 +7728,7 @@ text:
         - seg[type=hemistich]: joh tház er mit gilústin
         - seg[type=hemistich]: drégit in then brústin.
     - chapter[n=12]:
-      - head[lg=lat-Latn]: XII.
-      - head[lg=lat-Latn]: ERAT HOMO EX PHARISAEIS NICHODEMUS NOMINE.
+      - head: XII. ERAT HOMO EX PHARISAEIS NICHODEMUS NOMINE.
       - l[n=1]:
         - seg[type=hemistich]: Thar was ein mán fruater
         - seg[type=hemistich]: joh édilthegan gúater,
@@ -8064,9 +8023,8 @@ text:
         - seg[type=hemistich]: er lazit scínan siu ana wán,
         - seg[type=hemistich]: siu sint mit drúhtine gidan."
     - chapter[n=13]:
-      - head[lg=lat-Latn]: XIII.
-      - head[lg=lat-Latn]: DE QUESTU DISCIPULORUM JOHANNIS, CUR JESUS BAPTIZARET;
-          ET DE RESPONSIS EJUS.
+      - head: XIII. DE QUESTU DISCIPULORUM JOHANNIS, CUR JESUS BAPTIZARET; ET DE RESPONSIS
+          EJUS.
       - l[n=1]:
         - seg[type=hemistich]: Fuar druhtin brédigonti
         - seg[type=hemistich]: joh tóuftạ ouh tho thie líuti;
@@ -8190,8 +8148,7 @@ text:
         - seg[type=hemistich]: tho thíz ward sus gibrédigot,
         - seg[type=hemistich]: fon ímo al so girédinot.
     - chapter[n=14]:
-      - head[lg=lat-Latn]: XIV.
-      - head[lg=lat-Latn]: JESUS FATIGATUS EX ITINERE.
+      - head: XIV. JESUS FATIGATUS EX ITINERE.
       - l[n=1]:
         - seg[type=hemistich]: Sid tho thésen thingon
         - seg[type=hemistich]: fuar Krist zen héimingon,
@@ -8564,8 +8521,7 @@ text:
         - seg[type=hemistich]: thaz ér quam hera zi wórolti,
         - seg[type=hemistich]: er ménnisgon ginériti."
     - chapter[n=15]:
-      - head[lg=lat-Latn]: XV.
-      - head[lg=lat-Latn]: FAMA EXIIT QUOD IN GALILAEAM VENIT.
+      - head: XV. FAMA EXIIT QUOD IN GALILAEAM VENIT.
       - l[n=1]:
         - seg[type=hemistich]: Fúar tho druhtin thánana
         - seg[type=hemistich]: sid tho thérera redina,
@@ -8641,8 +8597,7 @@ text:
         - seg[type=hemistich]: grúazt er sie zi gúate
         - seg[type=hemistich]: 'sus suáslichemo múate:'
     - chapter[n=16]:
-      - head[lg=lat-Latn]: XVI.
-      - head[lg=lat-Latn]: DE VIII BEATITUDINIBUS.
+      - head: XVI. DE VIII BEATITUDINIBUS.
       - l[n=1]:
         - seg[type=hemistich]: '"Sálig birut ir árme'
         - seg[type=hemistich]: in thiu thaz múat iz wolle,
@@ -8766,8 +8721,7 @@ text:
         - seg[type=hemistich]: bi thiu ni lázet iu iz in wár
         - seg[type=hemistich]: wesan hárto filu suar.
     - chapter[n=17]:
-      - head[lg=lat-Latn]: XVII.
-      - head[lg=lat-Latn]: 'VOS ESTIS SAL TERRAE, ET: VOS ESTIS LUX MUNDI.'
+      - head: 'XVII. VOS ESTIS SAL TERRAE, ET: VOS ESTIS LUX MUNDI.'
       - l[n=1]:
         - seg[type=hemistich]: Ir bírut mihil wérda
         - seg[type=hemistich]: salz therera érda,
@@ -8842,8 +8796,7 @@ text:
         - seg[type=hemistich]: joh góte thero wérko
         - seg[type=hemistich]: mánnilih githánko!
     - chapter[n=18]:
-      - head[lg=lat-Latn]: XVIII.
-      - head[lg=lat-Latn]: NOLITE PUTARE QUIA VENI SOLVERE LEGEM.
+      - head: XVIII. NOLITE PUTARE QUIA VENI SOLVERE LEGEM.
       - l[n=1]:
         - seg[type=hemistich]: Ni wánet thaz gizámi,
         - seg[type=hemistich]: thaz ih zi thíu quami,
@@ -8918,8 +8871,7 @@ text:
         - seg[type=hemistich]: iz ist ér (ih sagen thir tház)
         - seg[type=hemistich]: góte filu léidaz.
     - chapter[n=19]:
-      - head[lg=lat-Latn]: XIX.
-      - head[lg=lat-Latn]: 'QUI VIDERIT MULIEREM, ET: NON JURARE, ET: INIMICOS [DILIGERE].'
+      - head: 'XIX. QUI VIDERIT MULIEREM, ET: NON JURARE, ET: INIMICOS [DILIGERE].'
       - l[n=1]:
         - seg[type=hemistich]: Zalt er óuh tho thuruh nót,
         - seg[type=hemistich]: wio ther wízzod gibot,
@@ -9006,8 +8958,7 @@ text:
         - seg[type=hemistich]: sie lazent ín io then in múat
         - seg[type=hemistich]: so wer so in líobes filu duat.
     - chapter[n=20]:
-      - head[lg=lat-Latn]: XX.
-      - head[lg=lat-Latn]: ATTENDITE NE JUSTITIAM VESTRAM FACIATIS CORAM HOMINIBUS.
+      - head: XX. ATTENDITE NE JUSTITIAM VESTRAM FACIATIS CORAM HOMINIBUS.
       - l[n=1]:
         - seg[type=hemistich]: Oba thu ármen wihtin
         - seg[type=hemistich]: duest drost mit éregrehtin
@@ -9052,8 +9003,7 @@ text:
         - seg[type=hemistich]: 'ih sagen iu in álawara:'
         - seg[type=hemistich]: ni wírdit in es méra.
     - chapter[n=21]:
-      - head[lg=lat-Latn]: XXI.
-      - head[lg=lat-Latn]: QUOMODO SIT ORANDUM, ET DE ORATIONE DOMINICA.
+      - head: XXI. QUOMODO SIT ORANDUM, ET DE ORATIONE DOMINICA.
       - l[n=1]:
         - seg[type=hemistich]: Óba thu ouh bigínnes
         - seg[type=hemistich]: thaz thu zi góte thinges,
@@ -9189,9 +9139,7 @@ text:
         - seg[type=hemistich]: gizélit sint themo in thráti
         - seg[type=hemistich]: allo thịo úndati.
     - chapter[n=22]:
-      - head[lg=lat-Latn]: XXII.
-      - head[lg=lat-Latn]: 'NEMO POTEST DUOBUS DOMINIS SERVIRE; ET: NON COGITANDUM
-          IN CRASTINUM.'
+      - head: 'XXII. NEMO POTEST DUOBUS DOMINIS SERVIRE; ET: NON COGITANDUM IN CRASTINUM.'
       - l[n=1]:
         - seg[type=hemistich]: Ni mag thaz mán duan nihéin,
         - seg[type=hemistich]: thaz thiono héreren zuein,
@@ -9321,9 +9269,8 @@ text:
         - seg[type=hemistich]: thaz ságen ih iu in alawár,
         - seg[type=hemistich]: thia fruma gíbit er íu sar.
     - chapter[n=23]:
-      - head[lg=lat-Latn]: XXIII.
-      - head[lg=lat-Latn]: 'OMNIA QUAECUNQUE VULTIS UT FACIANT VOBIS HOMINES; ET:
-          CAVENDUM A FALSIS PROPHETIS.'
+      - head: 'XXIII. OMNIA QUAECUNQUE VULTIS UT FACIANT VOBIS HOMINES; ET: CAVENDUM
+          A FALSIS PROPHETIS.'
       - l[n=1]:
         - seg[type=hemistich]: Nu léru ih íuih hárto
         - seg[type=hemistich]: kúrzero wórto,
@@ -9417,8 +9364,7 @@ text:
         - seg[type=hemistich]: fon mír in alagáhe,
         - seg[type=hemistich]: joh sih mir ni náhe!"
     - chapter[n=24]:
-      - head[lg=lat-Latn]: XXIV.
-      - head[lg=lat-Latn]: CONCLUSIO LIBRI SECUNDI.
+      - head: XXIV. CONCLUSIO LIBRI SECUNDI.
       - l[n=1]:
         - seg[type=hemistich]: Thiz lerta Kríst in wara
         - seg[type=hemistich]: joh mánagfalto méra;
@@ -9598,8 +9544,7 @@ text:
     - l[n=27,lg=lat-Latn]: Expliciunt capitula libri tertii. Incipit liber tertius.
     - chapter[n=1]:
       - pb[type=manuscript,n=74r,facs=#p74r]
-      - head[lg=lat-Latn]: I.
-      - head[lg=lat-Latn]: PRAEFATIO LIBRI TERTII.
+      - head: I. PRAEFATIO LIBRI TERTII.
       - l[n=1]:
         - seg[type=hemistich]: Mit selben Krístes segenon
         - seg[type=hemistich]: wíll ih hiar nu rédinon
@@ -9735,8 +9680,7 @@ text:
         - seg[type=hemistich]: wis fáter mir joh múater,
         - seg[type=hemistich]: thu bist min drúhtin guater!
     - chapter[n=2]:
-      - head[lg=lat-Latn]: II.
-      - head[lg=lat-Latn]: ERAT QUIDAM REGULUS.
+      - head: II. ERAT QUIDAM REGULUS.
       - l[n=1]:
         - seg[type=hemistich]: Tho Kríst in Galiléa quam,
         - seg[type=hemistich]: ward thaz tho mári sos iz zám,
@@ -9854,8 +9798,7 @@ text:
         - seg[type=hemistich]: themo hímilisgen kúninge.
     - chapter[n=3]:
       - pb[type=manuscript,n=76r,facs=#p76r]
-      - head[lg=lat-Latn]: III.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: III. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Thiz íst uns úngizami,
         - seg[type=hemistich]: so íh iz nu firnámi,
@@ -9942,8 +9885,7 @@ text:
         - seg[type=hemistich]: githankon wórton sinen
         - seg[type=hemistich]: joh díofo imo ouh ginígen.
     - chapter[n=4]:
-      - head[lg=lat-Latn]: IV.
-      - head[lg=lat-Latn]: PROPE ERAT PASCHA JUDAEORUM.
+      - head: IV. PROPE ERAT PASCHA JUDAEORUM.
       - l[n=1]:
         - seg[type=hemistich]: Thio zíti sih bibráhtun
         - seg[type=hemistich]: thaz óstoron tho náhtun;
@@ -10091,8 +10033,7 @@ text:
         - seg[type=hemistich]: tház iz was ther héilant
         - seg[type=hemistich]: ther inan thes séres inbant.
     - chapter[n=5]:
-      - head[lg=lat-Latn]: V.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: V. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Hiar múgun wir instántan
         - seg[type=hemistich]: (thaz éigun wir ouh fúntan),
@@ -10161,8 +10102,7 @@ text:
         - seg[type=hemistich]: joh scóno untar mánnon
         - seg[type=hemistich]: io émmizigen minnon!
     - chapter[n=6]:
-      - head[lg=lat-Latn]: VI.
-      - head[lg=lat-Latn]: ABIIT JESUS TRANS MARE GALILEAE.
+      - head: VI. ABIIT JESUS TRANS MARE GALILEAE.
       - l[n=1]:
         - seg[type=hemistich]: Tház ih hiar nu zéllu,
         - seg[type=hemistich]: thaz weiz thiu wórolt ellu,
@@ -10335,8 +10275,7 @@ text:
         - seg[type=hemistich]: (ni frázun sie iz állaz)
         - seg[type=hemistich]: sibun kórbi ubar tház!
     - chapter[n=7]:
-      - head[lg=lat-Latn]: VII.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: VII. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Drúhtin min ther gúato,
         - seg[type=hemistich]: nu ríhti mih gimúato,
@@ -10612,9 +10551,7 @@ text:
         - seg[type=hemistich]: húngere biwérien
         - seg[type=hemistich]: joh ouh fon tóde nerien!
     - chapter[n=8]:
-      - head[lg=lat-Latn]: VIII.
-      - head[lg=lat-Latn]: VOLUIT EUM POPULUS REGEM FACERE, ET QUOMODO AMBULABAT SUPER
-          MARE.
+      - head: VIII. VOLUIT EUM POPULUS REGEM FACERE, ET QUOMODO AMBULABAT SUPER MARE.
       - l[n=1]:
         - seg[type=hemistich]: Wóltun tho thie líuti
         - seg[type=hemistich]: fáhan nan bi nóti,
@@ -10769,8 +10706,7 @@ text:
         - seg[type=hemistich]: 'quádun ouh sos iz íst:'
         - seg[type=hemistich]: '"thu sélben gotes sún bist."'
     - chapter[n=9]:
-      - head[lg=lat-Latn]: IX.
-      - head[lg=lat-Latn]: OPTULERUNT EI OMNES MALE HABENTES.
+      - head: IX. OPTULERUNT EI OMNES MALE HABENTES.
       - l[n=1]:
         - seg[type=hemistich]: Ther líut tho géiscota thaz
         - seg[type=hemistich]: thaz drúhtin thara queman was;
@@ -10833,8 +10769,7 @@ text:
         - seg[type=hemistich]: nintweih imo iowánne
         - seg[type=hemistich]: zi sínes selbes gánge.
     - chapter[n=10]:
-      - head[lg=lat-Latn]: X.
-      - head[lg=lat-Latn]: DE MULIERE CHANANAEA.
+      - head: X. DE MULIERE CHANANAEA.
       - l[n=1]:
         - seg[type=hemistich]: Sus in wége quam ein wíb,
         - seg[type=hemistich]: wéinota thaz íra lib,
@@ -10976,8 +10911,7 @@ text:
         - seg[type=hemistich]: gibot iz Kríst guater
         - seg[type=hemistich]: thes bát iru thiu múater.
     - chapter[n=11]:
-      - head[lg=lat-Latn]: XI.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: XI. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Si hábeta, so er wésta,
         - seg[type=hemistich]: gilóuba filu fésta;
@@ -11077,8 +11011,7 @@ text:
         - seg[type=hemistich]: joh si sár githágeta,
         - seg[type=hemistich]: gilóubta thaz er ságeta.
     - chapter[n=12]:
-      - head[lg=lat-Latn]: XII.
-      - head[lg=lat-Latn]: VENIT JESUS IN PARTES CAESAREAE PHILIPPI.
+      - head: XII. VENIT JESUS IN PARTES CAESAREAE PHILIPPI.
       - l[n=1]:
         - seg[type=hemistich]: Bigan drúhtin eines rédinon
         - seg[type=hemistich]: gisuáso mit then théganon,
@@ -11214,9 +11147,8 @@ text:
         - seg[type=hemistich]: so wesez ál in hímile,
         - seg[type=hemistich]: thir níaman thes ni wídire!"
     - chapter[n=13]:
-      - head[lg=lat-Latn]: XIII.
-      - head[lg=lat-Latn]: PRAECEPIT NE CUI DICERENT, QUIA IPSE ESSET CHRISTUS; ET
-          INCREPATIO PETRI; ET [DE] VISIONE IN MONTE.
+      - head: XIII. PRAECEPIT NE CUI DICERENT, QUIA IPSE ESSET CHRISTUS; ET INCREPATIO
+          PETRI; ET [DE] VISIONE IN MONTE.
       - l[n=1]:
         - seg[type=hemistich]: Er tho then júngoron gibót,
         - seg[type=hemistich]: thaz sie iz hálin thuruh nót,
@@ -11395,8 +11327,7 @@ text:
         - seg[type=hemistich]: unz thiu sín guati
         - seg[type=hemistich]: uf fon tóde irstuanti.
     - chapter[n=14]:
-      - head[lg=lat-Latn]: XIV.
-      - head[lg=lat-Latn]: BREVIS AMMONITIO DE SIGNIS.
+      - head: XIV. BREVIS AMMONITIO DE SIGNIS.
       - l[n=1]:
         - seg[type=hemistich]: Thes nist zála noh ouh rím,
         - seg[type=hemistich]: wio manag wúntar ist sín,
@@ -11763,8 +11694,7 @@ text:
         - seg[type=hemistich]: nintfáhent thés gilústi
         - seg[type=hemistich]: thio ármilichun brústi.
     - chapter[n=15]:
-      - head[lg=lat-Latn]: XV.
-      - head[lg=lat-Latn]: AMBULABAT JESUS IN GALILEAM.
+      - head: XV. AMBULABAT JESUS IN GALILEAM.
       - l[n=1]:
         - seg[type=hemistich]: Thie Júdeon méid er tho bi tház
         - seg[type=hemistich]: thuruh then míchilan haz,
@@ -11925,8 +11855,7 @@ text:
         - seg[type=hemistich]: in súlichemo nóte
         - seg[type=hemistich]: fon themo hérote.
     - chapter[n=16]:
-      - head[lg=lat-Latn]: XVI.
-      - head[lg=lat-Latn]: JAM DIE FESTO MEDIANTE.
+      - head: XVI. JAM DIE FESTO MEDIANTE.
       - l[n=1]:
         - seg[type=hemistich]: Tho thiu wécha, so got gibót,
         - seg[type=hemistich]: was hálbu gifírot,
@@ -12153,8 +12082,7 @@ text:
         - seg[type=hemistich]: mit wórton tho ginúagi,
         - seg[type=hemistich]: tház man nan gifíangi.
     - chapter[n=17]:
-      - head[lg=lat-Latn]: XVII.
-      - head[lg=lat-Latn]: PERREXIT JESUS IN MONTEM OLIVARUM.
+      - head: XVII. PERREXIT JESUS IN MONTEM OLIVARUM.
       - l[n=1]:
         - seg[type=hemistich]: Áfter wórton managen
         - seg[type=hemistich]: joh léron filu hébigen
@@ -12370,8 +12298,7 @@ text:
         - seg[type=hemistich]: thera frónisgun léra
         - seg[type=hemistich]: ni gíang in wiht in óra.
     - chapter[n=18]:
-      - head[lg=lat-Latn]: XVIII.
-      - head[lg=lat-Latn]: QUIS EX VOBIS ARGUET ME DE PECCATO?
+      - head: XVIII. QUIS EX VOBIS ARGUET ME DE PECCATO?
       - l[n=1]:
         - seg[type=hemistich]: Untar wórton mánagen
         - seg[type=hemistich]: joh thíngon filu hébigen
@@ -12598,8 +12525,7 @@ text:
         - seg[type=hemistich]: úzar iro hánton
         - seg[type=hemistich]: fon sinen fíanton.
     - chapter[n=19]:
-      - head[lg=lat-Latn]: XIX.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: XIX. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Hiar mánot unsih druhtin Kríst,
         - seg[type=hemistich]: so sin giwónaheit íst;
@@ -12717,8 +12643,7 @@ text:
         - seg[type=hemistich]: thu thuruh thiu sínu bilidi
         - seg[type=hemistich]: firdrégist thero manno frávili.
     - chapter[n=20]:
-      - head[lg=lat-Latn]: XX.
-      - head[lg=lat-Latn]: DE CAECO NATO.
+      - head: XX. DE CAECO NATO.
       - l[n=1]:
         - seg[type=hemistich]: Gisah tho drúhtin einan mán
         - seg[type=hemistich]: blíntan gibóranan;
@@ -13287,8 +13212,7 @@ text:
         - seg[type=hemistich]: ál thaz iro frúma was --
         - seg[type=hemistich]: sie ni rúahtun bi thaz.
     - chapter[n=21]:
-      - head[lg=lat-Latn]: XXI.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: XXI. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Firlíhe mir nu selbo Kríst,
         - seg[type=hemistich]: ther únser liobo drúhtin ist,
@@ -13400,8 +13324,7 @@ text:
         - mit thes hérzen ougon   \   muazin íamer scówon!
         - foreign[lg=lat-Latn]: Amen.
     - chapter[n=22]:
-      - head[lg=lat-Latn]: XXII.
-      - head[lg=lat-Latn]: FACTA SUNT ENCAENIA.
+      - head: XXII. FACTA SUNT ENCAENIA.
       - l[n=1]:
         - seg[type=hemistich]: Gistúantun in thera náhi
         - seg[type=hemistich]: thes gótes huses wíhi,
@@ -13610,8 +13533,7 @@ text:
         - seg[type=hemistich]: sie thar gisuáso warin
         - seg[type=hemistich]: unz sino zíti quamin.
     - chapter[n=23]:
-      - head[lg=lat-Latn]: XXIII.
-      - head[lg=lat-Latn]: ERAT QUIDAM LANGUENS LAZARUS.
+      - head: XXIII. ERAT QUIDAM LANGUENS LAZARUS.
       - l[n=1]:
         - seg[type=hemistich]: Iro ist fílu thrato,
         - seg[type=hemistich]: thero drúhtines dato,
@@ -13796,8 +13718,7 @@ text:
         - seg[type=hemistich]: nu simes gárawe alle
         - seg[type=hemistich]: mit ímo zi themo fálle!"
     - chapter[n=24]:
-      - head[lg=lat-Latn]: XXIV.
-      - head[lg=lat-Latn]: VENIT ERGO JESUS ET INVENIT EUM QUATUOR DIES [JAM HABENTEM].
+      - head: XXIV. VENIT ERGO JESUS ET INVENIT EUM QUATUOR DIES [JAM HABENTEM].
       - l[n=1]:
         - seg[type=hemistich]: Quám tho druhtin héilant
         - seg[type=hemistich]: thara in Júdeono lant,
@@ -14140,8 +14061,7 @@ text:
         - seg[type=hemistich]: 'thir zéll ih hiar nu súntar:'
         - seg[type=hemistich]: was hárto in leid thaz wúntar.
     - chapter[n=25]:
-      - head[lg=lat-Latn]: XXV.
-      - head[lg=lat-Latn]: COLLEGERUNT PONTIFICES ET PHARISAEI CONCILIUM.
+      - head: XXV. COLLEGERUNT PONTIFICES ET PHARISAEI CONCILIUM.
       - l[n=1]:
         - seg[type=hemistich]: Thie bíscofa bi nóti
         - seg[type=hemistich]: joh al thaz héroti
@@ -14265,8 +14185,7 @@ text:
         - seg[type=hemistich]: joh fuar mit sínen thanana
         - seg[type=hemistich]: in eina wúastinna.
     - chapter[n=26]:
-      - head[lg=lat-Latn]: XXVI.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: XXVI. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Nu Kríst in therera rédinu
         - seg[type=hemistich]: zéichan duit so ménigu,
@@ -14527,8 +14446,7 @@ text:
     - l[n=37]: XXXVII. Moraliter.
     - chapter[n=1]:
       - pb[type=manuscript,n=114r,facs=#p114r]
-      - head[lg=lat-Latn]: I.
-      - head[lg=lat-Latn]: PRAEFATIO LIBRI QUARTI.
+      - head: I. PRAEFATIO LIBRI QUARTI.
       - l[n=1]:
         - seg[type=hemistich]: Nu thie éwarton bi nóti
         - seg[type=hemistich]: máchont thaz giráti,
@@ -14694,8 +14612,7 @@ text:
         - fréwen in giríhti   \   in thíneru gisíhti!
         - foreign[lg=lat-Latn]: Amen.
     - chapter[n=2]:
-      - head[lg=lat-Latn]: II.
-      - head[lg=lat-Latn]: ANTE SEX DIES PASCHAE VENIT JESUS BETHANIAM.
+      - head: II. ANTE SEX DIES PASCHAE VENIT JESUS BETHANIAM.
       - l[n=1]:
         - seg[type=hemistich]: Tho drúhtin thaz giméinta,
         - seg[type=hemistich]: er thesa wórolt heilta,
@@ -14801,8 +14718,7 @@ text:
         - seg[type=hemistich]: náles avur míh in war
         - seg[type=hemistich]: ni éigut émmizigen hiar."
     - chapter[n=3]:
-      - head[lg=lat-Latn]: III.
-      - head[lg=lat-Latn]: CUM AUDISSET POPULUS QUIA VENIT JESUS.
+      - head: III. CUM AUDISSET POPULUS QUIA VENIT JESUS.
       - l[n=1]:
         - seg[type=hemistich]: Gihórta tho ther líut thaz
         - seg[type=hemistich]: thaz drúhtin Kríst thara quéman was,
@@ -14877,8 +14793,7 @@ text:
         - seg[type=hemistich]: joh er frídes wunnon
         - seg[type=hemistich]: síd gab iamer mánnon.
     - chapter[n=4]:
-      - head[lg=lat-Latn]: IV.
-      - head[lg=lat-Latn]: CUM APPROPINQUASSET HIEROSOLYMIS.
+      - head: IV. CUM APPROPINQUASSET HIEROSOLYMIS.
       - l[n=1]:
         - seg[type=hemistich]: Wólt er tho bigínnan
         - seg[type=hemistich]: zi Hierusalém sinnan,
@@ -15112,8 +15027,7 @@ text:
         - seg[type=hemistich]: bi éinera stúllu
         - seg[type=hemistich]: thisu wórolt ellu!"
     - chapter[n=5]:
-      - head[lg=lat-Latn]: V.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: V. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Hiar scál man zellen nóti
         - seg[type=hemistich]: thie géistlichun dáti
@@ -15316,8 +15230,7 @@ text:
         - seg[type=hemistich]: so wír ouh iz firnámun,
         - seg[type=hemistich]: wir thar sídor quamun.
     - chapter[n=6]:
-      - head[lg=lat-Latn]: VI.
-      - head[lg=lat-Latn]: ABIIT JESUS IN BETHANIAM, ET DE DOCTRINA IN CRASTINUM.
+      - head: VI. ABIIT JESUS IN BETHANIAM, ET DE DOCTRINA IN CRASTINUM.
       - l[n=1]:
         - seg[type=hemistich]: Fúar tho druhtin thánana
         - seg[type=hemistich]: zi sélidon in Bethánia;
@@ -15490,8 +15403,7 @@ text:
         - seg[type=hemistich]: ío then selben líutin,
         - seg[type=hemistich]: oba síe iz ni wídorotin.
     - chapter[n=7]:
-      - head[lg=lat-Latn]: VII.
-      - head[lg=lat-Latn]: DE DOCTRINA DOMINI IN MONTE AD DISCIPULOS.
+      - head: VII. DE DOCTRINA DOMINI IN MONTE AD DISCIPULOS.
       - l[n=1]:
         - seg[type=hemistich]: Gíang tho drúhtin thánana,
         - seg[type=hemistich]: mit ímo ouh sine thégana,
@@ -15773,8 +15685,7 @@ text:
         - seg[type=hemistich]: was io thár ubar náht,
         - seg[type=hemistich]: so hiar fóra ward giwáht.
     - chapter[n=8]:
-      - head[lg=lat-Latn]: VIII.
-      - head[lg=lat-Latn]: APPROPINQUABAT DIES FESTUS AZIMORUM.
+      - head: VIII. APPROPINQUABAT DIES FESTUS AZIMORUM.
       - l[n=1]:
         - seg[type=hemistich]: Náhtun sih zi nóti
         - seg[type=hemistich]: thio hóhun gizíti,
@@ -15861,8 +15772,7 @@ text:
         - seg[type=hemistich]: was ér ouh in ther fári,
         - seg[type=hemistich]: ther líut tharmít ni wári.
     - chapter[n=9]:
-      - head[lg=lat-Latn]: IX.
-      - head[lg=lat-Latn]: VENIT AUTEM DIES AZIMORUM, IN QUA NECESSE ERAT OCCIDI PASCHA.
+      - head: IX. VENIT AUTEM DIES AZIMORUM, IN QUA NECESSE ERAT OCCIDI PASCHA.
       - pb[type=manuscript,n=124v,facs=#p124v]
       - l[n=1]:
         - seg[type=hemistich]: Gistúant thera zíti guati
@@ -15968,8 +15878,7 @@ text:
         - seg[type=hemistich]: bi thiu fáhemes mit fréwidu
         - seg[type=hemistich]: nu frámmort zi theru rédinu.
     - chapter[n=10]:
-      - head[lg=lat-Latn]: X.
-      - head[lg=lat-Latn]: DESIDERIO DESIDERAVI HOC PASCHA.
+      - head: X. DESIDERIO DESIDERAVI HOC PASCHA.
       - l[n=1]:
         - seg[type=hemistich]: Bigán tho druhtin rédinon
         - seg[type=hemistich]: then sélben zuelif théganon,
@@ -16020,8 +15929,7 @@ text:
         - seg[type=hemistich]: iz ist mánagfaltaz thíng,
         - seg[type=hemistich]: yrlósit thesan wóroltring!
     - chapter[n=11]:
-      - head[lg=lat-Latn]: XI.
-      - head[lg=lat-Latn]: ANTE DIEM FESTUM PASCHAE SCIENS JESUS QUIA VENIT.
+      - head: XI. ANTE DIEM FESTUM PASCHAE SCIENS JESUS QUIA VENIT.
       - l[n=1]:
         - seg[type=hemistich]: So síe tho thar gázun
         - seg[type=hemistich]: 'noh tho zi dísge sazun:'
@@ -16181,9 +16089,7 @@ text:
         - seg[type=hemistich]: mit míhilen mínnon
         - seg[type=hemistich]: iz frámmort zeigot mánnon?"
     - chapter[n=12]:
-      - head[lg=lat-Latn]: XII.
-      - head[lg=lat-Latn]: CONTRISTATUS EST JESUS SPIRITU ET DIXIT EIS DE TRADITIONE
-          EJUS.
+      - head: XII. CONTRISTATUS EST JESUS SPIRITU ET DIXIT EIS DE TRADITIONE EJUS.
       - pb[type=manuscript,n=127r,facs=#p127r]
       - l[n=1]:
         - seg[type=hemistich]: So ér in gizéigota thár,
@@ -16381,8 +16287,7 @@ text:
         - seg[type=hemistich]: in bánt inan gilégiti,
         - seg[type=hemistich]: er fúrdir uns ni dériti!
     - chapter[n=13]:
-      - head[lg=lat-Latn]: XIII.
-      - head[lg=lat-Latn]: PETRUM DIXIT NEGATURUM.
+      - head: XIII. PETRUM DIXIT NEGATURUM.
       - l[n=1]:
         - seg[type=hemistich]: Zi sineru spráchu druhtin fíang,
         - seg[type=hemistich]: so Júdas thanan úz gigiang;
@@ -16548,8 +16453,7 @@ text:
         - seg[type=hemistich]: gisúnten uns thir dérien;
         - seg[type=hemistich]: wir wóllen thih in wérien!" *
     - chapter[n=14]:
-      - head[lg=lat-Latn]: XIV.
-      - head[lg=lat-Latn]: JUBET UT, CUI DESIT, GLADIUM EMAT.
+      - head: XIV. JUBET UT, CUI DESIT, GLADIUM EMAT.
       - l[n=1]:
         - seg[type=hemistich]: '"Thánne ih", quad er, "sánta,'
         - seg[type=hemistich]: 'in min árunti iuih wánta:'
@@ -16606,8 +16510,7 @@ text:
         - seg[type=hemistich]: ni búnsih wáfan nerien,
         - seg[type=hemistich]: gistén wir unsih wérien."
     - chapter[n=15]:
-      - head[lg=lat-Latn]: XV.
-      - head[lg=lat-Latn]: CONSOLATUR DISCIPULOS DE MORTE EJUS.
+      - head: XV. CONSOLATUR DISCIPULOS DE MORTE EJUS.
       - l[n=1]:
         - seg[type=hemistich]: Dróst er sie tho wórto
         - seg[type=hemistich]: sines tóthes harto,
@@ -16804,8 +16707,7 @@ text:
         - seg[type=hemistich]: ér sie thanne sánti,
         - seg[type=hemistich]: in thíonost sinaz wánti.
     - chapter[n=16]:
-      - head[lg=lat-Latn]: XVI.
-      - head[lg=lat-Latn]: EGRESSUS EST POST HAEC TRANS TORRENTEM CAEDRON.
+      - head: XVI. EGRESSUS EST POST HAEC TRANS TORRENTEM CAEDRON.
       - l[n=1]:
         - seg[type=hemistich]: Er after thésen worton
         - seg[type=hemistich]: gíang in einan gárton,
@@ -16978,8 +16880,7 @@ text:
         - seg[type=hemistich]: datun thio iro hénti
         - seg[type=hemistich]: drúhtin in gibénti.
     - chapter[n=17]:
-      - head[lg=lat-Latn]: XVII.
-      - head[lg=lat-Latn]: QUOMODO PETRUS ABSCIDIT AURICULAM SERVO SACERDOTIS.
+      - head: XVII. QUOMODO PETRUS ABSCIDIT AURICULAM SERVO SACERDOTIS.
       - l[n=1]:
         - seg[type=hemistich]: Pétrus ward es ánawert
         - seg[type=hemistich]: joh bratt er slíumo thaz suért,
@@ -17079,8 +16980,7 @@ text:
         - seg[type=hemistich]: zi thémo leittun sie érist
         - seg[type=hemistich]: selbon drúhtinan Krist.
     - chapter[n=18]:
-      - head[lg=lat-Latn]: XVIII.
-      - head[lg=lat-Latn]: DE NEGATIONE PETRI.
+      - head: XVIII. DE NEGATIONE PETRI.
       - l[n=1]:
         - seg[type=hemistich]: Petrus fólgeta imo thó
         - seg[type=hemistich]: rúmana joh férro,
@@ -17210,8 +17110,7 @@ text:
         - seg[type=hemistich]: bigónda er inan scówon
         - seg[type=hemistich]: ginádlichen óugon.
     - chapter[n=19]:
-      - head[lg=lat-Latn]: XIX.
-      - head[lg=lat-Latn]: VERBA PONTIFICIS AD JESUM, ET DE FALSIS TESTIBUS.
+      - head: XIX. VERBA PONTIFICIS AD JESUM, ET DE FALSIS TESTIBUS.
       - l[n=1]:
         - seg[type=hemistich]: Stuant drúhtin innan thés in war
         - seg[type=hemistich]: fora themo bískofe thar,
@@ -17444,8 +17343,7 @@ text:
         - seg[type=hemistich]: ál io theso frávili
         - seg[type=hemistich]: thuruh thio únsero ubili!
     - chapter[n=20]:
-      - head[lg=lat-Latn]: XX.
-      - head[lg=lat-Latn]: DUXERUNT EUM AD CAIPHAM, UBI ERAT ET PILATUS.
+      - head: XX. DUXERUNT EUM AD CAIPHAM, UBI ERAT ET PILATUS.
       - l[n=1]:
         - seg[type=hemistich]: Tho léittun nan thie líuti
         - seg[type=hemistich]: thar was thaz héroti;
@@ -17569,8 +17467,7 @@ text:
         - seg[type=hemistich]: zi tóthe sie nan brúngun
         - seg[type=hemistich]: mit wássidu iro zúngun!
     - chapter[n=21]:
-      - head[lg=lat-Latn]: XXI.
-      - head[lg=lat-Latn]: ALLOCUTIO PILATI AD CHRISTUM IN PRAETORIO.
+      - head: XXI. ALLOCUTIO PILATI AD CHRISTUM IN PRAETORIO.
       - l[n=1]:
         - seg[type=hemistich]: Giang Pilatus wídari
         - seg[type=hemistich]: mit ímo tho in then sólari,
@@ -17682,8 +17579,7 @@ text:
         - seg[type=hemistich]: gidúa mih thes giwíssi
         - seg[type=hemistich]: waz si thaz wárnissi!"
     - chapter[n=22]:
-      - head[lg=lat-Latn]: XXII.
-      - head[lg=lat-Latn]: QUOMODO PILATUS VOLUIT CHRISTUM DIMITTERE PRO BARNABA.
+      - head: XXII. QUOMODO PILATUS VOLUIT CHRISTUM DIMITTERE PRO BARNABA.
       - l[n=1]:
         - seg[type=hemistich]: Giang er, so er tház giquad
         - seg[type=hemistich]: (ih weiz es wírdig ni ward,
@@ -17789,8 +17685,7 @@ text:
         - seg[type=hemistich]: in slégin joh in wórton,
         - seg[type=hemistich]: bi únsen suaren súnton!
     - chapter[n=23]:
-      - head[lg=lat-Latn]: XXIII.
-      - head[lg=lat-Latn]: DUXIT PILATUS JESUM DERISUM AD POPULUM.
+      - head: XXIII. DUXIT PILATUS JESUM DERISUM AD POPULUM.
       - l[n=1]:
         - seg[type=hemistich]: Pilátus giang zen líutin
         - seg[type=hemistich]: sid tho thésen datin,
@@ -17926,8 +17821,7 @@ text:
         - seg[type=hemistich]: joh ther iz zi thíu bibráhta
         - seg[type=hemistich]: thaz híar man min sus áhta."
     - chapter[n=24]:
-      - head[lg=lat-Latn]: XXIV.
-      - head[lg=lat-Latn]: VOLUIT PILATUS JESUM DIMITTERE, ET QUIA TRADIDIT EUM EIS.
+      - head: XXIV. VOLUIT PILATUS JESUM DIMITTERE, ET QUIA TRADIDIT EUM EIS.
       - l[n=1]:
         - seg[type=hemistich]: Pilátus was tho in flízi
         - seg[type=hemistich]: tház er nan firlíazi,
@@ -18045,8 +17939,7 @@ text:
         - seg[type=hemistich]: joh wórahtun sie tho fóllon
         - seg[type=hemistich]: then iro múatwillon.
     - chapter[n=25]:
-      - head[lg=lat-Latn]: XXV.
-      - head[lg=lat-Latn]: PAUCA SPIRITALITER.
+      - head: XXV. PAUCA SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Ih wólta hiar gizéllen,
         - seg[type=hemistich]: er síe nan sus nu quéllen,
@@ -18090,8 +17983,7 @@ text:
         - seg[type=hemistich]: joh thólota bi únsih allaz tház,
         - seg[type=hemistich]: thaz uns es íamer si the báz!
     - chapter[n=26]:
-      - head[lg=lat-Latn]: XXVI.
-      - head[lg=lat-Latn]: DUXERUNT EUM, UT CRUCIFIGERENT; ET LAMENTATIO MULIERUM.
+      - head: XXVI. DUXERUNT EUM, UT CRUCIFIGERENT; ET LAMENTATIO MULIERUM.
       - pb[type=manuscript,n=142r,facs=#p142r]
       - l[n=1]:
         - seg[type=hemistich]: Tho námun nan, so ih zálta,
@@ -18252,8 +18144,7 @@ text:
         - seg[type=hemistich]: so síe biginnent térren
         - seg[type=hemistich]: bóume themo thúrren?"
     - chapter[n=27]:
-      - head[lg=lat-Latn]: XXVII.
-      - head[lg=lat-Latn]: QUOMODO CLAVIS EUM FIXERUNT, ET TITULUS PILATI.
+      - head: XXVII. QUOMODO CLAVIS EUM FIXERUNT, ET TITULUS PILATI.
       - l[n=1]:
         - seg[type=hemistich]: Ni námun sie thía meina
         - seg[type=hemistich]: thero wíbo klaga góuma,
@@ -18346,8 +18237,7 @@ text:
         - seg[type=hemistich]: '"thaz ih scréib, in alawár,'
         - seg[type=hemistich]: thaz stéit imo giscríban thar!"
     - chapter[n=28]:
-      - head[lg=lat-Latn]: XXVIII.
-      - head[lg=lat-Latn]: DE SPOLIIS DIVISIS ET TONICAE SORTE.
+      - head: XXVIII. DE SPOLIIS DIVISIS ET TONICAE SORTE.
       - pb[type=manuscript,n=144r,facs=#p144r]
       - l[n=1]:
         - seg[type=hemistich]: Sie námun thaz giróubi
@@ -18423,8 +18313,7 @@ text:
         - seg[type=hemistich]: súslichera rédina;
         - seg[type=hemistich]: thaz zélit er allaz thánana.
     - chapter[n=29]:
-      - head[lg=lat-Latn]: XXIX.
-      - head[lg=lat-Latn]: MYSTICE.
+      - head: XXIX. MYSTICE.
       - l[n=1]:
         - seg[type=hemistich]: Bizéinot thisu túnicha
         - seg[type=hemistich]: racha díurlicha;
@@ -18602,8 +18491,7 @@ text:
         - seg[type=hemistich]: afur thísu in min wár
         - seg[type=hemistich]: ist émmizigen ío thar!
     - chapter[n=30]:
-      - head[lg=lat-Latn]: XXX.
-      - head[lg=lat-Latn]: DE IRRISIONE SACERDOTUM ET OMNIUM PRAETEREUNTIUM.
+      - head: XXX. DE IRRISIONE SACERDOTUM ET OMNIUM PRAETEREUNTIUM.
       - l[n=1]:
         - seg[type=hemistich]: Sih fuarun thrángonti
         - seg[type=hemistich]: umbi ínan tho thie líuti,
@@ -18715,8 +18603,7 @@ text:
         - seg[type=hemistich]: ni wárun in then liutin
         - seg[type=hemistich]: thie sulih ríwetin!
     - chapter[n=31]:
-      - head[lg=lat-Latn]: XXXI.
-      - head[lg=lat-Latn]: ID IPSUM AUTEM ET LATRONES.
+      - head: XXXI. ID IPSUM AUTEM ET LATRONES.
       - l[n=1]:
         - seg[type=hemistich]: Thero scáchoro (ih sagen thir) éin,
         - seg[type=hemistich]: want er hángeta untar zuéin,
@@ -18828,8 +18715,7 @@ text:
         - seg[type=hemistich]: zi wórolti io ginado mín.
         - seg[type=hemistich]: theih si émmiziger scálk thin!
     - chapter[n=32]:
-      - head[lg=lat-Latn]: XXXII.
-      - head[lg=lat-Latn]: STABAT AUTEM JUXTA CRUCEM JESU MATER EJUS.
+      - head: XXXII. STABAT AUTEM JUXTA CRUCEM JESU MATER EJUS.
       - l[n=1]:
         - seg[type=hemistich]: Múater sin thiu gúata
         - seg[type=hemistich]: thiz allaz scówota,
@@ -18867,8 +18753,7 @@ text:
         - seg[type=hemistich]: wir sin gibót ouh wírken
         - seg[type=hemistich]: inti bi únsa muater thénken.
     - chapter[n=33]:
-      - head[lg=lat-Latn]: XXXIII.
-      - head[lg=lat-Latn]: SOL OBSCURATUS, ET TRADIDIT SPIRITUM JESUS.
+      - head: XXXIII. SOL OBSCURATUS, ET TRADIDIT SPIRITUM JESUS.
       - l[n=1]:
         - seg[type=hemistich]: Súnna irbalg sih thráto
         - seg[type=hemistich]: súslichero dáto,
@@ -18992,8 +18877,7 @@ text:
         - seg[type=hemistich]: thaz deta drúhtin thar tho Kríst,
         - seg[type=hemistich]: thaz uns iz ófanaz ist.
     - chapter[n=34]:
-      - head[lg=lat-Latn]: XXXIV.
-      - head[lg=lat-Latn]: TERRA MOTA EST, PETRAE SCISSAE SUNT.
+      - head: XXXIV. TERRA MOTA EST, PETRAE SCISSAE SUNT.
       - l[n=1]:
         - seg[type=hemistich]: Érda bíbinota,
         - seg[type=hemistich]: thiu gótes kraft sies nótta,
@@ -19075,8 +18959,7 @@ text:
         - seg[type=hemistich]: thiu mit ímo warun,
         - seg[type=hemistich]: zen óstoron quamun.
     - chapter[n=35]:
-      - head[lg=lat-Latn]: XXXV.
-      - head[lg=lat-Latn]: QUOMODO JOSEPH ET NICHODEMUS SEPELIERUNT JESUM.
+      - head: XXXV. QUOMODO JOSEPH ET NICHODEMUS SEPELIERUNT JESUM.
       - l[n=1]:
         - seg[type=hemistich]: Tho quam ein édiles man
         - seg[type=hemistich]: baldlícho, so imo zám,
@@ -19212,8 +19095,7 @@ text:
         - seg[type=hemistich]: joh ouh sálida ubar ál,
         - seg[type=hemistich]: so mán hiar fora ságen scal!
     - chapter[n=36]:
-      - head[lg=lat-Latn]: XXXVI.
-      - head[lg=lat-Latn]: QUOMODO SACERDOTES SUMMI SIGNAVERUNT SEPULCRUM.
+      - head: XXXVI. QUOMODO SACERDOTES SUMMI SIGNAVERUNT SEPULCRUM.
       - l[n=1]:
         - seg[type=hemistich]: Ni móhtun noh bilínnen
         - seg[type=hemistich]: thes ármilichen wíllen
@@ -19288,8 +19170,7 @@ text:
         - seg[type=hemistich]: 'joh thie thar húattun ouh tho sín:'
         - seg[type=hemistich]: tho móhta man es báld sin!
     - chapter[n=37]:
-      - head[lg=lat-Latn]: XXXVII.
-      - head[lg=lat-Latn]: MORALITER.
+      - head: XXXVII. MORALITER.
       - l[n=1]:
         - seg[type=hemistich]: Oba wír wollen wáhten
         - seg[type=hemistich]: mit gidráhton filu réhten,
@@ -19466,9 +19347,7 @@ text:
     - l[n=25]: XXV. Conclusio voluminis totius.
     - chapter[n=1]:
       - pb[type=manuscript,n=154r,facs=#p154r]
-      - head[lg=lat-Latn]: I.
-      - head[lg=lat-Latn]: CUR DOMINUS IGNOMINIAM CRUCIS ET NON ALIAM PRO NOBIS MORTEM
-          PERTULERIT.
+      - head: I. CUR DOMINUS IGNOMINIAM CRUCIS ET NON ALIAM PRO NOBIS MORTEM PERTULERIT.
       - l[n=1]:
         - seg[type=hemistich]: Ist fílu manno wúntar,
         - seg[type=hemistich]: thaz zéllu ih hiar nu súntar,
@@ -19616,8 +19495,7 @@ text:
         - seg[type=hemistich]: thes fríuntilih giwís si,
         - seg[type=hemistich]: thaz thar úbbiges si.
     - chapter[n=2]:
-      - head[lg=lat-Latn]: II.
-      - head[lg=lat-Latn]: DE UTILITATE CRUCIS.
+      - head: II. DE UTILITATE CRUCIS.
       - l[n=1]:
         - seg[type=hemistich]: Nu scúlun wir unsih rígilon
         - seg[type=hemistich]: mit thes krúces ségonon,
@@ -19674,8 +19552,7 @@ text:
         - seg[type=hemistich]: 'gilóubi mír in war mín:'
         - seg[type=hemistich]: harto scíuhit er thín.
     - chapter[n=3]:
-      - head[lg=lat-Latn]: III.
-      - head[lg=lat-Latn]: SIGNACULUM CRUCIS.
+      - head: III. SIGNACULUM CRUCIS.
       - l[n=1]:
         - seg[type=hemistich]: Gib, druhtin, ségan sinan
         - seg[type=hemistich]: in líchamon mínan,
@@ -19738,8 +19615,7 @@ text:
         - seg[type=hemistich]: joh mir híar zi libe
         - seg[type=hemistich]: gúatalih io klíbe!
     - chapter[n=4]:
-      - head[lg=lat-Latn]: IV.
-      - head[lg=lat-Latn]: DE RESURRECTIONE DOMINI VESPERE SABBATI.
+      - head: IV. DE RESURRECTIONE DOMINI VESPERE SABBATI.
       - l[n=1]:
         - seg[type=hemistich]: Thuruh thes krúces kréfti
         - seg[type=hemistich]: joh selben Krístes mahti
@@ -19936,8 +19812,7 @@ text:
         - seg[type=hemistich]: ni thúrfun sie in war mín,
         - seg[type=hemistich]: er sprichit scíoro mit in."
     - chapter[n=5]:
-      - head[lg=lat-Latn]: V.
-      - head[lg=lat-Latn]: UNA SABBATI MARIA MAGDALENE VENIT AD MONUMENTUM.
+      - head: V. UNA SABBATI MARIA MAGDALENE VENIT AD MONUMENTUM.
       - l[n=1]:
         - seg[type=hemistich]: Quam María sliumo in wár
         - seg[type=hemistich]: tho zen júngoron sar,
@@ -20006,8 +19881,7 @@ text:
         - seg[type=hemistich]: thár er lag gibórgan
         - seg[type=hemistich]: in súnnun dag in mórgan.
     - chapter[n=6]:
-      - head[lg=lat-Latn]: VI.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: VI. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Thie júngoron in wára
         - seg[type=hemistich]: bizeinont rácha mara,
@@ -20229,8 +20103,7 @@ text:
         - seg[type=hemistich]: joh in liazun úmbiruah
         - seg[type=hemistich]: thaz in záltun thio búah.
     - chapter[n=7]:
-      - head[lg=lat-Latn]: VII.
-      - head[lg=lat-Latn]: MARIA AUTEM STABAT AD MONUMENTUM.
+      - head: VII. MARIA AUTEM STABAT AD MONUMENTUM.
       - l[n=1]:
         - seg[type=hemistich]: Maríun thes thoh io nirthróz,
         - seg[type=hemistich]: stuant úzana thes grábes, roz
@@ -20433,8 +20306,7 @@ text:
         - seg[type=hemistich]: sageta in thó thaz si nan sáh,
         - seg[type=hemistich]: joh wórt thiu er zi íru sprah.
     - chapter[n=8]:
-      - head[lg=lat-Latn]: VIII.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: VIII. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Ih wílle hiar giméinen
         - seg[type=hemistich]: waz thie éngila bizéinen,
@@ -20613,8 +20485,7 @@ text:
         - seg[type=hemistich]: fréwida zi líbe;
         - seg[type=hemistich]: ni sít irbolgan wíbe!
     - chapter[n=9]:
-      - head[lg=lat-Latn]: IX.
-      - head[lg=lat-Latn]: DUO EX DISCIPULIS JESU IBANT IN CASTELLUM.
+      - head: IX. DUO EX DISCIPULIS JESU IBANT IN CASTELLUM.
       - l[n=1]:
         - seg[type=hemistich]: Tho thaz éwiniga guat
         - seg[type=hemistich]: úz fon themo grábe irstuant,
@@ -20786,8 +20657,7 @@ text:
         - seg[type=hemistich]: scóno inti réino
         - seg[type=hemistich]: joh hárto filu kléino.
     - chapter[n=10]:
-      - head[lg=lat-Latn]: X.
-      - head[lg=lat-Latn]: APPROPINQUABANT CASTELLO.
+      - head: X. APPROPINQUABANT CASTELLO.
       - l[n=1]:
         - seg[type=hemistich]: Sih náhtun sie tho álle
         - seg[type=hemistich]: zi themo kástelle,
@@ -20899,8 +20769,7 @@ text:
         - seg[type=hemistich]: joh wío sie in thera férti
         - seg[type=hemistich]: giangun kósonti.
     - chapter[n=11]:
-      - head[lg=lat-Latn]: XI.
-      - head[lg=lat-Latn]: STETIT JESUS IN MEDIO DISCIPULORUM SUORUM.
+      - head: XI. STETIT JESUS IN MEDIO DISCIPULORUM SUORUM.
       - l[n=1]:
         - seg[type=hemistich]: Warun thie júngoron tho
         - seg[type=hemistich]: bi fórahtun thero Júdono
@@ -21055,8 +20924,7 @@ text:
         - seg[type=hemistich]: thaz drúhtin thiz so wólta,
         - seg[type=hemistich]: joh sús ouh wésan scolta.
     - chapter[n=12]:
-      - head[lg=lat-Latn]: XII.
-      - head[lg=lat-Latn]: SPIRITALITER.
+      - head: XII. SPIRITALITER.
       - l[n=1]:
         - seg[type=hemistich]: Lékza therero wórto
         - seg[type=hemistich]: thiu gruazit zéichan harto,
@@ -21362,8 +21230,7 @@ text:
         - seg[type=hemistich]: thia filu scónun wunna;
         - seg[type=hemistich]: thaz héizit avur mínna!
     - chapter[n=13]:
-      - head[lg=lat-Latn]: XIII.
-      - head[lg=lat-Latn]: MANIFESTAVIT SE JESUS AD MARE TYBERIADIS.
+      - head: XIII. MANIFESTAVIT SE JESUS AD MARE TYBERIADIS.
       - l[n=1]:
         - seg[type=hemistich]: Ih zéll uns hiar zi núzzi
         - seg[type=hemistich]: bi einaz físgizzi,
@@ -21475,8 +21342,7 @@ text:
         - seg[type=hemistich]: thie sie tho thés fartes
         - seg[type=hemistich]: gifiangun míthontes.
     - chapter[n=14]:
-      - head[lg=lat-Latn]: XIV.
-      - head[lg=lat-Latn]: MYSTICE.
+      - head: XIV. MYSTICE.
       - l[n=1]:
         - seg[type=hemistich]: Thaz bizéinot mihil gúat
         - seg[type=hemistich]: thaz drúhtin thar in stáde stuant,
@@ -21570,8 +21436,7 @@ text:
         - seg[type=hemistich]: thésses thi ih nu hiar giwúag,
         - seg[type=hemistich]: es ist uns fóllon thar ginúag.
     - chapter[n=15]:
-      - head[lg=lat-Latn]: XV.
-      - head[lg=lat-Latn]: CUM ERGO PRANDISSENT, DICIT JESUS PETRO.
+      - head: XV. CUM ERGO PRANDISSENT, DICIT JESUS PETRO.
       - l[n=1]:
         - seg[type=hemistich]: Só sie thar tho gázun
         - seg[type=hemistich]: thie thar mit ímo sazun,
@@ -21713,8 +21578,7 @@ text:
         - seg[type=hemistich]: thaz man nan gifíangi,
         - seg[type=hemistich]: in krúci nan irhíangi.
     - chapter[n=16]:
-      - head[lg=lat-Latn]: XVI.
-      - head[lg=lat-Latn]: DE ASCENSIONE DOMINI.
+      - head: XVI. DE ASCENSIONE DOMINI.
       - l[n=1]:
         - seg[type=hemistich]: Tho drúhtin wolta réison,
         - seg[type=hemistich]: sin selbes ríches wison,
@@ -21856,8 +21720,7 @@ text:
         - seg[type=hemistich]: iu ni brístit min mér,
         - seg[type=hemistich]: drof ni fórahtet thaz sér!"
     - chapter[n=17]:
-      - head[lg=lat-Latn]: XVII.
-      - head[lg=lat-Latn]: IGITUR QUI CONVENERANT, INTERROGABANT EUM.
+      - head: XVII. IGITUR QUI CONVENERANT, INTERROGABANT EUM.
       - l[n=1]:
         - seg[type=hemistich]: Sie thíz al tho firnámun
         - seg[type=hemistich]: thie thara zi ímo quamun,
@@ -21981,8 +21844,7 @@ text:
         - seg[type=hemistich]: thar wolkono óbanentig ist,
         - seg[type=hemistich]: thar sáhun sie nan náhist.
     - chapter[n=18]:
-      - head[lg=lat-Latn]: XVIII.
-      - head[lg=lat-Latn]: CUMQUE INTUERENTUR IN CAELUM.
+      - head: XVIII. CUMQUE INTUERENTUR IN CAELUM.
       - l[n=1]:
         - seg[type=hemistich]: Únz sie thar tho stúantun,
         - seg[type=hemistich]: tharafter lúagetun,
@@ -22033,8 +21895,7 @@ text:
         - seg[type=hemistich]: 'irthénkit wíht io mannes múat:'
         - seg[type=hemistich]: er ím es alles réda duat!
     - chapter[n=19]:
-      - head[lg=lat-Latn]: XIX.
-      - head[lg=lat-Latn]: DE DIE JUDICII.
+      - head: XIX. DE DIE JUDICII.
       - l[n=1]:
         - seg[type=hemistich]: Thes hábet er ubar wóroltring
         - seg[type=hemistich]: giméinit einaz dágathing,
@@ -22237,8 +22098,7 @@ text:
         - seg[type=hemistich]: mit thíu sih thoh biwérien
         - seg[type=hemistich]: joh étheswio ginérien!
     - chapter[n=20]:
-      - head[lg=lat-Latn]: XX.
-      - head[lg=lat-Latn]: QUOMODO JUDICATURUS EST MUNDUM.
+      - head: XX. QUOMODO JUDICATURUS EST MUNDUM.
       - l[n=1]:
         - seg[type=hemistich]: Gizéllen will ih súntar
         - seg[type=hemistich]: thaz égislicha wúntar,
@@ -22594,8 +22454,7 @@ text:
         - seg[type=hemistich]: sie hímilriches thárbent,
         - seg[type=hemistich]: joh innan béche werbent.
     - chapter[n=21]:
-      - head[lg=lat-Latn]: XXI.
-      - head[lg=lat-Latn]: QUAM DISTRICTUM SIT TUNC DEI JUDICIUM.
+      - head: XXI. QUAM DISTRICTUM SIT TUNC DEI JUDICIUM.
       - l[n=1]:
         - seg[type=hemistich]: Nim nu góuma hárto
         - seg[type=hemistich]: thero drúhtines wórto,
@@ -22676,8 +22535,7 @@ text:
         - seg[type=hemistich]: ouh únsih muadon álle
         - seg[type=hemistich]: fon súlichemo fálle!
     - chapter[n=22]:
-      - head[lg=lat-Latn]: XXII.
-      - head[lg=lat-Latn]: JUSTI IN VITAM AETERNAM.
+      - head: XXII. JUSTI IN VITAM AETERNAM.
       - l[n=1]:
         - seg[type=hemistich]: In hímil farent thánana
         - seg[type=hemistich]: thie gotes drútthegana,
@@ -22728,8 +22586,7 @@ text:
         - seg[type=hemistich]: thir wólast mit giwúrti
         - seg[type=hemistich]: thaz thu io gibóran wurti!
     - chapter[n=23]:
-      - head[lg=lat-Latn]: XXIII.
-      - head[lg=lat-Latn]: DE QUALITATE CAELESTIS REGNI ET INAEQUALITATE TERRENI.
+      - head: XXIII. DE QUALITATE CAELESTIS REGNI ET INAEQUALITATE TERRENI.
       - l[n=1]:
         - seg[type=hemistich]: Wólt ih hiar nu rédinon
         - seg[type=hemistich]: (ni mág iz thoh irkóboron!),
@@ -23639,8 +23496,7 @@ text:
         - seg[type=hemistich]: níazen uns in múate
         - seg[type=hemistich]: in éwon zi guate!
     - chapter[n=24]:
-      - head[lg=lat-Latn]: XXIV.
-      - head[lg=lat-Latn]: ORATIO.
+      - head: XXIV. ORATIO.
       - l[n=1]:
         - seg[type=hemistich]: Giwérdo uns geban, drúhtin,
         - seg[type=hemistich]: mit thínes selbes máhtin,
@@ -23709,8 +23565,7 @@ text:
         - joh sín thih saman lóbonti   \   allo wórolt worolti!
         - foreign[lg=lat-Latn]: Amen.
     - chapter[n=25]:
-      - head[lg=lat-Latn]: XXV.
-      - head[lg=lat-Latn]: CONCLUSIO VOLUMINIS TOTIUS.
+      - head: XXV. CONCLUSIO VOLUMINIS TOTIUS.
       - l[n=1]:
         - seg[type=hemistich]: Selben Krístes stíuru
         - seg[type=hemistich]: joh sínera ginádu
