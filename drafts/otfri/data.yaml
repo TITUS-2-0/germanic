@@ -1754,7 +1754,8 @@ text:
   - text[n=Ev.1]:
     - pb[type=manuscript,n=9v,facs=#p9v]
     - head[lg=lat-Latn]: INCIPIT LIBER EVANGELIORUM [PRIMUS] DOMINI GRATIA THEOTISCE
-        CONSCRIPTUS. Incipiunt capitula.
+        CONSCRIPTUS.
+    - p[lg=lat-Latn]: Incipiunt capitula
     - l[n=1]: I. Cur scriptor hunc librum theotisce dictaverit.
     - l[n=2]: II. Invocatio scriptoris ad deum.
     - l[n=3]: III. Liber generationis Jesu Christi filii David.
@@ -5630,7 +5631,7 @@ text:
     - head[lg=lat-Latn]: INCIPIUNT CAPITULA LIBRI SECUNDI. DE VERBO SINE PRINCIPIO
         ET QUIBUSDAM SIGNIS ET DOCTRINA EIUS.
     - pb[type=manuscript,n=41r,facs=#p41r]
-    - head[lg=lat-Latn]: Incipiunt capitula libri secundi.
+    - p[lg=lat-Latn]: Incipiunt capitula libri secundi.
     - l[n=1]: I. In principio erat verbum.
     - l[n=2]: II. Fuit homo missus a deo.
     - l[n=3]: III. Recapitulatio signorum in nativitate Christi.
@@ -19316,7 +19317,7 @@ text:
     - head[lg=lat-Latn]: INCIPIT LIBER QUINTUS DE RESURRECTIONE ET ASCENSIONE DOMINI
         ET DIE JUDICII.
     - pb[type=manuscript,n=152v,facs=#p152v]
-    - head[lg=lat-Latn]: Incipiunt capitula libri quinti.
+    - p[lg=lat-Latn]: Incipiunt capitula libri quinti.
     - l[n=1]: I. Cur dominus ignominiam crucis et non aliam pro nobis mortem pertulerit.
     - l[n=2]: II. De utilitate crucis.
     - l[n=3]: III. Signaculum crucis.

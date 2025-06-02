@@ -2674,7 +2674,8 @@
       </div>
       <div n="Ev.1" xml:id="text-4" type="text" data-level="1">
         <pb type="manuscript" n="9v" facs="#p9v" />
-        <head xml:lang="lat-Latn">INCIPIT LIBER EVANGELIORUM [PRIMUS] DOMINI GRATIA THEOTISCE CONSCRIPTUS. Incipiunt capitula.</head>
+        <head xml:lang="lat-Latn">INCIPIT LIBER EVANGELIORUM [PRIMUS] DOMINI GRATIA THEOTISCE CONSCRIPTUS.</head>
+        <p xml:id="text-4-p-1" xml:lang="lat-Latn">Incipiunt capitula</p>
         <l n="1" xml:id="text-4-l-281">I. Cur scriptor hunc librum theotisce dictaverit.</l>
         <l n="2" xml:id="text-4-l-282">II. Invocatio scriptoris ad deum.</l>
         <l n="3" xml:id="text-4-l-283">III. Liber generationis Jesu Christi filii David.</l>
@@ -7807,7 +7808,7 @@
         <pb type="manuscript" n="40v" facs="#p40v" />
         <head xml:lang="lat-Latn">INCIPIUNT CAPITULA LIBRI SECUNDI. DE VERBO SINE PRINCIPIO ET QUIBUSDAM SIGNIS ET DOCTRINA EIUS.</head>
         <pb type="manuscript" n="41r" facs="#p41r" />
-        <head xml:lang="lat-Latn">Incipiunt capitula libri secundi.</head>
+        <p xml:id="text-5-p-2" xml:lang="lat-Latn">Incipiunt capitula libri secundi.</p>
         <l n="1" xml:id="text-5-l-1550">I. In principio erat verbum.</l>
         <l n="2" xml:id="text-5-l-1551">II. Fuit homo missus a deo.</l>
         <l n="3" xml:id="text-5-l-1552">III. Recapitulatio signorum in nativitate Christi.</l>
@@ -25947,7 +25948,7 @@
       <div n="Ev.5" xml:id="text-8" type="text" data-level="1">
         <head xml:lang="lat-Latn">INCIPIT LIBER QUINTUS DE RESURRECTIONE ET ASCENSIONE DOMINI ET DIE JUDICII.</head>
         <pb type="manuscript" n="152v" facs="#p152v" />
-        <head xml:lang="lat-Latn">Incipiunt capitula libri quinti.</head>
+        <p xml:id="text-8-p-3" xml:lang="lat-Latn">Incipiunt capitula libri quinti.</p>
         <l n="1" xml:id="text-8-l-6031">I. Cur dominus ignominiam crucis et non aliam pro nobis mortem pertulerit.</l>
         <l n="2" xml:id="text-8-l-6032">II. De utilitate crucis.</l>
         <l n="3" xml:id="text-8-l-6033">III. Signaculum crucis.</l>
