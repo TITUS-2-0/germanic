@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- explicit linebreaks (2025-06-04)
 - add facsimile (2025-03-21)
 - fix pre-stanza non-poetic lines (2025-02-17)
 - fix _GUÐRÚNARHVǪT_ (2025-02-14)
