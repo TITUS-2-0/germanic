@@ -1,0 +1,1584 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Theophil</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2025-06-05">2025-06-05</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of Theophil by Unknown (draft version). 2025-06-05. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">unreleased</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Missing metadata</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="gml-Latn" ana="primary">Middle Low German</language>
+        <language ident="lat-Latn" ana="secondary">Latin</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="gml-Latn">
+    <body>
+      <div n="1" xml:id="chapter-1" type="chapter" data-level="1">
+        <pb type="manuscript" n="143r" />
+        <lg xml:id="chapter-1-lg-1">
+          <l n="1" xml:id="chapter-1-lg-1-l-1">IK BYN GHENANT THEOPHOLUS.</l>
+          <l n="2" xml:id="chapter-1-lg-1-l-2">Mine claghe kundeghe ik alsus:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-2">
+          <l n="3" xml:id="chapter-1-lg-2-l-3">Ik was ghenant eyn cloker man,</l>
+          <l n="4" xml:id="chapter-1-lg-2-l-4">Der papheit konde ik my wol vorstan</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-3">
+          <l n="5" xml:id="chapter-1-lg-3-l-5">Vnde ok an vroliken saken:</l>
+          <l n="6" xml:id="chapter-1-lg-3-l-6">Ik konde wol recht maken</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-4">
+          <l n="7" xml:id="chapter-1-lg-4-l-7">Vnde recht konde ik vor keren</l>
+          <l n="8" xml:id="chapter-1-lg-4-l-8">Vnde vnrecht wol meren.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-5">
+          <l n="9" xml:id="chapter-1-lg-5-l-9">Ik was woldich vnde rike.</l>
+          <l n="10" xml:id="chapter-1-lg-5-l-10">My was neyman ghelike</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-6">
+          <l n="11" xml:id="chapter-1-lg-6-l-11">An reden vnde ok an synnen.</l>
+          <l n="12" xml:id="chapter-1-lg-6-l-12">De(s) hadde ik alle en bynnen</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-7">
+          <l n="13" xml:id="chapter-1-lg-7-l-13">Noch [= Nach?] eren, so ik hope.</l>
+          <l n="14" xml:id="chapter-1-lg-7-l-14">Ghekoren wart ik to eynem biscope.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-8">
+          <l n="15" xml:id="chapter-1-lg-8-l-15">Ik scolde eyn here sin ghewesen,</l>
+          <l n="16" xml:id="chapter-1-lg-8-l-16">Do vordrot my synghen vnde lesen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-9">
+          <l n="17" xml:id="chapter-1-lg-9-l-17">Gans [= Tans?] haue ik eyn ander ghekoren.</l>
+          <l n="18" xml:id="chapter-1-lg-9-l-18">O wi, dat ik ju wart gheboren:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-10">
+          <l n="19" xml:id="chapter-1-lg-10-l-19">Myn prouende wart my ghenomen,</l>
+          <l n="20" xml:id="chapter-1-lg-10-l-20">De plach my to houe komen</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-11">
+          <l n="21" xml:id="chapter-1-lg-11-l-21">An wine vnde an vete [= wete],</l>
+          <l n="22" xml:id="chapter-1-lg-11-l-22">Des mot ik eyn arm man heten.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-12">
+          <l n="23" xml:id="chapter-1-lg-12-l-23">Ik wil od alle waghen</l>
+          <l n="24" xml:id="chapter-1-lg-12-l-24">Vnde wil dem [= don] dar solke claghe,</l>
+        </lg>
+        <pb type="manuscript" n="143v" />
+        <lg xml:id="chapter-1-lg-13">
+          <l n="25" xml:id="chapter-1-lg-13-l-25">Dat swar is to draghen.</l>
+          <l n="26" xml:id="chapter-1-lg-13-l-26">Doch wil ik od waghen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-14">
+          <l n="27" xml:id="chapter-1-lg-14-l-27">Vnde wart my alto swar:</l>
+          <l n="28" xml:id="chapter-1-lg-14-l-28">Ik mot my gheuen in der duuel schar;</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-15">
+          <l n="29" xml:id="chapter-1-lg-15-l-29">Eft ienich duuel were</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-16">
+          <l n="30" xml:id="chapter-1-lg-16-l-30">By my hir up erden,</l>
+          <l n="31" xml:id="chapter-1-lg-16-l-31">Syn eghen wolde ik werden.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-17">
+          <l n="32" xml:id="chapter-1-lg-17-l-32">Ik wolde ome beden ere</l>
+          <l n="33" xml:id="chapter-1-lg-17-l-33">Nu vnde jummer mere,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-18">
+          <l n="34" xml:id="chapter-1-lg-18-l-34">Groter, wan ik Gode dede,</l>
+          <l n="35" xml:id="chapter-1-lg-18-l-35">Dat he my hulpe darmede,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-19">
+          <l n="36" xml:id="chapter-1-lg-19-l-36">Dat ik worde eyn so rike man,</l>
+          <l n="37" xml:id="chapter-1-lg-19-l-37">Dat ik mochte wederstan</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-20">
+          <l n="38" xml:id="chapter-1-lg-20-l-38">Dem biscope vnde den heren</l>
+          <l n="39" xml:id="chapter-1-lg-20-l-39">Vnde alle den, de myne wedersaten weren.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-21">
+          <l n="40" xml:id="chapter-1-lg-21-l-40">De don my so grote anlaghe,</l>
+          <l n="41" xml:id="chapter-1-lg-21-l-41">Dat ik dat Gode van himmel claghe.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-22">
+          <l n="42" xml:id="chapter-1-lg-22-l-42">Ik beyde dy, Satanas,</l>
+          <l n="43" xml:id="chapter-1-lg-22-l-43">Bi dem Gode, dede hefft ghescapen lof vnde gras,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-23">
+          <l n="44" xml:id="chapter-1-lg-23-l-44">De alle dingk ghescapen hefft,</l>
+          <l n="45" xml:id="chapter-1-lg-23-l-45">Dem himmel vnde erde tobode stad!</l>
+        </lg>
+        <pb type="manuscript" n="144r" />
+        <lg xml:id="chapter-1-lg-24">
+          <l n="46" xml:id="chapter-1-lg-24-l-46">Ik beswere di bi dem valle, {Ik beswere dy bi dem valle,}</l>
+          <l n="47" xml:id="chapter-1-lg-24-l-47">Den de duuel deden alle,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-25">
+          <l n="48" xml:id="chapter-1-lg-25-l-48">Du vnde dine ghenoten,</l>
+          <l n="49" xml:id="chapter-1-lg-25-l-49">Do gy van dem himmel worden gestoten.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-26">
+          <l n="50" xml:id="chapter-1-lg-26-l-50">Ik beswere dy by den jungesten dage,</l>
+          <l n="51" xml:id="chapter-1-lg-26-l-51">Wan God deyt so grote clage</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-27">
+          <l n="52" xml:id="chapter-1-lg-27-l-52">Ouer alle syne vndersaten,</l>
+          <l n="53" xml:id="chapter-1-lg-27-l-53">Dat du komest vil drade</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-28">
+          <l n="54" xml:id="chapter-1-lg-28-l-54">Vnde antwordes hir my</l>
+          <l n="55" xml:id="chapter-1-lg-28-l-55">Alle, des ik vrage dy.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-29">
+          <l n="56" xml:id="chapter-1-lg-29-l-56">(S)ATINAS SPRAK: Theophile, wat menestu hir mede?</l>
+          <l n="57" xml:id="chapter-1-lg-29-l-57">Dat is io der papen sede,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-30">
+          <l n="58" xml:id="chapter-1-lg-30-l-58">Dat du my so sere besweret hest</l>
+          <l n="59" xml:id="chapter-1-lg-30-l-59">Bi dem Gode, dede heft gescapen lof vnde gras,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-31">
+          <l n="60" xml:id="chapter-1-lg-31-l-60">De alle ding ghescapen hat,</l>
+          <l n="61" xml:id="chapter-1-lg-31-l-61">Beyde grot vnde stat.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-32">
+          <l n="62" xml:id="chapter-1-lg-32-l-62">Alsus plege gy papen,</l>
+          <l n="63" xml:id="chapter-1-lg-32-l-63">Gy bedregen vns, so de lude de apen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-33">
+          <l n="64" xml:id="chapter-1-lg-33-l-64">Gy binden vns up in eyt,</l>
+          <l n="65" xml:id="chapter-1-lg-33-l-65">Dat sy vns lef edder leyt,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-34">
+          <l n="66" xml:id="chapter-1-lg-34-l-66">Dat wy moten to ju komen.</l>
+          <l n="67" xml:id="chapter-1-lg-34-l-67">Du heft my lange reyse benomen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-35">
+          <l n="68" xml:id="chapter-1-lg-35-l-68">Ik was hen to Judea:</l>
+          <l n="69" xml:id="chapter-1-lg-35-l-69">Myne ghesellen schochte ek aldar.</l>
+        </lg>
+        <pb type="manuscript" n="144v" />
+        <lg xml:id="chapter-1-lg-36">
+          <l n="70" xml:id="chapter-1-lg-36-l-70">De koning is dar ghestoruen,</l>
+          <l n="71" xml:id="chapter-1-lg-36-l-71">De zele hedde ek wol irworuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-37">
+          <l n="72" xml:id="chapter-1-lg-37-l-72">Dar hedde ek gerne bleuen,</l>
+          <l n="73" xml:id="chapter-1-lg-37-l-73">Du heft my daraf ghedreuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-38">
+          <l n="74" xml:id="chapter-1-lg-38-l-74">Tohant do ek dynen syn vornam,</l>
+          <l n="75" xml:id="chapter-1-lg-38-l-75">Vil drade dat ek to dy quam.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-39">
+          <l n="76" xml:id="chapter-1-lg-39-l-76">Nu sage: wat wultu my,</l>
+          <l n="77" xml:id="chapter-1-lg-39-l-77">Nu ek byn ghekomen to dy?</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-40">
+          <l n="78" xml:id="chapter-1-lg-40-l-78">THEOPHILE SPRAK: Satanas, hastu suluer vnde golt?</l>
+          <l n="79" xml:id="chapter-1-lg-40-l-79">Ik wil dy geuen den duresten solt,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-41">
+          <l n="80" xml:id="chapter-1-lg-41-l-80">Den ek ju ghewan:</l>
+          <l n="81" xml:id="chapter-1-lg-41-l-81">Wente ek byn eyn ebele [= edele] man.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-42">
+          <l n="82" xml:id="chapter-1-lg-42-l-82">Ik wil dy vorkopen</l>
+          <l n="83" xml:id="chapter-1-lg-42-l-83">My(n) zele; in der dopen</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-43">
+          <l n="84" xml:id="chapter-1-lg-43-l-84">Myt Godes blode war se reynicheit</l>
+          <l n="85" xml:id="chapter-1-lg-43-l-85">Vnde na Godes bilde voreynicheit:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-44">
+          <l n="86" xml:id="chapter-1-lg-44-l-86">De wil ek dy geuen in dyne hant,</l>
+          <l n="87" xml:id="chapter-1-lg-44-l-87">Ik enhan neyn durer pant,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-45">
+          <l n="88" xml:id="chapter-1-lg-45-l-88">Wultu dat also vnfangen,</l>
+          <l n="89" xml:id="chapter-1-lg-45-l-89">So wil ik den winkop angangen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-46">
+          <l n="90" xml:id="chapter-1-lg-46-l-90">(SA)TANAS SPRAK: Neyn, de rede doget nicht,</l>
+          <l n="91" xml:id="chapter-1-lg-46-l-91">Duncket dy, suluer vnde golt wesen nicht?</l>
+        </lg>
+        <pb type="manuscript" n="145r" />
+        <lg xml:id="chapter-1-lg-47">
+          <l n="92" xml:id="chapter-1-lg-47-l-92">Dat is vul dicke ghescheyn,</l>
+          <l n="93" xml:id="chapter-1-lg-47-l-93">Des wil wy vns vorseyn,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-48">
+          <l n="94" xml:id="chapter-1-lg-48-l-94">Dat wy den luden vnse gud geuen,</l>
+          <l n="95" xml:id="chapter-1-lg-48-l-95">Dat se oren wollust mede dreuen</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-49">
+          <l n="96" xml:id="chapter-1-lg-49-l-96">Twintich edder wol drittich jar,</l>
+          <l n="97" xml:id="chapter-1-lg-49-l-97">Do begunden se dencken dar,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-50">
+          <l n="98" xml:id="chapter-1-lg-50-l-98">An den wech to komen,</l>
+          <l n="99" xml:id="chapter-1-lg-50-l-99">Dat se vns worden ghenomen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-51">
+          <l n="100" xml:id="chapter-1-lg-51-l-100">Is dek nu vnse gud lef,</l>
+          <l n="101" xml:id="chapter-1-lg-51-l-101">So lat vns scriuen eynen bref</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-52">
+          <l n="102" xml:id="chapter-1-lg-52-l-102">Vnde eynne [=  eyne] hantfeste,</l>
+          <l n="103" xml:id="chapter-1-lg-52-l-103">Also plegen io de besten.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-53">
+          <l n="104" xml:id="chapter-1-lg-53-l-104">De scal alsus wesen:</l>
+          <l n="105" xml:id="chapter-1-lg-53-l-105">Alle, de dussen bref lesen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-54">
+          <l n="106" xml:id="chapter-1-lg-54-l-106">Horen edder seyn,</l>
+          <l n="107" xml:id="chapter-1-lg-54-l-107">De scullen des bekennen vnde gen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-55">
+          <l n="108" xml:id="chapter-1-lg-55-l-108">Dat Theophilus des duuel sy.</l>
+          <l n="109" xml:id="chapter-1-lg-55-l-109">Dyn jngesegel henge ok darby,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-56">
+          <l n="110" xml:id="chapter-1-lg-56-l-110">De bref mot vullenkomen syn.</l>
+          <l n="111" xml:id="chapter-1-lg-56-l-111">Henge ok daran dyn vingerlin,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-57">
+          <l n="112" xml:id="chapter-1-lg-57-l-112">Dat du dregest an dyner hant,</l>
+          <l n="113" xml:id="chapter-1-lg-57-l-113">So antworde my den bref vnde pant.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-58">
+          <l n="114" xml:id="chapter-1-lg-58-l-114">Du scalt herliken leuen;</l>
+          <l n="115" xml:id="chapter-1-lg-58-l-115">Ek wil dy gudes en noch gheuen.</l>
+        </lg>
+        <pb type="manuscript" n="145v" />
+        <lg xml:id="chapter-1-lg-59">
+          <l n="116" xml:id="chapter-1-lg-59-l-116">(T)HEOPHILE SPRAK: Wat scolde dy de bref myn?</l>
+          <l n="117" xml:id="chapter-1-lg-59-l-117">Myne wort schullen war syn,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-60">
+          <l n="118" xml:id="chapter-1-lg-60-l-118">Ek wil dy nicht vorleghen.</l>
+          <l n="119" xml:id="chapter-1-lg-60-l-119">Wolde ik dy bedregen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-61">
+          <l n="120" xml:id="chapter-1-lg-61-l-120">So en hete ek neyn pape.</l>
+          <l n="121" xml:id="chapter-1-lg-61-l-121">SATANAS SPRAK: Neyn, du eyn [= en] kanst dar nicht mede schapen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-62">
+          <l n="122" xml:id="chapter-1-lg-62-l-122">Wuldu vns werden vnderdan,</l>
+          <l n="123" xml:id="chapter-1-lg-62-l-123">Dyn hantfeste wil ik han</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-63">
+          <l n="124" xml:id="chapter-1-lg-63-l-124">Vnde de breue dyn,</l>
+          <l n="125" xml:id="chapter-1-lg-63-l-125">Dat du willest wesen myn.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-64">
+          <l n="126" xml:id="chapter-1-lg-64-l-126">So lat my eynen bref scriuen,</l>
+          <l n="127" xml:id="chapter-1-lg-64-l-127">Dat du willest by my bliuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-65">
+          <l n="128" xml:id="chapter-1-lg-65-l-128">Dar scrif in, dat lif vnde de zele dyn</l>
+          <l n="129" xml:id="chapter-1-lg-65-l-129">Sculle des duuel(s) syn,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-66">
+          <l n="130" xml:id="chapter-1-lg-66-l-130">Vnde nummer dyner trost sculle mer werden,</l>
+          <l n="131" xml:id="chapter-1-lg-66-l-131">Beyde an himmel vnde an erden;</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-67">
+          <l n="132" xml:id="chapter-1-lg-67-l-132">We ok vor dy beyde,</l>
+          <l n="133" xml:id="chapter-1-lg-67-l-133">De vns vnrechte dede.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-68">
+          <l n="134" xml:id="chapter-1-lg-68-l-134">Behaget dy sus de sake,</l>
+          <l n="135" xml:id="chapter-1-lg-68-l-135">So wil ik den winkop maken.</l>
+        </lg>
+        <pb type="manuscript" n="146r" />
+        <lg xml:id="chapter-1-lg-69">
+          <l n="136" xml:id="chapter-1-lg-69-l-136">(T)HEOPHILE SPRAK: Wat eyn io don mot,</l>
+          <l n="137" xml:id="chapter-1-lg-69-l-137">Dat is dicke mate gud.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-70">
+          <l n="138" xml:id="chapter-1-lg-70-l-138">Ek byn darvmme to di komen,</l>
+          <l n="139" xml:id="chapter-1-lg-70-l-139">So en deil ik han vornomen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-71">
+          <l n="140" xml:id="chapter-1-lg-71-l-140">Ik wil dyn denstman werden:</l>
+          <l n="141" xml:id="chapter-1-lg-71-l-141">Wat du my bust vp erden,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-72">
+          <l n="142" xml:id="chapter-1-lg-72-l-142">Dat do ik nu vnde jummer mere.</l>
+          <l n="143" xml:id="chapter-1-lg-72-l-143">SATANAS SPRAK: Do also eyn here.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-73">
+          <l n="144" xml:id="chapter-1-lg-73-l-144">(T)HEOPHILE SPRAK: Du w(u)lt my darto driuen,</l>
+          <l n="145" xml:id="chapter-1-lg-73-l-145">Dat ek eynen bref late scriuen</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-74">
+          <l n="146" xml:id="chapter-1-lg-74-l-146">Vnde eyn(e) hantfeste -</l>
+          <l n="147" xml:id="chapter-1-lg-74-l-147">Also du sprekest also [= Also don, sprekestu,] de beste -</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-75">
+          <l n="148" xml:id="chapter-1-lg-75-l-148">De my an myne zele geyt,</l>
+          <l n="149" xml:id="chapter-1-lg-75-l-149">Dar to byn ek al bereyt.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-76">
+          <l n="150" xml:id="chapter-1-lg-76-l-150">THEOPHILE SPRAK: So loue my openbar</l>
+          <l n="151" xml:id="chapter-1-lg-76-l-151">By der helleschen schar,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-77">
+          <l n="152" xml:id="chapter-1-lg-77-l-152">Dat du my gudes so vele willest geuen,</l>
+          <l n="153" xml:id="chapter-1-lg-77-l-153">Dat ik moge herliken leuen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-78">
+          <l n="154" xml:id="chapter-1-lg-78-l-154">Vnde maken my to eynem heren,</l>
+          <l n="155" xml:id="chapter-1-lg-78-l-155">So dat me my beyde ere.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-79">
+          <l n="156" xml:id="chapter-1-lg-79-l-156">SATANAS SPRAK: Twiuel nicht en har,</l>
+          <l n="157" xml:id="chapter-1-lg-79-l-157">Wente ik sage dy vorwar:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-80">
+          <l n="158" xml:id="chapter-1-lg-80-l-158">Wes du begheret eyne,</l>
+          <l n="159" xml:id="chapter-1-lg-80-l-159">Des scaltu hebben twene.</l>
+        </lg>
+        <pb type="manuscript" n="146v" />
+        <lg xml:id="chapter-1-lg-81">
+          <l n="160" xml:id="chapter-1-lg-81-l-160">Ik wil dat waghen wol,</l>
+          <l n="161" xml:id="chapter-1-lg-81-l-161">Dat me dy vrochten sol.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-82">
+          <l n="162" xml:id="chapter-1-lg-82-l-162">(T)HEOPHILE SPRAK: Ik wil id alle (waghen).</l>
+          <l n="163" xml:id="chapter-1-lg-82-l-163">Ik mot doch alle daghe</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-83">
+          <l n="164" xml:id="chapter-1-lg-83-l-164">Ewichliken syn vorloren,</l>
+          <l n="165" xml:id="chapter-1-lg-83-l-165">Ik were beter vngheboren.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-84">
+          <l n="166" xml:id="chapter-1-lg-84-l-166">Nu reke my eyn blakhorne,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-85">
+          <l n="167" xml:id="chapter-1-lg-85-l-167">Vederen vnde parmynt.</l>
+          <l n="168" xml:id="chapter-1-lg-85-l-168">SATANAS SPRAK: Id is my bereit also (eyn) wint.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-86">
+          <l n="169" xml:id="chapter-1-lg-86-l-169">THEOPHILE SPRAK: Ik wil scriuen eyn karat [= tractat],</l>
+          <l n="170" xml:id="chapter-1-lg-86-l-170">Dat myn zele nummer werdde [= werde] rat.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-87">
+          <l n="171" xml:id="chapter-1-lg-87-l-171">SATANAS SPRAK: Er du scriuen begunnest,</l>
+          <l n="172" xml:id="chapter-1-lg-87-l-172">So do, dat du meynscop wynnest</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-88">
+          <l n="173" xml:id="chapter-1-lg-88-l-173">My(n) vnde alle myner ghesellen,</l>
+          <l n="174" xml:id="chapter-1-lg-88-l-174">De dar woldich syn in der helle.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-89">
+          <l n="175" xml:id="chapter-1-lg-89-l-175">Godes schaltu vorseken [= vorsaken] gar</l>
+          <l n="176" xml:id="chapter-1-lg-89-l-176">Vnde syner moder, de one gebar.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-90">
+          <l n="177" xml:id="chapter-1-lg-90-l-177">Se is so kreftich vnde gud,</l>
+          <l n="178" xml:id="chapter-1-lg-90-l-178">Dat ik or nicht nomen mot.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-91">
+          <l n="179" xml:id="chapter-1-lg-91-l-179">Du scalt vorsaken aller dingk,</l>
+          <l n="180" xml:id="chapter-1-lg-91-l-180">De myt Gode an dem hymmel synt.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-92">
+          <l n="181" xml:id="chapter-1-lg-92-l-181">Du scal vorsaken hute</l>
+          <l n="182" xml:id="chapter-1-lg-92-l-182">Aller guden lute,</l>
+        </lg>
+        <pb type="manuscript" n="147r" />
+        <lg xml:id="chapter-1-lg-93">
+          <l n="183" xml:id="chapter-1-lg-93-l-183">De hir up erden syn,</l>
+          <l n="184" xml:id="chapter-1-lg-93-l-184">Sunnen, man, der sterne schin.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-94">
+          <l n="185" xml:id="chapter-1-lg-94-l-185">Vorsake ok aller dyngk, {De myt Gode an dem hemel synt}</l>
+          <l n="186" xml:id="chapter-1-lg-94-l-186">Vnde [=  Deme] in der kerken sincht,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-95">
+          <l n="187" xml:id="chapter-1-lg-95-l-187">Spreken, dencken vnde lesen:</l>
+          <l n="188" xml:id="chapter-1-lg-95-l-188">Alle dyn dancke scal to my wesen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-96">
+          <l n="189" xml:id="chapter-1-lg-96-l-189">Du scholt neyn cruce vor dy legen,</l>
+          <l n="190" xml:id="chapter-1-lg-96-l-190">Also gude lude plegen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-97">
+          <l n="191" xml:id="chapter-1-lg-97-l-191">Dyn tunge scal stille lighen,</l>
+          <l n="192" xml:id="chapter-1-lg-97-l-192">An Godes denste sik nicht wegen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-98">
+          <l n="193" xml:id="chapter-1-lg-98-l-193">Vorbut ok dynen oren,</l>
+          <l n="194" xml:id="chapter-1-lg-98-l-194">Dat se Godes denst nicht horen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-99">
+          <l n="195" xml:id="chapter-1-lg-99-l-195">Kerken gan scaltu vormyden,</l>
+          <l n="196" xml:id="chapter-1-lg-99-l-196">Neyne almissen scaltu snyden,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-100">
+          <l n="197" xml:id="chapter-1-lg-100-l-197">Du engeuest se dorch myne ere:</l>
+          <l n="198" xml:id="chapter-1-lg-100-l-198">Ik dy des nicht vorkere.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-101">
+          <l n="199" xml:id="chapter-1-lg-101-l-199">Wultu dat aneganghen,</l>
+          <l n="200" xml:id="chapter-1-lg-101-l-200">So wil ik dy to denste enfangen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-102">
+          <l n="201" xml:id="chapter-1-lg-102-l-201">(T)HEOPHILE SPRAK: Du heft my sware rede vor gesaghet,</l>
+          <l n="202" xml:id="chapter-1-lg-102-l-202">Alseme io den mistroteren [= mistrosteten] pleget [= plaget?].</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-103">
+          <l n="203" xml:id="chapter-1-lg-103-l-203">Id is mi nu misse ghevallen,</l>
+          <l n="204" xml:id="chapter-1-lg-103-l-204">Doch wil ik vorsaken alle</l>
+        </lg>
+        <pb type="manuscript" n="147v" />
+        <lg xml:id="chapter-1-lg-104">
+          <l n="205" xml:id="chapter-1-lg-104-l-205">An himmel vnde an erden,</l>
+          <l n="206" xml:id="chapter-1-lg-104-l-206">Vp dat ik rike moge werden.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-105">
+          <l n="207" xml:id="chapter-1-lg-105-l-207">Doch wil ik sunder leyden</l>
+          <l n="208" xml:id="chapter-1-lg-105-l-208">Eyne darut bescheyden:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-106">
+          <l n="209" xml:id="chapter-1-lg-106-l-209">De is gheheten Maria:</l>
+          <l n="210" xml:id="chapter-1-lg-106-l-210">Der wil ik nicht afstan.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-107">
+          <l n="211" xml:id="chapter-1-lg-107-l-211">De mach myne zele wol vlien,</l>
+          <l n="212" xml:id="chapter-1-lg-107-l-212">Der wil ik nicht vortigen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-108">
+          <l n="213" xml:id="chapter-1-lg-108-l-213">(S)ATANAS SPRAK: O wy, dat sote wort,</l>
+          <l n="214" xml:id="chapter-1-lg-108-l-214">Dat hebbe ik van dy vnsachte hort!</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-109">
+          <l n="215" xml:id="chapter-1-lg-109-l-215">Swich du io des wordes me,</l>
+          <l n="216" xml:id="chapter-1-lg-109-l-216">Ed bernet my vnde deit my we.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-110">
+          <l n="217" xml:id="chapter-1-lg-110-l-217">Wultu my werden vnderdan,</l>
+          <l n="218" xml:id="chapter-1-lg-110-l-218">Godes moder scaltu afstan.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-111">
+          <l n="219" xml:id="chapter-1-lg-111-l-219">Se is so gud vnde reyne,</l>
+          <l n="220" xml:id="chapter-1-lg-111-l-220">Beheldestu se alleyne,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-112">
+          <l n="221" xml:id="chapter-1-lg-112-l-221">We enmochten dy nicht scaden:</l>
+          <l n="222" xml:id="chapter-1-lg-112-l-222">Se brochte dy wol to gnade(n).</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-113">
+          <l n="223" xml:id="chapter-1-lg-113-l-223">THEOPHILE SPRAK: So mot ek or vorsaken,</l>
+          <l n="224" xml:id="chapter-1-lg-113-l-224">Vp dat du my willest rike maken.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-114">
+          <l n="225" xml:id="chapter-1-lg-114-l-225">Id is my ok twar alleyn [= all eyn?]!</l>
+          <l n="226" xml:id="chapter-1-lg-114-l-226">Dyn wille scal an my scheyn.</l>
+        </lg>
+        <pb type="manuscript" n="148r" />
+        <lg xml:id="chapter-1-lg-115">
+          <l n="227" xml:id="chapter-1-lg-115-l-227">SATANAS SPRAK: Du sprek(est) also eyn here.</l>
+          <l n="228" xml:id="chapter-1-lg-115-l-228">Ik ensculdeghe dy nu nicht mere.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-116">
+          <l n="229" xml:id="chapter-1-lg-116-l-229">Nu scaltu don wat ik dy hete.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-117">
+          <l n="230" xml:id="chapter-1-lg-117-l-230">THEOPHILE SPRAK: Dar to so byn ik gar bereit,</l>
+          <l n="231" xml:id="chapter-1-lg-117-l-231">Dat sage ik dy up myn truwicheit.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-118">
+          <l n="232" xml:id="chapter-1-lg-118-l-232">SATANAS SPRAK: Dat ga to scaden edder to lucke,</l>
+          <l n="233" xml:id="chapter-1-lg-118-l-233">So tret dre vote achter rucke,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-119">
+          <l n="234" xml:id="chapter-1-lg-119-l-234">Sperk [= Sprek]: Ek vorsake Godes gar,</l>
+          <l n="235" xml:id="chapter-1-lg-119-l-235">Vnde siner moder, de on gebar.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-120">
+          <l n="236" xml:id="chapter-1-lg-120-l-236">(THEOPHILE SPRAK:) Ik haue eyne(n) bref gescreuen</l>
+          <l n="237" xml:id="chapter-1-lg-120-l-237">Ouer myn lif, zele vnde leuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-121">
+          <l n="238" xml:id="chapter-1-lg-121-l-238">Solk grimmelik bref wart ye [= ne],</l>
+          <l n="239" xml:id="chapter-1-lg-121-l-239">My gruwet, wen ik on seyn [= sey].</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-122">
+          <l n="240" xml:id="chapter-1-lg-122-l-240">Dusse bref dudet wol:</l>
+          <l n="241" xml:id="chapter-1-lg-122-l-241">Lif vnde zele des duuels wesen sol.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-123">
+          <l n="242" xml:id="chapter-1-lg-123-l-242">SATANAS SPRAK: Do her den bref, leue vrunt.</l>
+          <l n="243" xml:id="chapter-1-lg-123-l-243">Ik vore on in de hellegrunt,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-124">
+          <l n="244" xml:id="chapter-1-lg-124-l-244">Vnde antwor(de) on mynem meyster Lucifere,</l>
+          <l n="245" xml:id="chapter-1-lg-124-l-245">De is myn ouerste here.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-125">
+          <l n="246" xml:id="chapter-1-lg-125-l-246">HE NAM DEN BREF TO HANT,</l>
+          <l n="247" xml:id="chapter-1-lg-125-l-247">DO SPRAK HE: Ik haue eyn gud pant</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-126">
+          <l n="248" xml:id="chapter-1-lg-126-l-248">Vnde wil one voren enwech,</l>
+          <l n="249" xml:id="chapter-1-lg-126-l-249">Beide ouer bruge vnde ouer stech,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-127">
+          <l n="250" xml:id="chapter-1-lg-127-l-250">Dat he on holde an den dach,</l>
+          <l n="251" xml:id="chapter-1-lg-127-l-251">Dat he vns nutte werden mach.</l>
+        </lg>
+        <pb type="manuscript" n="148v" />
+        <lg xml:id="chapter-1-lg-128">
+          <l n="252" xml:id="chapter-1-lg-128-l-252">(S)ATANAS SPRAK: Ik bringe dy</l>
+          <l n="253" xml:id="chapter-1-lg-128-l-253">Schone cleder, des loue my,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-129">
+          <l n="254" xml:id="chapter-1-lg-129-l-254">Suluer clar vnde golt;</l>
+          <l n="255" xml:id="chapter-1-lg-129-l-255">Schone cleder du dragen scholt,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-130">
+          <l n="256" xml:id="chapter-1-lg-130-l-256">Samit vnde baldekin</l>
+          <l n="257" xml:id="chapter-1-lg-130-l-257">Scal myt suluer dorslagen syn.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-131">
+          <l n="258" xml:id="chapter-1-lg-131-l-258">Dit is eyn stucke suluer fyn;</l>
+          <l n="259" xml:id="chapter-1-lg-131-l-259">Dat hebbe to des [= der] koste dyn.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-132">
+          <l n="260" xml:id="chapter-1-lg-132-l-260">De besten spise scaltu eten,</l>
+          <l n="261" xml:id="chapter-1-lg-132-l-261">Dines leydes scaltu vorgheten.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-133">
+          <l n="262" xml:id="chapter-1-lg-133-l-262">Dit synt edele stene;</l>
+          <l n="263" xml:id="chapter-1-lg-133-l-263">De gyf den vrowen reyde [= reyne],</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-134">
+          <l n="264" xml:id="chapter-1-lg-134-l-264">Dat se dyner winnen kunne [= kunde],</l>
+          <l n="265" xml:id="chapter-1-lg-134-l-265">Vnde kesen dy to vrunde.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-135">
+          <l n="266" xml:id="chapter-1-lg-135-l-266">(D)O SPRAK THEOPHILUS</l>
+          <l n="267" xml:id="chapter-1-lg-135-l-267">ROMICHLIKEN ALSUS:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-136">
+          <l n="268" xml:id="chapter-1-lg-136-l-268">Nu wil ik gar in vraude varen,</l>
+          <l n="269" xml:id="chapter-1-lg-136-l-269">Myn lif wil ik bewaren.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-137">
+          <l n="270" xml:id="chapter-1-lg-137-l-270">Ik wil myk vraude wynnen,</l>
+          <l n="271" xml:id="chapter-1-lg-137-l-271">De sorge mot van hinnen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-138">
+          <l n="272" xml:id="chapter-1-lg-138-l-272">Ik sage dat vorwar:</l>
+          <l n="273" xml:id="chapter-1-lg-138-l-273">Ik han ghesorget mennich jar.</l>
+        </lg>
+        <pb type="manuscript" n="149r" />
+        <lg xml:id="chapter-1-lg-139">
+          <l n="274" xml:id="chapter-1-lg-139-l-274">He mote nu myner walden,</l>
+          <l n="275" xml:id="chapter-1-lg-139-l-275">An vroden wil ik alden;</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-140">
+          <l n="276" xml:id="chapter-1-lg-140-l-276">Alle, deit [= dat?] id lif vordeyt,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-141">
+          <l n="277" xml:id="chapter-1-lg-141-l-277">Des mot de zele vurgelden.</l>
+          <l n="278" xml:id="chapter-1-lg-141-l-278">De duuel wil myner welden,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-142">
+          <l n="279" xml:id="chapter-1-lg-142-l-279">Nu late de zele sorgen</l>
+          <l n="280" xml:id="chapter-1-lg-142-l-280">Den auent vnde den morgen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-143">
+          <l n="281" xml:id="chapter-1-lg-143-l-281">Wy riden in dem lande</l>
+          <l n="282" xml:id="chapter-1-lg-143-l-282">Ghecledet myt schonem wande,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-144">
+          <l n="283" xml:id="chapter-1-lg-144-l-283">De zele steit to pande.</l>
+          <l n="284" xml:id="chapter-1-lg-144-l-284">Dat is eyn iamerlik elende:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-145">
+          <l n="285" xml:id="chapter-1-lg-145-l-285">Dat lif wil in vrauden leuen,</l>
+          <l n="286" xml:id="chapter-1-lg-145-l-286">Des mot de zele beuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-146">
+          <l n="287" xml:id="chapter-1-lg-146-l-287">Neynen rad kan ik or gheuen,</l>
+          <l n="288" xml:id="chapter-1-lg-146-l-288">De zele mot ewichliken even [= euen]</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-147">
+          <l n="289" xml:id="chapter-1-lg-147-l-289">{Vnde} in der hellegrunt sweuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-148">
+          <l n="290" xml:id="chapter-1-lg-148-l-290">(S)ATANAS SPRAK: Alsus scaltu jummer bliuen:</l>
+          <l n="291" xml:id="chapter-1-lg-148-l-291">Du macht alle dyn lust driuen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-149">
+          <l n="292" xml:id="chapter-1-lg-149-l-292">Du macht noch lange leuen,</l>
+          <l n="293" xml:id="chapter-1-lg-149-l-293">Ik wil di gudes ennoch gheuen.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-150">
+          <l n="294" xml:id="chapter-1-lg-150-l-294">DO SPRAK THEOPHILUS</l>
+          <l n="295" xml:id="chapter-1-lg-150-l-295">JAMERLIKEN ALSUS:</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-151">
+          <l n="296" xml:id="chapter-1-lg-151-l-296">Me spreket, dat de zele si cleyne -</l>
+          <l n="297" xml:id="chapter-1-lg-151-l-297">Des mot ek scrien vnde weynen -</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-152">
+          <l n="298" xml:id="chapter-1-lg-152-l-298">Vnde dat se si van clener nature,</l>
+          <l n="299" xml:id="chapter-1-lg-152-l-299">Des is my de vroude dure.</l>
+        </lg>
+        <pb type="manuscript" n="149v" />
+        <lg xml:id="chapter-1-lg-153">
+          <l n="300" xml:id="chapter-1-lg-153-l-300">Ik wil id euenture truren [= ruren?],</l>
+          <l n="301" xml:id="chapter-1-lg-153-l-301">Vnde wil se om wol duren.</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-154">
+          <l n="302" xml:id="chapter-1-lg-154-l-302">De wile dat ik byn by dy,</l>
+          <l n="303" xml:id="chapter-1-lg-154-l-303">Wil ik wol gheholden my,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-155">
+          <l n="304" xml:id="chapter-1-lg-155-l-304">De wile dat ek leue.</l>
+          <l n="305" xml:id="chapter-1-lg-155-l-305">Wente ik sterue, so mot de zele beuen,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-156">
+          <l n="306" xml:id="chapter-1-lg-156-l-306">O wy, in der leyden stunde,</l>
+          <l n="307" xml:id="chapter-1-lg-156-l-307">Wente se senket se in de afgrunde,</l>
+        </lg>
+        <lg xml:id="chapter-1-lg-157">
+          <l n="308" xml:id="chapter-1-lg-157-l-308">Dar se nummer mach ut rouuen [= rauuen?],</l>
+          <l n="309" xml:id="chapter-1-lg-157-l-309">Noch Godes antlate beschauwen.</l>
+        </lg>
+      </div>
+      <div n="2" xml:id="chapter-2" type="chapter" data-level="1">
+        <head>(D)USSE NABESCREUEN PREDEGHE HORDE THEOPHILUS.</head>
+        <head xml:lang="lat-Latn">TEMA PREDICATORIS: VIDIT JHESUS HOMINEM SEDENTEM IN THEOLONIE [= THELONIO].</head>
+        <lg xml:id="chapter-2-lg-158">
+          <l n="310" xml:id="chapter-2-lg-158-l-310">God vorlene vns alle syne synne,</l>
+          <l n="311" xml:id="chapter-2-lg-158-l-311">Vnde geuen vns syne gotliken mynne,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-159">
+          <l n="312" xml:id="chapter-2-lg-159-l-312">Vrede vnde syne gnade to reden,</l>
+          <l n="313" xml:id="chapter-2-lg-159-l-313">Dat ed anname(n) mote wesen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-160">
+          <l n="314" xml:id="chapter-2-lg-160-l-314">Ik han eyn wort to latine gelesen,</l>
+          <l n="315" xml:id="chapter-2-lg-160-l-315">Dat weit vil mennich gud cristen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-161">
+          <l n="316" xml:id="chapter-2-lg-161-l-316">Dat bescriuet vns de ewangelisten.</l>
+          <l n="317" xml:id="chapter-2-lg-161-l-317">Dat wil ik na beduden</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-162">
+          <l n="318" xml:id="chapter-2-lg-162-l-318">Vor allen cristenluden.</l>
+        </lg>
+        <pb type="manuscript" n="150r" />
+        <lg xml:id="chapter-2-lg-163">
+          <l n="319" xml:id="chapter-2-lg-163-l-319">Ere wy de rede begynnen,</l>
+          <l n="320" xml:id="chapter-2-lg-163-l-320">So grote wi erst de koninghinne</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-164">
+          <l n="321" xml:id="chapter-2-lg-164-l-321">Myt eynem "Pater noster" vorwar,</l>
+          <l n="322" xml:id="chapter-2-lg-164-l-322">Vnde myt eynem "Aue Maria" clar,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-165">
+          <l n="323" xml:id="chapter-2-lg-165-l-323">Dat se my vorlyge to redenne eyn clene,</l>
+          <l n="324" xml:id="chapter-2-lg-165-l-324">Dat wy getrostet werdden [= werden] algemeyne,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-166">
+          <l n="325" xml:id="chapter-2-lg-166-l-325">Vnde God, Godes sone,</l>
+          <l n="326" xml:id="chapter-2-lg-166-l-326">Ghelouet werde an synem trone.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-167">
+          <l n="327" xml:id="chapter-2-lg-167-l-327">DAT SCHACH TO HANT DAR NA,</l>
+          <l n="328" xml:id="chapter-2-lg-167-l-328">EYN ISLIK SPREKE EYN "AUE MARIA".</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-168">
+          <l n="329" xml:id="chapter-2-lg-168-l-329">(S)unte Matheus sprak also:</l>
+          <l n="330" xml:id="chapter-2-lg-168-l-330">Dat steit bescreuen in ewangelio:</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-169">
+          <l n="331" xml:id="chapter-2-lg-169-l-331">Vidit Jhesus hominem sedentem in theolonie [= thelonio].</l>
+          <l n="332" xml:id="chapter-2-lg-169-l-332">Dat sprak Jhesus vnse here</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-170">
+          <l n="333" xml:id="chapter-2-lg-170-l-333">Vnde sach sitten eynen tolnere</l>
+          <l n="334" xml:id="chapter-2-lg-170-l-334">An sinem tollen openbar -</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-171">
+          <l n="335" xml:id="chapter-2-lg-171-l-335">Dat was ome alto swar -</l>
+          <l n="336" xml:id="chapter-2-lg-171-l-336">He sprak: Volge my du!</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-172">
+          <l n="337" xml:id="chapter-2-lg-172-l-337">Alsus, salghe minsche, su!</l>
+          <l n="338" xml:id="chapter-2-lg-172-l-338">He volgede ome to hant,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-173">
+          <l n="339" xml:id="chapter-2-lg-173-l-339">Vnde [= Ihesus?] sande on in alle lant.</l>
+          <l n="340" xml:id="chapter-2-lg-173-l-340">Erst was he eyn tolnere,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-174">
+          <l n="341" xml:id="chapter-2-lg-174-l-341">Nu is he eyn apostel vnde eyn predeghere.</l>
+          <l n="342" xml:id="chapter-2-lg-174-l-342">He was eyn sunder openbar,</l>
+        </lg>
+        <pb type="manuscript" n="150v" />
+        <lg xml:id="chapter-2-lg-175">
+          <l n="343" xml:id="chapter-2-lg-175-l-343">Nu gheit he in Cristus scar.</l>
+          <l n="344" xml:id="chapter-2-lg-175-l-344">Erst was om rech(te) vnde vnrechte like,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-176">
+          <l n="345" xml:id="chapter-2-lg-176-l-345">Nu leret he den wech to dem himmelrike.</l>
+          <l n="346" xml:id="chapter-2-lg-176-l-346">Eya, wes sundighestu dik [= dicke]?</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-177">
+          <l n="347" xml:id="chapter-2-lg-177-l-347">Nu heftu di to sunden vorplicht.</l>
+          <l n="348" xml:id="chapter-2-lg-177-l-348">Kere weder vnde twiuel nicht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-178">
+          <l n="349" xml:id="chapter-2-lg-178-l-349">We willen di lefliken entfan,</l>
+          <l n="350" xml:id="chapter-2-lg-178-l-350">So du nu hebbest (wedder) vns ghedan.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-179">
+          <l n="351" xml:id="chapter-2-lg-179-l-351">Mark an Marien Magdalenen,</l>
+          <l n="352" xml:id="chapter-2-lg-179-l-352">Wo se to gnaden queme.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-180">
+          <l n="353" xml:id="chapter-2-lg-180-l-353">Se was to mennigen stunden</l>
+          <l n="354" xml:id="chapter-2-lg-180-l-354">Myt seuen duuelen bebunden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-181">
+          <l n="355" xml:id="chapter-2-lg-181-l-355">Tohant do se gnade san,</l>
+          <l n="356" xml:id="chapter-2-lg-181-l-356">Godes torne se gans vorwan.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-182">
+          <l n="357" xml:id="chapter-2-lg-182-l-357">Loue, sunder, an koning Dauid,</l>
+          <l n="358" xml:id="chapter-2-lg-182-l-358">De lach an sunden menche tijd;</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-183">
+          <l n="359" xml:id="chapter-2-lg-183-l-359">Do he gnade begerende was,</l>
+          <l n="360" xml:id="chapter-2-lg-183-l-360">God halp om, dat he genas.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-184">
+          <l n="361" xml:id="chapter-2-lg-184-l-361">Wy lesen an sunte Peters boke,</l>
+          <l n="362" xml:id="chapter-2-lg-184-l-362">Wo ho Godes drie vorsoke.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-185">
+          <l n="363" xml:id="chapter-2-lg-185-l-363">He swor by duren worden,</l>
+          <l n="364" xml:id="chapter-2-lg-185-l-364">So gy in dusser passien mogen horen:</l>
+        </lg>
+        <pb type="manuscript" n="151r" />
+        <lg xml:id="chapter-2-lg-186">
+          <l n="365" xml:id="chapter-2-lg-186-l-365">Summe dat werde hilghe licht,</l>
+          <l n="366" xml:id="chapter-2-lg-186-l-366">Ik bekenne Godes namen nicht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-187">
+          <l n="367" xml:id="chapter-2-lg-187-l-367">An der suluen stunde</l>
+          <l n="368" xml:id="chapter-2-lg-187-l-368">He bewenede syne sunde.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-188">
+          <l n="369" xml:id="chapter-2-lg-188-l-369">Ome wart so vele gaade [= gnade] bereit,</l>
+          <l n="370" xml:id="chapter-2-lg-188-l-370">Dat he is eyn vorste der apostelheit.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-189">
+          <l n="371" xml:id="chapter-2-lg-189-l-371">Merke, sunder, Godes mildicheit,</l>
+          <l n="372" xml:id="chapter-2-lg-189-l-372">Wo grot dat se is vnde breit.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-190">
+          <l n="373" xml:id="chapter-2-lg-190-l-373">Twiuel nicht also eyn har.</l>
+          <l n="374" xml:id="chapter-2-lg-190-l-374">Got nympt diner alle tijd war,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-191">
+          <l n="375" xml:id="chapter-2-lg-191-l-375">Wor du in der werlde varest,</l>
+          <l n="376" xml:id="chapter-2-lg-191-l-376">Vp dat du van sunden latest.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-192">
+          <l n="377" xml:id="chapter-2-lg-192-l-377">O wy, du twiuelere,</l>
+          <l n="378" xml:id="chapter-2-lg-192-l-378">Du bist doch gans vnmere.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-193">
+          <l n="379" xml:id="chapter-2-lg-193-l-379">Wan du twiuelst an Jhesum Crist,</l>
+          <l n="380" xml:id="chapter-2-lg-193-l-380">So bistu argher, wen de duuel ist.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-194">
+          <l n="381" xml:id="chapter-2-lg-194-l-381">Du bist myt senden oghen blint,</l>
+          <l n="382" xml:id="chapter-2-lg-194-l-382">Dat du nicht louest an Marien kint,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-195">
+          <l n="383" xml:id="chapter-2-lg-195-l-383">De di heft bitterliken erlost,</l>
+          <l n="384" xml:id="chapter-2-lg-195-l-384">De is din leuent vnde dyn trost.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-196">
+          <l n="385" xml:id="chapter-2-lg-196-l-385">Du bist ghescreuen an sine vote</l>
+          <l n="386" xml:id="chapter-2-lg-196-l-386">Mit eynem griffel vnsote.</l>
+        </lg>
+        <pb type="manuscript" n="151v" />
+        <lg xml:id="chapter-2-lg-197">
+          <l n="387" xml:id="chapter-2-lg-197-l-387">Du bist ok alle tijd an sinen henden,</l>
+          <l n="388" xml:id="chapter-2-lg-197-l-388">He hef dy gelost van des duuels benden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-198">
+          <l n="389" xml:id="chapter-2-lg-198-l-389">Du bist ghescreuen an syn herte,</l>
+          <l n="390" xml:id="chapter-2-lg-198-l-390">He leit dorch dy grote smerte</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-199">
+          <l n="391" xml:id="chapter-2-lg-199-l-391">Vtwendich vnde inwendich vnde nicht stille.</l>
+          <l n="392" xml:id="chapter-2-lg-199-l-392">Sunder, dat leit he dorch dinen willen!</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-200">
+          <l n="393" xml:id="chapter-2-lg-200-l-393">Eftu nu gnade to ome sokest,</l>
+          <l n="394" xml:id="chapter-2-lg-200-l-394">Vnde syn bod rokest,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-201">
+          <l n="395" xml:id="chapter-2-lg-201-l-395">He enwel diner nicht vortigen.</l>
+          <l n="396" xml:id="chapter-2-lg-201-l-396">Des bidde wy alle Marien,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-202">
+          <l n="397" xml:id="chapter-2-lg-202-l-397">Dat se alle werden vntbunden</l>
+          <l n="398" xml:id="chapter-2-lg-202-l-398">Van oren groten houetsunden,</l>
+          <l n="399" xml:id="chapter-2-lg-202-l-399">De an sinem denste werden vunden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-203">
+          <l n="400" xml:id="chapter-2-lg-203-l-400">Alle, de nu Godes wort</l>
+          <l n="401" xml:id="chapter-2-lg-203-l-401">Myt innicheit hebben gehort,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-204">
+          <l n="402" xml:id="chapter-2-lg-204-l-402">De scullen aflates so vele hauen:</l>
+          <l n="403" xml:id="chapter-2-lg-204-l-403">Eft se hedden gewesen to dem hilgen graue</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-205">
+          <l n="404" xml:id="chapter-2-lg-205-l-404">Ouer meres, syt bericht,</l>
+          <l n="405" xml:id="chapter-2-lg-205-l-405">Ome [= On] enworde so vele aflates nicht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-206">
+          <l n="406" xml:id="chapter-2-lg-206-l-406">Hirvmme, leuen salighen lude,</l>
+          <l n="407" xml:id="chapter-2-lg-206-l-407">Nu dancket Gode hude</l>
+        </lg>
+        <pb type="manuscript" n="152r" />
+        <lg xml:id="chapter-2-lg-207">
+          <l n="408" xml:id="chapter-2-lg-207-l-408">Vnde [= Vmme] alle synen gnaden,</l>
+          <l n="409" xml:id="chapter-2-lg-207-l-409">De he hir heft ghedan.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-208">
+          <l n="410" xml:id="chapter-2-lg-208-l-410">Gif [= Gy] salighe man vnde vif [= wif],</l>
+          <l n="411" xml:id="chapter-2-lg-208-l-411">Iwe zele vnde jwe lif</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-209">
+          <l n="412" xml:id="chapter-2-lg-209-l-412">Bevele ek hute vnsem heren</l>
+          <l n="413" xml:id="chapter-2-lg-209-l-413">Vnde Marien nu vnde jummer mere.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-210">
+          <l n="414" xml:id="chapter-2-lg-210-l-414">(D)O SPRAK THEOPHILUS</l>
+          <l n="415" xml:id="chapter-2-lg-210-l-415">JAMERLIKEN ALSUS:</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-211">
+          <l n="416" xml:id="chapter-2-lg-211-l-416">O we, ik vil kloker man;</l>
+          <l n="417" xml:id="chapter-2-lg-211-l-417">Myne oghen latet my bister gan,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-212">
+          <l n="418" xml:id="chapter-2-lg-212-l-418">Dat ik bin sus sere ghedouet,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-213">
+          <l n="419" xml:id="chapter-2-lg-213-l-419">Dat ik bin so dum:</l>
+          <l n="420" xml:id="chapter-2-lg-213-l-420">Des is my myn munt worden stum.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-214">
+          <l n="421" xml:id="chapter-2-lg-214-l-421">Ik bin also eyn gok.</l>
+          <l n="422" xml:id="chapter-2-lg-214-l-422">Myne oren synt my worden dof,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-215">
+          <l n="423" xml:id="chapter-2-lg-215-l-423">Des wil ik my lange doren,</l>
+          <l n="424" xml:id="chapter-2-lg-215-l-424">Dat ik nicht kan Godes wort horen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-216">
+          <l n="425" xml:id="chapter-2-lg-216-l-425">Ik han vorsellet eynen kop:</l>
+          <l n="426" xml:id="chapter-2-lg-216-l-426">Ik han dat lange leuent</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-217">
+          <l n="427" xml:id="chapter-2-lg-217-l-427">Gar vmme eyn kort gegheuen;</l>
+          <l n="428" xml:id="chapter-2-lg-217-l-428">Des mot ik sin vorloren</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-218">
+          <l n="429" xml:id="chapter-2-lg-218-l-429">Vnde de zele io tovoren,</l>
+          <l n="430" xml:id="chapter-2-lg-218-l-430">Id were beter, dat ik nicht were boren.</l>
+        </lg>
+        <pb type="manuscript" n="152v" />
+        <lg xml:id="chapter-2-lg-219">
+          <l n="431" xml:id="chapter-2-lg-219-l-431">O wy, wat scal ik vil armen,</l>
+          <l n="432" xml:id="chapter-2-lg-219-l-432">We wil sik ouer my vorbarmen?</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-220">
+          <l n="433" xml:id="chapter-2-lg-220-l-433">To weme mach ik wiken?</l>
+          <l n="434" xml:id="chapter-2-lg-220-l-434">Ik han God van himelrike</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-221">
+          <l n="435" xml:id="chapter-2-lg-221-l-435">Vnde alle sine hilgen vorsworen.</l>
+          <l n="436" xml:id="chapter-2-lg-221-l-436">Ik were beter vngheboren!</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-222">
+          <l n="437" xml:id="chapter-2-lg-222-l-437">Ik han my to spade bedacht:</l>
+          <l n="438" xml:id="chapter-2-lg-222-l-438">Ik mot sorgen dach vnde nacht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-223">
+          <l n="439" xml:id="chapter-2-lg-223-l-439">Ik wil doch wederkeren</l>
+          <l n="440" xml:id="chapter-2-lg-223-l-440">To eyner vrowen heren,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-224">
+          <l n="441" xml:id="chapter-2-lg-224-l-441">De is gheheten Maria.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-225">
+          <l n="442" xml:id="chapter-2-lg-225-l-442">To der scal my gnade werden</l>
+          <l n="443" xml:id="chapter-2-lg-225-l-443">Vp dusser jamerliken erden:</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-226">
+          <l n="444" xml:id="chapter-2-lg-226-l-444">To der scal my werden gnaden,</l>
+          <l n="445" xml:id="chapter-2-lg-226-l-445">To or wil ek iu spaden [= my spoden?].</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-227">
+          <l n="446" xml:id="chapter-2-lg-227-l-446">Dat scal vorweruen de maget gut,</l>
+          <l n="447" xml:id="chapter-2-lg-227-l-447">Se is aller gnade eyn ouervlot.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-228">
+          <l n="448" xml:id="chapter-2-lg-228-l-448">(T)HEOPHILE SPRAK: Ik grote dy, Maria, du edele vad,</l>
+          <l n="449" xml:id="chapter-2-lg-228-l-449">Du bist aller sunde(r) eyn tovorlat.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-229">
+          <l n="450" xml:id="chapter-2-lg-229-l-450">Du bist aller salden eyn scrin,</l>
+          <l n="451" xml:id="chapter-2-lg-229-l-451">Vt dek, edele keyseryn,</l>
+        </lg>
+        <pb type="manuscript" n="153r" />
+        <lg xml:id="chapter-2-lg-230">
+          <l n="452" xml:id="chapter-2-lg-230-l-452">Nu vnde jummer gnade vlot.</l>
+          <l n="453" xml:id="chapter-2-lg-230-l-453">God gaf sik in dynen schot</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-231">
+          <l n="454" xml:id="chapter-2-lg-231-l-454">Vnde kos dy to eyner trutinnen,</l>
+          <l n="455" xml:id="chapter-2-lg-231-l-455">Dat du scoldest gnade winnen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-232">
+          <l n="456" xml:id="chapter-2-lg-232-l-456">Den armen sundern to vromen,</l>
+          <l n="457" xml:id="chapter-2-lg-232-l-457">De vte dem wege sint ghekomen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-233">
+          <l n="458" xml:id="chapter-2-lg-233-l-458">Du bist eyn edele leydesterne</l>
+          <l n="459" xml:id="chapter-2-lg-233-l-459">Buten dem wege verne.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-234">
+          <l n="460" xml:id="chapter-2-lg-234-l-460">Help my weder in den wech:</l>
+          <l n="461" xml:id="chapter-2-lg-234-l-461">Wente du bist beide bruge vnde stech.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-235">
+          <l n="462" xml:id="chapter-2-lg-235-l-462">Alle de to dy komen,</l>
+          <l n="463" xml:id="chapter-2-lg-235-l-463">De werden dem duuel ghenomen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-236">
+          <l n="464" xml:id="chapter-2-lg-236-l-464">(T)HEOPHOLE SPRAK: Vro were [= Vrowe], ik han sere misse ghedan,</l>
+          <l n="465" xml:id="chapter-2-lg-236-l-465">Ik dor myn oghen nicht upslan</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-237">
+          <l n="466" xml:id="chapter-2-lg-237-l-466">To dem almechtigen Gode,</l>
+          <l n="467" xml:id="chapter-2-lg-237-l-467">Du enwillest syn myn bode</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-238">
+          <l n="468" xml:id="chapter-2-lg-238-l-468">Vnde eyn hulperinne.</l>
+          <l n="469" xml:id="chapter-2-lg-238-l-469">Help my, dat ik gnade wynne</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-239">
+          <l n="470" xml:id="chapter-2-lg-239-l-470">Myt dinem saligen bede,</l>
+          <l n="471" xml:id="chapter-2-lg-239-l-471">Dar is my hulpen mede.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-240">
+          <l n="472" xml:id="chapter-2-lg-240-l-472">Vrowe, sprek din salige wort,</l>
+          <l n="473" xml:id="chapter-2-lg-240-l-473">Dat is vor alle dingk gehort.</l>
+        </lg>
+        <pb type="manuscript" n="153v" />
+        <lg xml:id="chapter-2-lg-241">
+          <l n="474" xml:id="chapter-2-lg-241-l-474">Wente dyn kint Jhesus Crist</l>
+          <l n="475" xml:id="chapter-2-lg-241-l-475">Wil dy twiden, wes du biddende bist.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-242">
+          <l n="476" xml:id="chapter-2-lg-242-l-476">(M)ARIA SPRAK: Theophile, dyn venne['= 'wenen]</l>
+          <l n="477" xml:id="chapter-2-lg-242-l-477">Kan dy gar luttich renne [= renen].</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-243">
+          <l n="478" xml:id="chapter-2-lg-243-l-478">Du heft ghelegen dre daghe</l>
+          <l n="479" xml:id="chapter-2-lg-243-l-479">An wenende vnde an groter clage.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-244">
+          <l n="480" xml:id="chapter-2-lg-244-l-480">Ek han des nicht vornomen,</l>
+          <l n="481" xml:id="chapter-2-lg-244-l-481">Dat dy iemant sy to hulpe komen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-245">
+          <l n="482" xml:id="chapter-2-lg-245-l-482">We scal vnde we mach dyn hulper syn?</l>
+          <l n="483" xml:id="chapter-2-lg-245-l-483">THEOPHILE SPRAK: Dat scaltu, vil leue keyserin.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-246">
+          <l n="484" xml:id="chapter-2-lg-246-l-484">MARIA SPRAK: Wes scol ek siner [= diner] plegen?</l>
+          <l n="485" xml:id="chapter-2-lg-246-l-485">Jo hastu myner vorteghen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-247">
+          <l n="486" xml:id="chapter-2-lg-247-l-486">Myner vnde mynes kindes</l>
+          <l n="487" xml:id="chapter-2-lg-247-l-487">Vnde alles himelschen ghesindes</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-248">
+          <l n="488" xml:id="chapter-2-lg-248-l-488">An himel vnde an erden.</l>
+          <l n="489" xml:id="chapter-2-lg-248-l-489">Dyn hulp kan ek nicht werden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-249">
+          <l n="490" xml:id="chapter-2-lg-249-l-490">Wolde iemant dy to hulpe komen,</l>
+          <l n="491" xml:id="chapter-2-lg-249-l-491">Ik wolde dy gherne darto vromen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-250">
+          <l n="492" xml:id="chapter-2-lg-250-l-492">(T)HEOPHILE SPRAK: Ach du edele rose van Jericho,</l>
+          <l n="493" xml:id="chapter-2-lg-250-l-493">Wo trostestu my armen also!</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-251">
+          <l n="494" xml:id="chapter-2-lg-251-l-494">Du bist io der gna(den) vul.</l>
+          <l n="495" xml:id="chapter-2-lg-251-l-495">De engele schone to di sprak: -</l>
+        </lg>
+        <pb type="manuscript" n="154r" />
+        <lg xml:id="chapter-2-lg-252">
+          <l n="496" xml:id="chapter-2-lg-252-l-496">Goteliken dat ghescach: -</l>
+          <l n="497" xml:id="chapter-2-lg-252-l-497">Aue gracia plena etc.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-253">
+          <l n="498" xml:id="chapter-2-lg-253-l-498">Woldestu dorch my alleyne</l>
+          <l n="499" xml:id="chapter-2-lg-253-l-499">Vorleysen dynen namen reyne,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-254">
+          <l n="500" xml:id="chapter-2-lg-254-l-500">Des wolde ek schemen vor dy.</l>
+          <l n="501" xml:id="chapter-2-lg-254-l-501">Nu bidde dyn leue kint vor my;</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-255">
+          <l n="502" xml:id="chapter-2-lg-255-l-502">Dat ek vel boses han ghedan,</l>
+          <l n="503" xml:id="chapter-2-lg-255-l-503">Des geyt my grote twe [=rwe?] an.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-256">
+          <l n="504" xml:id="chapter-2-lg-256-l-504">Ik wil gerne don noch dynem willen.</l>
+          <l n="505" xml:id="chapter-2-lg-256-l-505">MARIA SPRAK: Nu liche stille,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-257">
+          <l n="506" xml:id="chapter-2-lg-257-l-506">Ik wil gan to mynem kinde.</l>
+          <l n="507" xml:id="chapter-2-lg-257-l-507">Kan ik dy gnade vinden,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-258">
+          <l n="508" xml:id="chapter-2-lg-258-l-508">Ik wil dyn trvwe bode syn.</l>
+          <l n="509" xml:id="chapter-2-lg-258-l-509">THEOPHILE SPRAK: Dat do, vil edele keyserin.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-259">
+          <l n="510" xml:id="chapter-2-lg-259-l-510">MARIA SPRAK: Ek bidde dy, leue kint myn,</l>
+          <l n="511" xml:id="chapter-2-lg-259-l-511">Dat du willest twiden my.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-260">
+          <l n="512" xml:id="chapter-2-lg-260-l-512">Dar is ghekomen eyn vil arme,</l>
+          <l n="513" xml:id="chapter-2-lg-260-l-513">Lat dyne gnade (sin) vorbarmen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-261">
+          <l n="514" xml:id="chapter-2-lg-261-l-514">De heft dre daghe leghen,</l>
+          <l n="515" xml:id="chapter-2-lg-261-l-515">Dat he nu heft entswegen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-262">
+          <l n="516" xml:id="chapter-2-lg-262-l-516">Nicht wen wenen vnde gillen.</l>
+          <l n="517" xml:id="chapter-2-lg-262-l-517">Gunne my, dat ik one mote stillen</l>
+        </lg>
+        <pb type="manuscript" n="154v" />
+        <lg xml:id="chapter-2-lg-263">
+          <l n="518" xml:id="chapter-2-lg-263-l-518">Vnde lat my delghen syne trene.</l>
+          <l n="519" xml:id="chapter-2-lg-263-l-519">Wente ek bin de reyne,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-264">
+          <l n="520" xml:id="chapter-2-lg-264-l-520">Dar de sunder an kre [= scre?]:</l>
+          <l n="521" xml:id="chapter-2-lg-264-l-521">Salue regina misericordie.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-265">
+          <l n="522" xml:id="chapter-2-lg-265-l-522">Ik hete eyn moder, also ek weit,</l>
+          <l n="523" xml:id="chapter-2-lg-265-l-523">Aller barmherticheit</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-266">
+          <l n="524" xml:id="chapter-2-lg-266-l-524">Vul trostes vnde vul gnade,</l>
+          <l n="525" xml:id="chapter-2-lg-266-l-525">Des sunders heil, des duuels scade.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-267">
+          <l n="526" xml:id="chapter-2-lg-267-l-526">Ek bin gheheten morgenrot.</l>
+          <l n="527" xml:id="chapter-2-lg-267-l-527">Des bidde ek dy dorch dinen dot:</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-268">
+          <l n="528" xml:id="chapter-2-lg-268-l-528">Ik hete eyn scrin der salden,</l>
+          <l n="529" xml:id="chapter-2-lg-268-l-529">Lat my nu syner walden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-269">
+          <l n="530" xml:id="chapter-2-lg-269-l-530">Des bidde ek dy, kint vnde here,</l>
+          <l n="531" xml:id="chapter-2-lg-269-l-531">Dorch dines sulues ere.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-270">
+          <l n="532" xml:id="chapter-2-lg-270-l-532">(M)ARIA SPRAK: Vil leue kint, wes swichtu?</l>
+          <l n="533" xml:id="chapter-2-lg-270-l-533">Antworde diner moder nu.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-271">
+          <l n="534" xml:id="chapter-2-lg-271-l-534">Dencke, leue kint, do wi vns beide</l>
+          <l n="535" xml:id="chapter-2-lg-271-l-535">Van dem ertrike scheiden,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-272">
+          <l n="536" xml:id="chapter-2-lg-272-l-536">Dat du my do geuest de walt,</l>
+          <l n="537" xml:id="chapter-2-lg-272-l-537">He were junk edder alt,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-273">
+          <l n="538" xml:id="chapter-2-lg-273-l-538">Dat ik mochte vor one dinghen,</l>
+          <l n="539" xml:id="chapter-2-lg-273-l-539">Vnde one to gnaden bringen.</l>
+        </lg>
+        <pb type="manuscript" n="155r" />
+        <lg xml:id="chapter-2-lg-274">
+          <l n="540" xml:id="chapter-2-lg-274-l-540">Wultu my de gnade benemen,</l>
+          <l n="541" xml:id="chapter-2-lg-274-l-541">Dat is my gar vnbequem(e).</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-275">
+          <l n="542" xml:id="chapter-2-lg-275-l-542">Du heft my lef, vnde ek ok dy.</l>
+          <l n="543" xml:id="chapter-2-lg-275-l-543">Ik bidde, dat den sunder latest my,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-276">
+          <l n="544" xml:id="chapter-2-lg-276-l-544">Vnde latest vorgan dyn vngemote.</l>
+          <l n="545" xml:id="chapter-2-lg-276-l-545">Ik wil seyn, wu ik vor one bote</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-277">
+          <l n="546" xml:id="chapter-2-lg-277-l-546">Siner groten sunde swere.</l>
+          <l n="547" xml:id="chapter-2-lg-277-l-547">JHESUS SPRAK: Moder, wes biddestu so sere</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-278">
+          <l n="548" xml:id="chapter-2-lg-278-l-548">Vor dat stinkende as,</l>
+          <l n="549" xml:id="chapter-2-lg-278-l-549">Dar nu reynicheit inne was?</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-279">
+          <l n="550" xml:id="chapter-2-lg-279-l-550">He heft vorsaken diner,</l>
+          <l n="551" xml:id="chapter-2-lg-279-l-551">Also heft he ok myner.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-280">
+          <l n="552" xml:id="chapter-2-lg-280-l-552">Hedde he dyner nicht vorteghen,</l>
+          <l n="553" xml:id="chapter-2-lg-280-l-553">Ome hedde dat sin vorgheuen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-281">
+          <l n="554" xml:id="chapter-2-lg-281-l-554">Dat he hedde gnade wunnen.</l>
+          <l n="555" xml:id="chapter-2-lg-281-l-555">My deden we myne wunden,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-282">
+          <l n="556" xml:id="chapter-2-lg-282-l-556">Do he myner also vorsok,</l>
+          <l n="557" xml:id="chapter-2-lg-282-l-557">Vnde [= Vmme] de vrucht, de he my gedruch.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-283">
+          <l n="558" xml:id="chapter-2-lg-283-l-558">MARIA SPRAK: Sin scrien vor mynen oghen</l>
+          <l n="559" xml:id="chapter-2-lg-283-l-559">Des enkan ek nicht lenger dogen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-284">
+          <l n="560" xml:id="chapter-2-lg-284-l-560">JHESUS SPRAK: Syn vles stincket vor mynem antlat(e),</l>
+          <l n="561" xml:id="chapter-2-lg-284-l-561">Dat is gar vter mate.</l>
+        </lg>
+        <pb type="manuscript" n="155v" />
+        <lg xml:id="chapter-2-lg-285">
+          <l n="562" xml:id="chapter-2-lg-285-l-562">Darvmme sage ik di, moter myn,</l>
+          <l n="563" xml:id="chapter-2-lg-285-l-563">Ik wil al vnghebeiden syn.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-286">
+          <l n="564" xml:id="chapter-2-lg-286-l-564">MARIA SPRAK: Vil leue kint,</l>
+          <l n="565" xml:id="chapter-2-lg-286-l-565">Do so soyke ek, wur dine vote synt;</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-287">
+          <l n="566" xml:id="chapter-2-lg-287-l-566">Sint du my nicht twiden w(i)lt,</l>
+          <l n="567" xml:id="chapter-2-lg-287-l-567">Dat ek werde eyn vredescilt</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-288">
+          <l n="568" xml:id="chapter-2-lg-288-l-568">Des armen, de dar liget</l>
+          <l n="569" xml:id="chapter-2-lg-288-l-569">Vnde grote ruwe pleghet,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-289">
+          <l n="570" xml:id="chapter-2-lg-289-l-570">Nu mane ik di aller bitterheit,</l>
+          <l n="571" xml:id="chapter-2-lg-289-l-571">De ik ju dorch dinen willen leit;</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-290">
+          <l n="572" xml:id="chapter-2-lg-290-l-572">Dencke, kint, dat myn hant</l>
+          <l n="573" xml:id="chapter-2-lg-290-l-573">Myt kranken doken dy bewant,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-291">
+          <l n="574" xml:id="chapter-2-lg-291-l-574">Do du an der krubben legest</l>
+          <l n="575" xml:id="chapter-2-lg-291-l-575">Vnde grotes armodes plegest.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-292">
+          <l n="576" xml:id="chapter-2-lg-292-l-576">Su kind, dut/dat sint de brusten,</l>
+          <l n="577" xml:id="chapter-2-lg-292-l-577">De du to dinen lusten</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-293">
+          <l n="578" xml:id="chapter-2-lg-293-l-578">Dicke heft ghesoghen</l>
+          <l n="579" xml:id="chapter-2-lg-293-l-579">Vnde lefliken to dem mde [= munde] togen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-294">
+          <l n="580" xml:id="chapter-2-lg-294-l-580">Dencke, kint, an mynen willen,</l>
+          <l n="581" xml:id="chapter-2-lg-294-l-581">Dat ek di ernerde myt der splllen [= spillen].</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-295">
+          <l n="582" xml:id="chapter-2-lg-295-l-582">Dat was an den stunden,</l>
+          <l n="583" xml:id="chapter-2-lg-295-l-583">Dat wi des nicht beteren konden.</l>
+        </lg>
+        <pb type="manuscript" n="156r" />
+        <lg xml:id="chapter-2-lg-296">
+          <l n="584" xml:id="chapter-2-lg-296-l-584">Dencke, sone, dat ik vloch mannighen wech,</l>
+          <l n="585" xml:id="chapter-2-lg-296-l-585">Beyde ouer bruge vnde ouer stech.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-297">
+          <l n="586" xml:id="chapter-2-lg-297-l-586">Ik toch vnde vloch hir vnde dar,</l>
+          <l n="587" xml:id="chapter-2-lg-297-l-587">In Egiptenlant vnde anders war.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-298">
+          <l n="588" xml:id="chapter-2-lg-298-l-588">Denk, wat ik leyt an der stunt,</l>
+          <l n="589" xml:id="chapter-2-lg-298-l-589">Do dyn herte wart gewunt</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-299">
+          <l n="590" xml:id="chapter-2-lg-299-l-590">Van dem blinden iodenspere grot,</l>
+          <l n="591" xml:id="chapter-2-lg-299-l-591">Dat dat blot dorch sine [= dine] siden vlot.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-300">
+          <l n="592" xml:id="chapter-2-lg-300-l-592">Leue kint, dorch alle de bitterlicheit,</l>
+          <l n="593" xml:id="chapter-2-lg-300-l-593">De ek ju dorch dinen willen leit,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-301">
+          <l n="594" xml:id="chapter-2-lg-301-l-594">Efte ek di do wat gudes dede,</l>
+          <l n="595" xml:id="chapter-2-lg-301-l-595">So twide my dusser bede,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-302">
+          <l n="596" xml:id="chapter-2-lg-302-l-596">Vnde lat my dussen sunder bewaren,</l>
+          <l n="597" xml:id="chapter-2-lg-302-l-597">Vnde lat one an mynen hulden varen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-303">
+          <l n="598" xml:id="chapter-2-lg-303-l-598">JHESUS SPRAK: Maria, leue moder myn,</l>
+          <l n="599" xml:id="chapter-2-lg-303-l-599">Stant vp vnde lat dyn biddent syn.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-304">
+          <l n="600" xml:id="chapter-2-lg-304-l-600">Ik geue one an dine hant.</l>
+          <l n="601" xml:id="chapter-2-lg-304-l-601">Kanstu ome scicken syn pant</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-305">
+          <l n="602" xml:id="chapter-2-lg-305-l-602">Vnde synen suluen bref,</l>
+          <l n="603" xml:id="chapter-2-lg-305-l-603">Den he dem duuel scref,</l>
+        </lg>
+        <pb type="manuscript" n="156v" />
+        <lg xml:id="chapter-2-lg-306">
+          <l n="604" xml:id="chapter-2-lg-306-l-604">Den he hef ghescreuen,</l>
+          <l n="605" xml:id="chapter-2-lg-306-l-605">So late ek one an dynen hulden (leuen),</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-307">
+          <l n="606" xml:id="chapter-2-lg-307-l-606">(M)ARIA SPRAK: Theophole,</l>
+          <l n="607" xml:id="chapter-2-lg-307-l-607">Du heft dre dage vnde mere</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-308">
+          <l n="608" xml:id="chapter-2-lg-308-l-608">An groten ruwen ghewesen,</l>
+          <l n="609" xml:id="chapter-2-lg-308-l-609">Darvmme scaltu wol genesen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-309">
+          <l n="610" xml:id="chapter-2-lg-309-l-610">Ik han dy gnade ghewunnen,</l>
+          <l n="611" xml:id="chapter-2-lg-309-l-611">Du bist van allen sunden vntbunden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-310">
+          <l n="612" xml:id="chapter-2-lg-310-l-612">Du bist ghegeuen an myne hant,</l>
+          <l n="613" xml:id="chapter-2-lg-310-l-613">Ik wil dyne sele vnde dyn pant,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-311">
+          <l n="614" xml:id="chapter-2-lg-311-l-614">Losen myt mynen henden</l>
+          <l n="615" xml:id="chapter-2-lg-311-l-615">Van des duuels benden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-312">
+          <l n="616" xml:id="chapter-2-lg-312-l-616">(T)HEOPHILE SPRAK: Ach vrowe, wo wart my de bref,</l>
+          <l n="617" xml:id="chapter-2-lg-312-l-617">De dar is in der helle dep,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-313">
+          <l n="618" xml:id="chapter-2-lg-313-l-618">Vnde de inghesegel darmede?</l>
+          <l n="619" xml:id="chapter-2-lg-313-l-619">So loue ek wol der rede,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-314">
+          <l n="620" xml:id="chapter-2-lg-314-l-620">Eya entorne dy nicht,</l>
+          <l n="621" xml:id="chapter-2-lg-314-l-621">Ik spreke, so id my ghe want is.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-315">
+          <l n="622" xml:id="chapter-2-lg-315-l-622">Ik sage, so id my is gewand.</l>
+          <l n="623" xml:id="chapter-2-lg-315-l-623">Wente id is myn hogeste pand.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-316">
+          <l n="624" xml:id="chapter-2-lg-316-l-624">MARIA SPRAK: Ik bidde di, Satanas,</l>
+          <l n="625" xml:id="chapter-2-lg-316-l-625">Du vnreyne saghe vnde twas,</l>
+        </lg>
+        <pb type="manuscript" n="157r" />
+        <lg xml:id="chapter-2-lg-317">
+          <l n="626" xml:id="chapter-2-lg-317-l-626">Dat du komest hir vore</l>
+          <l n="627" xml:id="chapter-2-lg-317-l-627">Neden ut der helle dore.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-318">
+          <l n="628" xml:id="chapter-2-lg-318-l-628">Theophole sint sine sunde vorgeuen,</l>
+          <l n="629" xml:id="chapter-2-lg-318-l-629">De scal ewichliken myt my leuen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-319">
+          <l n="630" xml:id="chapter-2-lg-319-l-630">He is my bevolen to bewaren:</l>
+          <l n="631" xml:id="chapter-2-lg-319-l-631">Du scalt van ome varen</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-320">
+          <l n="632" xml:id="chapter-2-lg-320-l-632">Vnde halen my den bref.</l>
+          <l n="633" xml:id="chapter-2-lg-320-l-633">Darvmme ik di to my rep.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-321">
+          <l n="634" xml:id="chapter-2-lg-321-l-634">(S)ATANAS SPRAK: Vrowe, des syd bericht:</l>
+          <l n="635" xml:id="chapter-2-lg-321-l-635">Van sinem breue enweyt ik nicht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-322">
+          <l n="636" xml:id="chapter-2-lg-322-l-636">He heft syk {my} myk</l>
+          <l n="637" xml:id="chapter-2-lg-322-l-637">Also sulues vorplicht</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-323">
+          <l n="638" xml:id="chapter-2-lg-323-l-638">Myt synes sulues breue,</l>
+          <l n="639" xml:id="chapter-2-lg-323-l-639">Ome enwerde leyde oder leue,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-324">
+          <l n="640" xml:id="chapter-2-lg-324-l-640">Neymant vor one beyde,</l>
+          <l n="641" xml:id="chapter-2-lg-324-l-641">De vns anders vnrechte deyde.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-325">
+          <l n="642" xml:id="chapter-2-lg-325-l-642">MARIA SPRAK: Ik beyde dy, Satanas,</l>
+          <l n="643" xml:id="chapter-2-lg-325-l-643">Du vnreyne tzaghe [= saghe] vnde twas,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-326">
+          <l n="644" xml:id="chapter-2-lg-326-l-644">Dat du Theophile loslatest</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-327">
+          <l n="645" xml:id="chapter-2-lg-327-l-645">Solker lofte, he dy hefft gelouet,</l>
+          <l n="646" xml:id="chapter-2-lg-327-l-646">Wente he do was vordomet [= vordouet].</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-328">
+          <l n="647" xml:id="chapter-2-lg-328-l-647">Nu is he wedder synnich geworden,</l>
+          <l n="648" xml:id="chapter-2-lg-328-l-648">Vnde steit an dem himelschen orden.</l>
+        </lg>
+        <pb type="manuscript" n="157v" />
+        <lg xml:id="chapter-2-lg-329">
+          <l n="649" xml:id="chapter-2-lg-329-l-649">SATANAS SPRAK: Vrowe, des syt bericht:</l>
+          <l n="650" xml:id="chapter-2-lg-329-l-650">Van synem breue enweit ik nicht.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-330">
+          <l n="651" xml:id="chapter-2-lg-330-l-651">Ik han sint so vele wunders ghedreuen,</l>
+          <l n="652" xml:id="chapter-2-lg-330-l-652">Ik en weit des nicht, wur sin bref is (ghebleuen),</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-331">
+          <l n="653" xml:id="chapter-2-lg-331-l-653">Wur he is vnde wur ik one leyt,</l>
+          <l n="654" xml:id="chapter-2-lg-331-l-654">Wente ik dar nicht af enweit.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-332">
+          <l n="655" xml:id="chapter-2-lg-332-l-655">(M)aria (SPRAK): vore hen snelle</l>
+          <l n="656" xml:id="chapter-2-lg-332-l-656">In de afgrunt der helle,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-333">
+          <l n="657" xml:id="chapter-2-lg-333-l-657">Vore de lenghe vp vnde nedder,</l>
+          <l n="658" xml:id="chapter-2-lg-333-l-658">Sok my den bref wedder.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-334">
+          <l n="659" xml:id="chapter-2-lg-334-l-659">SATANAS SPRAK: Vrowe, ik sage ju ware:</l>
+          <l n="660" xml:id="chapter-2-lg-334-l-660">Ik han alle de helle dorchvaren</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-335">
+          <l n="661" xml:id="chapter-2-lg-335-l-661">By mynen besten synnen -</l>
+          <l n="662" xml:id="chapter-2-lg-335-l-662">Des breues kan ik nicht vinden.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-336">
+          <l n="663" xml:id="chapter-2-lg-336-l-663">Ik han one ghevraget sere</l>
+          <l n="664" xml:id="chapter-2-lg-336-l-664">Mynen heren Lucifere.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-337">
+          <l n="665" xml:id="chapter-2-lg-337-l-665">De heft allo [= also] ghesaghet,</l>
+          <l n="666" xml:id="chapter-2-lg-337-l-666">Des si sint so mennich iar bedaget,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-338">
+          <l n="667" xml:id="chapter-2-lg-338-l-667">Dat he des breues nicht ensach.</l>
+          <l n="668" xml:id="chapter-2-lg-338-l-668">Vorwar ik dat spreken mach:</l>
+        </lg>
+        <pb type="manuscript" n="158r" />
+        <lg xml:id="chapter-2-lg-339">
+          <l n="669" xml:id="chapter-2-lg-339-l-669">We enkunnen des breues nicht vinden.</l>
+          <l n="670" xml:id="chapter-2-lg-339-l-670">MARIA SPRAK: Ik wil di noch binden</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-340">
+          <l n="671" xml:id="chapter-2-lg-340-l-671">Mit myner tucht vnde ghewalt,</l>
+          <l n="672" xml:id="chapter-2-lg-340-l-672">Dat du den bref wol vinden scalt.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-341">
+          <l n="673" xml:id="chapter-2-lg-341-l-673">Ik beyde dy by mynem namen</l>
+          <l n="674" xml:id="chapter-2-lg-341-l-674">Vnde bi rechtem horsame,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-342">
+          <l n="675" xml:id="chapter-2-lg-342-l-675">Dat du varest an dusser stunt</l>
+          <l n="676" xml:id="chapter-2-lg-342-l-676">In de helle grunt,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-343">
+          <l n="677" xml:id="chapter-2-lg-343-l-677">Vnde bringhest my den bref,</l>
+          <l n="678" xml:id="chapter-2-lg-343-l-678">Den Theophile screff.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-344">
+          <l n="679" xml:id="chapter-2-lg-344-l-679">He lit Lucifere vnder sinem jucke [= rucke];</l>
+          <l n="680" xml:id="chapter-2-lg-344-l-680">Sprek: Ik enbeyde om, dat he sik bucke,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-345">
+          <l n="681" xml:id="chapter-2-lg-345-l-681">Dat du den bref mogest vinden.</l>
+          <l n="682" xml:id="chapter-2-lg-345-l-682">SATANAS SPRAK: Vil edele telerinne,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-346">
+          <l n="683" xml:id="chapter-2-lg-346-l-683">Gif my en wenich vrist -</l>
+          <l n="684" xml:id="chapter-2-lg-346-l-684">Ik weit wol wur de bref is -</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-347">
+          <l n="685" xml:id="chapter-2-lg-347-l-685">Vnde lat van my dyn twingen.</l>
+          <l n="686" xml:id="chapter-2-lg-347-l-686">Ik wil one wedder bringhen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-348">
+          <l n="687" xml:id="chapter-2-lg-348-l-687">(S)ATANAS SPRAK: Here Lucifere, gif my rad:</l>
+          <l n="688" xml:id="chapter-2-lg-348-l-688">Vnse walt nu cleyne macht had,</l>
+        </lg>
+        <pb type="manuscript" n="158v" />
+        <lg xml:id="chapter-2-lg-349">
+          <l n="689" xml:id="chapter-2-lg-349-l-689">Nu Goddes moder is ghekomen,</l>
+          <l n="690" xml:id="chapter-2-lg-349-l-690">Vnde hef vns Theophilum ghenomen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-350">
+          <l n="691" xml:id="chapter-2-lg-350-l-691">De den bref hadde ghescreuen,</l>
+          <l n="692" xml:id="chapter-2-lg-350-l-692">Den ik dy hadde ghegheuen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-351">
+          <l n="693" xml:id="chapter-2-lg-351-l-693">De vnder di lit begrauen,</l>
+          <l n="694" xml:id="chapter-2-lg-351-l-694">Den wil se weder hauen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-352">
+          <l n="695" xml:id="chapter-2-lg-352-l-695">Se is vrowe vnde wi sint knechte,</l>
+          <l n="696" xml:id="chapter-2-lg-352-l-696">We enmoghen nicht weder se vechten.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-353">
+          <l n="697" xml:id="chapter-2-lg-353-l-697">So wi ere van or komen,</l>
+          <l n="698" xml:id="chapter-2-lg-353-l-698">Jo beter is vnse vromen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-354">
+          <l n="699" xml:id="chapter-2-lg-354-l-699">(S)ATANAS SPRAK: Vrowe, ik kan juwer nicht leng sparen,</l>
+          <l n="700" xml:id="chapter-2-lg-354-l-700">Nemet den bref bi juwen waren.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-355">
+          <l n="701" xml:id="chapter-2-lg-355-l-701">Se syn legen edder papen,</l>
+          <l n="702" xml:id="chapter-2-lg-355-l-702">Se endoruen vns nicht mer affen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-356">
+          <l n="703" xml:id="chapter-2-lg-356-l-703">Sint vns dusse is ghenomen,</l>
+          <l n="704" xml:id="chapter-2-lg-356-l-704">So enderf vns nema(n)t tokomen.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-357">
+          <l n="705" xml:id="chapter-2-lg-357-l-705">Kumpt vns gemant mere,</l>
+          <l n="706" xml:id="chapter-2-lg-357-l-706">Ik wil one vneren also sere,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-358">
+          <l n="707" xml:id="chapter-2-lg-358-l-707">Dat ome scal werden eyn biiacht,</l>
+          <l n="708" xml:id="chapter-2-lg-358-l-708">Dat he sine nese wol huden mach.</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-359">
+          <l n="709" xml:id="chapter-2-lg-359-l-709">(M)ARIA SPRAK: Nu scal [= sclap], Theophile,</l>
+          <l n="710" xml:id="chapter-2-lg-359-l-710">De heft [= Du hest] dre dage vnde mere</l>
+        </lg>
+        <pb type="manuscript" n="159r" />
+        <lg xml:id="chapter-2-lg-360">
+          <l n="711" xml:id="chapter-2-lg-360-l-711">An grotem twenge wesen.</l>
+          <l n="712" xml:id="chapter-2-lg-360-l-712">Du bist aller sorge genesen,</l>
+        </lg>
+        <lg xml:id="chapter-2-lg-361">
+          <l n="713" xml:id="chapter-2-lg-361-l-713">Darvmme bistu wol genesen.</l>
+        </lg>
+      </div>
+      <div n="3" xml:id="chapter-3" type="chapter" data-level="1">
+        <head>(SO SINGET THEOPHOLE:</head>
+        <head xml:lang="lat-Latn">ALMA MATER DEIPARA.)</head>
+        <lg xml:id="chapter-3-lg-362">
+          <l n="714" xml:id="chapter-3-lg-362-l-714">MARIA SPRAK: Theophile, ik wil di ricken</l>
+          <l n="715" xml:id="chapter-3-lg-362-l-715">Vnde wil di nicht vorstricken:</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-363">
+          <l n="716" xml:id="chapter-3-lg-363-l-716">Ik leyde den bref vp din herte;</l>
+          <l n="717" xml:id="chapter-3-lg-363-l-717">Vordelget sin alle dine smerte</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-364">
+          <l n="718" xml:id="chapter-3-lg-364-l-718">Mit sunderliken saken.</l>
+          <l n="719" xml:id="chapter-3-lg-364-l-719">Wen du nu werst vntwaken,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-365">
+          <l n="720" xml:id="chapter-3-lg-365-l-720">So dancke minem kinde</l>
+          <l n="721" xml:id="chapter-3-lg-365-l-721">Vnde allem himmelschen gesinde,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-366">
+          <l n="722" xml:id="chapter-3-lg-366-l-722">Dat di gnade is gegeuen.</l>
+          <l n="723" xml:id="chapter-3-lg-366-l-723">Werf vmme eyn ewich leuent.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-367">
+          <l n="724" xml:id="chapter-3-lg-367-l-724">THEOPHILE SPRAK IN KORTER VRIST:</l>
+          <l n="725" xml:id="chapter-3-lg-367-l-725">Ik loue an dinen sonen, den hilligen god [= Crist].</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-368">
+          <l n="726" xml:id="chapter-3-lg-368-l-726">Vnde wil one nummer mer untdugen [= untdingen];</l>
+          <l n="727" xml:id="chapter-3-lg-368-l-727">(Noch) de soyten juncfrowen maget Marien,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-369">
+          <l n="728" xml:id="chapter-3-lg-369-l-728">De my gnade wunnen hat;</l>
+          <l n="729" xml:id="chapter-3-lg-369-l-729">Dat alle, grot vnde s(t)at,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-370">
+          <l n="730" xml:id="chapter-3-lg-370-l-730">Konden spreken, dwingen vnde heten,</l>
+          <l n="731" xml:id="chapter-3-lg-370-l-731">So [= Se] konden se mit loue nummer mer boten,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-371">
+          <l n="732" xml:id="chapter-3-lg-371-l-732">So [= Se] en konden se nummer wul louen,</l>
+          <l n="733" xml:id="chapter-3-lg-371-l-733">Se sin alles loues enbouen.</l>
+        </lg>
+        <pb type="manuscript" n="159v" />
+        <lg xml:id="chapter-3-lg-372">
+          <l n="734" xml:id="chapter-3-lg-372-l-734">Louet se, vrowen vnde man,</l>
+          <l n="735" xml:id="chapter-3-lg-372-l-735">Alle vnse trost lid daran.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-373">
+          <l n="736" xml:id="chapter-3-lg-373-l-736">Se is aller gnade {wul} (eyn vul schryn)</l>
+          <l n="737" xml:id="chapter-3-lg-373-l-737">Dat is an mi worden schyn.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-374">
+          <l n="738" xml:id="chapter-3-lg-374-l-738">Ik hadde my vor redet solker mere</l>
+          <l n="739" xml:id="chapter-3-lg-374-l-739">Dat ik iummer mere</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-375">
+          <l n="740" xml:id="chapter-3-lg-375-l-740">Scholde des duuels sin gewesen.</l>
+          <l n="741" xml:id="chapter-3-lg-375-l-741">Se halp my, dat ik bin genesen.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-376">
+          <l n="742" xml:id="chapter-3-lg-376-l-742">Ik wil ok alle tijd na orem loue ringen</l>
+          <l n="743" xml:id="chapter-3-lg-376-l-743">Mit lesen vnde mit singen,</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-377">
+          <l n="744" xml:id="chapter-3-lg-377-l-744">Vnde wil or nummer mer vortigen</l>
+          <l n="745" xml:id="chapter-3-lg-377-l-745">Der soyten iuncfrowen maget Marien.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-378">
+          <l n="746" xml:id="chapter-3-lg-378-l-746">Et sic est finis.</l>
+        </lg>
+        <lg xml:id="chapter-3-lg-379">
+          <l n="747" xml:id="chapter-3-lg-379-l-747">Ach wat was ik vro,</l>
+          <l n="748" xml:id="chapter-3-lg-379-l-748">Do ik sach finito libro.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
