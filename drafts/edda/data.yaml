@@ -3,8 +3,15 @@ text:
   - song[n=Vsp.]:
     - head: VǪLOSPÁ
     - lg[n=1,type=stanza]:
-      - l[n=1]: Hlióðs bið ec allar helgar kindir,
-      - l[n=2]: meiri oc minni, mǫgo Heimdalar;
+      - l[n=1]:
+          srf: Hlióðs bið ec allar helgar kindir,
+          obj: hlióð-s bið ec allar helgar kindir
+          gls: H.-GEN ask 1PRO all holy kin
+          ftr: I ask all holy kin of Hlióðr,
+      - l[n=2]:
+          srf: meiri oc minni, mǫgo Heimdalar;
+          obj: meir-i oc minn-i mǫgo Heimdal-ar
+          gls: 
       - l[n=3]: vildo, at ec, Valfǫðr, vel fyrtelia
       - l[n=4]: forn spiǫll fira, þau er fremst um man.
     - lg[n=2,type=stanza]:
