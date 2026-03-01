@@ -41,8 +41,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="goh-Latn" ana="primary">Old High German (ca. 750-1050)</language>
-        <language ident="lat-Latn" ana="secondary">Latin</language>
+        <language ana="primary" ident="goh-Latn">Old High German (ca. 750-1050)</language>
+        <language ana="secondary" ident="lat-Latn">Latin</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -108,359 +108,359 @@
   </facsimile>
   <text xml:lang="goh-Latn">
     <body>
-      <div n="1" xml:id="chapter-1" type="chapter" data-level="1">
-        <pb main="yes" type="edition-king" n="331" />
-        <pb type="edition-pip" n="851" />
-        <pb type="manuscript-2" n="L60rb" facs="#L60rb" />
-        <pb type="manuscript-2" n="K295v" facs="#K295v" />
+      <div data-level="1" n="1" type="chapter" xml:id="chapter-1">
+        <pb main="yes" n="331" type="edition-king" />
+        <pb n="851" type="edition-pip" />
+        <pb facs="#L60rb" n="L60rb" type="manuscript-2" />
+        <pb facs="#K295v" n="K295v" type="manuscript-2" />
         <p xml:id="chapter-1-p-1">
-          <lb main="yes" type="edition-king" n="35" />
-          <lb type="manuscript" n="35" />An_demo <foreign xml:lang="lat-Latn">regulari monachordo</foreign>
-          <lb main="yes" type="edition-king" n="36" />
-          <lb type="manuscript" n="36" />uuerden ze erist finf-zehen buohsta-
-          <lb main="yes" type="edition-king" n="37" break="no" />
-          <lb type="manuscript" n="37" break="no" />ba . fure also manigen seitun . unte
-          <pb type="manuscript-2" n="L60va" facs="#L60va" />
-          <lb main="yes" type="edition-king" n="1" />
-          <lb type="manuscript" n="1" />si <foreign xml:lang="lat-Latn">.F.</foreign> der_niderosto fure den lengesten
-          <lb main="yes" type="edition-king" n="2" />
-          <lb type="manuscript" n="2" />seitun . der . <foreign xml:lang="lat-Latn">Proslambanomenos</foreign> heizzit .
-          <lb main="yes" type="edition-king" n="3" />
-          <lb type="manuscript" n="3" />unte si_daz oborosta <foreign xml:lang="lat-Latn">.F.</foreign> der churzisto
-          <lb main="yes" type="edition-king" n="4" />
-          <lb type="manuscript" n="4" />seito . der <foreign xml:lang="lat-Latn">nete</foreign> heizzit . unte si_daz mit-
-          <lb main="yes" type="edition-king" n="5" break="no" />
-          <lb type="manuscript" n="5" break="no" />tera <foreign xml:lang="lat-Latn">.F.</foreign> mese . der_zuiualte lengi habe
-          <lb main="yes" type="edition-king" n="6" />
-          <lb type="manuscript" n="6" />gagen <foreign xml:lang="lat-Latn">nete .</foreign> unte si_daz v̂rere <foreign xml:lang="lat-Latn">.B.</foreign>
+          <lb main="yes" n="35" type="edition-king" />
+          <lb n="35" type="manuscript" />An_demo <foreign xml:lang="lat-Latn">regulari monachordo</foreign>
+          <lb main="yes" n="36" type="edition-king" />
+          <lb n="36" type="manuscript" />uuerden ze erist finf-zehen buohsta-
+          <lb break="no" main="yes" n="37" type="edition-king" />
+          <lb break="no" n="37" type="manuscript" />ba . fure also manigen seitun . unte
+          <pb facs="#L60va" n="L60va" type="manuscript-2" />
+          <lb main="yes" n="1" type="edition-king" />
+          <lb n="1" type="manuscript" />si <foreign xml:lang="lat-Latn">.F.</foreign> der_niderosto fure den lengesten
+          <lb main="yes" n="2" type="edition-king" />
+          <lb n="2" type="manuscript" />seitun . der . <foreign xml:lang="lat-Latn">Proslambanomenos</foreign> heizzit .
+          <lb main="yes" n="3" type="edition-king" />
+          <lb n="3" type="manuscript" />unte si_daz oborosta <foreign xml:lang="lat-Latn">.F.</foreign> der churzisto
+          <lb main="yes" n="4" type="edition-king" />
+          <lb n="4" type="manuscript" />seito . der <foreign xml:lang="lat-Latn">nete</foreign> heizzit . unte si_daz mit-
+          <lb break="no" main="yes" n="5" type="edition-king" />
+          <lb break="no" n="5" type="manuscript" />tera <foreign xml:lang="lat-Latn">.F.</foreign> mese . der_zuiualte lengi habe
+          <lb main="yes" n="6" type="edition-king" />
+          <lb n="6" type="manuscript" />gagen <foreign xml:lang="lat-Latn">nete .</foreign> unte si_daz v̂rere <foreign xml:lang="lat-Latn">.B.</foreign>
           <foreign xml:lang="lat-Latn">lycha-</foreign>
-          <lb main="yes" type="edition-king" n="7" break="no" />
-          <lb type="manuscript" n="7" break="no" />
+          <lb break="no" main="yes" n="7" type="edition-king" />
+          <lb break="no" n="7" type="manuscript" />
           <foreign xml:lang="lat-Latn">nos .</foreign> der triualta lengi habe gagen <foreign xml:lang="lat-Latn">nete .</foreign>
-          <lb main="yes" type="edition-king" n="8" />
-          <lb type="manuscript" n="8" />unte si <foreign xml:lang="lat-Latn">Proslambanomenos</foreign> der uier-ual-
-          <lb main="yes" type="edition-king" n="9" break="no" />
-          <lb type="manuscript" n="9" break="no" />ta lengi habe gagen <foreign xml:lang="lat-Latn">nete.</foreign> Tara-nah teile
-          <lb main="yes" type="edition-king" n="10" />
-          <lb type="manuscript" n="10" />
+          <lb main="yes" n="8" type="edition-king" />
+          <lb n="8" type="manuscript" />unte si <foreign xml:lang="lat-Latn">Proslambanomenos</foreign> der uier-ual-
+          <lb break="no" main="yes" n="9" type="edition-king" />
+          <lb break="no" n="9" type="manuscript" />ta lengi habe gagen <foreign xml:lang="lat-Latn">nete.</foreign> Tara-nah teile
+          <lb main="yes" n="10" type="edition-king" />
+          <lb n="10" type="manuscript" />
           <foreign xml:lang="lat-Latn">nete</foreign> in ahte teil . unte sezzo fure
-<lb main="yes" type="edition-king" n="11" />
-          <lb type="manuscript" n="11" />in den ahtoden teil sinero lengi .
-          <lb main="yes" type="edition-king" n="12" />
-          <lb type="manuscript" n="12" />so ist dar . <foreign xml:lang="lat-Latn">Paranete</foreign> . der mit <foreign xml:lang="lat-Latn">.E.</foreign> ge-
-          <lb main="yes" type="edition-king" n="13" break="no" />
-          <lb type="manuscript" n="13" break="no" />zeichenet ist. Ten selben <foreign xml:lang="lat-Latn">paranete</foreign>
-          <lb main="yes" type="edition-king" n="14" />
-          <lb type="manuscript" n="14" />teile aber in ahto teil . unte fure-
-          <lb main="yes" type="edition-king" n="15" break="no" />
-          <lb type="manuscript" n="15" break="no" />sezze imo den ahtoden teil . so ist
-          <lb main="yes" type="edition-king" n="16" />
-          <lb type="manuscript" n="16" />daz trite . der mit <foreign xml:lang="lat-Latn">.D.</foreign> gezeichenet
-          <lb main="yes" type="edition-king" n="17" />
-          <lb type="manuscript" n="17" />ist. So fah aber an_den churzisten
-          <lb main="yes" type="edition-king" n="18" />
-          <lb type="manuscript" n="18" />
+<lb main="yes" n="11" type="edition-king" />
+          <lb n="11" type="manuscript" />in den ahtoden teil sinero lengi .
+          <lb main="yes" n="12" type="edition-king" />
+          <lb n="12" type="manuscript" />so ist dar . <foreign xml:lang="lat-Latn">Paranete</foreign> . der mit <foreign xml:lang="lat-Latn">.E.</foreign> ge-
+          <lb break="no" main="yes" n="13" type="edition-king" />
+          <lb break="no" n="13" type="manuscript" />zeichenet ist. Ten selben <foreign xml:lang="lat-Latn">paranete</foreign>
+          <lb main="yes" n="14" type="edition-king" />
+          <lb n="14" type="manuscript" />teile aber in ahto teil . unte fure-
+          <lb break="no" main="yes" n="15" type="edition-king" />
+          <lb break="no" n="15" type="manuscript" />sezze imo den ahtoden teil . so ist
+          <lb main="yes" n="16" type="edition-king" />
+          <lb n="16" type="manuscript" />daz trite . der mit <foreign xml:lang="lat-Latn">.D.</foreign> gezeichenet
+          <lb main="yes" n="17" type="edition-king" />
+          <lb n="17" type="manuscript" />ist. So fah aber an_den churzisten
+          <lb main="yes" n="18" type="edition-king" />
+          <lb n="18" type="manuscript" />
           <foreign xml:lang="lat-Latn">nete .</foreign> unte teile in nin_driu . unte
-<lb main="yes" type="edition-king" n="19" />
-          <lb type="manuscript" n="19" />fure-sezze_imo den dritten teil si-
-          <lb main="yes" type="edition-king" n="20" break="no" />
-          <lb type="manuscript" n="20" break="no" />nero lengi . so_habest tu <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
-          <lb main="yes" type="edition-king" n="21" break="no" />
-          <lb type="manuscript" n="21" break="no" />
+<lb main="yes" n="19" type="edition-king" />
+          <lb n="19" type="manuscript" />fure-sezze_imo den dritten teil si-
+          <lb break="no" main="yes" n="20" type="edition-king" />
+          <lb break="no" n="20" type="manuscript" />nero lengi . so_habest tu <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
+          <lb break="no" main="yes" n="21" type="edition-king" />
+          <lb break="no" n="21" type="manuscript" />
           <foreign xml:lang="lat-Latn">menon .</foreign> der_mit <foreign xml:lang="lat-Latn">.C.</foreign> gezeichenot ist.
-<pb main="yes" type="edition-king" n="333" />
-          <pb type="manuscript-2" n="K296r" facs="#K296r" />
-          <lb main="yes" type="edition-king" n="22" />
-          <lb type="manuscript" n="22" />So_teile aber in_zuei den churzesten
-          <lb main="yes" type="edition-king" n="23" />
-          <lb type="manuscript" n="23" />
+<pb main="yes" n="333" type="edition-king" />
+          <pb facs="#K296r" n="K296r" type="manuscript-2" />
+          <lb main="yes" n="22" type="edition-king" />
+          <lb n="22" type="manuscript" />So_teile aber in_zuei den churzesten
+          <lb main="yes" n="23" type="edition-king" />
+          <lb n="23" type="manuscript" />
           <foreign xml:lang="lat-Latn">nete .</foreign> unte fure-sezzi imo den halben
-<lb main="yes" type="edition-king" n="24" />
-          <lb type="manuscript" n="24" />teil sinero lengi . so_habest tu <foreign xml:lang="lat-Latn">parane-</foreign>
-          <pb type="edition-pip" n="852" break="no" />
-          <lb main="yes" type="edition-king" n="25" break="no" />
-          <lb type="manuscript" n="25" break="no" />
+<lb main="yes" n="24" type="edition-king" />
+          <lb n="24" type="manuscript" />teil sinero lengi . so_habest tu <foreign xml:lang="lat-Latn">parane-</foreign>
+          <pb break="no" n="852" type="edition-pip" />
+          <lb break="no" main="yes" n="25" type="edition-king" />
+          <lb break="no" n="25" type="manuscript" />
           <foreign xml:lang="lat-Latn">te</foreign>
           <foreign xml:lang="lat-Latn">diezeugmenon .</foreign> der_mit <foreign xml:lang="lat-Latn">.B.</foreign> ge-
-<lb main="yes" type="edition-king" n="26" break="no" />
-          <lb type="manuscript" n="26" break="no" />zeichenot ist. Ten selben teile in_ah-
-          <lb main="yes" type="edition-king" n="27" break="no" />
-          <lb type="manuscript" n="27" break="no" />to teil . unte fure-sezze_imo daz
-          <lb main="yes" type="edition-king" n="28" />
-          <lb type="manuscript" n="28" />ahtoda . so_habest tu trite <foreign xml:lang="lat-Latn">diezeug-</foreign>
-          <lb main="yes" type="edition-king" n="29" break="no" />
-          <lb type="manuscript" n="29" break="no" />
+<lb break="no" main="yes" n="26" type="edition-king" />
+          <lb break="no" n="26" type="manuscript" />zeichenot ist. Ten selben teile in_ah-
+          <lb break="no" main="yes" n="27" type="edition-king" />
+          <lb break="no" n="27" type="manuscript" />to teil . unte fure-sezze_imo daz
+          <lb main="yes" n="28" type="edition-king" />
+          <lb n="28" type="manuscript" />ahtoda . so_habest tu trite <foreign xml:lang="lat-Latn">diezeug-</foreign>
+          <lb break="no" main="yes" n="29" type="edition-king" />
+          <lb break="no" n="29" type="manuscript" />
           <foreign xml:lang="lat-Latn">menon</foreign> der_mit <foreign xml:lang="lat-Latn">.A.</foreign> gezeichenet ist.
-<lb main="yes" type="edition-king" n="30" />
-          <lb type="manuscript" n="30" />Tara-nah sih uuio lanc <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
-          <lb main="yes" type="edition-king" n="31" break="no" />
-          <lb type="manuscript" n="31" break="no" />
+<lb main="yes" n="30" type="edition-king" />
+          <lb n="30" type="manuscript" />Tara-nah sih uuio lanc <foreign xml:lang="lat-Latn">nete diezeug-</foreign>
+          <lb break="no" main="yes" n="31" type="edition-king" />
+          <lb break="no" n="31" type="manuscript" />
           <foreign xml:lang="lat-Latn">menon</foreign> si . unte fure-sezze_imo sinen
-<lb main="yes" type="edition-king" n="32" />
-          <lb type="manuscript" n="32" />dritten teil . so_habest tu <foreign xml:lang="lat-Latn">paramese .</foreign>
-          <lb main="yes" type="edition-king" n="33" />
-          <lb type="manuscript" n="33" />der_mit <foreign xml:lang="lat-Latn">.G.</foreign> gezeichenet ist. Temo
-          <lb main="yes" type="edition-king" n="34" />
-          <lb type="manuscript" n="34" />folget mese . dei_mit <foreign xml:lang="lat-Latn">.F.</foreign> gezeiche-
-          <lb main="yes" type="edition-king" n="35" break="no" />
-          <lb type="manuscript" n="35" break="no" />net ist . der_demo churzisten <foreign xml:lang="lat-Latn">nete</foreign>
-          <lb main="yes" type="edition-king" n="36" />
-          <lb type="manuscript" n="36" />in_zuiualtero geroubi <foreign xml:lang="lat-Latn">inquęt .</foreign> uuan-
-          <lb main="yes" type="edition-king" n="37" break="no" />
-          <lb type="manuscript" n="37" break="no" />ta er zui-ualtero lengi habet . also
-          <pb type="manuscript-2" n="L60vb" facs="#L60vb" />
-          <lb main="yes" type="edition-king" n="1" />
-          <lb type="manuscript" n="1" />imo ouh tie andra so_uilo gerobor uel  oborore in-
-          <lb main="yes" type="edition-king" n="2" break="no" />
-          <lb type="manuscript" n="2" break="no" />quedent . so_uilo so_si lengeren sint.
-          <lb main="yes" type="edition-king" n="3" />
-          <lb type="manuscript" n="3" />Tara-nah fure-sezze mese sinen ah-
-          <lb main="yes" type="edition-king" n="4" break="no" />
-          <lb type="manuscript" n="4" break="no" />toden teil . so_ist daz <foreign xml:lang="lat-Latn">lychanos_meson</foreign>
-          <lb main="yes" type="edition-king" n="5" />
-          <lb type="manuscript" n="5" />mit <foreign xml:lang="lat-Latn">.E.</foreign> Temo fure-sezze ouh sinen
-          <lb main="yes" type="edition-king" n="6" />
-          <lb type="manuscript" n="6" />ahtoden teil . daz ist <foreign xml:lang="lat-Latn">parypate me-</foreign>
-          <lb main="yes" type="edition-king" n="7" break="no" />
-          <lb type="manuscript" n="7" break="no" />
+<lb main="yes" n="32" type="edition-king" />
+          <lb n="32" type="manuscript" />dritten teil . so_habest tu <foreign xml:lang="lat-Latn">paramese .</foreign>
+          <lb main="yes" n="33" type="edition-king" />
+          <lb n="33" type="manuscript" />der_mit <foreign xml:lang="lat-Latn">.G.</foreign> gezeichenet ist. Temo
+          <lb main="yes" n="34" type="edition-king" />
+          <lb n="34" type="manuscript" />folget mese . dei_mit <foreign xml:lang="lat-Latn">.F.</foreign> gezeiche-
+          <lb break="no" main="yes" n="35" type="edition-king" />
+          <lb break="no" n="35" type="manuscript" />net ist . der_demo churzisten <foreign xml:lang="lat-Latn">nete</foreign>
+          <lb main="yes" n="36" type="edition-king" />
+          <lb n="36" type="manuscript" />in_zuiualtero geroubi <foreign xml:lang="lat-Latn">inquęt .</foreign> uuan-
+          <lb break="no" main="yes" n="37" type="edition-king" />
+          <lb break="no" n="37" type="manuscript" />ta er zui-ualtero lengi habet . also
+          <pb facs="#L60vb" n="L60vb" type="manuscript-2" />
+          <lb main="yes" n="1" type="edition-king" />
+          <lb n="1" type="manuscript" />imo ouh tie andra so_uilo gerobor uel  oborore in-
+          <lb break="no" main="yes" n="2" type="edition-king" />
+          <lb break="no" n="2" type="manuscript" />quedent . so_uilo so_si lengeren sint.
+          <lb main="yes" n="3" type="edition-king" />
+          <lb n="3" type="manuscript" />Tara-nah fure-sezze mese sinen ah-
+          <lb break="no" main="yes" n="4" type="edition-king" />
+          <lb break="no" n="4" type="manuscript" />toden teil . so_ist daz <foreign xml:lang="lat-Latn">lychanos_meson</foreign>
+          <lb main="yes" n="5" type="edition-king" />
+          <lb n="5" type="manuscript" />mit <foreign xml:lang="lat-Latn">.E.</foreign> Temo fure-sezze ouh sinen
+          <lb main="yes" n="6" type="edition-king" />
+          <lb n="6" type="manuscript" />ahtoden teil . daz ist <foreign xml:lang="lat-Latn">parypate me-</foreign>
+          <lb break="no" main="yes" n="7" type="edition-king" />
+          <lb break="no" n="7" type="manuscript" />
           <foreign xml:lang="lat-Latn">son</foreign> mit <foreign xml:lang="lat-Latn">.D.</foreign> So_teile danne <foreign xml:lang="lat-Latn">parame-</foreign>
-          <lb main="yes" type="edition-king" n="8" break="no" />
-          <lb type="manuscript" n="8" break="no" />
+          <lb break="no" main="yes" n="8" type="edition-king" />
+          <lb break="no" n="8" type="manuscript" />
           <foreign xml:lang="lat-Latn">se</foreign> in_zuei . unte fure-sezze imo sinen
-<lb main="yes" type="edition-king" n="10" />
-          <lb type="manuscript" n="9" />halben teil . daz ist <foreign xml:lang="lat-Latn">ypate_meson .</foreign>
-          <pb main="yes" type="edition-king" n="335" />
-          <pb type="manuscript-2" n="K296v" facs="#K296v" />
-          <lb main="yes" type="edition-king" n="10" />
-          <lb type="manuscript" n="10" />mit <foreign xml:lang="lat-Latn">.C.</foreign> Nah demo ist <foreign xml:lang="lat-Latn">lychanos_ypa-</foreign>
-          <lb main="yes" type="edition-king" n="11" break="no" />
-          <lb type="manuscript" n="11" break="no" />
+<lb main="yes" n="10" type="edition-king" />
+          <lb n="9" type="manuscript" />halben teil . daz ist <foreign xml:lang="lat-Latn">ypate_meson .</foreign>
+          <pb main="yes" n="335" type="edition-king" />
+          <pb facs="#K296v" n="K296v" type="manuscript-2" />
+          <lb main="yes" n="10" type="edition-king" />
+          <lb n="10" type="manuscript" />mit <foreign xml:lang="lat-Latn">.C.</foreign> Nah demo ist <foreign xml:lang="lat-Latn">lychanos_ypa-</foreign>
+          <lb break="no" main="yes" n="11" type="edition-king" />
+          <lb break="no" n="11" type="manuscript" />
           <foreign xml:lang="lat-Latn">ton</foreign> mit <foreign xml:lang="lat-Latn">.B.</foreign> der driualta geroluti
-<lb main="yes" type="edition-king" n="12" />
-          <lb type="manuscript" n="12" />ubi habet gagen demo churzisten
-          <lb main="yes" type="edition-king" n="13" />
-          <lb type="manuscript" n="13" />
+<lb main="yes" n="12" type="edition-king" />
+          <lb n="12" type="manuscript" />ubi habet gagen demo churzisten
+          <lb main="yes" n="13" type="edition-king" />
+          <lb n="13" type="manuscript" />
           <foreign xml:lang="lat-Latn">nete .</foreign> uuanta er driualta lengi habet.
-<lb main="yes" type="edition-king" n="14" />
-          <lb type="manuscript" n="14" />Sezze danne fure <foreign xml:lang="lat-Latn">lychanum</foreign> sinen
-          <lb main="yes" type="edition-king" n="15" />
-          <lb type="manuscript" n="15" />ahtoden teil . daz ist <foreign xml:lang="lat-Latn">parypate_ypa-</foreign>
-          <lb main="yes" type="edition-king" n="16" break="no" />
-          <lb type="manuscript" n="16" break="no" />
+<lb main="yes" n="14" type="edition-king" />
+          <lb n="14" type="manuscript" />Sezze danne fure <foreign xml:lang="lat-Latn">lychanum</foreign> sinen
+          <lb main="yes" n="15" type="edition-king" />
+          <lb n="15" type="manuscript" />ahtoden teil . daz ist <foreign xml:lang="lat-Latn">parypate_ypa-</foreign>
+          <lb break="no" main="yes" n="16" type="edition-king" />
+          <lb break="no" n="16" type="manuscript" />
           <foreign xml:lang="lat-Latn">ton</foreign> mit <foreign xml:lang="lat-Latn">.A.</foreign> Nim dara-nah den drit-
-<lb main="yes" type="edition-king" n="17" break="no" />
-          <lb type="manuscript" n="17" break="no" />ten teil tes <foreign xml:lang="lat-Latn">ypate_meson .</foreign> unde fure-
-          <lb main="yes" type="edition-king" n="18" break="no" />
-          <lb type="manuscript" n="18" break="no" />sezze_imo . daz ist <foreign xml:lang="lat-Latn">ypate_ypaton</foreign>
-          <lb main="yes" type="edition-king" n="19" />
-          <lb type="manuscript" n="19" />mit <foreign xml:lang="lat-Latn">.G.</foreign> Sezze aber demo selben
-          <lb main="yes" type="edition-king" n="20" />
-          <lb type="manuscript" n="20" />
+<lb break="no" main="yes" n="17" type="edition-king" />
+          <lb break="no" n="17" type="manuscript" />ten teil tes <foreign xml:lang="lat-Latn">ypate_meson .</foreign> unde fure-
+          <lb break="no" main="yes" n="18" type="edition-king" />
+          <lb break="no" n="18" type="manuscript" />sezze_imo . daz ist <foreign xml:lang="lat-Latn">ypate_ypaton</foreign>
+          <lb main="yes" n="19" type="edition-king" />
+          <lb n="19" type="manuscript" />mit <foreign xml:lang="lat-Latn">.G.</foreign> Sezze aber demo selben
+          <lb main="yes" n="20" type="edition-king" />
+          <lb n="20" type="manuscript" />
           <foreign xml:lang="lat-Latn">ypate_ypaton</foreign> sinen ahtoden teil fure .
-<lb main="yes" type="edition-king" n="21" />
-          <lb type="manuscript" n="21" />daz ist . <foreign xml:lang="lat-Latn">proslambanomenos</foreign> mit <foreign xml:lang="lat-Latn">.F.</foreign>
-          <lb main="yes" type="edition-king" n="22" />
-          <lb type="manuscript" n="22" />der fier-ualt gerobero ist denne der
-          <lb main="yes" type="edition-king" n="23" />
-          <lb type="manuscript" n="23" />churzisto <foreign xml:lang="lat-Latn">nete .</foreign> uuanta er fier-ualt
-          <lb main="yes" type="edition-king" n="24" />
-          <lb type="manuscript" n="24" />lengero ist. Noh danne fure <foreign xml:lang="lat-Latn">proslam-</foreign>
-          <lb main="yes" type="edition-king" n="25" break="no" />
-          <lb type="manuscript" n="25" break="no" />
+<lb main="yes" n="21" type="edition-king" />
+          <lb n="21" type="manuscript" />daz ist . <foreign xml:lang="lat-Latn">proslambanomenos</foreign> mit <foreign xml:lang="lat-Latn">.F.</foreign>
+          <lb main="yes" n="22" type="edition-king" />
+          <lb n="22" type="manuscript" />der fier-ualt gerobero ist denne der
+          <lb main="yes" n="23" type="edition-king" />
+          <lb n="23" type="manuscript" />churzisto <foreign xml:lang="lat-Latn">nete .</foreign> uuanta er fier-ualt
+          <lb main="yes" n="24" type="edition-king" />
+          <lb n="24" type="manuscript" />lengero ist. Noh danne fure <foreign xml:lang="lat-Latn">proslam-</foreign>
+          <lb break="no" main="yes" n="25" type="edition-king" />
+          <lb break="no" n="25" type="manuscript" />
           <foreign xml:lang="lat-Latn">banomeno</foreign> sinen ahtoden teil mit <foreign xml:lang="lat-Latn">.F.</foreign>
-          <lb main="yes" type="edition-king" n="26" />
-          <lb type="manuscript" n="26" />unte habe mit diu gezeichenet den
-          <lb main="yes" type="edition-king" n="27" />
-          <lb type="manuscript" n="27" />seh-zehentun seitun ane namen . daz
-          <lb main="yes" type="edition-king" n="28" />
-          <lb type="manuscript" n="28" />
+          <lb main="yes" n="26" type="edition-king" />
+          <lb n="26" type="manuscript" />unte habe mit diu gezeichenet den
+          <lb main="yes" n="27" type="edition-king" />
+          <lb n="27" type="manuscript" />seh-zehentun seitun ane namen . daz
+          <lb main="yes" n="28" type="edition-king" />
+          <lb n="28" type="manuscript" />
           <foreign xml:lang="lat-Latn">primo tono</foreign> dar negebreste sinero
-<lb main="yes" type="edition-king" n="29" />
-          <lb type="manuscript" n="29" />gerobustun lutun. Suslicha mazza
-          <lb main="yes" type="edition-king" n="30" />
-          <lb type="manuscript" n="30" />habet daz <foreign xml:lang="lat-Latn">regulare monochordum</foreign>
-          <lb main="yes" type="edition-king" n="31" />
-          <lb type="manuscript" n="31" />in_ <foreign xml:lang="lat-Latn">diatonico genere.</foreign> Uuio-lich si uue-
-          <lb main="yes" type="edition-king" n="32" break="no" />
-          <lb type="manuscript" n="32" break="no" />sen sule in_ <foreign xml:lang="lat-Latn">chromatico</foreign> unte in <foreign xml:lang="lat-Latn">armo-</foreign>
-          <lb main="yes" type="edition-king" n="33" break="no" />
-          <lb type="manuscript" n="33" break="no" />
+<lb main="yes" n="29" type="edition-king" />
+          <lb n="29" type="manuscript" />gerobustun lutun. Suslicha mazza
+          <lb main="yes" n="30" type="edition-king" />
+          <lb n="30" type="manuscript" />habet daz <foreign xml:lang="lat-Latn">regulare monochordum</foreign>
+          <lb main="yes" n="31" type="edition-king" />
+          <lb n="31" type="manuscript" />in_ <foreign xml:lang="lat-Latn">diatonico genere.</foreign> Uuio-lich si uue-
+          <lb break="no" main="yes" n="32" type="edition-king" />
+          <lb break="no" n="32" type="manuscript" />sen sule in_ <foreign xml:lang="lat-Latn">chromatico</foreign> unte in <foreign xml:lang="lat-Latn">armo-</foreign>
+          <lb break="no" main="yes" n="33" type="edition-king" />
+          <lb break="no" n="33" type="manuscript" />
           <foreign xml:lang="lat-Latn">nico</foreign>
           <foreign xml:lang="lat-Latn">genere .</foreign> daz lierne in_ <foreign xml:lang="lat-Latn">musica</foreign>
-          <pb type="edition-pip" n="853" />
-          <pb type="manuscript-2" n="K297r" facs="#K297r" />
-          <lb main="yes" type="edition-king" n="34" />
-          <lb type="manuscript" n="34" />
+          <pb n="853" type="edition-pip" />
+          <pb facs="#K297r" n="K297r" type="manuscript-2" />
+          <lb main="yes" n="34" type="edition-king" />
+          <lb n="34" type="manuscript" />
           <foreign xml:lang="lat-Latn">boetii. Diatonicum</foreign> ist echert nu
-<lb main="yes" type="edition-king" n="35" />
-          <lb type="manuscript" n="35" />in_ <foreign xml:lang="lat-Latn">usu .</foreign> daz chit tęa_einan slatha san-
-          <lb main="yes" type="edition-king" n="36" break="no" />
-          <lb type="manuscript" n="36" break="no" />ges V́obet man_nu . unte diu ist_nu
-          <lb main="yes" type="edition-king" n="37" />
-          <lb type="manuscript" n="37" />genge . also ouh iu_uoro ena_zuo uuaren.</p>
+<lb main="yes" n="35" type="edition-king" />
+          <lb n="35" type="manuscript" />in_ <foreign xml:lang="lat-Latn">usu .</foreign> daz chit tęa_einan slatha san-
+          <lb break="no" main="yes" n="36" type="edition-king" />
+          <lb break="no" n="36" type="manuscript" />ges V́obet man_nu . unte diu ist_nu
+          <lb main="yes" n="37" type="edition-king" />
+          <lb n="37" type="manuscript" />genge . also ouh iu_uoro ena_zuo uuaren.</p>
       </div>
-      <div n="5" xml:id="chapter-2" type="chapter" data-level="1">
-        <pb main="yes" type="edition-king" n="340" />
-        <pb type="manuscript-2" n="L61ra" facs="#L61ra" />
-        <pb type="manuscript-2" n="N50v 1" facs="#N50v_1" />
+      <div data-level="1" n="5" type="chapter" xml:id="chapter-2">
+        <pb main="yes" n="340" type="edition-king" />
+        <pb facs="#L61ra" n="L61ra" type="manuscript-2" />
+        <pb facs="#N50v_1" n="N50v 1" type="manuscript-2" />
         <p xml:id="chapter-2-p-2">
-          <lb main="yes" type="edition-king" n="1" />
-          <lb type="manuscript" n="27" />Sid tu_nu_benechennest uuio alle_die
-          <lb type="manuscript" n="28" />suegalan ein-anderen
-          <lb main="yes" type="edition-king" n="2" />encheden .
-          <lb type="manuscript" n="29" />so_ne-bedrieze dich ouch iro mazza
-          <lb type="manuscript" n="30" />ze_lirnenne. <foreign xml:lang="lat-Latn">PRIMA.</foreign>
-          <lb main="yes" type="edition-king" n="3" />Macha dia_eristun
-          <lb type="manuscript" n="31" />so_langa unte so uuita so_du uuellest . de/ro
-          <lb type="manuscript" n="32" />uuiti
-          <lb main="yes" type="edition-king" n="4" />sulen_sio alle_sin . unte miz_tia
-          <lb type="manuscript" n="33" />anderun bi_dero eristun sus. Sih ze/
-          <lb main="yes" type="edition-king" n="5" />
-          <lb type="manuscript" n="34" />erist uuio uuit si sî . du uuîti heizet
-          <lb type="manuscript" n="35" />
+          <lb main="yes" n="1" type="edition-king" />
+          <lb n="27" type="manuscript" />Sid tu_nu_benechennest uuio alle_die
+          <lb n="28" type="manuscript" />suegalan ein-anderen
+          <lb main="yes" n="2" type="edition-king" />encheden .
+          <lb n="29" type="manuscript" />so_ne-bedrieze dich ouch iro mazza
+          <lb n="30" type="manuscript" />ze_lirnenne. <foreign xml:lang="lat-Latn">PRIMA.</foreign>
+          <lb main="yes" n="3" type="edition-king" />Macha dia_eristun
+          <lb n="31" type="manuscript" />so_langa unte so uuita so_du uuellest . de/ro
+          <lb n="32" type="manuscript" />uuiti
+          <lb main="yes" n="4" type="edition-king" />sulen_sio alle_sin . unte miz_tia
+          <lb n="33" type="manuscript" />anderun bi_dero eristun sus. Sih ze/
+          <lb main="yes" n="5" type="edition-king" />
+          <lb n="34" type="manuscript" />erist uuio uuit si sî . du uuîti heizet
+          <lb n="35" type="manuscript" />
           <foreign xml:lang="lat-Latn">diametrum</foreign>
           <foreign xml:lang="lat-Latn">.II.</foreign> Tara-nah la an_-
-<lb main="yes" type="edition-king" n="6" break="no" />
-          <lb type="manuscript" n="36" break="no" />_dero. eristun suegelun lengi fore . den
-          <lb type="manuscript" n="37" />ahtoden teil dero uuîti . unte
-          <lb main="yes" type="edition-king" n="7" />teile
-          <pb type="manuscript-2" n="L61rb" facs="#L61rb" />
-          <lb main="yes" type="edition-king" n="7" />
-          <lb type="manuscript" n="1" />sîa dannan nider unze ze_dero zun/gun
-          <lb type="manuscript" n="2" />diu <foreign xml:lang="lat-Latn">plectrum</foreign> heizet .
-          <lb main="yes" type="edition-king" n="8" />in_niun
-          <lb type="manuscript" n="3" />teil eben-micheliu. Dero niun teilo gib
-          <lb type="manuscript" n="4" />ahto teil dero anderun .
-          <lb main="yes" type="edition-king" n="9" />daz ist iro
-          <lb type="manuscript" n="5" />lengi fon_dero zungun ûf <foreign xml:lang="lat-Latn">.III.</foreign> Lâ_da/ra-nah
-          <lb type="manuscript" n="6" />fore an_dero
-          <lb main="yes" type="edition-king" n="10" />anderun suue/gelun
-          <lb type="manuscript" n="7" />lengi zuene ahto_teila des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
-          <lb type="manuscript" n="8" />vnta teila
-          <lb main="yes" type="edition-king" n="11" />daz ander aber
-          <lb type="manuscript" n="9" />also in nuniu . vnte gib_tero niuno
-          <lb type="manuscript" n="10" />ahto teil der der
-          <lb main="yes" type="edition-king" n="12" />trittun . daz ist
-          <lb type="manuscript" n="11" />iro lengi fon_dero zungun v̂f. Nim <foreign xml:lang="lat-Latn">.IIII.</foreign>
-          <lb type="manuscript" n="12" />dara-nâh tie
-          <lb main="yes" type="edition-king" n="13" />eristun . unte la fora
-          <lb type="manuscript" n="13" />an_iro lengi den drittun teil des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
-          <lb main="yes" type="edition-king" n="14" />
-          <lb type="manuscript" n="14" />unte teila sîa dannan nider
-          <lb type="manuscript" n="15" />unza ze_dero zungun fiar_teil . unte
-          <lb type="manuscript" n="16" />dero
-          <lb main="yes" type="edition-king" n="15" />gib driu dero fierdun . daz ist
-          <lb type="manuscript" n="17" />iro lengi. Vnte unze dara giêt . <foreign xml:lang="lat-Latn">dya-</foreign>
-          <lb main="yes" type="edition-king" n="16" break="no" />
-          <lb type="manuscript" n="18" break="no" />
+<lb break="no" main="yes" n="6" type="edition-king" />
+          <lb break="no" n="36" type="manuscript" />_dero. eristun suegelun lengi fore . den
+          <lb n="37" type="manuscript" />ahtoden teil dero uuîti . unte
+          <lb main="yes" n="7" type="edition-king" />teile
+          <pb facs="#L61rb" n="L61rb" type="manuscript-2" />
+          <lb main="yes" n="7" type="edition-king" />
+          <lb n="1" type="manuscript" />sîa dannan nider unze ze_dero zun/gun
+          <lb n="2" type="manuscript" />diu <foreign xml:lang="lat-Latn">plectrum</foreign> heizet .
+          <lb main="yes" n="8" type="edition-king" />in_niun
+          <lb n="3" type="manuscript" />teil eben-micheliu. Dero niun teilo gib
+          <lb n="4" type="manuscript" />ahto teil dero anderun .
+          <lb main="yes" n="9" type="edition-king" />daz ist iro
+          <lb n="5" type="manuscript" />lengi fon_dero zungun ûf <foreign xml:lang="lat-Latn">.III.</foreign> Lâ_da/ra-nah
+          <lb n="6" type="manuscript" />fore an_dero
+          <lb main="yes" n="10" type="edition-king" />anderun suue/gelun
+          <lb n="7" type="manuscript" />lengi zuene ahto_teila des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
+          <lb n="8" type="manuscript" />vnta teila
+          <lb main="yes" n="11" type="edition-king" />daz ander aber
+          <lb n="9" type="manuscript" />also in nuniu . vnte gib_tero niuno
+          <lb n="10" type="manuscript" />ahto teil der der
+          <lb main="yes" n="12" type="edition-king" />trittun . daz ist
+          <lb n="11" type="manuscript" />iro lengi fon_dero zungun v̂f. Nim <foreign xml:lang="lat-Latn">.IIII.</foreign>
+          <lb n="12" type="manuscript" />dara-nâh tie
+          <lb main="yes" n="13" type="edition-king" />eristun . unte la fora
+          <lb n="13" type="manuscript" />an_iro lengi den drittun teil des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
+          <lb main="yes" n="14" type="edition-king" />
+          <lb n="14" type="manuscript" />unte teila sîa dannan nider
+          <lb n="15" type="manuscript" />unza ze_dero zungun fiar_teil . unte
+          <lb n="16" type="manuscript" />dero
+          <lb main="yes" n="15" type="edition-king" />gib driu dero fierdun . daz ist
+          <lb n="17" type="manuscript" />iro lengi. Vnte unze dara giêt . <foreign xml:lang="lat-Latn">dya-</foreign>
+          <lb break="no" main="yes" n="16" type="edition-king" />
+          <lb break="no" n="18" type="manuscript" />
           <foreign xml:lang="lat-Latn">tesseron .</foreign> mit <foreign xml:lang="lat-Latn">tono tono semitonio.</foreign>
-          <lb type="manuscript" n="19" />Vnte fer-nim ioh ze_iegelichemo
-          <pb type="manuscript-3" n="M75r 1" />
-          <lb main="yes" type="edition-king" n="17" />male <foreign xml:lang="lat-Latn">.V.</foreign>
-          <lb type="manuscript" n="20" />fon_
-          <pb main="yes" type="edition-king" n="342" />
-          <lb main="yes" type="edition-king" n="1" />_dero zungun ûf. So_nim aber dia
-          <lb type="manuscript" n="21" />eristun la fore an iro lengi
-          <lb main="yes" type="edition-king" n="2" />den halben
-          <lb type="manuscript" n="22" />teil iro uuîti . unte teila sîa in_driu
-          <lb type="manuscript" n="23" />teil . unte gib
-          <lb main="yes" type="edition-king" n="3" />dero zuei dero finftun .
-          <lb type="manuscript" n="24" />daz ist iro lengi. Nim dara-nah sel- <foreign xml:lang="lat-Latn">bun .VI.</foreign>
-          <lb main="yes" type="edition-king" n="4" />
-          <lb type="manuscript" n="25" />dia finftun unte la in_iro lengi
-          <lb type="manuscript" n="26" />fore den ahtoden teil des <foreign xml:lang="lat-Latn">diametri .</foreign>
-          <lb main="yes" type="edition-king" n="5" />
-          <lb type="manuscript" n="27" />unte teila sîa in_niun teil . unte gib
-          <lb type="manuscript" n="28" />tero ahto-uuiv dero sehstun . an_
-          <lb main="yes" type="edition-king" n="6" />_dero
-          <lb type="manuscript" n="29" />stete scoltu <foreign xml:lang="lat-Latn">sinomenon</foreign> haben. La
-          <lb type="manuscript" n="30" />an_dero fierdun fore den halben
-          <lb main="yes" type="edition-king" n="7" />teil
-          <lb type="manuscript" n="31" />des <foreign xml:lang="lat-Latn">diametri .</foreign> unte teile daz ander
-          <lb type="manuscript" n="32" />in_fieriu . unte gib dero driu
-          <lb main="yes" type="edition-king" n="8" />demo
-          <lb type="manuscript" n="33" />
+          <lb n="19" type="manuscript" />Vnte fer-nim ioh ze_iegelichemo
+          <pb n="M75r 1" type="manuscript-3" />
+          <lb main="yes" n="17" type="edition-king" />male <foreign xml:lang="lat-Latn">.V.</foreign>
+          <lb n="20" type="manuscript" />fon_
+          <pb main="yes" n="342" type="edition-king" />
+          <lb main="yes" n="1" type="edition-king" />_dero zungun ûf. So_nim aber dia
+          <lb n="21" type="manuscript" />eristun la fore an iro lengi
+          <lb main="yes" n="2" type="edition-king" />den halben
+          <lb n="22" type="manuscript" />teil iro uuîti . unte teila sîa in_driu
+          <lb n="23" type="manuscript" />teil . unte gib
+          <lb main="yes" n="3" type="edition-king" />dero zuei dero finftun .
+          <lb n="24" type="manuscript" />daz ist iro lengi. Nim dara-nah sel- <foreign xml:lang="lat-Latn">bun .VI.</foreign>
+          <lb main="yes" n="4" type="edition-king" />
+          <lb n="25" type="manuscript" />dia finftun unte la in_iro lengi
+          <lb n="26" type="manuscript" />fore den ahtoden teil des <foreign xml:lang="lat-Latn">diametri .</foreign>
+          <lb main="yes" n="5" type="edition-king" />
+          <lb n="27" type="manuscript" />unte teila sîa in_niun teil . unte gib
+          <lb n="28" type="manuscript" />tero ahto-uuiv dero sehstun . an_
+          <lb main="yes" n="6" type="edition-king" />_dero
+          <lb n="29" type="manuscript" />stete scoltu <foreign xml:lang="lat-Latn">sinomenon</foreign> haben. La
+          <lb n="30" type="manuscript" />an_dero fierdun fore den halben
+          <lb main="yes" n="7" type="edition-king" />teil
+          <lb n="31" type="manuscript" />des <foreign xml:lang="lat-Latn">diametri .</foreign> unte teile daz ander
+          <lb n="32" type="manuscript" />in_fieriu . unte gib dero driu
+          <lb main="yes" n="8" type="edition-king" />demo
+          <lb n="33" type="manuscript" />
           <foreign xml:lang="lat-Latn">sinonmenon .</foreign> daz ist iro lengi. |p7 Tara/nah <foreign xml:lang="lat-Latn">.VII.</foreign>
-          <lb type="manuscript" n="34" />miz tie sibuntun bi_
-          <lb main="yes" type="edition-king" n="9" />_dero sehstun.
-          <lb type="manuscript" n="35" />Teile daz <foreign xml:lang="lat-Latn">diametrum</foreign> in_ahto teil .
-          <lb type="manuscript" n="36" />unte lâ daz ahtoda fore .
-          <lb main="yes" type="edition-king" n="10" />unte fon
-          <lb type="manuscript" n="37" />dero zungun ûf teil daz ander
-          <pb type="manuscript-2" n="L61va" facs="#L61va" />
-          <lb main="yes" type="edition-king" n="10" />
-          <lb type="manuscript" n="1" />in_niuniu . unte gib dero
-          <lb main="yes" type="edition-king" n="11" />ahto-uuiu
-          <lb type="manuscript" n="2" />dero sibentun . daz ist iro maza.
-          <lb type="manuscript" n="3" />
+          <lb n="34" type="manuscript" />miz tie sibuntun bi_
+          <lb main="yes" n="9" type="edition-king" />_dero sehstun.
+          <lb n="35" type="manuscript" />Teile daz <foreign xml:lang="lat-Latn">diametrum</foreign> in_ahto teil .
+          <lb n="36" type="manuscript" />unte lâ daz ahtoda fore .
+          <lb main="yes" n="10" type="edition-king" />unte fon
+          <lb n="37" type="manuscript" />dero zungun ûf teil daz ander
+          <pb facs="#L61va" n="L61va" type="manuscript-2" />
+          <lb main="yes" n="10" type="edition-king" />
+          <lb n="1" type="manuscript" />in_niuniu . unte gib dero
+          <lb main="yes" n="11" type="edition-king" />ahto-uuiu
+          <lb n="2" type="manuscript" />dero sibentun . daz ist iro maza.
+          <lb n="3" type="manuscript" />
           <foreign xml:lang="lat-Latn">.VIII.</foreign> Danne miz_tie ahtodun
-<lb main="yes" type="edition-king" n="12" />bi_dero eristun .
-<lb type="manuscript" n="4" />lâ in_dero eristun fore so_uilo des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
-          <lb type="manuscript" n="5" />si .
-          <lb main="yes" type="edition-king" n="13" />daz chit la fore alle die_uui/ti .
-          <lb type="manuscript" n="6" />unte teile daz ander in_zuei eben
-          <lb main="yes" type="edition-king" n="14" />
-          <lb type="manuscript" n="7" />michiliu teil . unte gib einez dero
-          <lb type="manuscript" n="8" />ahtodun . daz ist iro lengi fonne
-          <lb main="yes" type="edition-king" n="15" />
-          <lb type="manuscript" n="9" />demo <foreign xml:lang="lat-Latn">plectro</foreign> ûf. Vnze dara gat <foreign xml:lang="lat-Latn">dya</foreign>
-          <lb type="manuscript" n="10" />
+<lb main="yes" n="12" type="edition-king" />bi_dero eristun .
+<lb n="4" type="manuscript" />lâ in_dero eristun fore so_uilo des <foreign xml:lang="lat-Latn">dia/metri .</foreign>
+          <lb n="5" type="manuscript" />si .
+          <lb main="yes" n="13" type="edition-king" />daz chit la fore alle die_uui/ti .
+          <lb n="6" type="manuscript" />unte teile daz ander in_zuei eben
+          <lb main="yes" n="14" type="edition-king" />
+          <lb n="7" type="manuscript" />michiliu teil . unte gib einez dero
+          <lb n="8" type="manuscript" />ahtodun . daz ist iro lengi fonne
+          <lb main="yes" n="15" type="edition-king" />
+          <lb n="9" type="manuscript" />demo <foreign xml:lang="lat-Latn">plectro</foreign> ûf. Vnze dara gat <foreign xml:lang="lat-Latn">dya</foreign>
+          <lb n="10" type="manuscript" />
           <foreign xml:lang="lat-Latn">pente .</foreign> mit <foreign xml:lang="lat-Latn">tono tono semitonio</foreign>
-          <lb main="yes" type="edition-king" n="16" />
+          <lb main="yes" n="16" type="edition-king" />
           <foreign xml:lang="lat-Latn">tono.</foreign>
-          <lb type="manuscript" n="11" />Dara-nah gib tie selbun mazza den
-          <lb type="manuscript" n="12" />anderen sibinun tie du nach dero
-          <lb main="yes" type="edition-king" n="17" />eris/tun
-          <lb type="manuscript" n="13" />ten ereren sibenen gabe. So habet
-          <lb type="manuscript" n="14" />tanne diu eresta zuo lengi
-          <lb main="yes" type="edition-king" n="18" />dero ahto/dun .
-          <lb type="manuscript" n="15" />unte ein <foreign xml:lang="lat-Latn">diametrum</foreign> ubere. Vn/te
-          <lb type="manuscript" n="16" />so-samo habet tiu ahtoda
-          <lb main="yes" type="edition-king" n="19" />zuo len/gi
-          <lb type="manuscript" n="17" />dero finftun-zehentun . unte ein
-          <lb type="manuscript" n="18" />
+          <lb n="11" type="manuscript" />Dara-nah gib tie selbun mazza den
+          <lb n="12" type="manuscript" />anderen sibinun tie du nach dero
+          <lb main="yes" n="17" type="edition-king" />eris/tun
+          <lb n="13" type="manuscript" />ten ereren sibenen gabe. So habet
+          <lb n="14" type="manuscript" />tanne diu eresta zuo lengi
+          <lb main="yes" n="18" type="edition-king" />dero ahto/dun .
+          <lb n="15" type="manuscript" />unte ein <foreign xml:lang="lat-Latn">diametrum</foreign> ubere. Vn/te
+          <lb n="16" type="manuscript" />so-samo habet tiu ahtoda
+          <lb main="yes" n="19" type="edition-king" />zuo len/gi
+          <lb n="17" type="manuscript" />dero finftun-zehentun . unte ein
+          <lb n="18" type="manuscript" />
           <foreign xml:lang="lat-Latn">diametrum</foreign> ubere. Aber diu
-<pb type="manuscript-3" n="M75v 1" />
-          <lb main="yes" type="edition-king" n="20" />erista
-          <lb type="manuscript" n="19" />habet fier lengi dero finftunzehen/tun .
-          <lb type="manuscript" n="20" />unte dara-ubere driu
-          <lb main="yes" type="edition-king" n="21" />
+<pb n="M75v 1" type="manuscript-3" />
+          <lb main="yes" n="20" type="edition-king" />erista
+          <lb n="19" type="manuscript" />habet fier lengi dero finftunzehen/tun .
+          <lb n="20" type="manuscript" />unte dara-ubere driu
+          <lb main="yes" n="21" type="edition-king" />
           <foreign xml:lang="lat-Latn">diametra.</foreign>
-          <lb type="manuscript" n="21" />Vbe dih uunter ist ziuu iro driu sin/nalso
-          <lb type="manuscript" n="22" />zuei ih kibo dir
-          <lb main="yes" type="edition-king" n="22" />is <foreign xml:lang="lat-Latn">rationem.</foreign>
-          <lb type="manuscript" n="23" />Uuanta so_man an_dero eristun fore/lazet
-          <lb type="manuscript" n="24" />ein <foreign xml:lang="lat-Latn">diametrum .</foreign>
-          <lb main="yes" type="edition-king" n="23" />unte noch
-          <lb type="manuscript" n="25" />danna ist <foreign xml:lang="lat-Latn">dupla</foreign> gagen dero ahto/dun
-          <lb type="manuscript" n="26" />diu iro <foreign xml:lang="lat-Latn">simpla</foreign> ist . unte
-          <lb main="yes" type="edition-king" n="24" />auer
-          <lb type="manuscript" n="27" />dero lengi fir-lazanemo <foreign xml:lang="lat-Latn">diametro</foreign>
-          <lb type="manuscript" n="28" />halbiu uuirt dero finftunzehen/tun .
-          <lb main="yes" type="edition-king" n="25" />
-          <lb type="manuscript" n="29" />so_ist dero ahtodun note zuui/ualt
-          <lb type="manuscript" n="30" />tanne dero finftunzehentun .
-          <lb type="manuscript" n="31" />unte ein
-          <lb main="yes" type="edition-king" n="26" />
+          <lb n="21" type="manuscript" />Vbe dih uunter ist ziuu iro driu sin/nalso
+          <lb n="22" type="manuscript" />zuei ih kibo dir
+          <lb main="yes" n="22" type="edition-king" />is <foreign xml:lang="lat-Latn">rationem.</foreign>
+          <lb n="23" type="manuscript" />Uuanta so_man an_dero eristun fore/lazet
+          <lb n="24" type="manuscript" />ein <foreign xml:lang="lat-Latn">diametrum .</foreign>
+          <lb main="yes" n="23" type="edition-king" />unte noch
+          <lb n="25" type="manuscript" />danna ist <foreign xml:lang="lat-Latn">dupla</foreign> gagen dero ahto/dun
+          <lb n="26" type="manuscript" />diu iro <foreign xml:lang="lat-Latn">simpla</foreign> ist . unte
+          <lb main="yes" n="24" type="edition-king" />auer
+          <lb n="27" type="manuscript" />dero lengi fir-lazanemo <foreign xml:lang="lat-Latn">diametro</foreign>
+          <lb n="28" type="manuscript" />halbiu uuirt dero finftunzehen/tun .
+          <lb main="yes" n="25" type="edition-king" />
+          <lb n="29" type="manuscript" />so_ist dero ahtodun note zuui/ualt
+          <lb n="30" type="manuscript" />tanne dero finftunzehentun .
+          <lb n="31" type="manuscript" />unte ein
+          <lb main="yes" n="26" type="edition-king" />
           <foreign xml:lang="lat-Latn">diametrum .</foreign> unte dero
-<lb type="manuscript" n="32" />erestun note fierualt . unte zuei
-<lb type="manuscript" n="33" />
+<lb n="32" type="manuscript" />erestun note fierualt . unte zuei
+<lb n="33" type="manuscript" />
           <foreign xml:lang="lat-Latn">diametra .</foreign> ane
-<lb main="yes" type="edition-king" n="27" />daz ereste <foreign xml:lang="lat-Latn">diame/trum .</foreign>
-          <pb main="yes" type="edition-king" n="344" />
-          <lb main="yes" type="edition-king" n="1" />
-          <lb type="manuscript" n="34" />Vuile auer der <foreign xml:lang="lat-Latn">organicus</foreign>
-          <lb type="manuscript" n="35" />fure finfzehene ode fure sehs-
-          <lb main="yes" type="edition-king" n="2" break="no" />
-          <lb type="manuscript" n="36" break="no" />ze/ne buohstabe folliu driu <foreign xml:lang="lat-Latn">alfabeta</foreign>
-          <lb type="manuscript" n="37" />machon . so scol_er daz dritta
-          <lb main="yes" type="edition-king" n="3" />mez-
-          <pb type="manuscript-2" n="L61vb" facs="#L61vb" break="no" />
-          <lb main="yes" type="edition-king" n="3" break="no" />
-          <lb type="manuscript" n="1" break="no" />zan nah den eron zuein . also er
-          <lb type="manuscript" n="2" />daz ander maz nah demo
-          <lb main="yes" type="edition-king" n="4" />
-          <lb type="manuscript" n="3" />erestun.</p>
+<lb main="yes" n="27" type="edition-king" />daz ereste <foreign xml:lang="lat-Latn">diame/trum .</foreign>
+          <pb main="yes" n="344" type="edition-king" />
+          <lb main="yes" n="1" type="edition-king" />
+          <lb n="34" type="manuscript" />Vuile auer der <foreign xml:lang="lat-Latn">organicus</foreign>
+          <lb n="35" type="manuscript" />fure finfzehene ode fure sehs-
+          <lb break="no" main="yes" n="2" type="edition-king" />
+          <lb break="no" n="36" type="manuscript" />ze/ne buohstabe folliu driu <foreign xml:lang="lat-Latn">alfabeta</foreign>
+          <lb n="37" type="manuscript" />machon . so scol_er daz dritta
+          <lb main="yes" n="3" type="edition-king" />mez-
+          <pb break="no" facs="#L61vb" n="L61vb" type="manuscript-2" />
+          <lb break="no" main="yes" n="3" type="edition-king" />
+          <lb break="no" n="1" type="manuscript" />zan nah den eron zuein . also er
+          <lb n="2" type="manuscript" />daz ander maz nah demo
+          <lb main="yes" n="4" type="edition-king" />
+          <lb n="3" type="manuscript" />erestun.</p>
       </div>
     </body>
   </text>
