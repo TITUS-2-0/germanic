@@ -24,13 +24,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-03-07">2025-03-07</date>
+        <date when="2026-09-28">2026-09-28</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of The Middle High German Books on The Great Alexander' by Ulrich von Eschenbach (draft version). 2025-03-07. By: Jost Gippert, Stefanie Heine, Florian Matter, Ralf Schlechtweg-Jahn. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of The Middle High German Books on The Great Alexander' by Ulrich von Eschenbach (v0.0.1.draft). 2026-09-28. By: Jost Gippert, Stefanie Heine, Florian Matter, Ralf Schlechtweg-Jahn. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="a_ulr">
@@ -43,15 +43,15 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
-        <language ident="deu-Latn" ana="meta">German</language>
+        <language ana="primary" ident="gmh-Latn-x-mhg">Middle High German</language>
+        <language ana="meta" ident="deu-Latn">German</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="gmh-Latn-x-mhg">
     <body>
-      <div n="1" xml:id="book-1" type="book" data-level="1">
-        <div n="Prol." xml:id="book-1-chapter-1" type="chapter" data-level="2">
+      <div data-level="1" n="1" type="book" xml:id="book-1">
+        <div data-level="2" n="Prol." type="chapter" xml:id="book-1-chapter-1">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-1-lg-1">
             <l n="1" xml:id="book-1-chapter-1-lg-1-l-1">Gott hêrre, ân anegenge got,</l>
@@ -398,7 +398,7 @@
             <l n="172" xml:id="book-1-chapter-1-lg-86-l-172">nû hœrt der rede beginnen.</l>
           </lg>
         </div>
-        <div n="1" xml:id="book-1-chapter-2" type="chapter" data-level="2">
+        <div data-level="2" n="1" type="chapter" xml:id="book-1-chapter-2">
           <head xml:lang="deu-Latn">Über Philip</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-2-lg-87">
             <l n="173" xml:id="book-1-chapter-2-lg-87-l-173">Eʒ was in Kriechen lande</l>
@@ -517,7 +517,7 @@
             <l n="230" xml:id="book-1-chapter-2-lg-115-l-230">mit Âdam in himelrîche.</l>
           </lg>
         </div>
-        <div n="2" xml:id="book-1-chapter-3" type="chapter" data-level="2">
+        <div data-level="2" n="2" type="chapter" xml:id="book-1-chapter-3">
           <head xml:lang="deu-Latn">Neptânabus flieht nach Makedonien</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-3-lg-116">
             <l n="231" xml:id="book-1-chapter-3-lg-116-l-231">Nû was eʒ alsô komen</l>
@@ -644,7 +644,7 @@
             <l n="292" xml:id="book-1-chapter-3-lg-146-l-292">wandels vrî lebt sîn nam.</l>
           </lg>
         </div>
-        <div n="7" xml:id="book-1-chapter-4" type="chapter" data-level="2">
+        <div data-level="2" n="7" type="chapter" xml:id="book-1-chapter-4">
           <head xml:lang="deu-Latn">Neptânabus täuscht Olimpiadis</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-4-lg-147">
             <l n="293" xml:id="book-1-chapter-4-lg-147-l-293">Dô der gast sô lange dâ bleip,</l>
@@ -1787,7 +1787,7 @@
             <l n="862" xml:id="book-1-chapter-4-lg-431-l-862">er mit liebe, sie mit leide.</l>
           </lg>
         </div>
-        <div n="9" xml:id="book-1-chapter-5" type="chapter" data-level="2">
+        <div data-level="2" n="9" type="chapter" xml:id="book-1-chapter-5">
           <head xml:lang="deu-Latn">Über Darius</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-5-lg-432">
             <l n="863" xml:id="book-1-chapter-5-lg-432-l-863">Wir finden ouch geschriben daʒ,</l>
@@ -1890,7 +1890,7 @@
             <l n="912" xml:id="book-1-chapter-5-lg-456-l-912">künec Nabuchodonosor.</l>
           </lg>
         </div>
-        <div n="9a" xml:id="book-1-chapter-6" type="chapter" data-level="2">
+        <div data-level="2" n="9a" type="chapter" xml:id="book-1-chapter-6">
           <head xml:lang="deu-Latn">Über Balthasar</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-6-lg-457">
             <l n="913" xml:id="book-1-chapter-6-lg-457-l-913">Darîus gewaltes sich vermaʒ.</l>
@@ -2037,7 +2037,7 @@
             <l n="984" xml:id="book-1-chapter-6-lg-492-l-984">mit tôde zerfüeret wart.</l>
           </lg>
         </div>
-        <div n="9b" xml:id="book-1-chapter-7" type="chapter" data-level="2">
+        <div data-level="2" n="9b" type="chapter" xml:id="book-1-chapter-7">
           <head xml:lang="deu-Latn">Über Nabuchodonosor</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-7-lg-493">
             <l n="985" xml:id="book-1-chapter-7-lg-493-l-985">Ich wil iu ein teil verjehen</l>
@@ -2380,7 +2380,7 @@
             <l n="1154" xml:id="book-1-chapter-7-lg-577-l-1154">mit dem tîvel in sînen pînen.</l>
           </lg>
         </div>
-        <div n="12" xml:id="book-1-chapter-8" type="chapter" data-level="2">
+        <div data-level="2" n="12" type="chapter" xml:id="book-1-chapter-8">
           <head xml:lang="deu-Latn">Alexanders Geburt</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-8-lg-578">
             <l n="1155" xml:id="book-1-chapter-8-lg-578-l-1155">Ander rede wil ich under wegen lân</l>
@@ -2567,7 +2567,7 @@
             <l n="1246" xml:id="book-1-chapter-8-lg-623-l-1246">sich schiet dise hôchzît sô.</l>
           </lg>
         </div>
-        <div n="13" xml:id="book-1-chapter-9" type="chapter" data-level="2">
+        <div data-level="2" n="13" type="chapter" xml:id="book-1-chapter-9">
           <head xml:lang="deu-Latn">Alexanders Erziehung</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-9-lg-624">
             <l n="1247" xml:id="book-1-chapter-9-lg-624-l-1247">Daʒ kint mit vlîʒe wart gezogen</l>
@@ -3390,7 +3390,7 @@
             <l n="1656" xml:id="book-1-chapter-9-lg-828-l-1656">ich enwelle eʒ gegen im wâgen.'</l>
           </lg>
         </div>
-        <div n="19" xml:id="book-1-chapter-10" type="chapter" data-level="2">
+        <div data-level="2" n="19" type="chapter" xml:id="book-1-chapter-10">
           <head xml:lang="deu-Latn">Alexander unterwirft Pûcivâl</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-10-lg-829">
             <l n="1657" xml:id="book-1-chapter-10-lg-829-l-1657">Verre ûz der heiden lande</l>
@@ -3521,7 +3521,7 @@
             <l n="1720" xml:id="book-1-chapter-10-lg-860-l-1720">eʒ dorft sich nâch liuten nimmer senen.</l>
           </lg>
         </div>
-        <div n="20" xml:id="book-1-chapter-11" type="chapter" data-level="2">
+        <div data-level="2" n="20" type="chapter" xml:id="book-1-chapter-11">
           <head xml:lang="deu-Latn">Alexander besiegt König Niclas</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-11-lg-861">
             <l n="1721" xml:id="book-1-chapter-11-lg-861-l-1721">Nû kâmen boten mit mæren</l>
@@ -3608,7 +3608,7 @@
             <l n="1762" xml:id="book-1-chapter-11-lg-881-l-1762">alsô der junge nâch prîse ranc.</l>
           </lg>
         </div>
-        <div n="21" xml:id="book-1-chapter-12" type="chapter" data-level="2">
+        <div data-level="2" n="21" type="chapter" xml:id="book-1-chapter-12">
           <head xml:lang="deu-Latn">Philips zweite Hochzeit</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-12-lg-882">
             <l n="1763" xml:id="book-1-chapter-12-lg-882-l-1763">Dâ der junge sic erstreit</l>
@@ -3711,7 +3711,7 @@
             <l n="1812" xml:id="book-1-chapter-12-lg-906-l-1812">der alte sprach 'daʒ stê ze dir.'</l>
           </lg>
         </div>
-        <div n="23" xml:id="book-1-chapter-13" type="chapter" data-level="2">
+        <div data-level="2" n="23" type="chapter" xml:id="book-1-chapter-13">
           <head xml:lang="deu-Latn">Alexander und Darius' Zinsboten</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-13-lg-907">
             <l n="1813" xml:id="book-1-chapter-13-lg-907-l-1813">Nû kâmen boten zuo geriten</l>
@@ -3762,7 +3762,7 @@
             <l n="1836" xml:id="book-1-chapter-13-lg-918-l-1836">Alexanders leit er sprach.</l>
           </lg>
         </div>
-        <div n="45" xml:id="book-1-chapter-14" type="chapter" data-level="2">
+        <div data-level="2" n="45" type="chapter" xml:id="book-1-chapter-14">
           <head xml:lang="deu-Latn">1. Briefwechsel Darius-Alexander</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-14-lg-919">
             <l n="1837" xml:id="book-1-chapter-14-lg-919-l-1837">Ander boten er sante,</l>
@@ -3953,7 +3953,7 @@
             <l n="1930" xml:id="book-1-chapter-14-lg-965-l-1930">danne er in dâ vor gehieʒ.</l>
           </lg>
         </div>
-        <div n="50" xml:id="book-1-chapter-15" type="chapter" data-level="2">
+        <div data-level="2" n="50" type="chapter" xml:id="book-1-chapter-15">
           <head xml:lang="deu-Latn">2. Briefwechsel Darius-Alexander</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-15-lg-966">
             <l n="1931" xml:id="book-1-chapter-15-lg-966-l-1931">Dô der keiser hete gehôrt</l>
@@ -4008,7 +4008,7 @@
             <l n="1956" xml:id="book-1-chapter-15-lg-978-l-1956">daʒ bevindent noch die dîne.'</l>
           </lg>
         </div>
-        <div n="50a" xml:id="book-1-chapter-16" type="chapter" data-level="2">
+        <div data-level="2" n="50a" type="chapter" xml:id="book-1-chapter-16">
           <head xml:lang="deu-Latn">Beratung bei Darius</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-16-lg-979">
             <l n="1957" xml:id="book-1-chapter-16-lg-979-l-1957">Dô sprach der keiser zuo den boten</l>
@@ -4067,7 +4067,7 @@
             <l n="1984" xml:id="book-1-chapter-16-lg-992-l-1984">und in von tôrheit wenden.'</l>
           </lg>
         </div>
-        <div n="24a" xml:id="book-1-chapter-17" type="chapter" data-level="2">
+        <div data-level="2" n="24a" type="chapter" xml:id="book-1-chapter-17">
           <head xml:lang="deu-Latn">Erzählerexkurs: Der Tod</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-17-lg-993">
             <l n="1985" xml:id="book-1-chapter-17-lg-993-l-1985">Wir haben mit eim gesellen phliht</l>
@@ -4142,7 +4142,7 @@
             <l n="2020" xml:id="book-1-chapter-17-lg-1010-l-2020">vor des êwigen tôdes valle.</l>
           </lg>
         </div>
-        <div n="24" xml:id="book-1-chapter-18" type="chapter" data-level="2">
+        <div data-level="2" n="24" type="chapter" xml:id="book-1-chapter-18">
           <head xml:lang="deu-Latn">Philips Tod</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-18-lg-1011">
             <l n="2021" xml:id="book-1-chapter-18-lg-1011-l-2021">ich hân vernomen alsô,</l>
@@ -4361,7 +4361,7 @@
             <l n="2128" xml:id="book-1-chapter-18-lg-1064-l-2128">süeʒe vröude kan vertriben?</l>
           </lg>
         </div>
-        <div n="27" xml:id="book-1-chapter-19" type="chapter" data-level="2">
+        <div data-level="2" n="27" type="chapter" xml:id="book-1-chapter-19">
           <head xml:lang="deu-Latn">Alexander übernimmt die Herrschaft in Makedonien</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-19-lg-1065">
             <l n="2129" xml:id="book-1-chapter-19-lg-1065-l-2129">Ein hêrre hieʒ Permêniô,</l>
@@ -4564,7 +4564,7 @@
             <l n="2228" xml:id="book-1-chapter-19-lg-1114-l-2228">und nihtes in geswîchen.</l>
           </lg>
         </div>
-        <div n="28" xml:id="book-1-chapter-20" type="chapter" data-level="2">
+        <div data-level="2" n="28" type="chapter" xml:id="book-1-chapter-20">
           <head xml:lang="deu-Latn">Alexander ruft zum Feldzug gegen Darius</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-20-lg-1115">
             <l n="2229" xml:id="book-1-chapter-20-lg-1115-l-2229">Er hete sinne bî jugent,</l>
@@ -4763,7 +4763,7 @@
             <l n="2326" xml:id="book-1-chapter-20-lg-1163-l-2326">daʒ manʒ iht vinde âne wer.'</l>
           </lg>
         </div>
-        <div n="40" xml:id="book-1-chapter-21" type="chapter" data-level="2">
+        <div data-level="2" n="40" type="chapter" xml:id="book-1-chapter-21">
           <head xml:lang="deu-Latn">Heerschau vor Corinthus</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-21-lg-1164">
             <l n="2327" xml:id="book-1-chapter-21-lg-1164-l-2327">Mit vrœlîchem muote</l>
@@ -5066,7 +5066,7 @@
             <l n="2476" xml:id="book-1-chapter-21-lg-1238-l-2476">der allen fürsten obe lac.</l>
           </lg>
         </div>
-        <div n="42" xml:id="book-1-chapter-22" type="chapter" data-level="2">
+        <div data-level="2" n="42" type="chapter" xml:id="book-1-chapter-22">
           <head xml:lang="deu-Latn">Unterwerfung Athens</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-22-lg-1239">
             <l n="2477" xml:id="book-1-chapter-22-lg-1239-l-2477">dannoch wâren zwei lant,</l>
@@ -5637,7 +5637,7 @@
             <l n="2760" xml:id="book-1-chapter-22-lg-1380-l-2760">sîner muoter er die sande.</l>
           </lg>
         </div>
-        <div n="38a" xml:id="book-1-chapter-23" type="chapter" data-level="2">
+        <div data-level="2" n="38a" type="chapter" xml:id="book-1-chapter-23">
           <head xml:lang="deu-Latn">Über Theben (König Edippus)</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-23-lg-1381">
             <l n="2761" xml:id="book-1-chapter-23-lg-1381-l-2761">Er ructe vürbaʒ mit dem her.</l>
@@ -6472,7 +6472,7 @@
             <l n="3176" xml:id="book-1-chapter-23-lg-1588-l-3176">daʒ dir die sælde heiles gan.</l>
           </lg>
         </div>
-        <div n="38" xml:id="book-1-chapter-24" type="chapter" data-level="2">
+        <div data-level="2" n="38" type="chapter" xml:id="book-1-chapter-24">
           <head xml:lang="deu-Latn">Alexander erobert Theben</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-24-lg-1589">
             <l n="3177" xml:id="book-1-chapter-24-lg-1589-l-3177">Thêbâner heten sich bewegen</l>
@@ -7563,7 +7563,7 @@
             <l n="3720" xml:id="book-1-chapter-24-lg-1860-l-3720">und enhalf eʒ sie niht.</l>
           </lg>
         </div>
-        <div n="41" xml:id="book-1-chapter-25" type="chapter" data-level="2">
+        <div data-level="2" n="41" type="chapter" xml:id="book-1-chapter-25">
           <head xml:lang="deu-Latn">Clyades bittet für Theben</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-25-lg-1861">
             <l n="3721" xml:id="book-1-chapter-25-lg-1861-l-3721">Dô Alexander in die stat kam,</l>
@@ -7894,7 +7894,7 @@
             <l n="3884" xml:id="book-1-chapter-25-lg-1942-l-3884">daʒ sie den hêrren kuste.</l>
           </lg>
         </div>
-        <div n="41a" xml:id="book-1-chapter-26" type="chapter" data-level="2">
+        <div data-level="2" n="41a" type="chapter" xml:id="book-1-chapter-26">
           <head xml:lang="deu-Latn">Erzählerexkurs: Über die Minne</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-26-lg-1943">
             <l n="3885" xml:id="book-1-chapter-26-lg-1943-l-3885">Mit urloube ich sprechen wil:</l>
@@ -8029,7 +8029,7 @@
             <l n="3950" xml:id="book-1-chapter-26-lg-1975-l-3950">gerne an daʒ reht sich lân.</l>
           </lg>
         </div>
-        <div n="23a" xml:id="book-1-chapter-27" type="chapter" data-level="2">
+        <div data-level="2" n="23a" type="chapter" xml:id="book-1-chapter-27">
           <head xml:lang="deu-Latn">Darius' Zinsboten</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-27-lg-1976">
             <l n="3951" xml:id="book-1-chapter-27-lg-1976-l-3951">Eines tages eʒ geschach</l>
@@ -8656,7 +8656,7 @@
             <l n="4262" xml:id="book-1-chapter-27-lg-2131-l-4262">er gâhte vaste der widervart.</l>
           </lg>
         </div>
-        <div n="23b" xml:id="book-1-chapter-28" type="chapter" data-level="2">
+        <div data-level="2" n="23b" type="chapter" xml:id="book-1-chapter-28">
           <head xml:lang="deu-Latn">Alexanders Winterlager</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-28-lg-2132">
             <l n="4263" xml:id="book-1-chapter-28-lg-2132-l-4263">dô er ze dem keiser kam</l>
@@ -8855,7 +8855,7 @@
             <l n="4360" xml:id="book-1-chapter-28-lg-2180-l-4360">er was ir lieber dann sie im.</l>
           </lg>
         </div>
-        <div n="28" xml:id="book-1-chapter-29" type="chapter" data-level="2">
+        <div data-level="2" n="28" type="chapter" xml:id="book-1-chapter-29">
           <head xml:lang="deu-Latn">Überfahrt nach Persien</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-29-lg-2181">
             <l n="4361" xml:id="book-1-chapter-29-lg-2181-l-4361">Alexandern den künic hêr</l>
@@ -9138,7 +9138,7 @@
             <l n="4500" xml:id="book-1-chapter-29-lg-2250-l-4500">alsô vertriben sie die naht.</l>
           </lg>
         </div>
-        <div n="28a" xml:id="book-1-chapter-30" type="chapter" data-level="2">
+        <div data-level="2" n="28a" type="chapter" xml:id="book-1-chapter-30">
           <head xml:lang="deu-Latn">Erzählerexkurs: Die Weltkarte</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-30-lg-2251">
             <l n="4501" xml:id="book-1-chapter-30-lg-2251-l-4501">Asîâ daʒ wîte lant</l>
@@ -9285,7 +9285,7 @@
             <l n="4572" xml:id="book-1-chapter-30-lg-2286-l-4572">dar umbe ich sie verswîgen wil.</l>
           </lg>
         </div>
-        <div n="28b" xml:id="book-1-chapter-31" type="chapter" data-level="2">
+        <div data-level="2" n="28b" type="chapter" xml:id="book-1-chapter-31">
           <head xml:lang="deu-Latn">Alexander plant die Welteroberung</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-31-lg-2287">
             <l n="4573" xml:id="book-1-chapter-31-lg-2287-l-4573">die vinster ende wolde hân.</l>
@@ -9684,7 +9684,7 @@
             <l n="4770" xml:id="book-1-chapter-31-lg-2385-l-4770">dâ von ir namen sîn verzigen.</l>
           </lg>
         </div>
-        <div n="61" xml:id="book-1-chapter-32" type="chapter" data-level="2">
+        <div data-level="2" n="61" type="chapter" xml:id="book-1-chapter-32">
           <head xml:lang="deu-Latn">Ciliciâ unterwirft sich</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-32-lg-2386">
             <l n="4771" xml:id="book-1-chapter-32-lg-2386-l-4771">Nû was an tugenden der bewart</l>
@@ -9727,7 +9727,7 @@
             <l n="4790" xml:id="book-1-chapter-32-lg-2395-l-4790">alsô mêrte sich sîn her.</l>
           </lg>
         </div>
-        <div n="55" xml:id="book-1-chapter-33" type="chapter" data-level="2">
+        <div data-level="2" n="55" type="chapter" xml:id="book-1-chapter-33">
           <head xml:lang="deu-Latn">Frîgiâ unterwirft sich</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-33-lg-2396">
             <l n="4791" xml:id="book-1-chapter-33-lg-2396-l-4791">Dar nâch man in in Frîgiâ sach.</l>
@@ -9754,7 +9754,7 @@
             <l n="4802" xml:id="book-1-chapter-33-lg-2401-l-4802">ich vorhte es begunde iuch betrâgen.</l>
           </lg>
         </div>
-        <div n="59" xml:id="book-1-chapter-34" type="chapter" data-level="2">
+        <div data-level="2" n="59" type="chapter" xml:id="book-1-chapter-34">
           <head xml:lang="deu-Latn">Alexander besichtigt Trôjâ</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-34-lg-2402">
             <l n="4803" xml:id="book-1-chapter-34-lg-2402-l-4803">dô er von den landen schiet,</l>
@@ -10229,7 +10229,7 @@
             <l n="5038" xml:id="book-1-chapter-34-lg-2519-l-5038">des nam blîbet mit dem lîbe tôt.'</l>
           </lg>
         </div>
-        <div n="59a" xml:id="book-1-chapter-35" type="chapter" data-level="2">
+        <div data-level="2" n="59a" type="chapter" xml:id="book-1-chapter-35">
           <head xml:lang="deu-Latn">Alexander über das Glück</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-35-lg-2520">
             <l n="5039" xml:id="book-1-chapter-35-lg-2520-l-5039">Der getriuwe und der reine</l>
@@ -10536,7 +10536,7 @@
             <l n="5190" xml:id="book-1-chapter-35-lg-2595-l-5190">von sîner güete mir wurde kunt.'</l>
           </lg>
         </div>
-        <div n="93" xml:id="book-1-chapter-36" type="chapter" data-level="2">
+        <div data-level="2" n="93" type="chapter" xml:id="book-1-chapter-36">
           <head xml:lang="deu-Latn">Alexander erobert Tyrus</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-36-lg-2596">
             <l n="5191" xml:id="book-1-chapter-36-lg-2596-l-5191">Dô er den hêrren alsô gesagte,</l>
@@ -10739,7 +10739,7 @@
             <l n="5290" xml:id="book-1-chapter-36-lg-2645-l-5290">daʒ sie ungemüet bliben.</l>
           </lg>
         </div>
-        <div n="37c" xml:id="book-1-chapter-37" type="chapter" data-level="2">
+        <div data-level="2" n="37c" type="chapter" xml:id="book-1-chapter-37">
           <head xml:lang="deu-Latn">In Jhêrusalêm</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-37-lg-2646">
             <l n="5291" xml:id="book-1-chapter-37-lg-2646-l-5291">die von Jhêrusalêm wurden gewar</l>
@@ -10898,7 +10898,7 @@
             <l n="5368" xml:id="book-1-chapter-37-lg-2684-l-5368">und was in güetlîchen bî.</l>
           </lg>
         </div>
-        <div n="25" xml:id="book-1-chapter-38" type="chapter" data-level="2">
+        <div data-level="2" n="25" type="chapter" xml:id="book-1-chapter-38">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-1-chapter-38-lg-2685">
             <l n="5369" xml:id="book-1-chapter-38-lg-2685-l-5369">Daʒ êrste buoch ein ende hât.</l>
@@ -10913,10 +10913,10 @@
           </lg>
         </div>
       </div>
-      <div n="2" xml:id="book-2" type="book" data-level="1">
-        <div n="26" xml:id="book-2-chapter-39" type="chapter" data-level="2">
+      <div data-level="1" n="2" type="book" xml:id="book-2">
+        <div data-level="2" n="26" type="chapter" xml:id="book-2-chapter-39">
           <head xml:lang="deu-Latn">Prolog</head>
-          <lg n="25_4_b" type="stanza" xml:id="book-2-chapter-39-lg-2688">
+          <lg n="25_3_b" type="stanza" xml:id="book-2-chapter-39-lg-2688">
             <l n="5374" xml:id="book-2-chapter-39-lg-2688-l-5374">Du ursprinc aller wîsheit,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-39-lg-2689">
@@ -10980,7 +10980,7 @@
             <l n="5404" xml:id="book-2-chapter-39-lg-2703-l-5404">gegen dem, der vil der rîche phlac.</l>
           </lg>
         </div>
-        <div n="43a" xml:id="book-2-chapter-40" type="chapter" data-level="2">
+        <div data-level="2" n="43a" type="chapter" xml:id="book-2-chapter-40">
           <head xml:lang="deu-Latn">Beratung bei Darius</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-40-lg-2704">
             <l n="5405" xml:id="book-2-chapter-40-lg-2704-l-5405">In Persiâ überal</l>
@@ -11135,7 +11135,7 @@
             <l n="5480" xml:id="book-2-chapter-40-lg-2741-l-5480">aldâ Alexanders tôt.</l>
           </lg>
         </div>
-        <div n="43b" xml:id="book-2-chapter-41" type="chapter" data-level="2">
+        <div data-level="2" n="43b" type="chapter" xml:id="book-2-chapter-41">
           <head xml:lang="deu-Latn">3. Briefwechsel Darius-Alexander</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-41-lg-2742">
             <l n="5481" xml:id="book-2-chapter-41-lg-2742-l-5481">Sich bedâhte alsô der Asiân,</l>
@@ -11406,7 +11406,7 @@
             <l n="5614" xml:id="book-2-chapter-41-lg-2808-l-5614">die im sêre versmâhte.</l>
           </lg>
         </div>
-        <div n="44" xml:id="book-2-chapter-42" type="chapter" data-level="2">
+        <div data-level="2" n="44" type="chapter" xml:id="book-2-chapter-42">
           <head xml:lang="deu-Latn">Zweikampf am Grânicus</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-42-lg-2809">
             <l n="5615" xml:id="book-2-chapter-42-lg-2809-l-5615">under des dô daʒ geschach,</l>
@@ -11689,7 +11689,7 @@
             <l n="5754" xml:id="book-2-chapter-42-lg-2878-l-5754">wie im gelungen wære.</l>
           </lg>
         </div>
-        <div n="44a" xml:id="book-2-chapter-43" type="chapter" data-level="2">
+        <div data-level="2" n="44a" type="chapter" xml:id="book-2-chapter-43">
           <head xml:lang="deu-Latn">Mennôn berichtet Darius</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-43-lg-2879">
             <l n="5755" xml:id="book-2-chapter-43-lg-2879-l-5755">Der keiser sprach 'maht du mir jehen,</l>
@@ -11764,7 +11764,7 @@
             <l n="5790" xml:id="book-2-chapter-43-lg-2896-l-5790">ich mac dô prîs noch wol bejagen.'</l>
           </lg>
         </div>
-        <div n="47" xml:id="book-2-chapter-44" type="chapter" data-level="2">
+        <div data-level="2" n="47" type="chapter" xml:id="book-2-chapter-44">
           <head xml:lang="deu-Latn">Darius bereitet sein Heer vor</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-44-lg-2897">
             <l n="5791" xml:id="book-2-chapter-44-lg-2897-l-5791">Dô Darîus vernam dise wort,</l>
@@ -11831,7 +11831,7 @@
             <l n="5822" xml:id="book-2-chapter-44-lg-2912-l-5822">und in sîn heimelich zücket</l>
           </lg>
         </div>
-        <div n="44b" xml:id="book-2-chapter-45" type="chapter" data-level="2">
+        <div data-level="2" n="44b" type="chapter" xml:id="book-2-chapter-45">
           <head xml:lang="deu-Latn">Schlacht am Grânicus</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-45-lg-2913">
             <l n="5823" xml:id="book-2-chapter-45-lg-2913-l-5823">Sich hete Mennôn bereit,</l>
@@ -11946,7 +11946,7 @@
             <l n="5878" xml:id="book-2-chapter-45-lg-2940-l-5878">und der vînde niht hundert wider kâmen.</l>
           </lg>
         </div>
-        <div n="67a" xml:id="book-2-chapter-46" type="chapter" data-level="2">
+        <div data-level="2" n="67a" type="chapter" xml:id="book-2-chapter-46">
           <head xml:lang="deu-Latn">Alexander erobert Sardîn</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-46-lg-2941">
             <l n="5879" xml:id="book-2-chapter-46-lg-2941-l-5879">gegen Sardîn Alexander fuor.</l>
@@ -12001,7 +12001,7 @@
             <l n="5904" xml:id="book-2-chapter-46-lg-2953-l-5904">im wâren esels ôren gezilt.</l>
           </lg>
         </div>
-        <div n="67" xml:id="book-2-chapter-47" type="chapter" data-level="2">
+        <div data-level="2" n="67" type="chapter" xml:id="book-2-chapter-47">
           <head xml:lang="deu-Latn">Der gordische Knoten</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-47-lg-2954">
             <l n="5905" xml:id="book-2-chapter-47-lg-2954-l-5905">Alexander kam gegangen</l>
@@ -12103,9 +12103,9 @@
             <l n="5953" xml:id="book-2-chapter-47-lg-2978-l-5953">von den lanthêrren enphienc.</l>
           </lg>
         </div>
-        <div n="69" xml:id="book-2-chapter-48" type="chapter" data-level="2">
+        <div data-level="2" n="69" type="chapter" xml:id="book-2-chapter-48">
           <head xml:lang="deu-Latn">Eroberung Anchirias</head>
-          <lg n="67_26_b" type="stanza" xml:id="book-2-chapter-48-lg-2979">
+          <lg n="67_25_b" type="stanza" xml:id="book-2-chapter-48-lg-2979">
             <l n="5954" xml:id="book-2-chapter-48-lg-2979-l-5954">dô sîn wille alsô ergienc,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-48-lg-2980">
@@ -12181,7 +12181,7 @@
             <l n="5990" xml:id="book-2-chapter-48-lg-2997-l-5990">des herze ie nâch prîse ranc.</l>
           </lg>
         </div>
-        <div n="60" xml:id="book-2-chapter-49" type="chapter" data-level="2">
+        <div data-level="2" n="60" type="chapter" xml:id="book-2-chapter-49">
           <head xml:lang="deu-Latn">Erzählerexkurs: Wolfram von Eschenbach (I)</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-49-lg-2998">
             <l n="5991" xml:id="book-2-chapter-49-lg-2998-l-5991">eineʒ ich kiesen wolde,</l>
@@ -12212,7 +12212,7 @@
             <l n="6004" xml:id="book-2-chapter-49-lg-3004-l-6004">der herze sich tugende haben verzigen.</l>
           </lg>
         </div>
-        <div n="70" xml:id="book-2-chapter-50" type="chapter" data-level="2">
+        <div data-level="2" n="70" type="chapter" xml:id="book-2-chapter-50">
           <head xml:lang="deu-Latn">Das Heer des Darius</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-50-lg-3005">
             <l n="6005" xml:id="book-2-chapter-50-lg-3005-l-6005">Des morgens dô der tac erschein,</l>
@@ -12699,7 +12699,7 @@
             <l n="6246" xml:id="book-2-chapter-50-lg-3125-l-6246">daʒ man den himel kûm gesach.</l>
           </lg>
         </div>
-        <div n="61a" xml:id="book-2-chapter-51" type="chapter" data-level="2">
+        <div data-level="2" n="61a" type="chapter" xml:id="book-2-chapter-51">
           <head xml:lang="deu-Latn">Alexander verwüstet Cilicia</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-51-lg-3126">
             <l n="6247" xml:id="book-2-chapter-51-lg-3126-l-6247">Under des daʒ dise riten,</l>
@@ -12734,7 +12734,7 @@
             <l n="6262" xml:id="book-2-chapter-51-lg-3133-l-6262">daʒ lant was worden volkes bar.</l>
           </lg>
         </div>
-        <div n="74" xml:id="book-2-chapter-52" type="chapter" data-level="2">
+        <div data-level="2" n="74" type="chapter" xml:id="book-2-chapter-52">
           <head xml:lang="deu-Latn">Permenio erobert Tharsis</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-52-lg-3134">
             <l n="6263" xml:id="book-2-chapter-52-lg-3134-l-6263">Permêniônem er rîten lieʒ</l>
@@ -12792,9 +12792,9 @@
             <l n="6289" xml:id="book-2-chapter-52-lg-3147-l-6289">in die stat ze Tharsis.</l>
           </lg>
         </div>
-        <div n="74a" xml:id="book-2-chapter-53" type="chapter" data-level="2">
+        <div data-level="2" n="74a" type="chapter" xml:id="book-2-chapter-53">
           <head xml:lang="deu-Latn">Erzählerexkurs: Saulus/Paulus aus Tharsis</head>
-          <lg n="74_15_b" type="stanza" xml:id="book-2-chapter-53-lg-3148">
+          <lg n="74_14_b" type="stanza" xml:id="book-2-chapter-53-lg-3148">
             <l n="6290" xml:id="book-2-chapter-53-lg-3148-l-6290">Galthêrus tuot mich des gewis</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-53-lg-3149">
@@ -12842,7 +12842,7 @@
             <l n="6312" xml:id="book-2-chapter-53-lg-3159-l-6312">und ouch sîn minne an uns ergê.</l>
           </lg>
         </div>
-        <div n="74b" xml:id="book-2-chapter-54" type="chapter" data-level="2">
+        <div data-level="2" n="74b" type="chapter" xml:id="book-2-chapter-54">
           <head xml:lang="deu-Latn">Alexander erkrankt beim Baden</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-54-lg-3160">
             <l n="6313" xml:id="book-2-chapter-54-lg-3160-l-6313">Permêniô mit den burgern kam</l>
@@ -13061,7 +13061,7 @@
             <l n="6420" xml:id="book-2-chapter-54-lg-3213-l-6420">und ellendiclich vertirbest.'</l>
           </lg>
         </div>
-        <div n="74c" xml:id="book-2-chapter-55" type="chapter" data-level="2">
+        <div data-level="2" n="74c" type="chapter" xml:id="book-2-chapter-55">
           <head xml:lang="deu-Latn">Rede der Fortuna</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-55-lg-3214">
             <l n="6421" xml:id="book-2-chapter-55-lg-3214-l-6421">der hêrren clage und ouch ir wort</l>
@@ -13144,7 +13144,7 @@
             <l n="6460" xml:id="book-2-chapter-55-lg-3233-l-6460">man sol mich imer unstæte sehen.'</l>
           </lg>
         </div>
-        <div n="75" xml:id="book-2-chapter-56" type="chapter" data-level="2">
+        <div data-level="2" n="75" type="chapter" xml:id="book-2-chapter-56">
           <head xml:lang="deu-Latn">Intrige gegen den Arzt Philip</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-56-lg-3234">
             <l n="6461" xml:id="book-2-chapter-56-lg-3234-l-6461">Nû was dem jungen süeʒen fromen</l>
@@ -13523,7 +13523,7 @@
             <l n="6648" xml:id="book-2-chapter-56-lg-3327-l-6648">des ich vil wol gelouben wil.</l>
           </lg>
         </div>
-        <div n="84" xml:id="book-2-chapter-57" type="chapter" data-level="2">
+        <div data-level="2" n="84" type="chapter" xml:id="book-2-chapter-57">
           <head xml:lang="deu-Latn">Permenio erobert die Stadt Issos</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-57-lg-3328">
             <l n="6649" xml:id="book-2-chapter-57-lg-3328-l-6649">Des morgens dô erschein der tac,</l>
@@ -13593,9 +13593,9 @@
             <l n="6681" xml:id="book-2-chapter-57-lg-3344-l-6681">die tôten gâben bœsen smac.</l>
           </lg>
         </div>
-        <div n="84a" xml:id="book-2-chapter-58" type="chapter" data-level="2">
+        <div data-level="2" n="84a" type="chapter" xml:id="book-2-chapter-58">
           <head xml:lang="deu-Latn">Beratung bei Alexander</head>
-          <lg n="84_18_b" type="stanza" xml:id="book-2-chapter-58-lg-3345">
+          <lg n="84_17_b" type="stanza" xml:id="book-2-chapter-58-lg-3345">
             <l n="6682" xml:id="book-2-chapter-58-lg-3345-l-6682">Issôn vor dem gebirge lac,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-58-lg-3346">
@@ -13654,9 +13654,9 @@
             <l n="6709" xml:id="book-2-chapter-58-lg-3359-l-6709">dâ mite die rede sô bleip.</l>
           </lg>
         </div>
-        <div n="83" xml:id="book-2-chapter-59" type="chapter" data-level="2">
+        <div data-level="2" n="83" type="chapter" xml:id="book-2-chapter-59">
           <head xml:lang="deu-Latn">Narbâsone verrät Alexanders Pläne</head>
-          <lg n="84a_15_b" type="stanza" xml:id="book-2-chapter-59-lg-3360">
+          <lg n="84a_14_b" type="stanza" xml:id="book-2-chapter-59-lg-3360">
             <l n="6710" xml:id="book-2-chapter-59-lg-3360-l-6710">heimelîche brieve schreip</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-59-lg-3361">
@@ -13772,7 +13772,7 @@
             <l n="6766" xml:id="book-2-chapter-59-lg-3388-l-6766">Darîus und Alexander.</l>
           </lg>
         </div>
-        <div n="83a" xml:id="book-2-chapter-60" type="chapter" data-level="2">
+        <div data-level="2" n="83a" type="chapter" xml:id="book-2-chapter-60">
           <head xml:lang="deu-Latn">Thymodes verrät Alexander</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-60-lg-3389">
             <l n="6767" xml:id="book-2-chapter-60-lg-3389-l-6767">Ein hêrre Thymodes hieʒ,</l>
@@ -13939,7 +13939,7 @@
             <l n="6848" xml:id="book-2-chapter-60-lg-3429-l-6848">nam sîner widerkünfte war.</l>
           </lg>
         </div>
-        <div n="84" xml:id="book-2-chapter-61" type="chapter" data-level="2">
+        <div data-level="2" n="84" type="chapter" xml:id="book-2-chapter-61">
           <head xml:lang="deu-Latn">Darius' Schlachtvorbereitungen (Issos)</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-61-lg-3430">
             <l n="6849" xml:id="book-2-chapter-61-lg-3430-l-6849">Darîus hôchverte phlac.</l>
@@ -14534,7 +14534,7 @@
             <l n="7144" xml:id="book-2-chapter-61-lg-3577-l-7144">die im vliehens jehen hie?</l>
           </lg>
         </div>
-        <div n="84a" xml:id="book-2-chapter-62" type="chapter" data-level="2">
+        <div data-level="2" n="84a" type="chapter" xml:id="book-2-chapter-62">
           <head xml:lang="deu-Latn">Exkurs: Geschichte Gêdeôns</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-62-lg-3578">
             <l n="7145" xml:id="book-2-chapter-62-lg-3578-l-7145">uns ist in dirre werlde leben</l>
@@ -14744,9 +14744,9 @@
             <l n="7247" xml:id="book-2-chapter-62-lg-3629-l-7247">er fuorte ir vil gevangen dan.</l>
           </lg>
         </div>
-        <div n="84b" xml:id="book-2-chapter-63" type="chapter" data-level="2">
+        <div data-level="2" n="84b" type="chapter" xml:id="book-2-chapter-63">
           <head xml:lang="deu-Latn">Alexanders Schlachtvorbereitungen</head>
-          <lg n="84a_53_b" type="stanza" xml:id="book-2-chapter-63-lg-3630">
+          <lg n="84a_52_b" type="stanza" xml:id="book-2-chapter-63-lg-3630">
             <l n="7248" xml:id="book-2-chapter-63-lg-3630-l-7248">Alexander der werde man</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-2-chapter-63-lg-3631">
@@ -15454,7 +15454,7 @@
             <l n="7600" xml:id="book-2-chapter-63-lg-3806-l-7600">niuwan aleine des lobes ich ger.'</l>
           </lg>
         </div>
-        <div n="84c" xml:id="book-2-chapter-64" type="chapter" data-level="2">
+        <div data-level="2" n="84c" type="chapter" xml:id="book-2-chapter-64">
           <head xml:lang="deu-Latn">Darius' Schild</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-64-lg-3807">
             <l n="7601" xml:id="book-2-chapter-64-lg-3807-l-7601">Des siges als er im verjach,</l>
@@ -15853,7 +15853,7 @@
             <l n="7798" xml:id="book-2-chapter-64-lg-3905-l-7798">der himel und erde hât erbiuwen.</l>
           </lg>
         </div>
-        <div n="89" xml:id="book-2-chapter-65" type="chapter" data-level="2">
+        <div data-level="2" n="89" type="chapter" xml:id="book-2-chapter-65">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-2-chapter-65-lg-3906">
             <l n="7799" xml:id="book-2-chapter-65-lg-3906-l-7799">daʒ ander buoch ein ende hât,</l>
@@ -15893,8 +15893,8 @@
           </lg>
         </div>
       </div>
-      <div n="3" xml:id="book-3" type="book" data-level="1">
-        <div n="90" xml:id="book-3-chapter-66" type="chapter" data-level="2">
+      <div data-level="1" n="3" type="book" xml:id="book-3">
+        <div data-level="2" n="90" type="chapter" xml:id="book-3-chapter-66">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-66-lg-3915">
             <l n="7817" xml:id="book-3-chapter-66-lg-3915-l-7817">Gan mir got sô vil der zît,</l>
@@ -15925,7 +15925,7 @@
             <l n="7830" xml:id="book-3-chapter-66-lg-3921-l-7830">der zeher regen gieʒen.</l>
           </lg>
         </div>
-        <div n="84f" xml:id="book-3-chapter-67" type="chapter" data-level="2">
+        <div data-level="2" n="84f" type="chapter" xml:id="book-3-chapter-67">
           <head xml:lang="deu-Latn">Schlacht bei Issos</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-67-lg-3922">
             <l n="7831" xml:id="book-3-chapter-67-lg-3922-l-7831">ir sult mir gelouben des,</l>
@@ -17320,7 +17320,7 @@
             <l n="8526" xml:id="book-3-chapter-67-lg-4269-l-8526">den geist sanden sie den sternen.</l>
           </lg>
         </div>
-        <div n="84g" xml:id="book-3-chapter-68" type="chapter" data-level="2">
+        <div data-level="2" n="84g" type="chapter" xml:id="book-3-chapter-68">
           <head xml:lang="deu-Latn">Darius flieht</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-68-lg-4270">
             <l n="8527" xml:id="book-3-chapter-68-lg-4270-l-8527">Darîus vil fürsten sach verlorn,</l>
@@ -17463,7 +17463,7 @@
             <l n="8596" xml:id="book-3-chapter-68-lg-4304-l-8596">nâch wirde sie in enphiengen.</l>
           </lg>
         </div>
-        <div n="84h" xml:id="book-3-chapter-69" type="chapter" data-level="2">
+        <div data-level="2" n="84h" type="chapter" xml:id="book-3-chapter-69">
           <head xml:lang="deu-Latn">Ende der Schlacht</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-69-lg-4305">
             <l n="8597" xml:id="book-3-chapter-69-lg-4305-l-8597">Medêamanz von Samargôn,</l>
@@ -17650,7 +17650,7 @@
             <l n="8688" xml:id="book-3-chapter-69-lg-4350-l-8688">ûf der fluht wirt erslagen.</l>
           </lg>
         </div>
-        <div n="85" xml:id="book-3-chapter-70" type="chapter" data-level="2">
+        <div data-level="2" n="85" type="chapter" xml:id="book-3-chapter-70">
           <head xml:lang="deu-Latn">Vergewaltigungen</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-70-lg-4351">
             <l n="8689" xml:id="book-3-chapter-70-lg-4351-l-8689">Nû was ir hand von morde sat.</l>
@@ -17757,7 +17757,7 @@
             <l n="8740" xml:id="book-3-chapter-70-lg-4376-l-8740">des herzen regen begüʒʒe gar.</l>
           </lg>
         </div>
-        <div n="85a" xml:id="book-3-chapter-71" type="chapter" data-level="2">
+        <div data-level="2" n="85a" type="chapter" xml:id="book-3-chapter-71">
           <head xml:lang="deu-Latn">Erzählerexkurs: Wolfram von Eschenbach (II)</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-71-lg-4377">
             <l n="8741" xml:id="book-3-chapter-71-lg-4377-l-8741">her Wolfram, unde lebt ir noch,</l>
@@ -17808,7 +17808,7 @@
             <l n="8764" xml:id="book-3-chapter-71-lg-4388-l-8764">und den die helfe getrûwen ir.</l>
           </lg>
         </div>
-        <div n="85b" xml:id="book-3-chapter-72" type="chapter" data-level="2">
+        <div data-level="2" n="85b" type="chapter" xml:id="book-3-chapter-72">
           <head xml:lang="deu-Latn">Alexander nimmt Darius Verwandte gefangen</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-72-lg-4389">
             <l n="8765" xml:id="book-3-chapter-72-lg-4389-l-8765">Alexander ûf daʒ velt</l>
@@ -18203,7 +18203,7 @@
             <l n="8960" xml:id="book-3-chapter-72-lg-4486-l-8960">ergetzent mich niht des hêrren mîn.'</l>
           </lg>
         </div>
-        <div n="86" xml:id="book-3-chapter-73" type="chapter" data-level="2">
+        <div data-level="2" n="86" type="chapter" xml:id="book-3-chapter-73">
           <head xml:lang="deu-Latn">Erzählerkommentar: Alexanders hôchvart</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-73-lg-4487">
             <l n="8961" xml:id="book-3-chapter-73-lg-4487-l-8961">Alexander zühte wielt.</l>
@@ -18286,7 +18286,7 @@
             <l n="9000" xml:id="book-3-chapter-73-lg-4506-l-9000">daʒ vor dir die sêle ruowe habe.</l>
           </lg>
         </div>
-        <div n="87" xml:id="book-3-chapter-74" type="chapter" data-level="2">
+        <div data-level="2" n="87" type="chapter" xml:id="book-3-chapter-74">
           <head xml:lang="deu-Latn">Permênius besetzt Dâmascus</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-74-lg-4507">
             <l n="9001" xml:id="book-3-chapter-74-lg-4507-l-9001">Nâch dem horde, den Darîus lieʒ,</l>
@@ -18653,7 +18653,7 @@
             <l n="9182" xml:id="book-3-chapter-74-lg-4597-l-9182">der er mit vlîʒe warten hieʒ.</l>
           </lg>
         </div>
-        <div n="91" xml:id="book-3-chapter-75" type="chapter" data-level="2">
+        <div data-level="2" n="91" type="chapter" xml:id="book-3-chapter-75">
           <head xml:lang="deu-Latn">Sîdon und Fônicôn unterwerfen sich</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-75-lg-4598">
             <l n="9183" xml:id="book-3-chapter-75-lg-4598-l-9183">An dem sibenden morgen fruo</l>
@@ -18680,7 +18680,7 @@
             <l n="9194" xml:id="book-3-chapter-75-lg-4603-l-9194">die tempel êrst hieʒ machen.</l>
           </lg>
         </div>
-        <div n="93" xml:id="book-3-chapter-76" type="chapter" data-level="2">
+        <div data-level="2" n="93" type="chapter" xml:id="book-3-chapter-76">
           <head xml:lang="deu-Latn">Belagerung von Tyrus (II)</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-76-lg-4604">
             <l n="9195" xml:id="book-3-chapter-76-lg-4604-l-9195">einsît ligen an dem mer</l>
@@ -19531,7 +19531,7 @@
             <l n="9618" xml:id="book-3-chapter-76-lg-4815-l-9618">ân strît sunder swæreʒ leben.</l>
           </lg>
         </div>
-        <div n="101" xml:id="book-3-chapter-77" type="chapter" data-level="2">
+        <div data-level="2" n="101" type="chapter" xml:id="book-3-chapter-77">
           <head xml:lang="deu-Latn">Eroberung von Gâzâ</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-77-lg-4816">
             <l n="9619" xml:id="book-3-chapter-77-lg-4816-l-9619">Dar nâch er fuor vür eine stat</l>
@@ -19790,7 +19790,7 @@
             <l n="9746" xml:id="book-3-chapter-77-lg-4879-l-9746">und imʒ zem besten kêrten.</l>
           </lg>
         </div>
-        <div n="102" xml:id="book-3-chapter-78" type="chapter" data-level="2">
+        <div data-level="2" n="102" type="chapter" xml:id="book-3-chapter-78">
           <head xml:lang="deu-Latn">Über Êgypten</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-78-lg-4880">
             <l n="9747" xml:id="book-3-chapter-78-lg-4880-l-9747">In Gâzôn der fürste lac,</l>
@@ -19869,7 +19869,7 @@
             <l n="9784" xml:id="book-3-chapter-78-lg-4898-l-9784">man ensæhe in ûf den strâʒen.</l>
           </lg>
         </div>
-        <div n="104a" xml:id="book-3-chapter-79" type="chapter" data-level="2">
+        <div data-level="2" n="104a" type="chapter" xml:id="book-3-chapter-79">
           <head xml:lang="deu-Latn">Der Amonstempel</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-79-lg-4899">
             <l n="9785" xml:id="book-3-chapter-79-lg-4899-l-9785">Nû was er komen in daʒ lant,</l>
@@ -20096,7 +20096,7 @@
             <l n="9896" xml:id="book-3-chapter-79-lg-4954-l-9896">Feirafîʒ: sîn bruoder was Parcivâl.</l>
           </lg>
         </div>
-        <div n="104" xml:id="book-3-chapter-80" type="chapter" data-level="2">
+        <div data-level="2" n="104" type="chapter" xml:id="book-3-chapter-80">
           <head xml:lang="deu-Latn">Alexander plant den weiteren Feldzug</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-80-lg-4955">
             <l n="9897" xml:id="book-3-chapter-80-lg-4955-l-9897">Alexander ungespart</l>
@@ -20263,7 +20263,7 @@
             <l n="9978" xml:id="book-3-chapter-80-lg-4995-l-9978">als er den strît wolde heben.</l>
           </lg>
         </div>
-        <div n="78" xml:id="book-3-chapter-81" type="chapter" data-level="2">
+        <div data-level="2" n="78" type="chapter" xml:id="book-3-chapter-81">
           <head xml:lang="deu-Latn">Überquerung des Eufrât (?)</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-81-lg-4996">
             <l n="9979" xml:id="book-3-chapter-81-lg-4996-l-9979">Alexander ze den fürsten sprach</l>
@@ -20382,7 +20382,7 @@
             <l n="10036" xml:id="book-3-chapter-81-lg-5024-l-10036">er swuor ir leit, ir lanc ouwê.</l>
           </lg>
         </div>
-        <div n="115" xml:id="book-3-chapter-82" type="chapter" data-level="2">
+        <div data-level="2" n="115" type="chapter" xml:id="book-3-chapter-82">
           <head xml:lang="deu-Latn">Aufbegehren der Griechen</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-82-lg-5025">
             <l n="10037" xml:id="book-3-chapter-82-lg-5025-l-10037">dô die sunne ir schîn verlieʒ</l>
@@ -20729,7 +20729,7 @@
             <l n="10208" xml:id="book-3-chapter-82-lg-5110-l-10208">in stürmen und in strîten.</l>
           </lg>
         </div>
-        <div n="119" xml:id="book-3-chapter-83" type="chapter" data-level="2">
+        <div data-level="2" n="119" type="chapter" xml:id="book-3-chapter-83">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-3-chapter-83-lg-5111">
             <l n="10209" xml:id="book-3-chapter-83-lg-5111-l-10209">Der fürste sich alsô bedâht,</l>
@@ -20805,8 +20805,8 @@
           </lg>
         </div>
       </div>
-      <div n="4" xml:id="book-4" type="book" data-level="1">
-        <div n="120" xml:id="book-4-chapter-84" type="chapter" data-level="2">
+      <div data-level="1" n="4" type="book" xml:id="book-4">
+        <div data-level="2" n="120" type="chapter" xml:id="book-4-chapter-84">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-84-lg-5129">
             <l n="10245" xml:id="book-4-chapter-84-lg-5129-l-10245">Ich merke ân anegenge got</l>
@@ -20885,7 +20885,7 @@
             <l n="10282" xml:id="book-4-chapter-84-lg-5147-l-10282">des solt du, vater, uns gewern.</l>
           </lg>
         </div>
-        <div n="122" xml:id="book-4-chapter-85" type="chapter" data-level="2">
+        <div data-level="2" n="122" type="chapter" xml:id="book-4-chapter-85">
           <head xml:lang="deu-Latn">Darius' Ehefrau stirbt</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-85-lg-5148">
             <l n="10283" xml:id="book-4-chapter-85-lg-5148-l-10283">Vor irn strîte der vierde tac</l>
@@ -21499,9 +21499,9 @@
             <l n="10587" xml:id="book-4-chapter-85-lg-5300-l-10587">ich wîse eʒ sînen frechen siten.</l>
           </lg>
         </div>
-        <div n="124" xml:id="book-4-chapter-86" type="chapter" data-level="2">
+        <div data-level="2" n="124" type="chapter" xml:id="book-4-chapter-86">
           <head xml:lang="deu-Latn">Darius macht ein Friedensangebot</head>
-          <lg n="122_154_b" type="stanza" xml:id="book-4-chapter-86-lg-5301">
+          <lg n="122_153_b" type="stanza" xml:id="book-4-chapter-86-lg-5301">
             <l n="10588" xml:id="book-4-chapter-86-lg-5301-l-10588">die boten kâmen zuo geriten,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-4-chapter-86-lg-5302">
@@ -22276,9 +22276,9 @@
             <l n="10973" xml:id="book-4-chapter-86-lg-5494-l-10973">und daʒ ir sît an prîse quec.'</l>
           </lg>
         </div>
-        <div n="125" xml:id="book-4-chapter-87" type="chapter" data-level="2">
+        <div data-level="2" n="125" type="chapter" xml:id="book-4-chapter-87">
           <head xml:lang="deu-Latn">Mâzêus zieht gegen Alexander</head>
-          <lg n="124_194_b" type="stanza" xml:id="book-4-chapter-87-lg-5495">
+          <lg n="124_193_b" type="stanza" xml:id="book-4-chapter-87-lg-5495">
             <l n="10974" xml:id="book-4-chapter-87-lg-5495-l-10974">Mâzêus huop sich ûf den wec</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-4-chapter-87-lg-5496">
@@ -22542,7 +22542,7 @@
             <l n="11104" xml:id="book-4-chapter-87-lg-5560-l-11104">des ir prîs gehôhet wart.</l>
           </lg>
         </div>
-        <div n="123" xml:id="book-4-chapter-88" type="chapter" data-level="2">
+        <div data-level="2" n="123" type="chapter" xml:id="book-4-chapter-88">
           <head xml:lang="deu-Latn">Grabmal der Frau des Darius</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-88-lg-5561">
             <l n="11105" xml:id="book-4-chapter-88-lg-5561-l-11105">Die wîle der muotes slehte</l>
@@ -23977,7 +23977,7 @@
             <l n="11820" xml:id="book-4-chapter-88-lg-5918-l-11820">die die Juden heten verbrant.</l>
           </lg>
         </div>
-        <div n="126" xml:id="book-4-chapter-89" type="chapter" data-level="2">
+        <div data-level="2" n="126" type="chapter" xml:id="book-4-chapter-89">
           <head xml:lang="deu-Latn">Alexander schickt Eumênidus auf Erkundung</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-89-lg-5919">
             <l n="11821" xml:id="book-4-chapter-89-lg-5919-l-11821">Nû ist volbrâht der frouwen grap.</l>
@@ -24244,7 +24244,7 @@
             <l n="11952" xml:id="book-4-chapter-89-lg-5984-l-11952">und grôʒer êren phlæge.</l>
           </lg>
         </div>
-        <div n="127" xml:id="book-4-chapter-90" type="chapter" data-level="2">
+        <div data-level="2" n="127" type="chapter" xml:id="book-4-chapter-90">
           <head xml:lang="deu-Latn">Aufmarsch der Heere</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-90-lg-5985">
             <l n="11953" xml:id="book-4-chapter-90-lg-5985-l-11953">Darîus der fröiden frîe</l>
@@ -25034,9 +25034,9 @@
             <l n="12345" xml:id="book-4-chapter-90-lg-6181-l-12345">albereit des heres braht.</l>
           </lg>
         </div>
-        <div n="127a" xml:id="book-4-chapter-91" type="chapter" data-level="2">
+        <div data-level="2" n="127a" type="chapter" xml:id="book-4-chapter-91">
           <head xml:lang="deu-Latn">Kriegsrat bei Alexander</head>
-          <lg n="127_198_b" type="stanza" xml:id="book-4-chapter-91-lg-6182">
+          <lg n="127_197_b" type="stanza" xml:id="book-4-chapter-91-lg-6182">
             <l n="12346" xml:id="book-4-chapter-91-lg-6182-l-12346">die Kriechen heten sich bedâht</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-4-chapter-91-lg-6183">
@@ -25360,7 +25360,7 @@
             <l n="12506" xml:id="book-4-chapter-91-lg-6262-l-12506">schiere wolde komen der tac.</l>
           </lg>
         </div>
-        <div n="127b" xml:id="book-4-chapter-92" type="chapter" data-level="2">
+        <div data-level="2" n="127b" type="chapter" xml:id="book-4-chapter-92">
           <head xml:lang="deu-Latn">Exkurs: Victoria</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-92-lg-6263">
             <l n="12507" xml:id="book-4-chapter-92-lg-6263-l-12507">Eʒ nâhet ûf den morgen.</l>
@@ -25683,7 +25683,7 @@
             <l n="12666" xml:id="book-4-chapter-92-lg-6342-l-12666">und geben zuo und nemen abe.</l>
           </lg>
         </div>
-        <div n="127c" xml:id="book-4-chapter-93" type="chapter" data-level="2">
+        <div data-level="2" n="127c" type="chapter" xml:id="book-4-chapter-93">
           <head xml:lang="deu-Latn">Schlachtvorbereitungen bei Alexander</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-93-lg-6343">
             <l n="12667" xml:id="book-4-chapter-93-lg-6343-l-12667">an daʒ êrste ich wider komen wil.</l>
@@ -26150,7 +26150,7 @@
             <l n="12898" xml:id="book-4-chapter-93-lg-6458-l-12898">zesamen riʒʒen überal.</l>
           </lg>
         </div>
-        <div n="142" xml:id="book-4-chapter-94" type="chapter" data-level="2">
+        <div data-level="2" n="142" type="chapter" xml:id="book-4-chapter-94">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-4-chapter-94-lg-6459">
             <l n="12899" xml:id="book-4-chapter-94-lg-6459-l-12899">daʒ vierde buoch ist ûʒ gelesen.</l>
@@ -26162,8 +26162,8 @@
           </lg>
         </div>
       </div>
-      <div n="5" xml:id="book-5" type="book" data-level="1">
-        <div n="143" xml:id="book-5-chapter-95" type="chapter" data-level="2">
+      <div data-level="1" n="5" type="book" xml:id="book-5">
+        <div data-level="2" n="143" type="chapter" xml:id="book-5-chapter-95">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-95-lg-6461">
             <l n="12903" xml:id="book-5-chapter-95-lg-6461-l-12903">Got aller wunder hât gewalt,</l>
@@ -26386,7 +26386,7 @@
             <l n="13012" xml:id="book-5-chapter-95-lg-6515-l-13012">daʒ an der sêle wir genesen.</l>
           </lg>
         </div>
-        <div n="118" xml:id="book-5-chapter-96" type="chapter" data-level="2">
+        <div data-level="2" n="118" type="chapter" xml:id="book-5-chapter-96">
           <head xml:lang="deu-Latn">Schlacht bei Erbela (Gaugamela)</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-96-lg-6516">
             <l n="13013" xml:id="book-5-chapter-96-lg-6516-l-13013">Habt ir von strîte ie nôt vernomen,</l>
@@ -28537,7 +28537,7 @@
             <l n="14086" xml:id="book-5-chapter-96-lg-7052-l-14086">an den, die sie dô veigeten.</l>
           </lg>
         </div>
-        <div n="118a" xml:id="book-5-chapter-97" type="chapter" data-level="2">
+        <div data-level="2" n="118a" type="chapter" xml:id="book-5-chapter-97">
           <head xml:lang="deu-Latn">Darius flieht</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-97-lg-7053">
             <l n="14087" xml:id="book-5-chapter-97-lg-7053-l-14087">der keiser jâmer grôʒ dô sach.</l>
@@ -29192,7 +29192,7 @@
             <l n="14412" xml:id="book-5-chapter-97-lg-7215-l-14412">gegen dem lande Bractân.</l>
           </lg>
         </div>
-        <div n="263" xml:id="book-5-chapter-98" type="chapter" data-level="2">
+        <div data-level="2" n="263" type="chapter" xml:id="book-5-chapter-98">
           <head xml:lang="deu-Latn">Alexander zieht in Babilôn ein</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-98-lg-7216">
             <l n="14413" xml:id="book-5-chapter-98-lg-7216-l-14413">Des morgens als erschein der tac,</l>
@@ -29363,7 +29363,7 @@
             <l n="14496" xml:id="book-5-chapter-98-lg-7257-l-14496">der stat gezierde al ûf getân.</l>
           </lg>
         </div>
-        <div n="184" xml:id="book-5-chapter-99" type="chapter" data-level="2">
+        <div data-level="2" n="184" type="chapter" xml:id="book-5-chapter-99">
           <head xml:lang="deu-Latn">Alexander als Minneritter der Candacis</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-99-lg-7258">
             <l n="14497" xml:id="book-5-chapter-99-lg-7258-l-14497">Der menlîche Macedôn</l>
@@ -29466,7 +29466,7 @@
             <l n="14546" xml:id="book-5-chapter-99-lg-7282-l-14546">moht man in in wirde schouwen.</l>
           </lg>
         </div>
-        <div n="264" xml:id="book-5-chapter-100" type="chapter" data-level="2">
+        <div data-level="2" n="264" type="chapter" xml:id="book-5-chapter-100">
           <head xml:lang="deu-Latn">In Babilôn</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-100-lg-7283">
             <l n="14547" xml:id="book-5-chapter-100-lg-7283-l-14547">nû reit der minnen soldier</l>
@@ -29817,7 +29817,7 @@
             <l n="14720" xml:id="book-5-chapter-100-lg-7369-l-14720">des mich kunde niht erlangen.</l>
           </lg>
         </div>
-        <div n="264a" xml:id="book-5-chapter-101" type="chapter" data-level="2">
+        <div data-level="2" n="264a" type="chapter" xml:id="book-5-chapter-101">
           <head xml:lang="deu-Latn">Über Babilôn</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-101-lg-7370">
             <l n="14721" xml:id="book-5-chapter-101-lg-7370-l-14721">ô Babilôn, nû hâst du den,</l>
@@ -29948,7 +29948,7 @@
             <l n="14784" xml:id="book-5-chapter-101-lg-7401-l-14784">dannan zogten die geste.</l>
           </lg>
         </div>
-        <div n="198" xml:id="book-5-chapter-102" type="chapter" data-level="2">
+        <div data-level="2" n="198" type="chapter" xml:id="book-5-chapter-102">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-5-chapter-102-lg-7402">
             <l n="14785" xml:id="book-5-chapter-102-lg-7402-l-14785">daʒ fünfte buoch wil ende hân.</l>
@@ -29960,8 +29960,8 @@
           </lg>
         </div>
       </div>
-      <div n="6" xml:id="book-6" type="book" data-level="1">
-        <div n="199" xml:id="book-6-chapter-103" type="chapter" data-level="2">
+      <div data-level="1" n="6" type="book" xml:id="book-6">
+        <div data-level="2" n="199" type="chapter" xml:id="book-6-chapter-103">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-103-lg-7404">
             <l n="14789" xml:id="book-6-chapter-103-lg-7404-l-14789">Der al die welt geschaffen hât</l>
@@ -30064,7 +30064,7 @@
             <l n="14838" xml:id="book-6-chapter-103-lg-7428-l-14838">bringet ze fröiden schalle.</l>
           </lg>
         </div>
-        <div n="199a" xml:id="book-6-chapter-104" type="chapter" data-level="2">
+        <div data-level="2" n="199a" type="chapter" xml:id="book-6-chapter-104">
           <head xml:lang="deu-Latn">Alexander als Herrscher</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-104-lg-7429">
             <l n="14839" xml:id="book-6-chapter-104-lg-7429-l-14839">Dô der freche Macedôn</l>
@@ -30195,7 +30195,7 @@
             <l n="14902" xml:id="book-6-chapter-104-lg-7460-l-14902">ob ich mich neren wolde.</l>
           </lg>
         </div>
-        <div n="126" xml:id="book-6-chapter-105" type="chapter" data-level="2">
+        <div data-level="2" n="126" type="chapter" xml:id="book-6-chapter-105">
           <head xml:lang="deu-Latn">Belagerung Uxiâs</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-105-lg-7461">
             <l n="14903" xml:id="book-6-chapter-105-lg-7461-l-14903">Dar nâch der junge helt gemeit</l>
@@ -30634,7 +30634,7 @@
             <l n="15120" xml:id="book-6-chapter-105-lg-7569-l-15120">daʒ er sie tôdes hete verzigen.</l>
           </lg>
         </div>
-        <div n="127" xml:id="book-6-chapter-106" type="chapter" data-level="2">
+        <div data-level="2" n="127" type="chapter" xml:id="book-6-chapter-106">
           <head xml:lang="deu-Latn">Ein monströses Volk im Gebirge</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-106-lg-7570">
             <l n="15121" xml:id="book-6-chapter-106-lg-7570-l-15121">aldâ gebôt der Macedô</l>
@@ -30796,9 +30796,9 @@
             <l n="15199" xml:id="book-6-chapter-106-lg-7609-l-15199">daʒ füegete manger frouwen leit.</l>
           </lg>
         </div>
-        <div n="127a" xml:id="book-6-chapter-107" type="chapter" data-level="2">
+        <div data-level="2" n="127a" type="chapter" xml:id="book-6-chapter-107">
           <head xml:lang="deu-Latn">Alexander trifft auf den fliehenden Darius</head>
-          <lg n="127_41_b" type="stanza" xml:id="book-6-chapter-107-lg-7610">
+          <lg n="127_40_b" type="stanza" xml:id="book-6-chapter-107-lg-7610">
             <l n="15200" xml:id="book-6-chapter-107-lg-7610-l-15200">Nû sach er wâ von verren reit</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-6-chapter-107-lg-7611">
@@ -30946,7 +30946,7 @@
             <l n="15272" xml:id="book-6-chapter-107-lg-7646-l-15272">daʒ im der keiser entreit.</l>
           </lg>
         </div>
-        <div n="128" xml:id="book-6-chapter-108" type="chapter" data-level="2">
+        <div data-level="2" n="128" type="chapter" xml:id="book-6-chapter-108">
           <head xml:lang="deu-Latn">Eroberung von Persepolis</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-108-lg-7647">
             <l n="15273" xml:id="book-6-chapter-108-lg-7647-l-15273">Des andern morgens vil fruo</l>
@@ -31353,7 +31353,7 @@
             <l n="15474" xml:id="book-6-chapter-108-lg-7747-l-15474">von ir ungedult zertrant.</l>
           </lg>
         </div>
-        <div n="130" xml:id="book-6-chapter-109" type="chapter" data-level="2">
+        <div data-level="2" n="130" type="chapter" xml:id="book-6-chapter-109">
           <head xml:lang="deu-Latn">Die verstümmelten Gefangenen</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-109-lg-7748">
             <l n="15475" xml:id="book-6-chapter-109-lg-7748-l-15475">Dô er sîn volc alsô gerach</l>
@@ -31907,9 +31907,9 @@
             <l n="15749" xml:id="book-6-chapter-109-lg-7885-l-15749">er macht in armuot tiure.</l>
           </lg>
         </div>
-        <div n="133" xml:id="book-6-chapter-110" type="chapter" data-level="2">
+        <div data-level="2" n="133" type="chapter" xml:id="book-6-chapter-110">
           <head xml:lang="deu-Latn">Beratung bei Darius</head>
-          <lg n="130_139_b" type="stanza" xml:id="book-6-chapter-110-lg-7886">
+          <lg n="130_138_b" type="stanza" xml:id="book-6-chapter-110-lg-7886">
             <l n="15750" xml:id="book-6-chapter-110-lg-7886-l-15750">dar der gehiure</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-6-chapter-110-lg-7887">
@@ -32253,7 +32253,7 @@
             <l n="15920" xml:id="book-6-chapter-110-lg-7971-l-15920">dîn valscheit ich hie melde.</l>
           </lg>
         </div>
-        <div n="153a" xml:id="book-6-chapter-111" type="chapter" data-level="2">
+        <div data-level="2" n="153a" type="chapter" xml:id="book-6-chapter-111">
           <head xml:lang="deu-Latn">Verschwörung von Nabârsones und Bessus</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-111-lg-7972">
             <l n="15921" xml:id="book-6-chapter-111-lg-7972-l-15921">dise rede ist wâr und ungelogen.</l>
@@ -32860,7 +32860,7 @@
             <l n="16222" xml:id="book-6-chapter-111-lg-8122-l-16222">waʒ dem menschen ist gemeinet.</l>
           </lg>
         </div>
-        <div n="143a" xml:id="book-6-chapter-112" type="chapter" data-level="2">
+        <div data-level="2" n="143a" type="chapter" xml:id="book-6-chapter-112">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-6-chapter-112-lg-8123">
             <l n="16223" xml:id="book-6-chapter-112-lg-8123-l-16223">als ich rehte mich verstê</l>
@@ -32916,8 +32916,8 @@
           </lg>
         </div>
       </div>
-      <div n="7" xml:id="book-7" type="book" data-level="1">
-        <div n="143b" xml:id="book-7-chapter-113" type="chapter" data-level="2">
+      <div data-level="1" n="7" type="book" xml:id="book-7">
+        <div data-level="2" n="143b" type="chapter" xml:id="book-7-chapter-113">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-113-lg-8136">
             <l n="16249" xml:id="book-7-chapter-113-lg-8136-l-16249">Got, hêrre, hôchgelobter got,</l>
@@ -32968,7 +32968,7 @@
             <l n="16272" xml:id="book-7-chapter-113-lg-8147-l-16272">daʒ mich ze fröiden cleine stiuret.</l>
           </lg>
         </div>
-        <div n="138" xml:id="book-7-chapter-114" type="chapter" data-level="2">
+        <div data-level="2" n="138" type="chapter" xml:id="book-7-chapter-114">
           <head xml:lang="deu-Latn">Darius' Ermordung</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-114-lg-8148">
             <l n="16273" xml:id="book-7-chapter-114-lg-8148-l-16273">Ich künde iu nâch des buoches sage.</l>
@@ -33642,9 +33642,9 @@
             <l n="16607" xml:id="book-7-chapter-114-lg-8315-l-16607">der kêrte gegen Irkâniâ.</l>
           </lg>
         </div>
-        <div n="138a" xml:id="book-7-chapter-115" type="chapter" data-level="2">
+        <div data-level="2" n="138a" type="chapter" xml:id="book-7-chapter-115">
           <head xml:lang="deu-Latn">Kampf mit Persern</head>
-          <lg n="138_169_b" type="stanza" xml:id="book-7-chapter-115-lg-8316">
+          <lg n="138_168_b" type="stanza" xml:id="book-7-chapter-115-lg-8316">
             <l n="16608" xml:id="book-7-chapter-115-lg-8316-l-16608">noch wârn sehs tûsent dâ</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-7-chapter-115-lg-8317">
@@ -33840,7 +33840,7 @@
             <l n="16704" xml:id="book-7-chapter-115-lg-8364-l-16704">die lieʒ man alle leben.</l>
           </lg>
         </div>
-        <div n="138b" xml:id="book-7-chapter-116" type="chapter" data-level="2">
+        <div data-level="2" n="138b" type="chapter" xml:id="book-7-chapter-116">
           <head xml:lang="deu-Latn">Darius' Tod</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-116-lg-8365">
             <l n="16705" xml:id="book-7-chapter-116-lg-8365-l-16705">Archâbatus der genas.</l>
@@ -34187,7 +34187,7 @@
             <l n="16876" xml:id="book-7-chapter-116-lg-8450-l-16876">als ich her nâch iu sagen wil.</l>
           </lg>
         </div>
-        <div n="147" xml:id="book-7-chapter-117" type="chapter" data-level="2">
+        <div data-level="2" n="147" type="chapter" xml:id="book-7-chapter-117">
           <head xml:lang="deu-Latn">Alexander bestraft die Mörder des Darius</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-117-lg-8451">
             <l n="16877" xml:id="book-7-chapter-117-lg-8451-l-16877">Dô gebot der valsches eine</l>
@@ -34282,7 +34282,7 @@
             <l n="16922" xml:id="book-7-chapter-117-lg-8473-l-16922">die rihte und die krumbe.</l>
           </lg>
         </div>
-        <div n="140" xml:id="book-7-chapter-118" type="chapter" data-level="2">
+        <div data-level="2" n="140" type="chapter" xml:id="book-7-chapter-118">
           <head xml:lang="deu-Latn">Darius' Grab</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-118-lg-8474">
             <l n="16923" xml:id="book-7-chapter-118-lg-8474-l-16923">Als ichʒ von dem buoche habe,</l>
@@ -34573,7 +34573,7 @@
             <l n="17066" xml:id="book-7-chapter-118-lg-8545-l-17066">mirre und wîrouch ze phlege.</l>
           </lg>
         </div>
-        <div n="141" xml:id="book-7-chapter-119" type="chapter" data-level="2">
+        <div data-level="2" n="141" type="chapter" xml:id="book-7-chapter-119">
           <head xml:lang="deu-Latn">Alexanders Krönung und Hochzeit</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-119-lg-8546">
             <l n="17067" xml:id="book-7-chapter-119-lg-8546-l-17067">Dô daʒ alleʒ was getân,</l>
@@ -34860,7 +34860,7 @@
             <l n="17208" xml:id="book-7-chapter-119-lg-8616-l-17208">daʒ er Roxam hæte gesehen.</l>
           </lg>
         </div>
-        <div n="184a" xml:id="book-7-chapter-120" type="chapter" data-level="2">
+        <div data-level="2" n="184a" type="chapter" xml:id="book-7-chapter-120">
           <head xml:lang="deu-Latn">Boten von Candacis</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-120-lg-8617">
             <l n="17209" xml:id="book-7-chapter-120-lg-8617-l-17209">Candacis hieʒ ein künigin,</l>
@@ -35103,7 +35103,7 @@
             <l n="17328" xml:id="book-7-chapter-120-lg-8676-l-17328">des was dâ niht vergeʒʒen.</l>
           </lg>
         </div>
-        <div n="141a" xml:id="book-7-chapter-121" type="chapter" data-level="2">
+        <div data-level="2" n="141a" type="chapter" xml:id="book-7-chapter-121">
           <head xml:lang="deu-Latn">Alexander organisiert seinen Hof</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-121-lg-8677">
             <l n="17329" xml:id="book-7-chapter-121-lg-8677-l-17329">Nû wil die hôchzît ende hân.</l>
@@ -35162,7 +35162,7 @@
             <l n="17356" xml:id="book-7-chapter-121-lg-8690-l-17356">der keiser ir verterben swuor.</l>
           </lg>
         </div>
-        <div n="144" xml:id="book-7-chapter-122" type="chapter" data-level="2">
+        <div data-level="2" n="144" type="chapter" xml:id="book-7-chapter-122">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-7-chapter-122-lg-8691">
             <l n="17357" xml:id="book-7-chapter-122-lg-8691-l-17357">nû ist daʒ sibende buoch volbrâht.</l>
@@ -35186,8 +35186,8 @@
           </lg>
         </div>
       </div>
-      <div n="8" xml:id="book-8" type="book" data-level="1">
-        <div n="145" xml:id="book-8-chapter-123" type="chapter" data-level="2">
+      <div data-level="1" n="8" type="book" xml:id="book-8">
+        <div data-level="2" n="145" type="chapter" xml:id="book-8-chapter-123">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-123-lg-8696">
             <l n="17367" xml:id="book-8-chapter-123-lg-8696-l-17367">Die werlt und des gelackes rat</l>
@@ -35254,7 +35254,7 @@
             <l n="17398" xml:id="book-8-chapter-123-lg-8711-l-17398">waʒ er an dir minne.</l>
           </lg>
         </div>
-        <div n="186" xml:id="book-8-chapter-124" type="chapter" data-level="2">
+        <div data-level="2" n="186" type="chapter" xml:id="book-8-chapter-124">
           <head xml:lang="deu-Latn">Die Amazonen</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-124-lg-8712">
             <l n="17399" xml:id="book-8-chapter-124-lg-8712-l-17399">Daʒ ahte buoch uns saget sô:</l>
@@ -35685,7 +35685,7 @@
             <l n="17612" xml:id="book-8-chapter-124-lg-8818-l-17612">waʒ in wart, sie fuortenʒ dan.</l>
           </lg>
         </div>
-        <div n="196" xml:id="book-8-chapter-125" type="chapter" data-level="2">
+        <div data-level="2" n="196" type="chapter" xml:id="book-8-chapter-125">
           <head xml:lang="deu-Latn">Verbrennung der Beute</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-125-lg-8819">
             <l n="17613" xml:id="book-8-chapter-125-lg-8819-l-17613">dô gebôt der fürste sân</l>
@@ -35860,7 +35860,7 @@
             <l n="17698" xml:id="book-8-chapter-125-lg-8861-l-17698">ê sie die stat erstriten.</l>
           </lg>
         </div>
-        <div n="205" xml:id="book-8-chapter-126" type="chapter" data-level="2">
+        <div data-level="2" n="205" type="chapter" xml:id="book-8-chapter-126">
           <head xml:lang="deu-Latn">Eroberung Bactras</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-126-lg-8862">
             <l n="17699" xml:id="book-8-chapter-126-lg-8862-l-17699">Mit strîtlîcher herte</l>
@@ -35935,7 +35935,7 @@
             <l n="17734" xml:id="book-8-chapter-126-lg-8879-l-17734">die er gerne und ungerne vernam.</l>
           </lg>
         </div>
-        <div n="98" xml:id="book-8-chapter-127" type="chapter" data-level="2">
+        <div data-level="2" n="98" type="chapter" xml:id="book-8-chapter-127">
           <head xml:lang="deu-Latn">Der Streit der Juden und Samariter</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-127-lg-8880">
             <l n="17735" xml:id="book-8-chapter-127-lg-8880-l-17735">in Jhêrusalêm ein nît</l>
@@ -36370,7 +36370,7 @@
             <l n="17950" xml:id="book-8-chapter-127-lg-8987-l-17950">sus kâmen sie ze lande.</l>
           </lg>
         </div>
-        <div n="197" xml:id="book-8-chapter-128" type="chapter" data-level="2">
+        <div data-level="2" n="197" type="chapter" xml:id="book-8-chapter-128">
           <head xml:lang="deu-Latn">Verrat des Dimnus u.a.</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-128-lg-8988">
             <l n="17951" xml:id="book-8-chapter-128-lg-8988-l-17951">Sich werlt, als ich ê von dir sprach</l>
@@ -37685,7 +37685,7 @@
             <l n="18606" xml:id="book-8-chapter-128-lg-9315-l-18606">den, die sich dir ze dienste geben.</l>
           </lg>
         </div>
-        <div n="202" xml:id="book-8-chapter-129" type="chapter" data-level="2">
+        <div data-level="2" n="202" type="chapter" xml:id="book-8-chapter-129">
           <head xml:lang="deu-Latn">Alexander unterwirft die Sciten</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-129-lg-9316">
             <l n="18607" xml:id="book-8-chapter-129-lg-9316-l-18607">Nâch des heldes tôde, als ich iu sage,</l>
@@ -38236,7 +38236,7 @@
             <l n="18880" xml:id="book-8-chapter-129-lg-9452-l-18880">daʒ volc nâch sînem willen twanc.</l>
           </lg>
         </div>
-        <div n="203" xml:id="book-8-chapter-130" type="chapter" data-level="2">
+        <div data-level="2" n="203" type="chapter" xml:id="book-8-chapter-130">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-8-chapter-130-lg-9453">
             <l n="18881" xml:id="book-8-chapter-130-lg-9453-l-18881">Das ahte buoch hân ich volsagt,</l>
@@ -38304,8 +38304,8 @@
           </lg>
         </div>
       </div>
-      <div n="9" xml:id="book-9" type="book" data-level="1">
-        <div n="157" xml:id="book-9-chapter-131" type="chapter" data-level="2">
+      <div data-level="1" n="9" type="book" xml:id="book-9">
+        <div data-level="2" n="157" type="chapter" xml:id="book-9-chapter-131">
           <head xml:lang="deu-Latn">Hinrichtung des Ermolâus</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-131-lg-9469">
             <l n="18913" xml:id="book-9-chapter-131-lg-9469-l-18913">Daʒ niunde buoch uns alsô saget:</l>
@@ -38399,9 +38399,9 @@
             <l n="18957" xml:id="book-9-chapter-131-lg-9491-l-18957">man clagt sie âne mâʒen.</l>
           </lg>
         </div>
-        <div n="158" xml:id="book-9-chapter-132" type="chapter" data-level="2">
+        <div data-level="2" n="158" type="chapter" xml:id="book-9-chapter-132">
           <head xml:lang="deu-Latn">Alexander und Antilôis</head>
-          <lg n="157_24_b" type="stanza" xml:id="book-9-chapter-132-lg-9492">
+          <lg n="157_23_b" type="stanza" xml:id="book-9-chapter-132-lg-9492">
             <l n="18958" xml:id="book-9-chapter-132-lg-9492-l-18958">Die jeger heten gelâʒen</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-9-chapter-132-lg-9493">
@@ -38905,7 +38905,7 @@
             <l n="19208" xml:id="book-9-chapter-132-lg-9617-l-19208">Antilôis und kêrte dan.</l>
           </lg>
         </div>
-        <div n="159" xml:id="book-9-chapter-133" type="chapter" data-level="2">
+        <div data-level="2" n="159" type="chapter" xml:id="book-9-chapter-133">
           <head xml:lang="deu-Latn">Hinrichtung des Clitus</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-133-lg-9618">
             <l n="19209" xml:id="book-9-chapter-133-lg-9618-l-19209">Nû sagt ditz buoch uns mære,</l>
@@ -39032,7 +39032,7 @@
             <l n="19270" xml:id="book-9-chapter-133-lg-9648-l-19270">daʒ er doch iht gâhes ræche.</l>
           </lg>
         </div>
-        <div n="160" xml:id="book-9-chapter-134" type="chapter" data-level="2">
+        <div data-level="2" n="160" type="chapter" xml:id="book-9-chapter-134">
           <head xml:lang="deu-Latn">Über Indien</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-134-lg-9649">
             <l n="19271" xml:id="book-9-chapter-134-lg-9649-l-19271">dô wart Clitus begraben</l>
@@ -39235,7 +39235,7 @@
             <l n="19370" xml:id="book-9-chapter-134-lg-9698-l-19370">als mir die âventiure swuor.</l>
           </lg>
         </div>
-        <div n="170" xml:id="book-9-chapter-135" type="chapter" data-level="2">
+        <div data-level="2" n="170" type="chapter" xml:id="book-9-chapter-135">
           <head xml:lang="deu-Latn">Schlacht am Dyaspes (Hydaspes)</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-135-lg-9699">
             <l n="19371" xml:id="book-9-chapter-135-lg-9699-l-19371">Als Alexander hete vernomen</l>
@@ -40502,7 +40502,7 @@
             <l n="20002" xml:id="book-9-chapter-135-lg-10014-l-20002">kam Pôrus und Alexander.</l>
           </lg>
         </div>
-        <div n="170a" xml:id="book-9-chapter-136" type="chapter" data-level="2">
+        <div data-level="2" n="170a" type="chapter" xml:id="book-9-chapter-136">
           <head xml:lang="deu-Latn">Flucht der Inder</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-136-lg-10015">
             <l n="20003" xml:id="book-9-chapter-136-lg-10015-l-20003">der strît sô lange het gewert,</l>
@@ -40713,7 +40713,7 @@
             <l n="20106" xml:id="book-9-chapter-136-lg-10066-l-20106">wir lâʒen uns so vertrîben niht.'</l>
           </lg>
         </div>
-        <div n="171" xml:id="book-9-chapter-137" type="chapter" data-level="2">
+        <div data-level="2" n="171" type="chapter" xml:id="book-9-chapter-137">
           <head xml:lang="deu-Latn">Zweikampf Alexander Pôrus</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-137-lg-10067">
             <l n="20107" xml:id="book-9-chapter-137-lg-10067-l-20107">Pôrus der was ie unverzagt.</l>
@@ -40996,7 +40996,7 @@
             <l n="20246" xml:id="book-9-chapter-137-lg-10136-l-20246">der half Pôrô daʒ er genas</l>
           </lg>
         </div>
-        <div n="184b" xml:id="book-9-chapter-138" type="chapter" data-level="2">
+        <div data-level="2" n="184b" type="chapter" xml:id="book-9-chapter-138">
           <head xml:lang="deu-Latn">Königin Candacis</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-138-lg-10137">
             <l n="20247" xml:id="book-9-chapter-138-lg-10137-l-20247">dô Candaulus hete vernomen</l>
@@ -41619,7 +41619,7 @@
             <l n="20556" xml:id="book-9-chapter-138-lg-10291-l-20556">sie trûwete deste baʒ genesen.</l>
           </lg>
         </div>
-        <div n="164" xml:id="book-9-chapter-139" type="chapter" data-level="2">
+        <div data-level="2" n="164" type="chapter" xml:id="book-9-chapter-139">
           <head xml:lang="deu-Latn">Alexander abgeschnitten in Sûdrâcas</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-139-lg-10292">
             <l n="20557" xml:id="book-9-chapter-139-lg-10292-l-20557">Nû fuor der künc vürbaʒ dan</l>
@@ -42066,7 +42066,7 @@
             <l n="20778" xml:id="book-9-chapter-139-lg-10402-l-20778">Aristôn wol berâten was.</l>
           </lg>
         </div>
-        <div n="165" xml:id="book-9-chapter-140" type="chapter" data-level="2">
+        <div data-level="2" n="165" type="chapter" xml:id="book-9-chapter-140">
           <head xml:lang="deu-Latn">Meuterei der Griechen</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-140-lg-10403">
             <l n="20779" xml:id="book-9-chapter-140-lg-10403-l-20779">Alexander ein zuht begienc.</l>
@@ -42229,7 +42229,7 @@
             <l n="20858" xml:id="book-9-chapter-140-lg-10442-l-20858">der ich von dannen hœre jehen.'</l>
           </lg>
         </div>
-        <div n="149" xml:id="book-9-chapter-141" type="chapter" data-level="2">
+        <div data-level="2" n="149" type="chapter" xml:id="book-9-chapter-141">
           <head xml:lang="deu-Latn">Gog und Magog</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-141-lg-10443">
             <l n="20859" xml:id="book-9-chapter-141-lg-10443-l-20859">Pôrus was nû wol gesunt.</l>
@@ -42432,7 +42432,7 @@
             <l n="20958" xml:id="book-9-chapter-141-lg-10492-l-20958">biutet zwei jâr, ein jâr und ein halp jâr.</l>
           </lg>
         </div>
-        <div n="173" xml:id="book-9-chapter-142" type="chapter" data-level="2">
+        <div data-level="2" n="173" type="chapter" xml:id="book-9-chapter-142">
           <head xml:lang="deu-Latn">Pôrus' goldener Palast</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-142-lg-10493">
             <l n="20959" xml:id="book-9-chapter-142-lg-10493-l-20959">Alexander der werde vogt</l>
@@ -42623,7 +42623,7 @@
             <l n="21052" xml:id="book-9-chapter-142-lg-10539-l-21052">wol sieʒ dem werden dô erbôt.</l>
           </lg>
         </div>
-        <div n="174" xml:id="book-9-chapter-143" type="chapter" data-level="2">
+        <div data-level="2" n="174" type="chapter" xml:id="book-9-chapter-143">
           <head xml:lang="deu-Latn">Epilog</head>
           <lg n="1" type="stanza" xml:id="book-9-chapter-143-lg-10540">
             <l n="21053" xml:id="book-9-chapter-143-lg-10540-l-21053">Des niunden buoches ist niht mê.</l>
@@ -42643,8 +42643,8 @@
           </lg>
         </div>
       </div>
-      <div n="10" xml:id="book-10" type="book" data-level="1">
-        <div n="175" xml:id="book-10-chapter-144" type="chapter" data-level="2">
+      <div data-level="1" n="10" type="book" xml:id="book-10">
+        <div data-level="2" n="175" type="chapter" xml:id="book-10-chapter-144">
           <head xml:lang="deu-Latn">Prolog</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-144-lg-10544">
             <l n="21061" xml:id="book-10-chapter-144-lg-10544-l-21061">Daʒ zehende buoch besunder</l>
@@ -42767,7 +42767,7 @@
             <l n="21120" xml:id="book-10-chapter-144-lg-10573-l-21120">got dich ze muoter hât erkorn.</l>
           </lg>
         </div>
-        <div n="129" xml:id="book-10-chapter-145" type="chapter" data-level="2">
+        <div data-level="2" n="129" type="chapter" xml:id="book-10-chapter-145">
           <head xml:lang="deu-Latn">Gräber persischer Könige</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-145-lg-10574">
             <l n="21121" xml:id="book-10-chapter-145-lg-10574-l-21121">Von Pôrô Alexander schiet.</l>
@@ -42885,9 +42885,9 @@
             <l n="21177" xml:id="book-10-chapter-145-lg-10602-l-21177">wol mohte sehen und wie er lac.</l>
           </lg>
         </div>
-        <div n="130" xml:id="book-10-chapter-146" type="chapter" data-level="2">
+        <div data-level="2" n="130" type="chapter" xml:id="book-10-chapter-146">
           <head xml:lang="deu-Latn">Alexander befreit ein gefangenes Volk</head>
-          <lg n="129_30_b" type="stanza" xml:id="book-10-chapter-146-lg-10603">
+          <lg n="129_29_b" type="stanza" xml:id="book-10-chapter-146-lg-10603">
             <l n="21178" xml:id="book-10-chapter-146-lg-10603-l-21178">Dâ bî ein volc sorgen phlac,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-146-lg-10604">
@@ -42935,7 +42935,7 @@
             <l n="21200" xml:id="book-10-chapter-146-lg-10614-l-21200">die süeʒe senfte barmherzikeit.</l>
           </lg>
         </div>
-        <div n="131" xml:id="book-10-chapter-147" type="chapter" data-level="2">
+        <div data-level="2" n="131" type="chapter" xml:id="book-10-chapter-147">
           <head xml:lang="deu-Latn">Unterwerfung der Maglî und Partes</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-147-lg-10615">
             <l n="21201" xml:id="book-10-chapter-147-lg-10615-l-21201">Maglî unde Partes,</l>
@@ -42966,7 +42966,7 @@
             <l n="21214" xml:id="book-10-chapter-147-lg-10621-l-21214">den goten er dô opher tet.</l>
           </lg>
         </div>
-        <div n="131a" xml:id="book-10-chapter-148" type="chapter" data-level="2">
+        <div data-level="2" n="131a" type="chapter" xml:id="book-10-chapter-148">
           <head xml:lang="deu-Latn">Unterwerfung Carpias</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-148-lg-10622">
             <l n="21215" xml:id="book-10-chapter-148-lg-10622-l-21215">Dô kêrte der fürste dannen</l>
@@ -43029,7 +43029,7 @@
             <l n="21244" xml:id="book-10-chapter-148-lg-10636-l-21244">der wirt mit rîcher kost sîn phlac.</l>
           </lg>
         </div>
-        <div n="156" xml:id="book-10-chapter-149" type="chapter" data-level="2">
+        <div data-level="2" n="156" type="chapter" xml:id="book-10-chapter-149">
           <head xml:lang="deu-Latn">Unterwerfung Albanias</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-149-lg-10637">
             <l n="21245" xml:id="book-10-chapter-149-lg-10637-l-21245">Dô der hêrre schiet von Carpiâ,</l>
@@ -43168,7 +43168,7 @@
             <l n="21312" xml:id="book-10-chapter-149-lg-10670-l-21312">wann er dâ gesigt hæte.</l>
           </lg>
         </div>
-        <div n="210" xml:id="book-10-chapter-150" type="chapter" data-level="2">
+        <div data-level="2" n="210" type="chapter" xml:id="book-10-chapter-150">
           <head xml:lang="deu-Latn">Eine wasserlose Wüste</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-150-lg-10671">
             <l n="21313" xml:id="book-10-chapter-150-lg-10671-l-21313">Dô kêrt er von Albaniâ</l>
@@ -43590,9 +43590,9 @@
             <l n="21521" xml:id="book-10-chapter-150-lg-10775-l-21521">die tâten in âne mâʒe wê.</l>
           </lg>
         </div>
-        <div n="212" xml:id="book-10-chapter-151" type="chapter" data-level="2">
+        <div data-level="2" n="212" type="chapter" xml:id="book-10-chapter-151">
           <head xml:lang="deu-Latn">Eine unerreichbare Burg auf einem See</head>
-          <lg n="210_106_b" type="stanza" xml:id="book-10-chapter-151-lg-10776">
+          <lg n="210_105_b" type="stanza" xml:id="book-10-chapter-151-lg-10776">
             <l n="21522" xml:id="book-10-chapter-151-lg-10776-l-21522">Darnâch sie kâmen an einen sê,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-151-lg-10777">
@@ -43700,7 +43700,7 @@
             <l n="21574" xml:id="book-10-chapter-151-lg-10802-l-21574">vor im strîtes was gefrît.</l>
           </lg>
         </div>
-        <div n="213" xml:id="book-10-chapter-152" type="chapter" data-level="2">
+        <div data-level="2" n="213" type="chapter" xml:id="book-10-chapter-152">
           <head xml:lang="deu-Latn">Angriffe wilder Tiere</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-152-lg-10803">
             <l n="21575" xml:id="book-10-chapter-152-lg-10803-l-21575">dô er zogte von dan,</l>
@@ -43987,7 +43987,7 @@
             <l n="21716" xml:id="book-10-chapter-152-lg-10873-l-21716">die sie slunden alzemâle.</l>
           </lg>
         </div>
-        <div n="205a" xml:id="book-10-chapter-153" type="chapter" data-level="2">
+        <div data-level="2" n="205a" type="chapter" xml:id="book-10-chapter-153">
           <head xml:lang="deu-Latn">Das reiche Land Bâtriân</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-153-lg-10874">
             <l n="21717" xml:id="book-10-chapter-153-lg-10874-l-21717">Dô man ûf brach die gezelt</l>
@@ -44022,7 +44022,7 @@
             <l n="21732" xml:id="book-10-chapter-153-lg-10881-l-21732">den goten tet er opher dâ.</l>
           </lg>
         </div>
-        <div n="215" xml:id="book-10-chapter-154" type="chapter" data-level="2">
+        <div data-level="2" n="215" type="chapter" xml:id="book-10-chapter-154">
           <head xml:lang="deu-Latn">Zwei goldene Säulen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-154-lg-10882">
             <l n="21733" xml:id="book-10-chapter-154-lg-10882-l-21733">ûf ein ouwe kam er dar nâch,</l>
@@ -44072,9 +44072,9 @@
             <l n="21755" xml:id="book-10-chapter-154-lg-10893-l-21755">die man dar în gebrochen het.</l>
           </lg>
         </div>
-        <div n="215a" xml:id="book-10-chapter-155" type="chapter" data-level="2">
+        <div data-level="2" n="215a" type="chapter" xml:id="book-10-chapter-155">
           <head xml:lang="deu-Latn">Unterwerfung einer Stadt des Hercules</head>
-          <lg n="215_13_b" type="stanza" xml:id="book-10-chapter-155-lg-10894">
+          <lg n="215_12_b" type="stanza" xml:id="book-10-chapter-155-lg-10894">
             <l n="21756" xml:id="book-10-chapter-155-lg-10894-l-21756">von dannen zogten sie ze stet,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-155-lg-10895">
@@ -44186,7 +44186,7 @@
             <l n="21810" xml:id="book-10-chapter-155-lg-10921-l-21810">dâ mit er von dem stein reit.</l>
           </lg>
         </div>
-        <div n="206" xml:id="book-10-chapter-156" type="chapter" data-level="2">
+        <div data-level="2" n="206" type="chapter" xml:id="book-10-chapter-156">
           <head xml:lang="deu-Latn">Ein Heer von acht Königen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-156-lg-10922">
             <l n="21811" xml:id="book-10-chapter-156-lg-10922-l-21811">Er kam in werlîche lant,</l>
@@ -44525,7 +44525,7 @@
             <l n="21978" xml:id="book-10-chapter-156-lg-11005-l-21978">die nû muoste ze sorgen komen.</l>
           </lg>
         </div>
-        <div n="250" xml:id="book-10-chapter-157" type="chapter" data-level="2">
+        <div data-level="2" n="250" type="chapter" xml:id="book-10-chapter-157">
           <head xml:lang="deu-Latn">Ein lichtloses Land</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-157-lg-11006">
             <l n="21979" xml:id="book-10-chapter-157-lg-11006-l-21979">Dâ berihte sich der wîse</l>
@@ -44603,9 +44603,9 @@
             <l n="22015" xml:id="book-10-chapter-157-lg-11024-l-22015">und kâmen ûf daʒ waʒʒer niht.</l>
           </lg>
         </div>
-        <div n="216" xml:id="book-10-chapter-158" type="chapter" data-level="2">
+        <div data-level="2" n="216" type="chapter" xml:id="book-10-chapter-158">
           <head xml:lang="deu-Latn">Kampf mit einem Ipomites</head>
-          <lg n="250_20_b" type="stanza" xml:id="book-10-chapter-158-lg-11025">
+          <lg n="250_19_b" type="stanza" xml:id="book-10-chapter-158-lg-11025">
             <l n="22016" xml:id="book-10-chapter-158-lg-11025-l-22016">Er schiet von dan und kam dâ lieht</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-158-lg-11026">
@@ -44660,9 +44660,9 @@
             <l n="22041" xml:id="book-10-chapter-158-lg-11038-l-22041">die in vröude benam.</l>
           </lg>
         </div>
-        <div n="217" xml:id="book-10-chapter-159" type="chapter" data-level="2">
+        <div data-level="2" n="217" type="chapter" xml:id="book-10-chapter-159">
           <head xml:lang="deu-Latn">Kampf mit Elefanten</head>
-          <lg n="216_14_b" type="stanza" xml:id="book-10-chapter-159-lg-11039">
+          <lg n="216_13_b" type="stanza" xml:id="book-10-chapter-159-lg-11039">
             <l n="22042" xml:id="book-10-chapter-159-lg-11039-l-22042">des âbendes er an ein waʒʒer quam,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-159-lg-11040">
@@ -44722,7 +44722,7 @@
             <l n="22070" xml:id="book-10-chapter-159-lg-11053-l-22070">wen er quæme ze Babilôn.</l>
           </lg>
         </div>
-        <div n="253" xml:id="book-10-chapter-160" type="chapter" data-level="2">
+        <div data-level="2" n="253" type="chapter" xml:id="book-10-chapter-160">
           <head xml:lang="deu-Latn">Wilde Frauen mit Bärten</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-160-lg-11054">
             <l n="22071" xml:id="book-10-chapter-160-lg-11054-l-22071">Dar nâch kam er vür einen walt,</l>
@@ -44769,7 +44769,7 @@
             <l n="22092" xml:id="book-10-chapter-160-lg-11064-l-22092">der künc hieʒ sie behalden.</l>
           </lg>
         </div>
-        <div n="253a" xml:id="book-10-chapter-161" type="chapter" data-level="2">
+        <div data-level="2" n="253a" type="chapter" xml:id="book-10-chapter-161">
           <head xml:lang="deu-Latn">Wilde Menschen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-161-lg-11065">
             <l n="22093" xml:id="book-10-chapter-161-lg-11065-l-22093">Von dannen kam er in ein lant,</l>
@@ -44803,9 +44803,9 @@
             <l n="22107" xml:id="book-10-chapter-161-lg-11072-l-22107">er wolt ir gerne zwei hân.</l>
           </lg>
         </div>
-        <div n="254" xml:id="book-10-chapter-162" type="chapter" data-level="2">
+        <div data-level="2" n="254" type="chapter" xml:id="book-10-chapter-162">
           <head xml:lang="deu-Latn">Frauen, wilden Schweinen gleich</head>
-          <lg n="253a_9_b" type="stanza" xml:id="book-10-chapter-162-lg-11073">
+          <lg n="253a_8_b" type="stanza" xml:id="book-10-chapter-162-lg-11073">
             <l n="22108" xml:id="book-10-chapter-162-lg-11073-l-22108">Bî dem waʒʒer den plân</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-162-lg-11074">
@@ -44841,7 +44841,7 @@
             <l n="22124" xml:id="book-10-chapter-162-lg-11081-l-22124">der lenge von zwelf füeʒen.</l>
           </lg>
         </div>
-        <div n="255" xml:id="book-10-chapter-163" type="chapter" data-level="2">
+        <div data-level="2" n="255" type="chapter" xml:id="book-10-chapter-163">
           <head xml:lang="deu-Latn">Schöne Frauen mit Pferdefüʒen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-163-lg-11082">
             <l n="22125" xml:id="book-10-chapter-163-lg-11082-l-22125">Vürbaʒ reit der fürste balt:</l>
@@ -44871,9 +44871,9 @@
             <l n="22137" xml:id="book-10-chapter-163-lg-11088-l-22137">der künic ir zwô mit im nam.</l>
           </lg>
         </div>
-        <div n="220" xml:id="book-10-chapter-164" type="chapter" data-level="2">
+        <div data-level="2" n="220" type="chapter" xml:id="book-10-chapter-164">
           <head xml:lang="deu-Latn">Feuerwind in der Wildnis</head>
-          <lg n="255_8_b" type="stanza" xml:id="book-10-chapter-164-lg-11089">
+          <lg n="255_7_b" type="stanza" xml:id="book-10-chapter-164-lg-11089">
             <l n="22138" xml:id="book-10-chapter-164-lg-11089-l-22138">ûf ein wüeste ouwe er quam.</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-164-lg-11090">
@@ -44945,7 +44945,7 @@
             <l n="22172" xml:id="book-10-chapter-164-lg-11106-l-22172">waʒ in des het daʒ viur lân.</l>
           </lg>
         </div>
-        <div n="220a" xml:id="book-10-chapter-165" type="chapter" data-level="2">
+        <div data-level="2" n="220a" type="chapter" xml:id="book-10-chapter-165">
           <head xml:lang="deu-Latn">Schnee, Regen und Feuer vom Himmel</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-165-lg-11107">
             <l n="22173" xml:id="book-10-chapter-165-lg-11107-l-22173">Aber an dem morgen</l>
@@ -45044,7 +45044,7 @@
             <l n="22220" xml:id="book-10-chapter-165-lg-11130-l-22220">und dancten Alexandrô.</l>
           </lg>
         </div>
-        <div n="183" xml:id="book-10-chapter-166" type="chapter" data-level="2">
+        <div data-level="2" n="183" type="chapter" xml:id="book-10-chapter-166">
           <head xml:lang="deu-Latn">Bei den Oxî oder Gîmnôsophistes</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-166-lg-11131">
             <l n="22221" xml:id="book-10-chapter-166-lg-11131-l-22221">Dô fuoren sie gegen Oxî.</l>
@@ -45267,7 +45267,7 @@
             <l n="22330" xml:id="book-10-chapter-166-lg-11185-l-22330">sus schiet er von den liuten dan.</l>
           </lg>
         </div>
-        <div n="223" xml:id="book-10-chapter-167" type="chapter" data-level="2">
+        <div data-level="2" n="223" type="chapter" xml:id="book-10-chapter-167">
           <head xml:lang="deu-Latn">Wunderbäume und eine Stimme vom Himmel</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-167-lg-11186">
             <l n="22331" xml:id="book-10-chapter-167-lg-11186-l-22331">Dar nâch kam er ûf ein velt,</l>
@@ -45342,7 +45342,7 @@
             <l n="22366" xml:id="book-10-chapter-167-lg-11203-l-22366">den wirt daʒ leben dâ benomen.'</l>
           </lg>
         </div>
-        <div n="188" xml:id="book-10-chapter-168" type="chapter" data-level="2">
+        <div data-level="2" n="188" type="chapter" xml:id="book-10-chapter-168">
           <head xml:lang="deu-Latn">Dindimus</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-168-lg-11204">
             <l n="22367" xml:id="book-10-chapter-168-lg-11204-l-22367">Sie îlten ungesûmet dan</l>
@@ -45705,7 +45705,7 @@
             <l n="22546" xml:id="book-10-chapter-168-lg-11293-l-22546">als ir sie hie habt gehôrt.</l>
           </lg>
         </div>
-        <div n="256a" xml:id="book-10-chapter-169" type="chapter" data-level="2">
+        <div data-level="2" n="256a" type="chapter" xml:id="book-10-chapter-169">
           <head xml:lang="deu-Latn">Begegnung mit Riesen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-169-lg-11294">
             <l n="22547" xml:id="book-10-chapter-169-lg-11294-l-22547">Dô er von dem Fîsôn reit,</l>
@@ -45784,7 +45784,7 @@
             <l n="22584" xml:id="book-10-chapter-169-lg-11312-l-22584">dâ von wart mangem siechen baʒ.</l>
           </lg>
         </div>
-        <div n="252" xml:id="book-10-chapter-170" type="chapter" data-level="2">
+        <div data-level="2" n="252" type="chapter" xml:id="book-10-chapter-170">
           <head xml:lang="deu-Latn">Ein Riese mit Schweineborsten</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-170-lg-11313">
             <l n="22585" xml:id="book-10-chapter-170-lg-11313-l-22585">dô er von der ouwe schiet,</l>
@@ -45871,7 +45871,7 @@
             <l n="22626" xml:id="book-10-chapter-170-lg-11333-l-22626">daʒ her von der ouwe brach.</l>
           </lg>
         </div>
-        <div n="249" xml:id="book-10-chapter-171" type="chapter" data-level="2">
+        <div data-level="2" n="249" type="chapter" xml:id="book-10-chapter-171">
           <head xml:lang="deu-Latn">Ein goldener Palast</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-171-lg-11334">
             <l n="22627" xml:id="book-10-chapter-171-lg-11334-l-22627">Er kam an einen hôhen berc,</l>
@@ -46050,7 +46050,7 @@
             <l n="22714" xml:id="book-10-chapter-171-lg-11377-l-22714">frô ûf den velden.</l>
           </lg>
         </div>
-        <div n="226" xml:id="book-10-chapter-172" type="chapter" data-level="2">
+        <div data-level="2" n="226" type="chapter" xml:id="book-10-chapter-172">
           <head xml:lang="deu-Latn">Schlangen mit Smaragden</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-172-lg-11378">
             <l n="22715" xml:id="book-10-chapter-172-lg-11378-l-22715">Alexander gemeit</l>
@@ -46085,7 +46085,7 @@
             <l n="22730" xml:id="book-10-chapter-172-lg-11385-l-22730">dâ ir vil von tôt lît.</l>
           </lg>
         </div>
-        <div n="227" xml:id="book-10-chapter-173" type="chapter" data-level="2">
+        <div data-level="2" n="227" type="chapter" xml:id="book-10-chapter-173">
           <head xml:lang="deu-Latn">Monströse Tiere</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-173-lg-11386">
             <l n="22731" xml:id="book-10-chapter-173-lg-11386-l-22731">Dô kam er an ein ander stat,</l>
@@ -46136,7 +46136,7 @@
             <l n="22754" xml:id="book-10-chapter-173-lg-11397-l-22754">bestaten ze der erde.</l>
           </lg>
         </div>
-        <div n="229" xml:id="book-10-chapter-174" type="chapter" data-level="2">
+        <div data-level="2" n="229" type="chapter" xml:id="book-10-chapter-174">
           <head xml:lang="deu-Latn">Gefährliche Wasserfrauen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-174-lg-11398">
             <l n="22755" xml:id="book-10-chapter-174-lg-11398-l-22755">Dâ mit schiet der fürste dan.</l>
@@ -46267,7 +46267,7 @@
             <l n="22818" xml:id="book-10-chapter-174-lg-11429-l-22818">bî dem zogte der Macedôn.</l>
           </lg>
         </div>
-        <div n="230" xml:id="book-10-chapter-175" type="chapter" data-level="2">
+        <div data-level="2" n="230" type="chapter" xml:id="book-10-chapter-175">
           <head xml:lang="deu-Latn">Gefährliche Krebse</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-175-lg-11430">
             <l n="22819" xml:id="book-10-chapter-175-lg-11430-l-22819">er kam neben ein insulam,</l>
@@ -46322,7 +46322,7 @@
             <l n="22844" xml:id="book-10-chapter-175-lg-11442-l-22844">daʒ ist ein unergetzet pîn.'</l>
           </lg>
         </div>
-        <div n="231" xml:id="book-10-chapter-176" type="chapter" data-level="2">
+        <div data-level="2" n="231" type="chapter" xml:id="book-10-chapter-176">
           <head xml:lang="deu-Latn">Eroberung von Agrigent</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-176-lg-11443">
             <l n="22845" xml:id="book-10-chapter-176-lg-11443-l-22845">Alexander der künic hêr</l>
@@ -46429,7 +46429,7 @@
             <l n="22896" xml:id="book-10-chapter-176-lg-11468-l-22896">er schiet von dan sâ zestunt.</l>
           </lg>
         </div>
-        <div n="182" xml:id="book-10-chapter-177" type="chapter" data-level="2">
+        <div data-level="2" n="182" type="chapter" xml:id="book-10-chapter-177">
           <head xml:lang="deu-Latn">Alexander abgeschnitten in einer Stadt</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-177-lg-11469">
             <l n="22897" xml:id="book-10-chapter-177-lg-11469-l-22897">Dem lande ein stat nâhe lac</l>
@@ -46563,9 +46563,9 @@
             <l n="22961" xml:id="book-10-chapter-177-lg-11501-l-22961">hieʒ die herberge vân.</l>
           </lg>
         </div>
-        <div n="164" xml:id="book-10-chapter-178" type="chapter" data-level="2">
+        <div data-level="2" n="164" type="chapter" xml:id="book-10-chapter-178">
           <head xml:lang="deu-Latn">Amon erscheint Alexander im Schlaf</head>
-          <lg n="182_34_b" type="stanza" xml:id="book-10-chapter-178-lg-11502">
+          <lg n="182_33_b" type="stanza" xml:id="book-10-chapter-178-lg-11502">
             <l n="22962" xml:id="book-10-chapter-178-lg-11502-l-22962">der stat phlac ein werder man,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-178-lg-11503">
@@ -46692,9 +46692,9 @@
             <l n="23023" xml:id="book-10-chapter-178-lg-11533-l-23023">nâch allen irn schulden</l>
           </lg>
         </div>
-        <div n="232" xml:id="book-10-chapter-179" type="chapter" data-level="2">
+        <div data-level="2" n="232" type="chapter" xml:id="book-10-chapter-179">
           <head xml:lang="deu-Latn">Kampf mit wilden Tieren</head>
-          <lg n="164_32_b" type="stanza" xml:id="book-10-chapter-179-lg-11534">
+          <lg n="164_31_b" type="stanza" xml:id="book-10-chapter-179-lg-11534">
             <l n="23024" xml:id="book-10-chapter-179-lg-11534-l-23024">die liute er nam ze hulden.</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-179-lg-11535">
@@ -46762,7 +46762,7 @@
             <l n="23056" xml:id="book-10-chapter-179-lg-11550-l-23056">von dannen schiet der guote.</l>
           </lg>
         </div>
-        <div n="233" xml:id="book-10-chapter-180" type="chapter" data-level="2">
+        <div data-level="2" n="233" type="chapter" xml:id="book-10-chapter-180">
           <head xml:lang="deu-Latn">Schlangen mit Hörnern</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-180-lg-11551">
             <l n="23057" xml:id="book-10-chapter-180-lg-11551-l-23057">Dar nâch kam der junge</l>
@@ -46812,9 +46812,9 @@
             <l n="23079" xml:id="book-10-chapter-180-lg-11562-l-23079">wann ich ir ahte niht enweiʒ,.</l>
           </lg>
         </div>
-        <div n="235" xml:id="book-10-chapter-181" type="chapter" data-level="2">
+        <div data-level="2" n="235" type="chapter" xml:id="book-10-chapter-181">
           <head xml:lang="deu-Latn">Kampf mit den Konocefalî</head>
-          <lg n="233_13_b" type="stanza" xml:id="book-10-chapter-181-lg-11563">
+          <lg n="233_12_b" type="stanza" xml:id="book-10-chapter-181-lg-11563">
             <l n="23080" xml:id="book-10-chapter-181-lg-11563-l-23080">dar nâch kam er in einen kreiʒ,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-181-lg-11564">
@@ -46865,9 +46865,9 @@
             <l n="23103" xml:id="book-10-chapter-181-lg-11575-l-23103">den künic sêre betruobte daʒ.</l>
           </lg>
         </div>
-        <div n="236" xml:id="book-10-chapter-182" type="chapter" data-level="2">
+        <div data-level="2" n="236" type="chapter" xml:id="book-10-chapter-182">
           <head xml:lang="deu-Latn">Ameisen, die Gold bringen</head>
-          <lg n="235_13_b" type="stanza" xml:id="book-10-chapter-182-lg-11576">
+          <lg n="235_12_b" type="stanza" xml:id="book-10-chapter-182-lg-11576">
             <l n="23104" xml:id="book-10-chapter-182-lg-11576-l-23104">von dannen zogt er vürbaʒ</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-182-lg-11577">
@@ -46975,7 +46975,7 @@
             <l n="23156" xml:id="book-10-chapter-182-lg-11602-l-23156">waʒ des ieglîcher haben wolt.</l>
           </lg>
         </div>
-        <div n="256" xml:id="book-10-chapter-183" type="chapter" data-level="2">
+        <div data-level="2" n="256" type="chapter" xml:id="book-10-chapter-183">
           <head xml:lang="deu-Latn">Kampf mit einäugigen Riesen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-183-lg-11603">
             <l n="23157" xml:id="book-10-chapter-183-lg-11603-l-23157">Die histôriâ tuot uns kunt</l>
@@ -47078,7 +47078,7 @@
             <l n="23206" xml:id="book-10-chapter-183-lg-11627-l-23206">wider în ze walde.</l>
           </lg>
         </div>
-        <div n="246" xml:id="book-10-chapter-184" type="chapter" data-level="2">
+        <div data-level="2" n="246" type="chapter" xml:id="book-10-chapter-184">
           <head xml:lang="deu-Latn">Prophetische Vögel</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-184-lg-11628">
             <l n="23207" xml:id="book-10-chapter-184-lg-11628-l-23207">Dô er durch den walt quam,</l>
@@ -47141,7 +47141,7 @@
             <l n="23236" xml:id="book-10-chapter-184-lg-11642-l-23236">meisterlîchen dar erhaben.</l>
           </lg>
         </div>
-        <div n="234" xml:id="book-10-chapter-185" type="chapter" data-level="2">
+        <div data-level="2" n="234" type="chapter" xml:id="book-10-chapter-185">
           <head xml:lang="deu-Latn">Mehrköpfige Tiere</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-185-lg-11643">
             <l n="23237" xml:id="book-10-chapter-185-lg-11643-l-23237">von dem palas der wîgant</l>
@@ -47192,7 +47192,7 @@
             <l n="23260" xml:id="book-10-chapter-185-lg-11654-l-23260">von in unversêret dan.</l>
           </lg>
         </div>
-        <div n="234a" xml:id="book-10-chapter-186" type="chapter" data-level="2">
+        <div data-level="2" n="234a" type="chapter" xml:id="book-10-chapter-186">
           <head xml:lang="deu-Latn">Monströse Menschen in Prafîacâ</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-186-lg-11655">
             <l n="23261" xml:id="book-10-chapter-186-lg-11655-l-23261">Walt, velt und heide</l>
@@ -47223,7 +47223,7 @@
             <l n="23274" xml:id="book-10-chapter-186-lg-11661-l-23274">und ir müede dâ vergeʒʒen.</l>
           </lg>
         </div>
-        <div n="234b" xml:id="book-10-chapter-187" type="chapter" data-level="2">
+        <div data-level="2" n="234b" type="chapter" xml:id="book-10-chapter-187">
           <head xml:lang="deu-Latn">Hochzeit des Candaulus</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-187-lg-11662">
             <l n="23275" xml:id="book-10-chapter-187-lg-11662-l-23275">von dem her über ein mîle</l>
@@ -47386,7 +47386,7 @@
             <l n="23354" xml:id="book-10-chapter-187-lg-11701-l-23354">der deheiner genas.</l>
           </lg>
         </div>
-        <div n="237" xml:id="book-10-chapter-188" type="chapter" data-level="2">
+        <div data-level="2" n="237" type="chapter" xml:id="book-10-chapter-188">
           <head xml:lang="deu-Latn">Candacis reitet Aristander</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-188-lg-11702">
             <l n="23355" xml:id="book-10-chapter-188-lg-11702-l-23355">Candaulus nam die frouwen</l>
@@ -47737,7 +47737,7 @@
             <l n="23528" xml:id="book-10-chapter-188-lg-11788-l-23528">ofte Alexander.</l>
           </lg>
         </div>
-        <div n="242" xml:id="book-10-chapter-189" type="chapter" data-level="2">
+        <div data-level="2" n="242" type="chapter" xml:id="book-10-chapter-189">
           <head xml:lang="deu-Latn">Begräbnis Pûcifals</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-189-lg-11789">
             <l n="23529" xml:id="book-10-chapter-189-lg-11789-l-23529">Über guote wîle dar nâ,</l>
@@ -47795,9 +47795,9 @@
             <l n="23555" xml:id="book-10-chapter-189-lg-11802-l-23555">dar zuo schuof er rîchen gelt.</l>
           </lg>
         </div>
-        <div n="245" xml:id="book-10-chapter-190" type="chapter" data-level="2">
+        <div data-level="2" n="245" type="chapter" xml:id="book-10-chapter-190">
           <head xml:lang="deu-Latn">Alexanders Brief an Olimpiades und Aristoteles</head>
-          <lg n="242_15_b" type="stanza" xml:id="book-10-chapter-190-lg-11803">
+          <lg n="242_14_b" type="stanza" xml:id="book-10-chapter-190-lg-11803">
             <l n="23556" xml:id="book-10-chapter-190-lg-11803-l-23556">dô er rûmet daʒ velt,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-190-lg-11804">
@@ -47845,7 +47845,7 @@
             <l n="23578" xml:id="book-10-chapter-190-lg-11814-l-23578">tet daʒ lantvolc opher gote.</l>
           </lg>
         </div>
-        <div n="243" xml:id="book-10-chapter-191" type="chapter" data-level="2">
+        <div data-level="2" n="243" type="chapter" xml:id="book-10-chapter-191">
           <head xml:lang="deu-Latn">Alexander stellt zwei goldene Säulen auf</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-191-lg-11815">
             <l n="23579" xml:id="book-10-chapter-191-lg-11815-l-23579">Gegen Persiâ dem lande</l>
@@ -47871,9 +47871,9 @@
             <l n="23589" xml:id="book-10-chapter-191-lg-11820-l-23589">die eine in Babilôniâ,</l>
           </lg>
         </div>
-        <div n="268" xml:id="book-10-chapter-192" type="chapter" data-level="2">
+        <div data-level="2" n="268" type="chapter" xml:id="book-10-chapter-192">
           <head xml:lang="deu-Latn">Alexander träumt seine Ermordung</head>
-          <lg n="243_7_b" type="stanza" xml:id="book-10-chapter-192-lg-11821">
+          <lg n="243_6_b" type="stanza" xml:id="book-10-chapter-192-lg-11821">
             <l n="23590" xml:id="book-10-chapter-192-lg-11821-l-23590">diu ander in dein lande Persiâ.</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-192-lg-11822">
@@ -47969,7 +47969,7 @@
             <l n="23636" xml:id="book-10-chapter-192-lg-11844-l-23636">durch irn ruof.' diz buoch uns seit</l>
           </lg>
         </div>
-        <div n="269" xml:id="book-10-chapter-193" type="chapter" data-level="2">
+        <div data-level="2" n="269" type="chapter" xml:id="book-10-chapter-193">
           <head xml:lang="deu-Latn">Geburt eines monströsen Kindes in Babylon</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-193-lg-11845">
             <l n="23637" xml:id="book-10-chapter-193-lg-11845-l-23637">Wie ein frowe von Babiloniâ</l>
@@ -48063,9 +48063,9 @@
             <l n="23681" xml:id="book-10-chapter-193-lg-11867-l-23681">dâ von trôst der fürste nam.</l>
           </lg>
         </div>
-        <div n="270" xml:id="book-10-chapter-194" type="chapter" data-level="2">
+        <div data-level="2" n="270" type="chapter" xml:id="book-10-chapter-194">
           <head xml:lang="deu-Latn">Pôrus besucht Alexander</head>
-          <lg n="269_24_b" type="stanza" xml:id="book-10-chapter-194-lg-11868">
+          <lg n="269_23_b" type="stanza" xml:id="book-10-chapter-194-lg-11868">
             <l n="23682" xml:id="book-10-chapter-194-lg-11868-l-23682">Pôrus mit schœnheit gegen im quam.</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-194-lg-11869">
@@ -48133,7 +48133,7 @@
             <l n="23714" xml:id="book-10-chapter-194-lg-11884-l-23714">dâ gegen schicte er sîn her.</l>
           </lg>
         </div>
-        <div n="271" xml:id="book-10-chapter-195" type="chapter" data-level="2">
+        <div data-level="2" n="271" type="chapter" xml:id="book-10-chapter-195">
           <head xml:lang="deu-Latn">Alexander und Rôisse</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-195-lg-11885">
             <l n="23715" xml:id="book-10-chapter-195-lg-11885-l-23715">Uns schrîbet Valêrius,</l>
@@ -48700,7 +48700,7 @@
             <l n="23996" xml:id="book-10-chapter-195-lg-12025-l-23996">enphât als er verdienet hât.</l>
           </lg>
         </div>
-        <div n="272" xml:id="book-10-chapter-196" type="chapter" data-level="2">
+        <div data-level="2" n="272" type="chapter" xml:id="book-10-chapter-196">
           <head xml:lang="deu-Latn">Alexander leitet den Ganges um</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-196-lg-12026">
             <l n="23997" xml:id="book-10-chapter-196-lg-12026-l-23997">Hie schrîbet uns Lucânus</l>
@@ -48758,9 +48758,9 @@
             <l n="24023" xml:id="book-10-chapter-196-lg-12039-l-24023">daʒ er zer verte solde hân.</l>
           </lg>
         </div>
-        <div n="273" xml:id="book-10-chapter-197" type="chapter" data-level="2">
+        <div data-level="2" n="273" type="chapter" xml:id="book-10-chapter-197">
           <head xml:lang="deu-Latn">Alexander und Pirratas</head>
-          <lg n="272_15_b" type="stanza" xml:id="book-10-chapter-197-lg-12040">
+          <lg n="272_14_b" type="stanza" xml:id="book-10-chapter-197-lg-12040">
             <l n="24024" xml:id="book-10-chapter-197-lg-12040-l-24024">ûf dem mer was ein man,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-197-lg-12041">
@@ -49060,7 +49060,7 @@
             <l n="24172" xml:id="book-10-chapter-197-lg-12114-l-24172">müelich verderben kan.</l>
           </lg>
         </div>
-        <div n="262" xml:id="book-10-chapter-198" type="chapter" data-level="2">
+        <div data-level="2" n="262" type="chapter" xml:id="book-10-chapter-198">
           <head xml:lang="deu-Latn">Die Tauchfahrt</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-198-lg-12115">
             <l n="24173" xml:id="book-10-chapter-198-lg-12115-l-24173">Dô fuor der muotes rîche</l>
@@ -49347,7 +49347,7 @@
             <l n="24314" xml:id="book-10-chapter-198-lg-12185-l-24314">und anderswâ von liebe craft.</l>
           </lg>
         </div>
-        <div n="274" xml:id="book-10-chapter-199" type="chapter" data-level="2">
+        <div data-level="2" n="274" type="chapter" xml:id="book-10-chapter-199">
           <head xml:lang="deu-Latn">Städte am Meer unterwerfen sich</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-199-lg-12186">
             <l n="24315" xml:id="book-10-chapter-199-lg-12186-l-24315">waʒ daʒ mer erbûwetes hete,</l>
@@ -49422,7 +49422,7 @@
             <l n="24350" xml:id="book-10-chapter-199-lg-12203-l-24350">daʒ ir vallet âne mâʒe.'</l>
           </lg>
         </div>
-        <div n="299" xml:id="book-10-chapter-200" type="chapter" data-level="2">
+        <div data-level="2" n="299" type="chapter" xml:id="book-10-chapter-200">
           <head xml:lang="deu-Latn">Exkurs: Fürstenlehre</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-200-lg-12204">
             <l n="24351" xml:id="book-10-chapter-200-lg-12204-l-24351">nû was der fürste so gemuot,</l>
@@ -49581,7 +49581,7 @@
             <l n="24428" xml:id="book-10-chapter-200-lg-12242-l-24428">in dem alder: dâ vür ichʒ ouch habe.</l>
           </lg>
         </div>
-        <div n="257" xml:id="book-10-chapter-201" type="chapter" data-level="2">
+        <div data-level="2" n="257" type="chapter" xml:id="book-10-chapter-201">
           <head xml:lang="deu-Latn">Erste Paradiesfahrt (Wiegestein)</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-201-lg-12243">
             <l n="24429" xml:id="book-10-chapter-201-lg-12243-l-24429">Alexander kam vür eine stat,</l>
@@ -50016,7 +50016,7 @@
             <l n="24644" xml:id="book-10-chapter-201-lg-12350-l-24644">einen wîsen heiden alden.</l>
           </lg>
         </div>
-        <div n="276" xml:id="book-10-chapter-202" type="chapter" data-level="2">
+        <div data-level="2" n="276" type="chapter" xml:id="book-10-chapter-202">
           <head xml:lang="deu-Latn">Alexander berichtete Pôrus von der Tauchfahrt</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-202-lg-12351">
             <l n="24645" xml:id="book-10-chapter-202-lg-12351-l-24645">sich, werlt, dîner wæhe</l>
@@ -50091,7 +50091,7 @@
             <l n="24680" xml:id="book-10-chapter-202-lg-12368-l-24680">vür wunder sie daʒ jâhen.</l>
           </lg>
         </div>
-        <div n="261" xml:id="book-10-chapter-203" type="chapter" data-level="2">
+        <div data-level="2" n="261" type="chapter" xml:id="book-10-chapter-203">
           <head xml:lang="deu-Latn">Der Greifenflug</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-203-lg-12369">
             <l n="24681" xml:id="book-10-chapter-203-lg-12369-l-24681">Alexander an den stunden</l>
@@ -50398,7 +50398,7 @@
             <l n="24832" xml:id="book-10-chapter-203-lg-12444-l-24832">die sîner kunft wurden frô.</l>
           </lg>
         </div>
-        <div n="277" xml:id="book-10-chapter-204" type="chapter" data-level="2">
+        <div data-level="2" n="277" type="chapter" xml:id="book-10-chapter-204">
           <head xml:lang="deu-Latn">Lêviathân und Natura</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-204-lg-12445">
             <l n="24833" xml:id="book-10-chapter-204-lg-12445-l-24833">Alexander der unverzagte</l>
@@ -50821,7 +50821,7 @@
             <l n="25042" xml:id="book-10-chapter-204-lg-12549-l-25042">die got gesament habe hie.</l>
           </lg>
         </div>
-        <div n="278" xml:id="book-10-chapter-205" type="chapter" data-level="2">
+        <div data-level="2" n="278" type="chapter" xml:id="book-10-chapter-205">
           <head xml:lang="deu-Latn">Unterwerfung der Picmei</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-205-lg-12550">
             <l n="25043" xml:id="book-10-chapter-205-lg-12550-l-25043">Alexander der muotes rîche</l>
@@ -50884,7 +50884,7 @@
             <l n="25072" xml:id="book-10-chapter-205-lg-12564-l-25072">ein grôʒ wîp und irn kleinen man.</l>
           </lg>
         </div>
-        <div n="279" xml:id="book-10-chapter-206" type="chapter" data-level="2">
+        <div data-level="2" n="279" type="chapter" xml:id="book-10-chapter-206">
           <head xml:lang="deu-Latn">Eingliedrige Menschen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-206-lg-12565">
             <l n="25073" xml:id="book-10-chapter-206-lg-12565-l-25073">Nû kam er in ein ander lant,</l>
@@ -50923,7 +50923,7 @@
             <l n="25090" xml:id="book-10-chapter-206-lg-12573-l-25090">als ichʒ von dem meister nim.</l>
           </lg>
         </div>
-        <div n="279a" xml:id="book-10-chapter-207" type="chapter" data-level="2">
+        <div data-level="2" n="279a" type="chapter" xml:id="book-10-chapter-207">
           <head xml:lang="deu-Latn">Hundeköpfige Menschen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-207-lg-12574">
             <l n="25091" xml:id="book-10-chapter-207-lg-12574-l-25091">Nû ist uns alsô geseit,</l>
@@ -51070,7 +51070,7 @@
             <l n="25162" xml:id="book-10-chapter-207-lg-12609-l-25162">er fuort ir ouch zwei mit im dan.</l>
           </lg>
         </div>
-        <div n="279b" xml:id="book-10-chapter-208" type="chapter" data-level="2">
+        <div data-level="2" n="279b" type="chapter" xml:id="book-10-chapter-208">
           <head xml:lang="deu-Latn">Menschen mit Gänsehälsen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-208-lg-12610">
             <l n="25163" xml:id="book-10-chapter-208-lg-12610-l-25163">Dô kam der fürste vürbaʒ</l>
@@ -51100,9 +51100,9 @@
             <l n="25175" xml:id="book-10-chapter-208-lg-12616-l-25175">der er ouch zwei mit im nam.</l>
           </lg>
         </div>
-        <div n="279c" xml:id="book-10-chapter-209" type="chapter" data-level="2">
+        <div data-level="2" n="279c" type="chapter" xml:id="book-10-chapter-209">
           <head xml:lang="deu-Latn">Einfüʒige Menschen</head>
-          <lg n="279b_8_b" type="stanza" xml:id="book-10-chapter-209-lg-12617">
+          <lg n="279b_7_b" type="stanza" xml:id="book-10-chapter-209-lg-12617">
             <l n="25176" xml:id="book-10-chapter-209-lg-12617-l-25176">an ein ander volc er quam,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-209-lg-12618">
@@ -51114,7 +51114,7 @@
             <l n="25180" xml:id="book-10-chapter-209-lg-12619-l-25180">der nam ouch zwei mit im der hêre.</l>
           </lg>
         </div>
-        <div n="279d" xml:id="book-10-chapter-210" type="chapter" data-level="2">
+        <div data-level="2" n="279d" type="chapter" xml:id="book-10-chapter-210">
           <head xml:lang="deu-Latn">Unsterbliche Menschen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-210-lg-12620">
             <l n="25181" xml:id="book-10-chapter-210-lg-12620-l-25181">dar nâch er sîn reise vienc,</l>
@@ -51180,9 +51180,9 @@
             <l n="25211" xml:id="book-10-chapter-210-lg-12635-l-25211">wunder unde nôt bevienc.</l>
           </lg>
         </div>
-        <div n="280" xml:id="book-10-chapter-211" type="chapter" data-level="2">
+        <div data-level="2" n="280" type="chapter" xml:id="book-10-chapter-211">
           <head xml:lang="deu-Latn">Prophetische Standbilder</head>
-          <lg n="279d_17_b" type="stanza" xml:id="book-10-chapter-211-lg-12636">
+          <lg n="279d_16_b" type="stanza" xml:id="book-10-chapter-211-lg-12636">
             <l n="25212" xml:id="book-10-chapter-211-lg-12636-l-25212">dâ sîn reise von dannen gienc,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-211-lg-12637">
@@ -51290,7 +51290,7 @@
             <l n="25264" xml:id="book-10-chapter-211-lg-12662-l-25264">wider von dem waʒʒer dan.</l>
           </lg>
         </div>
-        <div n="259" xml:id="book-10-chapter-212" type="chapter" data-level="2">
+        <div data-level="2" n="259" type="chapter" xml:id="book-10-chapter-212">
           <head xml:lang="deu-Latn">Zweite Paradiesfahrt (Augenstein)</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-212-lg-12663">
             <l n="25265" xml:id="book-10-chapter-212-lg-12663-l-25265">Dô der künic milde</l>
@@ -51645,7 +51645,7 @@
             <l n="25440" xml:id="book-10-chapter-212-lg-12750-l-25440">und als in sîn seltsæn prîset.'</l>
           </lg>
         </div>
-        <div n="259a" xml:id="book-10-chapter-213" type="chapter" data-level="2">
+        <div data-level="2" n="259a" type="chapter" xml:id="book-10-chapter-213">
           <head xml:lang="deu-Latn">Übergroʒe Tiere und Cocodrille</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-213-lg-12751">
             <l n="25441" xml:id="book-10-chapter-213-lg-12751-l-25441">Dem fürsten was von dannen gâch.</l>
@@ -51852,7 +51852,7 @@
             <l n="25542" xml:id="book-10-chapter-213-lg-12801-l-25542">sie haben sich ze der vlühte kêr.</l>
           </lg>
         </div>
-        <div n="259b" xml:id="book-10-chapter-214" type="chapter" data-level="2">
+        <div data-level="2" n="259b" type="chapter" xml:id="book-10-chapter-214">
           <head xml:lang="deu-Latn">Gefährliche Ipomites</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-214-lg-12802">
             <l n="25543" xml:id="book-10-chapter-214-lg-12802-l-25543">Von danne kêrt der fürste wert.</l>
@@ -51983,7 +51983,7 @@
             <l n="25606" xml:id="book-10-chapter-214-lg-12833-l-25606">ob ich mit sinnen werbe.</l>
           </lg>
         </div>
-        <div n="259c" xml:id="book-10-chapter-215" type="chapter" data-level="2">
+        <div data-level="2" n="259c" type="chapter" xml:id="book-10-chapter-215">
           <head xml:lang="deu-Latn">Fledermäuse</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-215-lg-12834">
             <l n="25607" xml:id="book-10-chapter-215-lg-12834-l-25607">Den alle zagheit ie vlôch</l>
@@ -52062,7 +52062,7 @@
             <l n="25644" xml:id="book-10-chapter-215-lg-12852-l-25644">daʒ sie vürbaʒ bewarten.</l>
           </lg>
         </div>
-        <div n="251" xml:id="book-10-chapter-216" type="chapter" data-level="2">
+        <div data-level="2" n="251" type="chapter" xml:id="book-10-chapter-216">
           <head xml:lang="deu-Latn">Entführt von nackten Frauen</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-216-lg-12853">
             <l n="25645" xml:id="book-10-chapter-216-lg-12853-l-25645">Nû het sich der fürste werde</l>
@@ -52313,7 +52313,7 @@
             <l n="25768" xml:id="book-10-chapter-216-lg-12914-l-25768">sie jâmert mêr dar nâch minne niht.</l>
           </lg>
         </div>
-        <div n="251a" xml:id="book-10-chapter-217" type="chapter" data-level="2">
+        <div data-level="2" n="251a" type="chapter" xml:id="book-10-chapter-217">
           <head xml:lang="deu-Latn">Angriffe wilder Tiere</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-217-lg-12915">
             <l n="25769" xml:id="book-10-chapter-217-lg-12915-l-25769">Dô daʒ volc gesunt wart,</l>
@@ -52447,9 +52447,9 @@
             <l n="25833" xml:id="book-10-chapter-217-lg-12947-l-25833">die crônike. als ich geschriben vant,</l>
           </lg>
         </div>
-        <div n="281" xml:id="book-10-chapter-218" type="chapter" data-level="2">
+        <div data-level="2" n="281" type="chapter" xml:id="book-10-chapter-218">
           <head xml:lang="deu-Latn">Alexander kauft Nahrungsmittel</head>
-          <lg n="251a_34_b" type="stanza" xml:id="book-10-chapter-218-lg-12948">
+          <lg n="251a_33_b" type="stanza" xml:id="book-10-chapter-218-lg-12948">
             <l n="25834" xml:id="book-10-chapter-218-lg-12948-l-25834">dar nâch der fürste kam in ein lant,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-218-lg-12949">
@@ -52557,7 +52557,7 @@
             <l n="25886" xml:id="book-10-chapter-218-lg-12974-l-25886">dem koufman vergolten abe.</l>
           </lg>
         </div>
-        <div n="225" xml:id="book-10-chapter-219" type="chapter" data-level="2">
+        <div data-level="2" n="225" type="chapter" xml:id="book-10-chapter-219">
           <head xml:lang="deu-Latn">Sonnen- und Mondbaum</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-219-lg-12975">
             <l n="25887" xml:id="book-10-chapter-219-lg-12975-l-25887">ûf der ouwe, dâ er lac,</l>
@@ -52972,7 +52972,7 @@
             <l n="26092" xml:id="book-10-chapter-219-lg-13077-l-26092">von dannen schiet der hêre.</l>
           </lg>
         </div>
-        <div n="282" xml:id="book-10-chapter-220" type="chapter" data-level="2">
+        <div data-level="2" n="282" type="chapter" xml:id="book-10-chapter-220">
           <head xml:lang="deu-Latn">Erbauung Alexandria</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-220-lg-13078">
             <l n="26093" xml:id="book-10-chapter-220-lg-13078-l-26093">Er quam mit allem sînem her</l>
@@ -53059,7 +53059,7 @@
             <l n="26134" xml:id="book-10-chapter-220-lg-13098-l-26134">wart besetzet kurzlîche.</l>
           </lg>
         </div>
-        <div n="283" xml:id="book-10-chapter-221" type="chapter" data-level="2">
+        <div data-level="2" n="283" type="chapter" xml:id="book-10-chapter-221">
           <head xml:lang="deu-Latn">Eine Schlange stiehlt den Prassidis</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-221-lg-13099">
             <l n="26135" xml:id="book-10-chapter-221-lg-13099-l-26135">Von dannen kêrt der Macedôn</l>
@@ -53237,9 +53237,9 @@
             <l n="26221" xml:id="book-10-chapter-221-lg-13142-l-26221">sich durch sîn gebot heten brâht.</l>
           </lg>
         </div>
-        <div n="283a" xml:id="book-10-chapter-222" type="chapter" data-level="2">
+        <div data-level="2" n="283a" type="chapter" xml:id="book-10-chapter-222">
           <head xml:lang="deu-Latn">Alexander plant die Unterwerfung des Westens</head>
-          <lg n="283_45_b" type="stanza" xml:id="book-10-chapter-222-lg-13143">
+          <lg n="283_44_b" type="stanza" xml:id="book-10-chapter-222-lg-13143">
             <l n="26222" xml:id="book-10-chapter-222-lg-13143-l-26222">ofte der künec des het gedâht</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-222-lg-13144">
@@ -53411,7 +53411,7 @@
             <l n="26306" xml:id="book-10-chapter-222-lg-13185-l-26306">rîchlich nâch ir rehte.</l>
           </lg>
         </div>
-        <div n="116" xml:id="book-10-chapter-223" type="chapter" data-level="2">
+        <div data-level="2" n="116" type="chapter" xml:id="book-10-chapter-223">
           <head xml:lang="deu-Latn">Rückblick: Alexander schleicht sich bei Darius ein</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-223-lg-13186">
             <l n="26307" xml:id="book-10-chapter-223-lg-13186-l-26307">als ich eʒ reht vernomen hân,</l>
@@ -53694,7 +53694,7 @@
             <l n="26446" xml:id="book-10-chapter-223-lg-13255-l-26446">als er getân hât biʒ her.'</l>
           </lg>
         </div>
-        <div n="98b" xml:id="book-10-chapter-224" type="chapter" data-level="2">
+        <div data-level="2" n="98b" type="chapter" xml:id="book-10-chapter-224">
           <head xml:lang="deu-Latn">Alexander, die Juden und die Samariter</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-224-lg-13256">
             <l n="26447" xml:id="book-10-chapter-224-lg-13256-l-26447">Über daʒ kalte waʒʒer sân</l>
@@ -53853,7 +53853,7 @@
             <l n="26524" xml:id="book-10-chapter-224-lg-13294-l-26524">des heiʒent sie des tiuvels kint.</l>
           </lg>
         </div>
-        <div n="283c" xml:id="book-10-chapter-225" type="chapter" data-level="2">
+        <div data-level="2" n="283c" type="chapter" xml:id="book-10-chapter-225">
           <head xml:lang="deu-Latn">Der Westen unterwirft sich</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-225-lg-13295">
             <l n="26525" xml:id="book-10-chapter-225-lg-13295-l-26525">Nû hân ich alsô vernomen</l>
@@ -54060,7 +54060,7 @@
             <l n="26626" xml:id="book-10-chapter-225-lg-13345-l-26626">lieʒ er rîchlîche.</l>
           </lg>
         </div>
-        <div n="285" xml:id="book-10-chapter-226" type="chapter" data-level="2">
+        <div data-level="2" n="285" type="chapter" xml:id="book-10-chapter-226">
           <head xml:lang="deu-Latn">Alexanders Ermordung</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-226-lg-13346">
             <l n="26627" xml:id="book-10-chapter-226-lg-13346-l-26627">Alexander einen man</l>
@@ -54903,7 +54903,7 @@
             <l n="27046" xml:id="book-10-chapter-226-lg-13555-l-27046">die kiesen wer in liep sî.'</l>
           </lg>
         </div>
-        <div n="288" xml:id="book-10-chapter-227" type="chapter" data-level="2">
+        <div data-level="2" n="288" type="chapter" xml:id="book-10-chapter-227">
           <head xml:lang="deu-Latn">Alexanders Tod</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-227-lg-13556">
             <l n="27047" xml:id="book-10-chapter-227-lg-13556-l-27047">dô er sîn dinc het geschaft,</l>
@@ -54966,7 +54966,7 @@
             <l n="27076" xml:id="book-10-chapter-227-lg-13570-l-27076">und al ir fröude vliehen.'</l>
           </lg>
         </div>
-        <div n="289" xml:id="book-10-chapter-228" type="chapter" data-level="2">
+        <div data-level="2" n="289" type="chapter" xml:id="book-10-chapter-228">
           <head xml:lang="deu-Latn">Alexanders Begräbnis</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-228-lg-13571">
             <l n="27077" xml:id="book-10-chapter-228-lg-13571-l-27077">Dô vuorten sie die Macedôn</l>
@@ -55060,9 +55060,9 @@
             <l n="27121" xml:id="book-10-chapter-228-lg-13593-l-27121">wer iht erkriegt, der het im daʒ.</l>
           </lg>
         </div>
-        <div n="296" xml:id="book-10-chapter-229" type="chapter" data-level="2">
+        <div data-level="2" n="296" type="chapter" xml:id="book-10-chapter-229">
           <head xml:lang="deu-Latn">Geschichte einiger Diadochen</head>
-          <lg n="289_24_b" type="stanza" xml:id="book-10-chapter-229-lg-13594">
+          <lg n="289_23_b" type="stanza" xml:id="book-10-chapter-229-lg-13594">
             <l n="27122" xml:id="book-10-chapter-229-lg-13594-l-27122">ein vürste Kriechen lant besaʒ,</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-229-lg-13595">
@@ -55286,7 +55286,7 @@
             <l n="27232" xml:id="book-10-chapter-229-lg-13649-l-27232">und waʒ dâ kost was angeleit.</l>
           </lg>
         </div>
-        <div n="297" xml:id="book-10-chapter-230" type="chapter" data-level="2">
+        <div data-level="2" n="297" type="chapter" xml:id="book-10-chapter-230">
           <head xml:lang="deu-Latn">Totenklage von acht Meistern</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-230-lg-13650">
             <l n="27233" xml:id="book-10-chapter-230-lg-13650-l-27233">Uns schrîbet Alphunsus,</l>
@@ -55876,9 +55876,9 @@
             <l n="27525" xml:id="book-10-chapter-230-lg-13796-l-27525">kan sô versmâht machen.'</l>
           </lg>
         </div>
-        <div n="297a" xml:id="book-10-chapter-231" type="chapter" data-level="2">
+        <div data-level="2" n="297a" type="chapter" xml:id="book-10-chapter-231">
           <head xml:lang="deu-Latn">Die Prophezeiung Daniels</head>
-          <lg n="297_148_b" type="stanza" xml:id="book-10-chapter-231-lg-13797">
+          <lg n="297_147_b" type="stanza" xml:id="book-10-chapter-231-lg-13797">
             <l n="27526" xml:id="book-10-chapter-231-lg-13797-l-27526">selten sol ich daʒ belachen</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-231-lg-13798">
@@ -55934,7 +55934,7 @@
             <l n="27552" xml:id="book-10-chapter-231-lg-13810-l-27552">des truoc sie sîner wirde haʒ.</l>
           </lg>
         </div>
-        <div n="297b" xml:id="book-10-chapter-232" type="chapter" data-level="2">
+        <div data-level="2" n="297b" type="chapter" xml:id="book-10-chapter-232">
           <head xml:lang="deu-Latn">Erzählerexkurs: Auftraggeber</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-232-lg-13811">
             <l n="27553" xml:id="book-10-chapter-232-lg-13811-l-27553">Nîdich ieman umb sîn guot,</l>
@@ -56117,7 +56117,7 @@
             <l n="27642" xml:id="book-10-chapter-232-lg-13855-l-27642">sîne vînde der tiuvel schende.</l>
           </lg>
         </div>
-        <div n="296a" xml:id="book-10-chapter-233" type="chapter" data-level="2">
+        <div data-level="2" n="296a" type="chapter" xml:id="book-10-chapter-233">
           <head xml:lang="deu-Latn">Weitere Geschichten der Nachfolger</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-233-lg-13856">
             <l n="27643" xml:id="book-10-chapter-233-lg-13856-l-27643">Pontum und Asîam</l>
@@ -56400,7 +56400,7 @@
             <l n="27782" xml:id="book-10-chapter-233-lg-13925-l-27782">gap ein künic hêre.</l>
           </lg>
         </div>
-        <div n="299a" xml:id="book-10-chapter-234" type="chapter" data-level="2">
+        <div data-level="2" n="299a" type="chapter" xml:id="book-10-chapter-234">
           <head xml:lang="deu-Latn">Eine Fürstenlehre</head>
           <lg n="1" type="stanza" xml:id="book-10-chapter-234-lg-13926">
             <l n="27783" xml:id="book-10-chapter-234-lg-13926-l-27783">ein edel künic wîse</l>
@@ -56826,9 +56826,9 @@
             <l n="27993" xml:id="book-10-chapter-234-lg-14031-l-27993">dîn reht und dîn gebot.'</l>
           </lg>
         </div>
-        <div n="Epil." xml:id="book-10-chapter-235" type="chapter" data-level="2">
+        <div data-level="2" n="Epil." type="chapter" xml:id="book-10-chapter-235">
           <head xml:lang="deu-Latn">Epilog</head>
-          <lg n="299a_107_b" type="stanza" xml:id="book-10-chapter-235-lg-14032">
+          <lg n="299a_106_b" type="stanza" xml:id="book-10-chapter-235-lg-14032">
             <l n="27994" xml:id="book-10-chapter-235-lg-14032-l-27994">gelobt sî der hœste got</l>
           </lg>
           <lg n="1" type="stanza" xml:id="book-10-chapter-235-lg-14033">

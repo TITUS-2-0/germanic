@@ -8140,7 +8140,7 @@ text:
   - book[n=2]:
     - chapter[n=26]:
       - head[lg=deu-Latn]: Prolog
-      - lg@stanza[n=25_4_b]:
+      - lg@stanza[n=25_3_b]:
         - l[n=5374]: Du ursprinc aller wîsheit,
       - lg@stanza[n=1]:
         - l[n=5375]: dîn güete ist gemeine,
@@ -9029,7 +9029,7 @@ text:
         - l[n=5953]: von den lanthêrren enphienc.
     - chapter[n=69]:
       - head[lg=deu-Latn]: Eroberung Anchirias
-      - lg@stanza[n=67_26_b]:
+      - lg@stanza[n=67_25_b]:
         - l[n=5954]: dô sîn wille alsô ergienc,
       - lg@stanza[n=1]:
         - l[n=5955]: Alexander der êren vogt
@@ -9544,7 +9544,7 @@ text:
         - l[n=6289]: in die stat ze Tharsis.
     - chapter[n=74a]:
       - head[lg=deu-Latn]: 'Erzählerexkurs: Saulus/Paulus aus Tharsis'
-      - lg@stanza[n=74_15_b]:
+      - lg@stanza[n=74_14_b]:
         - l[n=6290]: Galthêrus tuot mich des gewis
       - lg@stanza[n=1]:
         - l[n=6291]: daʒ der guote sante Paul,
@@ -10143,7 +10143,7 @@ text:
         - l[n=6681]: die tôten gâben bœsen smac.
     - chapter[n=84a]:
       - head[lg=deu-Latn]: Beratung bei Alexander
-      - lg@stanza[n=84_18_b]:
+      - lg@stanza[n=84_17_b]:
         - l[n=6682]: Issôn vor dem gebirge lac,
       - lg@stanza[n=1]:
         - l[n=6683]: dâ Alexander muoste durch varn.
@@ -10188,7 +10188,7 @@ text:
         - l[n=6709]: dâ mite die rede sô bleip.
     - chapter[n=83]:
       - head[lg=deu-Latn]: Narbâsone verrät Alexanders Pläne
-      - lg@stanza[n=84a_15_b]:
+      - lg@stanza[n=84a_14_b]:
         - l[n=6710]: heimelîche brieve schreip
       - lg@stanza[n=1]:
         - l[n=6711]: ein Darîân hieʒ Narbâsones
@@ -11004,7 +11004,7 @@ text:
         - l[n=7247]: er fuorte ir vil gevangen dan.
     - chapter[n=84b]:
       - head[lg=deu-Latn]: Alexanders Schlachtvorbereitungen
-      - lg@stanza[n=84a_53_b]:
+      - lg@stanza[n=84a_52_b]:
         - l[n=7248]: Alexander der werde man
       - lg@stanza[n=1]:
         - l[n=7249]: hielt sich ouch vast ze gote,
@@ -16063,7 +16063,7 @@ text:
         - l[n=10587]: ich wîse eʒ sînen frechen siten.
     - chapter[n=124]:
       - head[lg=deu-Latn]: Darius macht ein Friedensangebot
-      - lg@stanza[n=122_154_b]:
+      - lg@stanza[n=122_153_b]:
         - l[n=10588]: die boten kâmen zuo geriten,
       - lg@stanza[n=1]:
         - l[n=10589]: gegen den der fürste zuht begienc,
@@ -16645,7 +16645,7 @@ text:
         - l[n=10973]: und daʒ ir sît an prîse quec.'
     - chapter[n=125]:
       - head[lg=deu-Latn]: Mâzêus zieht gegen Alexander
-      - lg@stanza[n=124_194_b]:
+      - lg@stanza[n=124_193_b]:
         - l[n=10974]: Mâzêus huop sich ûf den wec
       - lg@stanza[n=1]:
         - l[n=10975]: mit den fürsten ellens rîche.
@@ -18712,7 +18712,7 @@ text:
         - l[n=12345]: albereit des heres braht.
     - chapter[n=127a]:
       - head[lg=deu-Latn]: Kriegsrat bei Alexander
-      - lg@stanza[n=127_198_b]:
+      - lg@stanza[n=127_197_b]:
         - l[n=12346]: die Kriechen heten sich bedâht
       - lg@stanza[n=1]:
         - l[n=12347]: von ir manheit girde,
@@ -23028,7 +23028,7 @@ text:
         - l[n=15199]: daʒ füegete manger frouwen leit.
     - chapter[n=127a]:
       - head[lg=deu-Latn]: Alexander trifft auf den fliehenden Darius
-      - lg@stanza[n=127_41_b]:
+      - lg@stanza[n=127_40_b]:
         - l[n=15200]: Nû sach er wâ von verren reit
       - lg@stanza[n=1]:
         - l[n=15201]: der keiser und gegen Bractân zôch,
@@ -23860,7 +23860,7 @@ text:
         - l[n=15749]: er macht in armuot tiure.
     - chapter[n=133]:
       - head[lg=deu-Latn]: Beratung bei Darius
-      - lg@stanza[n=130_139_b]:
+      - lg@stanza[n=130_138_b]:
         - l[n=15750]: dar der gehiure
       - lg@stanza[n=1]:
         - l[n=15751]: gegen Mêdâ dem lande kêrte,
@@ -25159,7 +25159,7 @@ text:
         - l[n=16607]: der kêrte gegen Irkâniâ.
     - chapter[n=138a]:
       - head[lg=deu-Latn]: Kampf mit Persern
-      - lg@stanza[n=138_169_b]:
+      - lg@stanza[n=138_168_b]:
         - l[n=16608]: noch wârn sehs tûsent dâ
       - lg@stanza[n=1]:
         - l[n=16609]: sehsundsehzic und sehs hundert,
@@ -28721,7 +28721,7 @@ text:
         - l[n=18957]: man clagt sie âne mâʒen.
     - chapter[n=158]:
       - head[lg=deu-Latn]: Alexander und Antilôis
-      - lg@stanza[n=157_24_b]:
+      - lg@stanza[n=157_23_b]:
         - l[n=18958]: Die jeger heten gelâʒen
       - lg@stanza[n=1]:
         - l[n=18959]: ze einem hirʒe, den dô jeit
@@ -32081,7 +32081,7 @@ text:
         - l[n=21177]: wol mohte sehen und wie er lac.
     - chapter[n=130]:
       - head[lg=deu-Latn]: Alexander befreit ein gefangenes Volk
-      - lg@stanza[n=129_30_b]:
+      - lg@stanza[n=129_29_b]:
         - l[n=21178]: Dâ bî ein volc sorgen phlac,
       - lg@stanza[n=1]:
         - l[n=21179]: daʒ ûf den lîp gevangen was
@@ -32608,7 +32608,7 @@ text:
         - l[n=21521]: die tâten in âne mâʒe wê.
     - chapter[n=212]:
       - head[lg=deu-Latn]: Eine unerreichbare Burg auf einem See
-      - lg@stanza[n=210_106_b]:
+      - lg@stanza[n=210_105_b]:
         - l[n=21522]: Darnâch sie kâmen an einen sê,
       - lg@stanza[n=1]:
         - l[n=21523]: dâ bî sie vunden einen walt,
@@ -32968,7 +32968,7 @@ text:
         - l[n=21755]: die man dar în gebrochen het.
     - chapter[n=215a]:
       - head[lg=deu-Latn]: Unterwerfung einer Stadt des Hercules
-      - lg@stanza[n=215_13_b]:
+      - lg@stanza[n=215_12_b]:
         - l[n=21756]: von dannen zogten sie ze stet,
       - lg@stanza[n=1]:
         - l[n=21757]: Alexander und die werden man,
@@ -33365,7 +33365,7 @@ text:
         - l[n=22015]: und kâmen ûf daʒ waʒʒer niht.
     - chapter[n=216]:
       - head[lg=deu-Latn]: Kampf mit einem Ipomites
-      - lg@stanza[n=250_20_b]:
+      - lg@stanza[n=250_19_b]:
         - l[n=22016]: Er schiet von dan und kam dâ lieht
       - lg@stanza[n=1]:
         - l[n=22017]: was, dâ er aber vant
@@ -33407,7 +33407,7 @@ text:
         - l[n=22041]: die in vröude benam.
     - chapter[n=217]:
       - head[lg=deu-Latn]: Kampf mit Elefanten
-      - lg@stanza[n=216_14_b]:
+      - lg@stanza[n=216_13_b]:
         - l[n=22042]: des âbendes er an ein waʒʒer quam,
       - lg@stanza[n=1]:
         - l[n=22043]: Bûchemâr ist daʒ genant.
@@ -33513,7 +33513,7 @@ text:
         - l[n=22107]: er wolt ir gerne zwei hân.
     - chapter[n=254]:
       - head[lg=deu-Latn]: Frauen, wilden Schweinen gleich
-      - lg@stanza[n=253a_9_b]:
+      - lg@stanza[n=253a_8_b]:
         - l[n=22108]: Bî dem waʒʒer den plân
       - lg@stanza[n=1]:
         - l[n=22109]: Alexander der gemeit
@@ -33563,7 +33563,7 @@ text:
         - l[n=22137]: der künic ir zwô mit im nam.
     - chapter[n=220]:
       - head[lg=deu-Latn]: Feuerwind in der Wildnis
-      - lg@stanza[n=255_8_b]:
+      - lg@stanza[n=255_7_b]:
         - l[n=22138]: ûf ein wüeste ouwe er quam.
       - lg@stanza[n=1]:
         - l[n=22139]: dô hieʒ der fürste sîn gezelt
@@ -34828,7 +34828,7 @@ text:
         - l[n=22961]: hieʒ die herberge vân.
     - chapter[n=164]:
       - head[lg=deu-Latn]: Amon erscheint Alexander im Schlaf
-      - lg@stanza[n=182_34_b]:
+      - lg@stanza[n=182_33_b]:
         - l[n=22962]: der stat phlac ein werder man,
       - lg@stanza[n=1]:
         - l[n=22963]: Ambrâ, der künic hêr.
@@ -34924,7 +34924,7 @@ text:
         - l[n=23023]: nâch allen irn schulden
     - chapter[n=232]:
       - head[lg=deu-Latn]: Kampf mit wilden Tieren
-      - lg@stanza[n=164_32_b]:
+      - lg@stanza[n=164_31_b]:
         - l[n=23024]: die liute er nam ze hulden.
       - lg@stanza[n=1]:
         - l[n=23025]: Des prîs sich ie wol mêrte
@@ -35013,7 +35013,7 @@ text:
         - l[n=23079]: wann ich ir ahte niht enweiʒ,.
     - chapter[n=235]:
       - head[lg=deu-Latn]: Kampf mit den Konocefalî
-      - lg@stanza[n=233_13_b]:
+      - lg@stanza[n=233_12_b]:
         - l[n=23080]: dar nâch kam er in einen kreiʒ,
       - lg@stanza[n=1]:
         - l[n=23081]: 'dâ er vil liute inne vant:'
@@ -35052,7 +35052,7 @@ text:
         - l[n=23103]: den künic sêre betruobte daʒ.
     - chapter[n=236]:
       - head[lg=deu-Latn]: Ameisen, die Gold bringen
-      - lg@stanza[n=235_13_b]:
+      - lg@stanza[n=235_12_b]:
         - l[n=23104]: von dannen zogt er vürbaʒ
       - lg@stanza[n=1]:
         - l[n=23105]: über ein waʒʒer, daʒ dâ vlôʒ,
@@ -35747,7 +35747,7 @@ text:
         - l[n=23555]: dar zuo schuof er rîchen gelt.
     - chapter[n=245]:
       - head[lg=deu-Latn]: Alexanders Brief an Olimpiades und Aristoteles
-      - lg@stanza[n=242_15_b]:
+      - lg@stanza[n=242_14_b]:
         - l[n=23556]: dô er rûmet daʒ velt,
       - lg@stanza[n=1]:
         - l[n=23557]: heim ze Kriechenlande
@@ -35803,7 +35803,7 @@ text:
         - l[n=23589]: die eine in Babilôniâ,
     - chapter[n=268]:
       - head[lg=deu-Latn]: Alexander träumt seine Ermordung
-      - lg@stanza[n=243_7_b]:
+      - lg@stanza[n=243_6_b]:
         - l[n=23590]: diu ander in dein lande Persiâ.
       - lg@stanza[n=1]:
         - l[n=23591]: Alexander der werde vogt
@@ -35946,7 +35946,7 @@ text:
         - l[n=23681]: dâ von trôst der fürste nam.
     - chapter[n=270]:
       - head[lg=deu-Latn]: Pôrus besucht Alexander
-      - lg@stanza[n=269_24_b]:
+      - lg@stanza[n=269_23_b]:
         - l[n=23682]: Pôrus mit schœnheit gegen im quam.
       - lg@stanza[n=1]:
         - l[n=23683]: sîn her und den wîgant
@@ -36466,7 +36466,7 @@ text:
         - l[n=24023]: daʒ er zer verte solde hân.
     - chapter[n=273]:
       - head[lg=deu-Latn]: Alexander und Pirratas
-      - lg@stanza[n=272_15_b]:
+      - lg@stanza[n=272_14_b]:
         - l[n=24024]: ûf dem mer was ein man,
       - lg@stanza[n=1]:
         - l[n=24025]: daʒ sîn mit roube dar ûf bejagte
@@ -38219,7 +38219,7 @@ text:
         - l[n=25175]: der er ouch zwei mit im nam.
     - chapter[n=279c]:
       - head[lg=deu-Latn]: Einfüʒige Menschen
-      - lg@stanza[n=279b_8_b]:
+      - lg@stanza[n=279b_7_b]:
         - l[n=25176]: an ein ander volc er quam,
       - lg@stanza[n=1]:
         - l[n=25177]: daʒ sach er sich mit den füeʒen
@@ -38278,7 +38278,7 @@ text:
         - l[n=25211]: wunder unde nôt bevienc.
     - chapter[n=280]:
       - head[lg=deu-Latn]: Prophetische Standbilder
-      - lg@stanza[n=279d_17_b]:
+      - lg@stanza[n=279d_16_b]:
         - l[n=25212]: dâ sîn reise von dannen gienc,
       - lg@stanza[n=1]:
         - l[n=25213]: Er kam in ein wilde
@@ -39226,7 +39226,7 @@ text:
         - l[n=25833]: die crônike. als ich geschriben vant,
     - chapter[n=281]:
       - head[lg=deu-Latn]: Alexander kauft Nahrungsmittel
-      - lg@stanza[n=251a_34_b]:
+      - lg@stanza[n=251a_33_b]:
         - l[n=25834]: dar nâch der fürste kam in ein lant,
       - lg@stanza[n=1]:
         - l[n=25835]: Dô er von dem walde reit,
@@ -39817,7 +39817,7 @@ text:
         - l[n=26221]: sich durch sîn gebot heten brâht.
     - chapter[n=283a]:
       - head[lg=deu-Latn]: Alexander plant die Unterwerfung des Westens
-      - lg@stanza[n=283_45_b]:
+      - lg@stanza[n=283_44_b]:
         - l[n=26222]: ofte der künec des het gedâht
       - lg@stanza[n=1]:
         - l[n=26223]: daʒ er gegen Rôme wolde varn
@@ -41182,7 +41182,7 @@ text:
         - l[n=27121]: wer iht erkriegt, der het im daʒ.
     - chapter[n=296]:
       - head[lg=deu-Latn]: Geschichte einiger Diadochen
-      - lg@stanza[n=289_24_b]:
+      - lg@stanza[n=289_23_b]:
         - l[n=27122]: ein vürste Kriechen lant besaʒ,
       - lg@stanza[n=1]:
         - l[n=27123]: der was des künges vetern suon.
@@ -41793,7 +41793,7 @@ text:
         - l[n=27525]: kan sô versmâht machen.'
     - chapter[n=297a]:
       - head[lg=deu-Latn]: Die Prophezeiung Daniels
-      - lg@stanza[n=297_148_b]:
+      - lg@stanza[n=297_147_b]:
         - l[n=27526]: selten sol ich daʒ belachen
       - lg@stanza[n=1]:
         - l[n=27527]: wie Alexander habe gevarn.
@@ -42504,7 +42504,7 @@ text:
         - l[n=27993]: dîn reht und dîn gebot.'
     - chapter[n=Epil.]:
       - head[lg=deu-Latn]: Epilog
-      - lg@stanza[n=299a_107_b]:
+      - lg@stanza[n=299a_106_b]:
         - l[n=27994]: gelobt sî der hœste got
       - lg@stanza[n=1]:
         - l[n=27995]: und sîn muoter, die vil hêre!
