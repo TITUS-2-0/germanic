@@ -9,5 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- Initial build (2026-10-20)
-- explicit gaps
+- Initial build (2026-10-05)
+- explicit gaps (2026-10-20)
