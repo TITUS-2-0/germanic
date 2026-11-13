@@ -1,6 +1,6 @@
 text:
 - body:
-  - milestone[unit=chapter,n=1]
+  - milestone@chapter: 1
   - label[lg=deu-Latn]: Prolog
   - lg@couplet[n=1]:
     - l[n=1]: Gedaehte mans ze guote niht,
@@ -368,7 +368,7 @@ text:
   - lg@couplet[n=122]:
     - l[n=243]: 'der biete herze und ôren her:'
     - l[n=244]: er vindet alle sîne ger.
-  - milestone[unit=chapter,n=2]
+  - milestone@chapter: 2
   - label[lg=deu-Latn]: Riwalin und Blancheflur
   - lg@couplet[n=123]:
     - l[n=245]: Ein hêrre in Parmenîe was,
@@ -2689,7 +2689,7 @@ text:
   - lg@couplet[n=895]:
     - l[n=1789]: daz vater noch muoter haete,
     - l[n=1790]: waz got mit deme getaete.
-  - milestone[unit=chapter,n=3]
+  - milestone@chapter: 3
   - label[lg=deu-Latn]: Rual li Foitenant
   - lg@couplet[n=896]:
     - l[n=1791]: Riuwe unde staetiu triuwe
@@ -3228,7 +3228,7 @@ text:
   - lg@couplet[n=1074]:
     - l[n=2147]: des muot niwan ze tugende stât,
     - l[n=2148]: der alle untugende unmaere hât.
-  - milestone[unit=chapter,n=4]
+  - milestone@chapter: 4
   - label[lg=deu-Latn]: Die Entführung
   - lg@couplet[n=1075]:
     - l[n=2149]: In den zîten unde dô
@@ -4147,7 +4147,7 @@ text:
   - lg@couplet[n=1379]:
     - l[n=2757]: ( diz was ir kurzewîle)
     - l[n=2758]: wol eine welsche mîle.
-  - milestone[unit=chapter,n=5]
+  - milestone@chapter: 5
   - label[lg=deu-Latn]: Die Jagd
   - lg@couplet[n=1380]:
     - l[n=2759]: 'Nu kam ez in kurzer stunde:'
@@ -5079,7 +5079,7 @@ text:
   - lg@couplet[n=1689]:
     - l[n=3377]: "'mit guote, vriunt' sprach Marke dô"
     - l[n=3378]: "'diz ist gelobet, nu sî alsô!'"
-  - milestone[unit=chapter,n=6]
+  - milestone@chapter: 6
   - label[lg=deu-Latn]: Der junge Künstler
   - lg@couplet[n=1690]:
     - l[n=3379]: Nu Tristan der ist ze hûse komen
@@ -5648,7 +5648,7 @@ text:
   - lg@couplet[n=1878]:
     - l[n=3755]: waz der nâch ime getaete,
     - l[n=3756]: dô er 'n verloren haete.
-  - milestone[unit=chapter,n=7]
+  - milestone@chapter: 7
   - label[lg=deu-Latn]: Wiedersehen
   - lg@couplet[n=1879]:
     - l[n=3757]: Dan Rûal li foitenant
@@ -6835,7 +6835,7 @@ text:
   - lg@couplet[n=2273]:
     - l[n=4545]: daz ir ietwederer an der stete
     - l[n=4546]: niht wider sînem rehte tete.
-  - milestone[unit=chapter,n=8]
+  - milestone@chapter: 8
   - label[lg=deu-Latn]: Tristans Schwertleite
   - lg@couplet[n=2274]:
     - l[n=4547]: Sus greif Rûal und Tristan
@@ -7620,7 +7620,7 @@ text:
   - lg@couplet[n=2534]:
     - l[n=5067]: und in got ritterlîchez leben
     - l[n=5068]: z' ir ritterschefte müeze geben!
-  - milestone[unit=chapter,n=9]
+  - milestone@chapter: 9
   - label[lg=deu-Latn]: Heimfahrt und Rache
   - lg@couplet[n=2535]:
     - l[n=5069]: Truoc ieman lebender staete leit
@@ -8819,7 +8819,7 @@ text:
   - lg@couplet[n=2933]:
     - l[n=5865]: der got ein gerehtez leben
     - l[n=5866]: an wîbes êren hât gegeben.
-  - milestone[unit=chapter,n=10]
+  - milestone@chapter: 10
   - label[lg=deu-Latn]: Morold
   - lg@couplet[n=2934]:
     - l[n=5867]: Waz leite ich nû mê hier an?
@@ -10867,7 +10867,7 @@ text:
   - lg@couplet[n=3615]:
     - l[n=7229]: gewalt unde hôhvart,
     - l[n=7230]: in den er ouch gevellet wart.
-  - milestone[unit=chapter,n=11]
+  - milestone@chapter: 11
   - label[lg=deu-Latn]: Tantris
   - lg@couplet[n=3616]:
     - l[n=7231]: Nû grîfe wider, dâ ich 'z liez.
@@ -12362,7 +12362,7 @@ text:
     - l[n=8224]: von Engelanden al zehant
   - lg@couplet[n=4113]:
     - l[n=8225]: ze Curnewâle wider heim.
-    - milestone[unit=chapter,n=12]
+    - milestone@chapter: 12
     - label[lg=deu-Latn]: Die Brautfahrt
     - l[n=8226]: Nu Marke sîn oeheim
   - lg@couplet[n=4114]:
@@ -13370,7 +13370,7 @@ text:
   - lg@couplet[n=4448]:
     - l[n=8895]: daz half ouch ime, daz ime geschach
     - l[n=8896]: beidiu genâde unde gemach.
-  - milestone[unit=chapter,n=13]
+  - milestone@chapter: 13
   - label[lg=deu-Latn]: Der Kampf mit dem Drachen
   - lg@couplet[n=4449]:
     - l[n=8897]: Nû Tristan der ist ze vride komen.
@@ -15001,7 +15001,7 @@ text:
   - lg@couplet[n=4991]:
     - l[n=9981]: des dritten tages waere.
     - l[n=9982]: hie mite zergie diz maere.
-  - milestone[unit=chapter,n=14]
+  - milestone@chapter: 14
   - label[lg=deu-Latn]: Der Splitter
   - lg@couplet[n=4992]:
     - l[n=9983]: Die vrouwen giengen beide dan
@@ -16233,7 +16233,7 @@ text:
   - lg@couplet[n=5401]:
     - l[n=10801]: daz er ez allez endet,
     - l[n=10802]: dar an er sich gewendet!'
-  - milestone[unit=chapter,n=15]
+  - milestone@chapter: 15
   - label[lg=deu-Latn]: Das Wahrzeichen
   - lg@couplet[n=5402]:
     - l[n=10803]: Hie mite sô was ouch der tac komen,
@@ -17081,7 +17081,7 @@ text:
   - lg@couplet[n=5683]:
     - l[n=11365]: sus nam der valsch ein ende
     - l[n=11366]: mit offenlîcher schende.
-  - milestone[unit=chapter,n=16]
+  - milestone@chapter: 16
   - label[lg=deu-Latn]: Der Minnetrank
   - lg@couplet[n=5684]:
     - l[n=11367]: Dô disiu rede g' endet was,
@@ -17845,7 +17845,7 @@ text:
   - lg@couplet[n=5937]:
     - l[n=11873]: diuhte minne sît als ê,
     - l[n=11874]: sô zegienge schiere minnen ê.
-  - milestone[unit=chapter,n=17]
+  - milestone@chapter: 17
   - label[lg=deu-Latn]: Das Geständniss
   - lg@couplet[n=5938]:
     - l[n=11875]: Die kiele stiezen aber an
@@ -18687,7 +18687,7 @@ text:
   - lg@couplet[n=6217]:
     - l[n=12433]: sô muge wir an den kinden
     - l[n=12434]: witze unde liste vinden.
-  - milestone[unit=chapter,n=18]
+  - milestone@chapter: 18
   - label[lg=deu-Latn]: Brangäne
   - lg@couplet[n=6218]:
     - l[n=12435]: 'Lange umberede sî hin geleit:'
@@ -19682,7 +19682,7 @@ text:
   - lg@couplet[n=6548]:
     - l[n=13095]: ervorhten wunderlîche
     - l[n=13096]: in al dem künicrîche.
-  - milestone[unit=chapter,n=19]
+  - milestone@chapter: 19
   - label[lg=deu-Latn]: Rotte und Harfe
   - lg@couplet[n=6549]:
     - l[n=13097]: Nu Tristan was gemuothaft.
@@ -20215,7 +20215,7 @@ text:
   - lg@couplet[n=6725]:
     - l[n=13449]: her nâch sô bewâret daz
     - l[n=13450]: und hüetet mîner vrouwen baz!'
-  - milestone[unit=chapter,n=20]
+  - milestone@chapter: 20
   - label[lg=deu-Latn]: Marjodo
   - lg@couplet[n=6726]:
     - l[n=13451]: Tristandes lob und êre
@@ -20550,7 +20550,7 @@ text:
   - lg@couplet[n=6836]:
     - l[n=13671]: und haete Îsolde kunt getân
     - l[n=13672]: des truhsaezen arcwân.
-  - milestone[unit=chapter,n=21]
+  - milestone@chapter: 21
   - label[lg=deu-Latn]: List und Gegenlist
   - lg@couplet[n=6837]:
     - l[n=13673]: Jedoch versuohte ez Marke
@@ -21395,7 +21395,7 @@ text:
   - lg@couplet[n=7117]:
     - l[n=14233]: und die rehten wârheit
     - l[n=14234]: von ir haete geseit.
-  - milestone[unit=chapter,n=22]
+  - milestone@chapter: 22
   - label[lg=deu-Latn]: Melot
   - lg@couplet[n=7118]:
     - l[n=14235]: Nu daz der truhsaeze ersach,
@@ -21919,7 +21919,7 @@ text:
   - lg@couplet[n=7291]:
     - l[n=14581]: hin wider ze hove maere,
     - l[n=14582]: waz iu hie getroumet waere.'
-  - milestone[unit=chapter,n=23]
+  - milestone@chapter: 23
   - label[lg=deu-Latn]: Baumgartenszene
   - lg@couplet[n=7292]:
     - l[n=14583]: Melôt gie dan und reit zehant
@@ -22617,7 +22617,7 @@ text:
   - lg@couplet[n=7523]:
     - l[n=15045]: swie kurz ez wernde waere,
     - l[n=15046]: âne iteniuwe swaere.
-  - milestone[unit=chapter,n=24]
+  - milestone@chapter: 24
   - label[lg=deu-Latn]: Das Gottesurteil
   - lg@couplet[n=7524]:
     - l[n=15047]: Ich spriche daz wol überlût,
@@ -23696,7 +23696,7 @@ text:
   - lg@couplet[n=7882]:
     - l[n=15763]: sîn zwîvel und sîn arcwân
     - l[n=15764]: die wâren aber dô hin getân.
-  - milestone[unit=chapter,n=25]
+  - milestone@chapter: 25
   - label[lg=deu-Latn]: Petitcrü
   - lg@couplet[n=7883]:
     - l[n=15765]: Tristan, Îsolde cumpanjûn,
@@ -24655,7 +24655,7 @@ text:
   - lg@couplet[n=8201]:
     - l[n=16401]: diu haete ir vröude unde ir leben
     - l[n=16402]: sene unde Tristande ergeben.
-  - milestone[unit=chapter,n=26]
+  - milestone@chapter: 26
   - label[lg=deu-Latn]: Die Verbannung
   - lg@couplet[n=8202]:
     - l[n=16403]: Aber haete Tristan unde Îsôt
@@ -25046,7 +25046,7 @@ text:
     - l[n=16660]: sus riten si dan von hove si driu.
   - lg@couplet[n=8331]:
     - l[n=16661]: Brangaene diu reine
-    - milestone[unit=chapter,n=27]
+    - milestone@chapter: 27
     - label[lg=deu-Latn]: Die Minnegrotte
     - l[n=16662]: diu beleip alterseine
   - lg@couplet[n=8332]:
@@ -25943,7 +25943,7 @@ text:
     - l[n=17256]: nâch dem hirze und nâch dem tiere,
   - lg@couplet[n=8629]:
     - l[n=17257]: nâch aller slahte wilde
-    - milestone[unit=chapter,n=28]
+    - milestone@chapter: 28
     - label[lg=deu-Latn]: Entdeckung und Versöhnung
     - l[n=17258]: durch walt und durch gevilde
   - lg@couplet[n=8630]:
@@ -26521,7 +26521,7 @@ text:
     - l[n=17640]: daz vor dem vensterlîne was
   - lg@couplet[n=8821]:
     - l[n=17641]: daz selbe wnden s' ouch zehant.
-    - milestone[unit=chapter,n=29]
+    - milestone@chapter: 29
     - label[lg=deu-Latn]: Rückkehr und Trennung
     - l[n=17642]: Ouch spurten sî zwei durch den sant
   - lg@couplet[n=8822]:
@@ -27667,7 +27667,7 @@ text:
   - lg@couplet[n=9202]:
     - l[n=18403]: und aber sînen zorn lie
     - l[n=18404]: und ungerochen dannen gie.
-  - milestone[unit=chapter,n=30]
+  - milestone@chapter: 30
   - label[lg=deu-Latn]: Îsolde Weißhand
   - lg@couplet[n=9203]:
     - l[n=18405]: Tristan zen herbergen kam.

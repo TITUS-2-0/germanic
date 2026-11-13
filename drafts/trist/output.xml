@@ -24,13 +24,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-03-05">2025-03-05</date>
+        <date when="2026-11-13">2026-11-13</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Tristan by Gottfried von Straßburg (draft version). 2025-03-05. By: Jost Gippert, Florian Matter, Thorsten Parchent, Ralf Schlechtweg-Jahn. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Tristan by Gottfried von Straßburg (v0.0.1.draft). 2026-11-13. By: Jost Gippert, Florian Matter, Thorsten Parchent, Ralf Schlechtweg-Jahn. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="trist">
@@ -43,15 +43,15 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
-        <language ident="fro-Latn" ana="secondary">Old French (842-ca. 1400)</language>
-        <language ident="deu-Latn" ana="meta">German</language>
+        <language ana="primary" ident="gmh-Latn-x-mhg">Middle High German</language>
+        <language ana="secondary" ident="fro-Latn">Old French (842-ca. 1400)</language>
+        <language ana="meta" ident="deu-Latn">German</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="gmh-Latn-x-mhg">
     <body>
-      <milestone unit="chapter" n="1" xml:id="milestone-1" />
+      <milestone n="1" unit="chapter" xml:id="milestone-1" />
       <label xml:lang="deu-Latn">Prolog</label>
       <lg n="1" type="couplet" xml:id="lg-1">
         <l n="1" xml:id="lg-1-l-1">Gedaehte mans ze guote niht,</l>
@@ -541,7 +541,7 @@
         <l n="243" xml:id="lg-122-l-243">der biete herze und ôren her:</l>
         <l n="244" xml:id="lg-122-l-244">er vindet alle sîne ger.</l>
       </lg>
-      <milestone unit="chapter" n="2" xml:id="milestone-2" />
+      <milestone n="2" unit="chapter" xml:id="milestone-2" />
       <label xml:lang="deu-Latn">Riwalin und Blancheflur</label>
       <lg n="123" type="couplet" xml:id="lg-123">
         <l n="245" xml:id="lg-123-l-245">Ein hêrre in Parmenîe was,</l>
@@ -3635,7 +3635,7 @@
         <l n="1789" xml:id="lg-895-l-1789">daz vater noch muoter haete,</l>
         <l n="1790" xml:id="lg-895-l-1790">waz got mit deme getaete.</l>
       </lg>
-      <milestone unit="chapter" n="3" xml:id="milestone-3" />
+      <milestone n="3" unit="chapter" xml:id="milestone-3" />
       <label xml:lang="deu-Latn">Rual li Foitenant</label>
       <lg n="896" type="couplet" xml:id="lg-896">
         <l n="1791" xml:id="lg-896-l-1791">Riuwe unde staetiu triuwe</l>
@@ -4353,7 +4353,7 @@
         <l n="2147" xml:id="lg-1074-l-2147">des muot niwan ze tugende stât,</l>
         <l n="2148" xml:id="lg-1074-l-2148">der alle untugende unmaere hât.</l>
       </lg>
-      <milestone unit="chapter" n="4" xml:id="milestone-4" />
+      <milestone n="4" unit="chapter" xml:id="milestone-4" />
       <label xml:lang="deu-Latn">Die Entführung</label>
       <lg n="1075" type="couplet" xml:id="lg-1075">
         <l n="2149" xml:id="lg-1075-l-2149">In den zîten unde dô</l>
@@ -5577,7 +5577,7 @@
         <l n="2757" xml:id="lg-1379-l-2757">( diz was ir kurzewîle)</l>
         <l n="2758" xml:id="lg-1379-l-2758">wol eine welsche mîle.</l>
       </lg>
-      <milestone unit="chapter" n="5" xml:id="milestone-5" />
+      <milestone n="5" unit="chapter" xml:id="milestone-5" />
       <label xml:lang="deu-Latn">Die Jagd</label>
       <lg n="1380" type="couplet" xml:id="lg-1380">
         <l n="2759" xml:id="lg-1380-l-2759">Nu kam ez in kurzer stunde:</l>
@@ -6819,7 +6819,7 @@
         <l n="3377" xml:id="lg-1689-l-3377">'mit guote, vriunt' sprach Marke dô</l>
         <l n="3378" xml:id="lg-1689-l-3378">'diz ist gelobet, nu sî alsô!'</l>
       </lg>
-      <milestone unit="chapter" n="6" xml:id="milestone-6" />
+      <milestone n="6" unit="chapter" xml:id="milestone-6" />
       <label xml:lang="deu-Latn">Der junge Künstler</label>
       <lg n="1690" type="couplet" xml:id="lg-1690">
         <l n="3379" xml:id="lg-1690-l-3379">Nu Tristan der ist ze hûse komen</l>
@@ -7577,7 +7577,7 @@
         <l n="3755" xml:id="lg-1878-l-3755">waz der nâch ime getaete,</l>
         <l n="3756" xml:id="lg-1878-l-3756">dô er 'n verloren haete.</l>
       </lg>
-      <milestone unit="chapter" n="7" xml:id="milestone-7" />
+      <milestone n="7" unit="chapter" xml:id="milestone-7" />
       <label xml:lang="deu-Latn">Wiedersehen</label>
       <lg n="1879" type="couplet" xml:id="lg-1879">
         <l n="3757" xml:id="lg-1879-l-3757">Dan Rûal li foitenant</l>
@@ -9159,7 +9159,7 @@
         <l n="4545" xml:id="lg-2273-l-4545">daz ir ietwederer an der stete</l>
         <l n="4546" xml:id="lg-2273-l-4546">niht wider sînem rehte tete.</l>
       </lg>
-      <milestone unit="chapter" n="8" xml:id="milestone-8" />
+      <milestone n="8" unit="chapter" xml:id="milestone-8" />
       <label xml:lang="deu-Latn">Tristans Schwertleite</label>
       <lg n="2274" type="couplet" xml:id="lg-2274">
         <l n="4547" xml:id="lg-2274-l-4547">Sus greif Rûal und Tristan</l>
@@ -10205,7 +10205,7 @@
         <l n="5067" xml:id="lg-2534-l-5067">und in got ritterlîchez leben</l>
         <l n="5068" xml:id="lg-2534-l-5068">z' ir ritterschefte müeze geben!</l>
       </lg>
-      <milestone unit="chapter" n="9" xml:id="milestone-9" />
+      <milestone n="9" unit="chapter" xml:id="milestone-9" />
       <label xml:lang="deu-Latn">Heimfahrt und Rache</label>
       <lg n="2535" type="couplet" xml:id="lg-2535">
         <l n="5069" xml:id="lg-2535-l-5069">Truoc ieman lebender staete leit</l>
@@ -11803,7 +11803,7 @@
         <l n="5865" xml:id="lg-2933-l-5865">der got ein gerehtez leben</l>
         <l n="5866" xml:id="lg-2933-l-5866">an wîbes êren hât gegeben.</l>
       </lg>
-      <milestone unit="chapter" n="10" xml:id="milestone-10" />
+      <milestone n="10" unit="chapter" xml:id="milestone-10" />
       <label xml:lang="deu-Latn">Morold</label>
       <lg n="2934" type="couplet" xml:id="lg-2934">
         <l n="5867" xml:id="lg-2934-l-5867">Waz leite ich nû mê hier an?</l>
@@ -14533,7 +14533,7 @@
         <l n="7229" xml:id="lg-3615-l-7229">gewalt unde hôhvart,</l>
         <l n="7230" xml:id="lg-3615-l-7230">in den er ouch gevellet wart.</l>
       </lg>
-      <milestone unit="chapter" n="11" xml:id="milestone-11" />
+      <milestone n="11" unit="chapter" xml:id="milestone-11" />
       <label xml:lang="deu-Latn">Tantris</label>
       <lg n="3616" type="couplet" xml:id="lg-3616">
         <l n="7231" xml:id="lg-3616-l-7231">Nû grîfe wider, dâ ich 'z liez.</l>
@@ -16525,7 +16525,7 @@
       </lg>
       <lg n="4113" type="couplet" xml:id="lg-4113">
         <l n="8225" xml:id="lg-4113-l-8225">ze Curnewâle wider heim.</l>
-        <milestone unit="chapter" n="12" xml:id="lg-4113-milestone-12" />
+        <milestone n="12" unit="chapter" xml:id="lg-4113-milestone-12" />
         <label xml:lang="deu-Latn">Die Brautfahrt</label>
         <l n="8226" xml:id="lg-4113-l-8226">Nu Marke sîn oeheim</l>
       </lg>
@@ -17869,7 +17869,7 @@
         <l n="8895" xml:id="lg-4448-l-8895">daz half ouch ime, daz ime geschach</l>
         <l n="8896" xml:id="lg-4448-l-8896">beidiu genâde unde gemach.</l>
       </lg>
-      <milestone unit="chapter" n="13" xml:id="milestone-13" />
+      <milestone n="13" unit="chapter" xml:id="milestone-13" />
       <label xml:lang="deu-Latn">Der Kampf mit dem Drachen</label>
       <lg n="4449" type="couplet" xml:id="lg-4449">
         <l n="8897" xml:id="lg-4449-l-8897">Nû Tristan der ist ze vride komen.</l>
@@ -20043,7 +20043,7 @@
         <l n="9981" xml:id="lg-4991-l-9981">des dritten tages waere.</l>
         <l n="9982" xml:id="lg-4991-l-9982">hie mite zergie diz maere.</l>
       </lg>
-      <milestone unit="chapter" n="14" xml:id="milestone-14" />
+      <milestone n="14" unit="chapter" xml:id="milestone-14" />
       <label xml:lang="deu-Latn">Der Splitter</label>
       <lg n="4992" type="couplet" xml:id="lg-4992">
         <l n="9983" xml:id="lg-4992-l-9983">Die vrouwen giengen beide dan</l>
@@ -21685,7 +21685,7 @@
         <l n="10801" xml:id="lg-5401-l-10801">daz er ez allez endet,</l>
         <l n="10802" xml:id="lg-5401-l-10802">dar an er sich gewendet!'</l>
       </lg>
-      <milestone unit="chapter" n="15" xml:id="milestone-15" />
+      <milestone n="15" unit="chapter" xml:id="milestone-15" />
       <label xml:lang="deu-Latn">Das Wahrzeichen</label>
       <lg n="5402" type="couplet" xml:id="lg-5402">
         <l n="10803" xml:id="lg-5402-l-10803">Hie mite sô was ouch der tac komen,</l>
@@ -22815,7 +22815,7 @@
         <l n="11365" xml:id="lg-5683-l-11365">sus nam der valsch ein ende</l>
         <l n="11366" xml:id="lg-5683-l-11366">mit offenlîcher schende.</l>
       </lg>
-      <milestone unit="chapter" n="16" xml:id="milestone-16" />
+      <milestone n="16" unit="chapter" xml:id="milestone-16" />
       <label xml:lang="deu-Latn">Der Minnetrank</label>
       <lg n="5684" type="couplet" xml:id="lg-5684">
         <l n="11367" xml:id="lg-5684-l-11367">Dô disiu rede g' endet was,</l>
@@ -23833,7 +23833,7 @@
         <l n="11873" xml:id="lg-5937-l-11873">diuhte minne sît als ê,</l>
         <l n="11874" xml:id="lg-5937-l-11874">sô zegienge schiere minnen ê.</l>
       </lg>
-      <milestone unit="chapter" n="17" xml:id="milestone-17" />
+      <milestone n="17" unit="chapter" xml:id="milestone-17" />
       <label xml:lang="deu-Latn">Das Geständniss</label>
       <lg n="5938" type="couplet" xml:id="lg-5938">
         <l n="11875" xml:id="lg-5938-l-11875">Die kiele stiezen aber an</l>
@@ -24955,7 +24955,7 @@
         <l n="12433" xml:id="lg-6217-l-12433">sô muge wir an den kinden</l>
         <l n="12434" xml:id="lg-6217-l-12434">witze unde liste vinden.</l>
       </lg>
-      <milestone unit="chapter" n="18" xml:id="milestone-18" />
+      <milestone n="18" unit="chapter" xml:id="milestone-18" />
       <label xml:lang="deu-Latn">Brangäne</label>
       <lg n="6218" type="couplet" xml:id="lg-6218">
         <l n="12435" xml:id="lg-6218-l-12435">Lange umberede sî hin geleit:</l>
@@ -26281,7 +26281,7 @@
         <l n="13095" xml:id="lg-6548-l-13095">ervorhten wunderlîche</l>
         <l n="13096" xml:id="lg-6548-l-13096">in al dem künicrîche.</l>
       </lg>
-      <milestone unit="chapter" n="19" xml:id="milestone-19" />
+      <milestone n="19" unit="chapter" xml:id="milestone-19" />
       <label xml:lang="deu-Latn">Rotte und Harfe</label>
       <lg n="6549" type="couplet" xml:id="lg-6549">
         <l n="13097" xml:id="lg-6549-l-13097">Nu Tristan was gemuothaft.</l>
@@ -26991,7 +26991,7 @@
         <l n="13449" xml:id="lg-6725-l-13449">her nâch sô bewâret daz</l>
         <l n="13450" xml:id="lg-6725-l-13450">und hüetet mîner vrouwen baz!'</l>
       </lg>
-      <milestone unit="chapter" n="20" xml:id="milestone-20" />
+      <milestone n="20" unit="chapter" xml:id="milestone-20" />
       <label xml:lang="deu-Latn">Marjodo</label>
       <lg n="6726" type="couplet" xml:id="lg-6726">
         <l n="13451" xml:id="lg-6726-l-13451">Tristandes lob und êre</l>
@@ -27437,7 +27437,7 @@
         <l n="13671" xml:id="lg-6836-l-13671">und haete Îsolde kunt getân</l>
         <l n="13672" xml:id="lg-6836-l-13672">des truhsaezen arcwân.</l>
       </lg>
-      <milestone unit="chapter" n="21" xml:id="milestone-21" />
+      <milestone n="21" unit="chapter" xml:id="milestone-21" />
       <label xml:lang="deu-Latn">List und Gegenlist</label>
       <lg n="6837" type="couplet" xml:id="lg-6837">
         <l n="13673" xml:id="lg-6837-l-13673">Jedoch versuohte ez Marke</l>
@@ -28563,7 +28563,7 @@
         <l n="14233" xml:id="lg-7117-l-14233">und die rehten wârheit</l>
         <l n="14234" xml:id="lg-7117-l-14234">von ir haete geseit.</l>
       </lg>
-      <milestone unit="chapter" n="22" xml:id="milestone-22" />
+      <milestone n="22" unit="chapter" xml:id="milestone-22" />
       <label xml:lang="deu-Latn">Melot</label>
       <lg n="7118" type="couplet" xml:id="lg-7118">
         <l n="14235" xml:id="lg-7118-l-14235">Nu daz der truhsaeze ersach,</l>
@@ -29261,7 +29261,7 @@
         <l n="14581" xml:id="lg-7291-l-14581">hin wider ze hove maere,</l>
         <l n="14582" xml:id="lg-7291-l-14582">waz iu hie getroumet waere.'</l>
       </lg>
-      <milestone unit="chapter" n="23" xml:id="milestone-23" />
+      <milestone n="23" unit="chapter" xml:id="milestone-23" />
       <label xml:lang="deu-Latn">Baumgartenszene</label>
       <lg n="7292" type="couplet" xml:id="lg-7292">
         <l n="14583" xml:id="lg-7292-l-14583">Melôt gie dan und reit zehant</l>
@@ -30191,7 +30191,7 @@
         <l n="15045" xml:id="lg-7523-l-15045">swie kurz ez wernde waere,</l>
         <l n="15046" xml:id="lg-7523-l-15046">âne iteniuwe swaere.</l>
       </lg>
-      <milestone unit="chapter" n="24" xml:id="milestone-24" />
+      <milestone n="24" unit="chapter" xml:id="milestone-24" />
       <label xml:lang="deu-Latn">Das Gottesurteil</label>
       <lg n="7524" type="couplet" xml:id="lg-7524">
         <l n="15047" xml:id="lg-7524-l-15047">Ich spriche daz wol überlût,</l>
@@ -31629,7 +31629,7 @@
         <l n="15763" xml:id="lg-7882-l-15763">sîn zwîvel und sîn arcwân</l>
         <l n="15764" xml:id="lg-7882-l-15764">die wâren aber dô hin getân.</l>
       </lg>
-      <milestone unit="chapter" n="25" xml:id="milestone-25" />
+      <milestone n="25" unit="chapter" xml:id="milestone-25" />
       <label xml:lang="deu-Latn">Petitcrü</label>
       <lg n="7883" type="couplet" xml:id="lg-7883">
         <l n="15765" xml:id="lg-7883-l-15765">Tristan, Îsolde cumpanjûn,</l>
@@ -32907,7 +32907,7 @@
         <l n="16401" xml:id="lg-8201-l-16401">diu haete ir vröude unde ir leben</l>
         <l n="16402" xml:id="lg-8201-l-16402">sene unde Tristande ergeben.</l>
       </lg>
-      <milestone unit="chapter" n="26" xml:id="milestone-26" />
+      <milestone n="26" unit="chapter" xml:id="milestone-26" />
       <label xml:lang="deu-Latn">Die Verbannung</label>
       <lg n="8202" type="couplet" xml:id="lg-8202">
         <l n="16403" xml:id="lg-8202-l-16403">Aber haete Tristan unde Îsôt</l>
@@ -33427,7 +33427,7 @@
       </lg>
       <lg n="8331" type="couplet" xml:id="lg-8331">
         <l n="16661" xml:id="lg-8331-l-16661">Brangaene diu reine</l>
-        <milestone unit="chapter" n="27" xml:id="lg-8331-milestone-27" />
+        <milestone n="27" unit="chapter" xml:id="lg-8331-milestone-27" />
         <label xml:lang="deu-Latn">Die Minnegrotte</label>
         <l n="16662" xml:id="lg-8331-l-16662">diu beleip alterseine</l>
       </lg>
@@ -34622,7 +34622,7 @@
       </lg>
       <lg n="8629" type="couplet" xml:id="lg-8629">
         <l n="17257" xml:id="lg-8629-l-17257">nâch aller slahte wilde</l>
-        <milestone unit="chapter" n="28" xml:id="lg-8629-milestone-28" />
+        <milestone n="28" unit="chapter" xml:id="lg-8629-milestone-28" />
         <label xml:lang="deu-Latn">Entdeckung und Versöhnung</label>
         <l n="17258" xml:id="lg-8629-l-17258">durch walt und durch gevilde</l>
       </lg>
@@ -35392,7 +35392,7 @@
       </lg>
       <lg n="8821" type="couplet" xml:id="lg-8821">
         <l n="17641" xml:id="lg-8821-l-17641">daz selbe wnden s' ouch zehant.</l>
-        <milestone unit="chapter" n="29" xml:id="lg-8821-milestone-29" />
+        <milestone n="29" unit="chapter" xml:id="lg-8821-milestone-29" />
         <label xml:lang="deu-Latn">Rückkehr und Trennung</label>
         <l n="17642" xml:id="lg-8821-l-17642">Ouch spurten sî zwei durch den sant</l>
       </lg>
@@ -36920,7 +36920,7 @@
         <l n="18403" xml:id="lg-9202-l-18403">und aber sînen zorn lie</l>
         <l n="18404" xml:id="lg-9202-l-18404">und ungerochen dannen gie.</l>
       </lg>
-      <milestone unit="chapter" n="30" xml:id="milestone-30" />
+      <milestone n="30" unit="chapter" xml:id="milestone-30" />
       <label xml:lang="deu-Latn">Îsolde Weißhand</label>
       <lg n="9203" type="couplet" xml:id="lg-9203">
         <l n="18405" xml:id="lg-9203-l-18405">Tristan zen herbergen kam.</l>
