@@ -6,7 +6,7 @@ This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs
 
 * URL: https://github.com/TITUS-2-0/germanic/tree/main/drafts/a_bas
 * version: unreleased
-* date: 2026-10-20
+* date: 2026-11-13
 
 ## Citation
 ```text
