@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Diu getriu kone</title>
+        <author>Herrand von Wildonie</author>
+        <respStmt>
+          <resp>digitization</resp>
+          <name>Andrea Hofmeister-Winter</name>
+          <note>Graz, 2006</note>
+        </respStmt>
+        <respStmt>
+          <resp>TITUS version</resp>
+          <name>Jost Gippert</name>
+          <note>Frankfurt a/M, 26.11.2008</note>
+        </respStmt>
+        <respStmt>
+          <resp>TEI version</resp>
+          <name>Florian Matter</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2026-08-31">2026-08-31</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of Diu getriu kone by Herrand von Wildonie (v0.1.0). 2026-08-31. By: Jost Gippert, Andrea Hofmeister-Winter, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">0.1.0</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="hwild">
+          <author>
+            <name>von Wildonie, Herrand</name>
+          </author>. <date>1969</date>. <title level="m">Vier Erzählungen</title>. Edited by <editor>
+            <name>Hans Fischer</name>
+          </editor>. <title level="m">Altdeutsche Textbibliothek</title>. Vol. <biblScope unit="volume">51</biblScope>. <pubPlace>Tübingen</pubPlace>: <publisher>Niemeyer</publisher>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ana="primary" ident="gmh-Latn-x-mhg">Middle High German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="gmh-Latn-x-mhg">
+    <body>
+      <l n="1" xml:id="l-1">Wir suln von lieben dingen sagen</l>
+      <l n="2" xml:id="l-2">und leider mære gar gedagen,</l>
+      <l n="3" xml:id="l-3">wan sî tuont wê dem herzen gar.</l>
+      <l n="4" xml:id="l-4">ich hân alliu mîniu jâr</l>
+      <l n="5" xml:id="l-5">mit leiden mæren her verzert,</l>
+      <l n="6" xml:id="l-6">dâ von ich freuden bin behert.</l>
+      <l n="7" xml:id="l-7">wan guotiu mære machent frô;</l>
+      <l n="8" xml:id="l-8">diu leiden hânt getân mir sô,</l>
+      <l n="9" xml:id="l-9">daz ich ir williclîche enbir.</l>
+      <l n="10" xml:id="l-10">swâ diu wal stât an mir,</l>
+      <l n="11" xml:id="l-11">dâ wel ich, daz mir rehte kumt</l>
+      <l n="12" xml:id="l-12">und mich an mînen freuden frumt.</l>
+      <l n="13" xml:id="l-13">nu ist daz mîn meistez leit,</l>
+      <l n="14" xml:id="l-14">daz mir diu wal ist gar verseit.</l>
+      <l n="15" xml:id="l-15">sît mir nieman niht wil sagen,</l>
+      <l n="16" xml:id="l-16">daz mir von rehte müge behagen,</l>
+      <l n="17" xml:id="l-17">sô bin aber ich sô wolgemuot,</l>
+      <l n="18" xml:id="l-18">daz ich vil lieber sage guot,</l>
+      <l n="19" xml:id="l-19">dan daz mir niht gezæme</l>
+      <l n="20" xml:id="l-20">und ieman freude næme.</l>
+      <l n="21" xml:id="l-21">dâ von wil ich ein mære sagen,</l>
+      <l n="22" xml:id="l-22">daz iu von rehte muoz behagen.</l>
+      <l n="23" xml:id="l-23">Ein ritter het ein schoene wîp,</l>
+      <l n="24" xml:id="l-24">diu was im liep als sîn lîp.</l>
+      <l n="25" xml:id="l-25">daz was billîch: ir schoene was</l>
+      <l n="26" xml:id="l-26">durchliuhtic als ein spiegelglas;</l>
+      <l n="27" xml:id="l-27">dar zuo was sî den vollen guot.</l>
+      <l n="28" xml:id="l-28">swâ ein wîp ist sô gemuot,</l>
+      <l n="29" xml:id="l-29">daz sî bî schoene güete hât,</l>
+      <l n="30" xml:id="l-30">der lîp billîch ze loben stât.</l>
+      <l n="31" xml:id="l-31">diu reine was sô êrbære,</l>
+      <l n="32" xml:id="l-32">daz ir man kein herzenswære</l>
+      <l n="33" xml:id="l-33">von den dingen nie gewan;</l>
+      <l n="34" xml:id="l-34">dâ von mohte er sî gerne hân.</l>
+      <l n="35" xml:id="l-35">sî was an zühten sô volkomen,</l>
+      <l n="36" xml:id="l-36">daz nie niht wart von ir vernomen,</l>
+      <l n="37" xml:id="l-37">daz man für unzuht möhte hân;</l>
+      <l n="38" xml:id="l-38">dar umb was sî ouch liep ir man.</l>
+      <l n="39" xml:id="l-39">sî bôt ez sînen friunden wol,</l>
+      <l n="40" xml:id="l-40">den gesten, als ein frum wîp sol.</l>
+      <l n="41" xml:id="l-41">ir wirt was an dem lîbe ein man,</l>
+      <l n="42" xml:id="l-42">daz er was niht sô wolgetân,</l>
+      <l n="43" xml:id="l-43">als er ez gerne het gesehen.</l>
+      <l n="44" xml:id="l-44">von im wil ich der wârheit jehen:</l>
+      <l n="45" xml:id="l-45">er was gerumphen unde klein.</l>
+      <l n="46" xml:id="l-46">der ritter vor den liuten schein,</l>
+      <l n="47" xml:id="l-47">als er wær hundert jâr alt;</l>
+      <l n="48" xml:id="l-48">des er doch niht gên ir entgalt:</l>
+      <l n="49" xml:id="l-49">er dûhte sî schoene als Absolôn</l>
+      <l n="50" xml:id="l-50">und sterker danne Sampsôn.</l>
+      <l n="51" xml:id="l-51">in ir herzen wart nie man,</l>
+      <l n="52" xml:id="l-52">den sî für in wolte hân.</l>
+      <l n="53" xml:id="l-53">daz machte ir grôziu frümikeit,</l>
+      <l n="54" xml:id="l-54">daz ander: er was gar bereit</l>
+      <l n="55" xml:id="l-55">ze alle diu, daz iemer man</l>
+      <l n="56" xml:id="l-56">an allen êren mac begân.</l>
+      <l n="57" xml:id="l-57">daz tet er allez völliclîch,</l>
+      <l n="58" xml:id="l-58">als ob er wære ein keiser rîch</l>
+      <l n="59" xml:id="l-59">gewesen und ein der schoenste man,</l>
+      <l n="60" xml:id="l-60">den al diu werlt ie gewan.</l>
+      <l n="61" xml:id="l-61">willic sînes muotes,</l>
+      <l n="62" xml:id="l-62">sînes lîbes, sînes guotes,</l>
+      <l n="63" xml:id="l-63">was er gar den undertân,</l>
+      <l n="64" xml:id="l-64">an den er êre solte begân.</l>
+      <l n="65" xml:id="l-65">dâ von wart sîn unflætikeit</l>
+      <l n="66" xml:id="l-66">in allen landen hingeleit.</l>
+      <l n="67" xml:id="l-67">Nu kam ez nâch gewonheit,</l>
+      <l n="68" xml:id="l-68">daz dem ritter wart geseit</l>
+      <l n="69" xml:id="l-69">von einem urlouge grôz.</l>
+      <l n="70" xml:id="l-70">dar fuor vil manic sîn genôz;</l>
+      <l n="71" xml:id="l-71">dar fuor ouch er durch sînen muot</l>
+      <l n="72" xml:id="l-72">und tet ez dâ sô rehte guot,</l>
+      <l n="73" xml:id="l-73">daz man im dâ des prîses jach</l>
+      <l n="74" xml:id="l-74">für alle die, die man dâ sach</l>
+      <l n="75" xml:id="l-75">(und wære er dâ heime beliben,</l>
+      <l n="76" xml:id="l-76">sô müeset ir iuch hân verzigen,</l>
+      <l n="77" xml:id="l-77">daz ich iu niemer het geseit</l>
+      <l n="78" xml:id="l-78">von aller sîner frümikeit).</l>
+      <l n="79" xml:id="l-79">dô er daz beste het getân,</l>
+      <l n="80" xml:id="l-80">dô muose ouch er aldâ enphân</l>
+      <l n="81" xml:id="l-81">etelîchez herzenleit,</l>
+      <l n="82" xml:id="l-82">daz manigem was vil unbereit,</l>
+      <l n="83" xml:id="l-83">der ze hinderst was dâ bî</l>
+      <l n="84" xml:id="l-84">(von dem bin ich der sage frî).</l>
+      <l n="85" xml:id="l-85">ein ouge im ûzgestochen wart</l>
+      <l n="86" xml:id="l-86">von einem, der sich ûf in spart</l>
+      <l n="87" xml:id="l-87">al die zît und in dô neit</l>
+      <l n="88" xml:id="l-88">umbe alle sîne frümikeit.</l>
+      <l n="89" xml:id="l-89">dem ritter tet sîn smerze wê,</l>
+      <l n="90" xml:id="l-90">iedoch klagte er daz michels mê,</l>
+      <l n="91" xml:id="l-91">als er sîn wîp an solte sehen,</l>
+      <l n="92" xml:id="l-92">daz ir wær leit an im geschehen.</l>
+      <l n="93" xml:id="l-93">wan ir leit daz was daz sîn,</l>
+      <l n="94" xml:id="l-94">sîn leit was ouch ir leides pîn.</l>
+      <l n="95" xml:id="l-95">Siner swester sun der wart</l>
+      <l n="96" xml:id="l-96">sîn gereise ûf dirre vart;</l>
+      <l n="97" xml:id="l-97">er was im ouch durch zuht verlân.</l>
+      <l n="98" xml:id="l-98">den nam er von den liuten dan</l>
+      <l n="99" xml:id="l-99">und sprach: "getriuwer friunt, nu var</l>
+      <l n="100" xml:id="l-100">und sage der reinen süezen klâr,</l>
+      <l n="101" xml:id="l-101">mîn dinc sich habe gefüeget sô,</l>
+      <l n="102" xml:id="l-102">daz ich sî iemer mêr unfrô.</l>
+      <l n="103" xml:id="l-103">ich was ê nicht ein flætic man;</l>
+      <l n="104" xml:id="l-104">nu habe mir got alsô getân,</l>
+      <l n="105" xml:id="l-105">daz ich mich schame, daz sî billîch,</l>
+      <l n="106" xml:id="l-106">und welle ouch alliu tiutschiu rîch</l>
+      <l n="107" xml:id="l-107">rûmen und alliu diu lant,</l>
+      <l n="108" xml:id="l-108">dâ ich bî namen bin bekant.</l>
+      <l n="109" xml:id="l-109">und sage der süezen, daz ir bî</l>
+      <l n="110" xml:id="l-110">mîn herze in allen landen sî,</l>
+      <l n="111" xml:id="l-111">swar ich iemer mêr süle komen.</l>
+      <l n="112" xml:id="l-112">ich habe dâ nie von ir vernomen</l>
+      <l n="113" xml:id="l-113">offenbâr noch heimlîch,</l>
+      <l n="114" xml:id="l-114">dâ mit sî habe versmæhet mich.</l>
+      <l n="115" xml:id="l-115">ir zuht sî habe des niht erlân,</l>
+      <l n="116" xml:id="l-116">sî habe die êre mir getân,</l>
+      <l n="117" xml:id="l-117">daz ir diu werlt sol dester baz</l>
+      <l n="118" xml:id="l-118">sprechen. friunt, nu sage ir daz,</l>
+      <l n="119" xml:id="l-119">ich müge sî niemer mêr gesehen.</l>
+      <l n="120" xml:id="l-120">du solt ir des von mir verjehen:</l>
+      <l n="121" xml:id="l-121">ir schoenem lîbe, ir varwe klâr,</l>
+      <l n="122" xml:id="l-122">den müese ich sîn ein marter gar,</l>
+      <l n="123" xml:id="l-123">solte ich ir fürbaz wonen bî.</l>
+      <l n="124" xml:id="l-124">der marter sol sî wesen frî.</l>
+      <l n="125" xml:id="l-125">sît ich ir niht gedienen mac,</l>
+      <l n="126" xml:id="l-126">sô sol ouch sî deheinen tac</l>
+      <l n="127" xml:id="l-127">von mir gewinnen niemer leit."</l>
+      <l n="128" xml:id="l-128">Der bote weinent von im reit</l>
+      <l n="129" xml:id="l-129">und kam hin, dar er wart gesant.</l>
+      <l n="130" xml:id="l-130">diu frouwe gienc gên im zehant;</l>
+      <l n="131" xml:id="l-131">sî vienc in zuo ir unde sprach:</l>
+      <l n="132" xml:id="l-132">"vor maniger zît ich nie gesach</l>
+      <l n="133" xml:id="l-133">deheinen boten alse gern,</l>
+      <l n="134" xml:id="l-134">und wilt du lieber mære wern</l>
+      <l n="135" xml:id="l-135">mich, friunt, von dem neven dîn.</l>
+      <l n="136" xml:id="l-136">sage an: ist frô der hêrre mîn?"</l>
+      <l n="137" xml:id="l-137">daz kindel weinent sprach gên ir:</l>
+      <l n="138" xml:id="l-138">"er hât enboten, frouwe, dir,</l>
+      <l n="139" xml:id="l-139">sîn dienest, unde swâ er sî,</l>
+      <l n="140" xml:id="l-140">sô wone dir doch sîn herze bî.</l>
+      <l n="141" xml:id="l-141">daz hâst du wol gên im versolt.</l>
+      <l n="142" xml:id="l-142">ez habe nie schoene wîp gedolt</l>
+      <l n="143" xml:id="l-143">mit solhen zühten keinen man,</l>
+      <l n="144" xml:id="l-144">und der als übel wær getân.</l>
+      <l n="145" xml:id="l-145">sîn lîp wær dir ievor ze swach;</l>
+      <l n="146" xml:id="l-146">nu sî ein solher ungemach</l>
+      <l n="147" xml:id="l-147">im geschehen, daz er dir bî</l>
+      <l n="148" xml:id="l-148">ze smæhe an dînem bette sî</l>
+      <l n="149" xml:id="l-149">und müge dich niemer mêr gesehen."</l>
+      <l n="150" xml:id="l-150">diu reine sprach: "waz ist geschehen</l>
+      <l n="151" xml:id="l-151">im, an dem mîn freude stât?"</l>
+      <l n="152" xml:id="l-152">der bote sprach: "ein ouge er hât</l>
+      <l n="153" xml:id="l-153">verlorn und doch vil ritterlîch."</l>
+      <l n="154" xml:id="l-154">diu guote sprach: "friunt triuwen rîch,</l>
+      <l n="155" xml:id="l-155">nu renne balde und bite in komen,</l>
+      <l n="156" xml:id="l-156">und ich habe von im vernomen,</l>
+      <l n="157" xml:id="l-157">daz mir fürwâr gevalle niht.</l>
+      <l n="158" xml:id="l-158">des smerzen habe ich mit im phliht</l>
+      <l n="159" xml:id="l-159">billîchen, wan ez ist ein lîp.</l>
+      <l n="160" xml:id="l-160">ich bin ouch sô gemuot ein wîp,</l>
+      <l n="161" xml:id="l-161">daz mir ist als liep mîn man:</l>
+      <l n="162" xml:id="l-162">und solte er tûsent ougen hân</l>
+      <l n="163" xml:id="l-163">(und daz im diu stüenden wol),</l>
+      <l n="164" xml:id="l-164">sô wil ich unde billîch sol</l>
+      <l n="165" xml:id="l-165">sîn einic ouge hân sô zart,</l>
+      <l n="166" xml:id="l-166">daz mîn herze daz bewart,</l>
+      <l n="167" xml:id="l-167">daz ez gedenken müge dar an,</l>
+      <l n="168" xml:id="l-168">ob ez im übel süle stân."</l>
+      <l n="169" xml:id="l-169">"frouwe, ich sol dich triegen niht:</l>
+      <l n="170" xml:id="l-170">mîn reise diu ist gar enwiht.</l>
+      <l n="171" xml:id="l-171">dâ von lâ mich belîben hie.</l>
+      <l n="172" xml:id="l-172">nu weist du wol, daz er daz nie</l>
+      <l n="173" xml:id="l-173">gegen dir kein zît gebrach,</l>
+      <l n="174" xml:id="l-174">swaz er ernestlîchen sprach."</l>
+      <l n="175" xml:id="l-175">"nu wolte got", diu reine jach,</l>
+      <l n="176" xml:id="l-176">"daz an mir al sîn ungemach</l>
+      <l n="177" xml:id="l-177">læge, und daz er wære ein man</l>
+      <l n="178" xml:id="l-178">als schoene, als er sich wolte hân.</l>
+      <l n="179" xml:id="l-179">ich hoere daz wol, ich muoz enbern</l>
+      <l n="180" xml:id="l-180">sîn, den ich doch hete gern.</l>
+      <l n="181" xml:id="l-181">daz ist ein jæmerlîchiu nôt,</l>
+      <l n="182" xml:id="l-182">wan âne in sô bin ich tôt.</l>
+      <l n="183" xml:id="l-183">nu bitte ich, lieber friunt, dich,</l>
+      <l n="184" xml:id="l-184">daz du in sehest noch durch mich</l>
+      <l n="185" xml:id="l-185">und füerest im mîn kleinât hin.</l>
+      <l n="186" xml:id="l-186">nu warte mîn, unlange ich bin."</l>
+      <l n="187" xml:id="l-187">diu guote gienc von im zehant</l>
+      <l n="188" xml:id="l-188">in ir kemenâten, dâ sî vant</l>
+      <l n="189" xml:id="l-189">ein schære, und stach vil balde dar</l>
+      <l n="190" xml:id="l-190">ir selben ûz ein ouge gar,</l>
+      <l n="191" xml:id="l-191">daz ez ir über ir wengel ran.</l>
+      <l n="192" xml:id="l-192">alsô bluotic gie sî dan</l>
+      <l n="193" xml:id="l-193">für den boten. der enkam;</l>
+      <l n="194" xml:id="l-194">mit beiden handen er sich nam</l>
+      <l n="195" xml:id="l-195">ze hâre und schrei: "wê iemer ach,</l>
+      <l n="196" xml:id="l-196">sô grôziu dinc ich nie gesach!</l>
+      <l n="197" xml:id="l-197">frouwe guot, waz sol daz sîn?"</l>
+      <l n="198" xml:id="l-198">sî sprach: "nu sage dem hêrren dîn,</l>
+      <l n="199" xml:id="l-199">daz er her kume und sehe mich an:</l>
+      <l n="200" xml:id="l-200">dunke ich in noch ze wolgetân,</l>
+      <l n="201" xml:id="l-201">ich neme dem andern sînen schîn</l>
+      <l n="202" xml:id="l-202">(sô liep ist er dem herzen mîn);</l>
+      <l n="203" xml:id="l-203">und welle ich im verwîzen iht,</l>
+      <l n="204" xml:id="l-204">daz er mit einem ougen siht,</l>
+      <l n="205" xml:id="l-205">sô müge er wol von wârheit jehen,</l>
+      <l n="206" xml:id="l-206">ich müge ouch wan mit einem sehen."</l>
+      <l n="207" xml:id="l-207">sî sprach: "var hin, vil lieber knabe,</l>
+      <l n="208" xml:id="l-208">und bite in des, daz er sî abe</l>
+      <l n="209" xml:id="l-209">solhes muotes und her kome,</l>
+      <l n="210" xml:id="l-210">daz sî im iemer an mir frome."</l>
+      <l n="211" xml:id="l-211">Der knabe weinent von ir gie,</l>
+      <l n="212" xml:id="l-212">wan im wart sô leide nie.</l>
+      <l n="213" xml:id="l-213">er saz ûf, im was vil gâch.</l>
+      <l n="214" xml:id="l-214">als er den hêrren sîn ansach,</l>
+      <l n="215" xml:id="l-215">weinent lief er gên im dar</l>
+      <l n="216" xml:id="l-216">und sagte im allez daz vil gar,</l>
+      <l n="217" xml:id="l-217">daz er dâ heime het gesehen;</l>
+      <l n="218" xml:id="l-218">und swes diu guote het verjehen,</l>
+      <l n="219" xml:id="l-219">des selben er aldâ gewuoc.</l>
+      <l n="220" xml:id="l-220">der ritter sich zen brüsten sluoc.</l>
+      <l n="221" xml:id="l-221">er sprach: "owê mir iemer wê!</l>
+      <l n="222" xml:id="l-222">ich het dar baz geriten ê.</l>
+      <l n="223" xml:id="l-223">ach, daz ich ie wart geborn!</l>
+      <l n="224" xml:id="l-224">wie hât mîn schoene wîp verlorn</l>
+      <l n="225" xml:id="l-225">ir ouge. wê daz ich ie wart!"</l>
+      <l n="226" xml:id="l-226">der hêrre von der swarten zart</l>
+      <l n="227" xml:id="l-227">sîn hâr. ein ritter zuo im spranc,</l>
+      <l n="228" xml:id="l-228">der sprach: "nu habe sî iemer danc;</l>
+      <l n="229" xml:id="l-229">sî hât iu daz erzeiget wol,</l>
+      <l n="230" xml:id="l-230">daz sî ist gen iu triuwen vol."</l>
+      <l n="231" xml:id="l-231">daz wort im alse nâhen gie,</l>
+      <l n="232" xml:id="l-232">daz er ein kraft dâ von gevie</l>
+      <l n="233" xml:id="l-233">und dâhte: "mir sagt wâr der man.</l>
+      <l n="234" xml:id="l-234">ich wil sî dester lieber hân.</l>
+      <l n="235" xml:id="l-235">wan sî hât erzeiget mir,</l>
+      <l n="236" xml:id="l-236">daz sî hât gên mir friundes gir."</l>
+      <l n="237" xml:id="l-237">er sprach zem boten: "balde var,</l>
+      <l n="238" xml:id="l-238">vil lieber friunt, und bewar,</l>
+      <l n="239" xml:id="l-239">daz sî ir mêr iht schaden tuo</l>
+      <l n="240" xml:id="l-240">(ich strîche spâte unde fruo</l>
+      <l n="241" xml:id="l-241">zuo der vil reinen wandels frî),</l>
+      <l n="242" xml:id="l-242">und sage ir, daz ich iemer sî</l>
+      <l n="243" xml:id="l-243">nâch ir willen umb die tât,</l>
+      <l n="244" xml:id="l-244">die sî an mir erzeiget hât."</l>
+      <l n="245" xml:id="l-245">Er îlte nâch im, im was gâch.</l>
+      <l n="246" xml:id="l-246">als er die minniclîchen sach,</l>
+      <l n="247" xml:id="l-247">vor liebe weinent lief er dar.</l>
+      <l n="248" xml:id="l-248">diu reine minniclîche klâr</l>
+      <l n="249" xml:id="l-249">sprach: "friunt, lieber hêrre mîn,</l>
+      <l n="250" xml:id="l-250">du solt mir willekomen sîn."</l>
+      <l n="251" xml:id="l-251">der hêrre sprach: "owê, wie sol</l>
+      <l n="252" xml:id="l-252">ich, liebiu, dich ergetzen wol</l>
+      <l n="253" xml:id="l-253">dînes smerzen, den dîn lîp</l>
+      <l n="254" xml:id="l-254">hât durch mich, vil wîplich wîp,</l>
+      <l n="255" xml:id="l-255">enphangen? wê der mînen tât,</l>
+      <l n="256" xml:id="l-256">die mîn lîp begangen hât!"</l>
+      <l n="257" xml:id="l-257">diu guote sprach: "und wilt du mich</l>
+      <l n="258" xml:id="l-258">ergetzen wol, daz lêre ich dich,</l>
+      <l n="259" xml:id="l-259">sô solt du des getrouwen mir,</l>
+      <l n="260" xml:id="l-260">daz niuwan gên dir stê mîn gir;</l>
+      <l n="261" xml:id="l-261">und lâz ouch mich dir wol behagen.</l>
+      <l n="262" xml:id="l-262">und solte ich tûsent ougen tragen</l>
+      <l n="263" xml:id="l-263">und gevielen dir diu niht,</l>
+      <l n="264" xml:id="l-264">sô solten sî mir sîn enwiht."</l>
+      <l n="265" xml:id="l-265">Swer vor die frouwen gerne sach</l>
+      <l n="266" xml:id="l-266">durch die schoene, der man ir jach,</l>
+      <l n="267" xml:id="l-267">der sach sî nu vil lieber an</l>
+      <l n="268" xml:id="l-268">durch die triuwe, die sî ir man</l>
+      <l n="269" xml:id="l-269">erzeiget het; daz was billîch,</l>
+      <l n="270" xml:id="l-270">wan sî was schoene und triuwen rîch.</l>
+      <l n="271" xml:id="l-271">dâ von sî baz ze loben stât</l>
+      <l n="272" xml:id="l-272">dan manigiu, diu zwei ougen hât.</l>
+      <l n="273" xml:id="l-273">Swaz noch getriuwer konen sî,</l>
+      <l n="274" xml:id="l-274">die tuo got alles leides frî.</l>
+      <l n="275" xml:id="l-275">den allen sol ich sîn bekant</l>
+      <l n="276" xml:id="l-276">von Wildonie Herrant.</l>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1668 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Middle High German Books on The Great Alexander</title>
+        <title type="sub">Vorauer Alexander</title>
+        <author>Lamprecht</author>
+        <respStmt>
+          <resp>digitization</resp>
+          <name>Stefanie Heine</name>
+          <name>Ralf Schlechtweg-Jahn</name>
+          <note>Bayreuth 2000</note>
+        </respStmt>
+        <respStmt>
+          <resp>TITUS version</resp>
+          <name>Ralf Schlechtweg-Jahn</name>
+          <name>Jost Gippert</name>
+          <note>Bayreuth, 12.07.2000 / Frankfurt, 19.4.2002 / 2.3.2003</note>
+        </respStmt>
+        <respStmt>
+          <resp>TEI version</resp>
+          <name>Florian Matter</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2026-10-20">2026-10-20</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of The Middle High German Books on The Great Alexander: Vorauer Alexander by Lamprecht (v0.1.0). 2026-10-20. By: Jost Gippert, Stefanie Heine, Florian Matter, Ralf Schlechtweg-Jahn. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">0.1.0</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="a_vor">
+          <author>
+            <name>Kinzel, Karl</name>
+          </author>. <date>1884</date>. <title level="m">Lamprechts Alexander Nach Den Drei Texten Mit Dem Fragment Des Alberic De Besancon Und Den Lateinischen Quellen</title>. <pubPlace>Halle</pubPlace>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ana="primary" ident="gmh-Latn-x-mhg">Middle High German</language>
+        <language ana="meta" ident="deu-Latn">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="gmh-Latn-x-mhg">
+    <body>
+      <div data-level="1" n="Prol." rhyme="aa" type="chapter" xml:id="chapter-1">
+        <head xml:lang="deu-Latn">Prolog</head>
+        <l n="1" xml:id="chapter-1-l-1">Diz lît, daz wir hî wurchen,</l>
+        <l n="2" xml:id="chapter-1-l-2">daz sult ir rehte merchen.</l>
+        <l n="3" xml:id="chapter-1-l-3">sîn gevûge ist vil reht.</l>
+        <l n="4" xml:id="chapter-1-l-4">iz tihte der phaffe Lambret.</l>
+        <l n="5" xml:id="chapter-1-l-5">er tâte uns gerne ze mâre,</l>
+        <l n="6" xml:id="chapter-1-l-6">wer Alexander wâre.</l>
+        <l n="7" xml:id="chapter-1-l-7">Alexander was ein wîse man,</l>
+        <l n="8" xml:id="chapter-1-l-8">vil manec rîche er gewan,</l>
+        <l n="9" xml:id="chapter-1-l-9">er zestôrte vil manec lant.</l>
+        <l n="10" xml:id="chapter-1-l-10">Philippus was sîn vater genant.</l>
+        <l n="11" xml:id="chapter-1-l-11">diz mugit ir wol hôren</l>
+        <l n="12" xml:id="chapter-1-l-12">in libro Machabeorum.</l>
+        <l n="13" xml:id="chapter-1-l-13">Alberîch von Bisinzo</l>
+        <l n="14" xml:id="chapter-1-l-14">der brâhte uns diz lît zû.</l>
+        <l n="15" xml:id="chapter-1-l-15">er hetez in walhisken getihtet.</l>
+        <l n="16" xml:id="chapter-1-l-16">nû sol ich es iuh in dûtisken berihten.</l>
+        <l n="17" xml:id="chapter-1-l-17">nîman enschulde sîn mich:</l>
+        <l n="18" xml:id="chapter-1-l-18">louc er, sô liuge ich.</l>
+        <l n="19" xml:id="chapter-1-l-19">Dô Alberîch diz lît inslûc,</l>
+        <l n="20" xml:id="chapter-1-l-20">dô heter ein Salemones pûch,</l>
+        <l n="21" xml:id="chapter-1-l-21">dâ er ane sach</l>
+        <l n="22" xml:id="chapter-1-l-22">vanitatum vanitas:</l>
+        <l n="23" xml:id="chapter-1-l-23">daz ist allez ein îtelcheit,</l>
+        <l n="24" xml:id="chapter-1-l-24">daz diu sunne umbegeit.</l>
+        <l n="25" xml:id="chapter-1-l-25">daz hete salemon wol virsûht.</l>
+        <l n="26" xml:id="chapter-1-l-26">dar umbe swar in sîn mût.</l>
+        <l n="27" xml:id="chapter-1-l-27">er ne wolte niht langer ledec sitzen,</l>
+        <l n="28" xml:id="chapter-1-l-28">er screip von grôzen witzen,</l>
+        <l n="29" xml:id="chapter-1-l-29">wande des mannes mûzecheit</l>
+        <l n="30" xml:id="chapter-1-l-30">ze deme lîbe noh ze der sêle niht versteit.</l>
+        <l n="31" xml:id="chapter-1-l-31">dar ane gedâhte Alberîch.</l>
+        <l n="32" xml:id="chapter-1-l-32">den selben gedanc hân ich.</l>
+        <l n="33" xml:id="chapter-1-l-33">unt ich ne wil mih niwit langer sparn,</l>
+        <l n="34" xml:id="chapter-1-l-34">des liedis wil ich volvarn.</l>
+        <l n="35" xml:id="chapter-1-l-35">Rîcher chunege was genûc:</l>
+        <l n="36" xml:id="chapter-1-l-36">daz ne saget uns nehein pûch</l>
+        <l n="37" xml:id="chapter-1-l-37">noh neheiner slahte mâre,</l>
+        <l n="38" xml:id="chapter-1-l-38">daz deheiner sô rîche wâre,</l>
+        <l n="39" xml:id="chapter-1-l-39">der in alten zîten</l>
+        <l n="40" xml:id="chapter-1-l-40">mit sturme oder mit strîte</l>
+        <l n="41" xml:id="chapter-1-l-41">î so manec lant gewunne</l>
+        <l n="42" xml:id="chapter-1-l-42">oder sô manegin kunic bedwunge,</l>
+        <l n="43" xml:id="chapter-1-l-43">herzogen irslûge</l>
+        <l n="44" xml:id="chapter-1-l-44">unde andere vursten genûge,</l>
+        <l n="45" xml:id="chapter-1-l-45">sô der wunderlîche Alexander:</l>
+        <l n="46" xml:id="chapter-1-l-46">im ne gelîchet nehein ander.</l>
+        <l n="47" xml:id="chapter-1-l-47">Der von Chrîchen was geborn</l>
+        <l n="48" xml:id="chapter-1-l-48">unde wart dâ ze einem kunige irchorn</l>
+        <l n="49" xml:id="chapter-1-l-49">unde was der allerhêrste man,</l>
+        <l n="50" xml:id="chapter-1-l-50">den î Chrîhlant ze kunege gewan.</l>
+        <l n="51" xml:id="chapter-1-l-51">iz wâren ouh chunege creftic</l>
+        <l n="52" xml:id="chapter-1-l-52">uber manec dît gewaltic,</l>
+        <l n="53" xml:id="chapter-1-l-53">vil michel was ir sâlicheit,</l>
+        <l n="54" xml:id="chapter-1-l-54">ir list unde ir kundecheit,</l>
+        <l n="55" xml:id="chapter-1-l-55">ir scaz der was vil grôz:</l>
+        <l n="56" xml:id="chapter-1-l-56">der ne wart nî neheiner sîn genôz,</l>
+        <l n="57" xml:id="chapter-1-l-57">der mit listen oder mit mahten</l>
+        <l n="58" xml:id="chapter-1-l-58">sînen willen î sô volbrâhte,</l>
+        <l n="59" xml:id="chapter-1-l-59">sô der selbe man,</l>
+        <l n="60" xml:id="chapter-1-l-60">umbe den ich is began.</l>
+        <l n="61" xml:id="chapter-1-l-61">Diser rede wil ich mich irvaren.</l>
+        <l n="62" xml:id="chapter-1-l-62">Salemon der was ûz getân,</l>
+        <l n="63" xml:id="chapter-1-l-63">der sich ûz allen kunegen nam.</l>
+        <l n="64" xml:id="chapter-1-l-64">dô diu frowe regina austri zû im kom,</l>
+        <l n="65" xml:id="chapter-1-l-65">unde si sînen hof gesach,</l>
+        <l n="66" xml:id="chapter-1-l-66">mit rehter wârheit si sprah,</l>
+        <l n="67" xml:id="chapter-1-l-67">daz von mannes geburte</l>
+        <l n="68" xml:id="chapter-1-l-68">nî sô frumer kunic wurte.</l>
+        <l n="69" xml:id="chapter-1-l-69">man mûste in wol ûz sceiden,</l>
+        <l n="70" xml:id="chapter-1-l-70">wande Alexander was ein heiden.</l>
+      </div>
+      <div data-level="1" n="4" rhyme="aa" type="chapter" xml:id="chapter-2">
+        <head xml:lang="deu-Latn">Über Alexander</head>
+        <l n="71" xml:id="chapter-2-l-71">Nû sprechent bôse lugenâre,</l>
+        <l n="72" xml:id="chapter-2-l-72">daz er eines goukelâres sun wâre.</l>
+        <l n="73" xml:id="chapter-2-l-73">di ez imer gesagent,</l>
+        <l n="74" xml:id="chapter-2-l-74">di liegent alsô bôse zagen,</l>
+        <l n="75" xml:id="chapter-2-l-75">oder di es î gedâhten.</l>
+        <l n="76" xml:id="chapter-2-l-76">er was rehter cheiser slahte.</l>
+        <l n="77" xml:id="chapter-2-l-77">nimer geloube ez nehein frum man.</l>
+        <l n="78" xml:id="chapter-2-l-78">sînen vater ich wol genennen kan.</l>
+        <l n="79" xml:id="chapter-2-l-79">sîn geslahte daz was hêrlîch,</l>
+        <l n="80" xml:id="chapter-2-l-80">ubir al Chrîchen was er gewaltic.</l>
+        <l n="81" xml:id="chapter-2-l-81">Philippus hîz der vater sîn,</l>
+        <l n="82" xml:id="chapter-2-l-82">al Macedonenlant was sîn.</l>
+        <l n="83" xml:id="chapter-2-l-83">sîn ane was ein gût kneht,</l>
+        <l n="84" xml:id="chapter-2-l-84">uber al daz mer gî sîn reht.</l>
+        <l n="85" xml:id="chapter-2-l-85">er trûc eine tugentlîche maht.</l>
+        <l n="86" xml:id="chapter-2-l-86">awî wî manic volcwîc er vaht</l>
+        <l n="87" xml:id="chapter-2-l-87">wider den kunic Xersen.</l>
+        <l n="88" xml:id="chapter-2-l-88">harte ellenthafte uberwant er den.</l>
+        <l n="89" xml:id="chapter-2-l-89">Philippus nam im ein wîp,</l>
+        <l n="90" xml:id="chapter-2-l-90">si trûc einen frumeclîchen lîp.</l>
+        <l n="91" xml:id="chapter-2-l-91">ich sage iu, wî ir name was:</l>
+        <l n="92" xml:id="chapter-2-l-92">si hîz diu scône Olimpias.</l>
+        <l n="93" xml:id="chapter-2-l-93">daz was Alexanders mûter.</l>
+        <l n="94" xml:id="chapter-2-l-94">diu frowe hete einen brûder,</l>
+        <l n="95" xml:id="chapter-2-l-95">der was ouh Alexander genant,</l>
+        <l n="96" xml:id="chapter-2-l-96">ze Perse heter daz lant.</l>
+        <l n="97" xml:id="chapter-2-l-97">der was ein vurste alsô getân,</l>
+        <l n="98" xml:id="chapter-2-l-98">er ne wolte neheinem kunige wesen undertân.</l>
+        <l n="99" xml:id="chapter-2-l-99">er ne wolte ouh nî ûz neheineme sturme geflîhen,</l>
+        <l n="100" xml:id="chapter-2-l-100">swî im sîniu dinc dâ irgîngen.</l>
+        <l n="101" xml:id="chapter-2-l-101">er was ein tûerlîch degen</l>
+        <l n="102" xml:id="chapter-2-l-102">unde wolte ouh rehter herscefte phlegen.</l>
+      </div>
+      <div data-level="1" n="12" rhyme="aa" type="chapter" xml:id="chapter-3">
+        <head xml:lang="deu-Latn">Alexanders Geburt</head>
+        <l n="103" xml:id="chapter-3-l-103">Nû wil ich iu sagen von Alexanderes geburte</l>
+        <l n="104" xml:id="chapter-3-l-104">wî si alhî gewurte.</l>
+        <l n="105" xml:id="chapter-3-l-105">sîn mûter frow Olimpias</l>
+        <l n="106" xml:id="chapter-3-l-106">ze den stunden dô siu sîn genas,</l>
+        <l n="107" xml:id="chapter-3-l-107">dô wart ir ein vil michel nôtfal:</l>
+        <l n="108" xml:id="chapter-3-l-108">diu erde erbibete uberal.</l>
+        <l n="109" xml:id="chapter-3-l-109">dô was der doner vil grôz.</l>
+        <l n="110" xml:id="chapter-3-l-110">awie starke daz weter ave gôz.</l>
+        <l n="111" xml:id="chapter-3-l-111">der himel der wandelôte sich</l>
+        <l n="112" xml:id="chapter-3-l-112">unt der sunne verdunchelôte sich,</l>
+        <l n="113" xml:id="chapter-3-l-113">er hete vil nâch sînen schîmen verlorn,</l>
+        <l n="114" xml:id="chapter-3-l-114">dô Alexander wart geborn.</l>
+        <l n="115" xml:id="chapter-3-l-115">Nû ne freiscit ich ê noh sint</l>
+        <l n="116" xml:id="chapter-3-l-116">alsus geborn nehain chint.</l>
+        <l n="117" xml:id="chapter-3-l-117">gloubet mir des ich iu sage:</l>
+        <l n="118" xml:id="chapter-3-l-118">der dêch baz in drîn tagen</l>
+        <l n="119" xml:id="chapter-3-l-119">dan al ander chint,</l>
+        <l n="120" xml:id="chapter-3-l-120">sô si drîer mânôt alt sint,</l>
+        <l n="121" xml:id="chapter-3-l-121">unt alsô im ieht gescach,</l>
+        <l n="122" xml:id="chapter-3-l-122">daz ime ubel ze hôren was,</l>
+        <l n="123" xml:id="chapter-3-l-123">sô sah er alsô der wolf toet,</l>
+        <l n="124" xml:id="chapter-3-l-124">sô er obe sîneme ezzen stêt.</l>
+        <l n="125" xml:id="chapter-3-l-125">daz ich iu von ime sage, daz ist wâr:</l>
+        <l n="126" xml:id="chapter-3-l-126">strûb unde rôt was ime sîn hâr,</l>
+        <l n="127" xml:id="chapter-3-l-127">nâh eineme viske getân,</l>
+        <l n="128" xml:id="chapter-3-l-128">den man in dem mere mach vâhen;</l>
+        <l n="129" xml:id="chapter-3-l-129">ez was ime ze mâzen dicke,</l>
+        <l n="130" xml:id="chapter-3-l-130">grispe alsô lewen locke.</l>
+        <l n="131" xml:id="chapter-3-l-131">umbe sîn gesûne wil ich iuch bereiten:</l>
+        <l n="132" xml:id="chapter-3-l-132">ein ouge daz was weithin,</l>
+        <l n="133" xml:id="chapter-3-l-133">getân nâch eineme drachen.</l>
+        <l n="134" xml:id="chapter-3-l-134">daz chom von den sachen:</l>
+        <l n="135" xml:id="chapter-3-l-135">dô in sîn mûter bestunt ze tragene,</l>
+        <l n="136" xml:id="chapter-3-l-136">dô chômen ir freislîch pilide ze gegene;</l>
+        <l n="137" xml:id="chapter-3-l-137">daz was ein vil michel wunder.</l>
+        <l n="138" xml:id="chapter-3-l-138">swarz was ime daz ander,</l>
+        <l n="139" xml:id="chapter-3-l-139">nâch eineme grîfen getân.</l>
+        <l n="140" xml:id="chapter-3-l-140">alsus sagent die in ie gesâhen.</l>
+        <l n="141" xml:id="chapter-3-l-141">Sîn hals was ime wol gescaffen,</l>
+        <l n="142" xml:id="chapter-3-l-142">sîn brust was ime wol offen,</l>
+        <l n="143" xml:id="chapter-3-l-143">sîn arme wârin ime vone grôzer maht.</l>
+        <l n="144" xml:id="chapter-3-l-144">alles sînes mûtes was er wol bedâht.</l>
+        <l n="145" xml:id="chapter-3-l-145">sîn bûch ne was ime ze lanc noh ze breit:</l>
+        <l n="146" xml:id="chapter-3-l-146">a wie wole dem jungelinge daz stêt.</l>
+        <l n="147" xml:id="chapter-3-l-147">scône er ze tale wert scein</l>
+        <l n="148" xml:id="chapter-3-l-148">peidiu uber fûz unt uber pein.</l>
+        <l n="149" xml:id="chapter-3-l-149">unt uber allen sînen lîp</l>
+        <l n="150" xml:id="chapter-3-l-150">sô was er als êrlîh.</l>
+        <l n="151" xml:id="chapter-3-l-151">daz sag ich iu ze wâre:</l>
+        <l n="152" xml:id="chapter-3-l-152">in sînem êrstem jâre</l>
+        <l n="153" xml:id="chapter-3-l-153">sô wôss ime maht unt sin</l>
+        <l n="154" xml:id="chapter-3-l-154">mêre den ainem andren in drîn.</l>
+        <l n="155" xml:id="chapter-3-l-155">Nû vernemt, wie sich Alexander vur nam:</l>
+        <l n="156" xml:id="chapter-3-l-156">swâ sô ein frumich rîter zû zim chom,</l>
+        <l n="157" xml:id="chapter-3-l-157">dem bôt er lîp unt gût.</l>
+        <l n="158" xml:id="chapter-3-l-158">er ne chêrte cheinen sînen mût</l>
+        <l n="159" xml:id="chapter-3-l-159">weder an chint noch an tumben man;</l>
+        <l n="160" xml:id="chapter-3-l-160">a wie wol den hêren daz gezam.</l>
+        <l n="161" xml:id="chapter-3-l-161">ime was ouch sîn gebâre,</l>
+        <l n="162" xml:id="chapter-3-l-162">alser ein furste von allen landen wâre.</l>
+      </div>
+      <div data-level="1" n="13" rhyme="aa" type="chapter" xml:id="chapter-4">
+        <head xml:lang="deu-Latn">Alexanders Erziehung</head>
+        <l n="163" xml:id="chapter-4-l-163">Die meister die Alexander ouch gewan,</l>
+        <l n="164" xml:id="chapter-4-l-164">si wâren wol gerehte man.</l>
+        <l n="165" xml:id="chapter-4-l-165">si begunden in wîsheit lêren</l>
+        <l n="166" xml:id="chapter-4-l-166">unt zugen in zû grôzen êren.</l>
+        <l n="167" xml:id="chapter-4-l-167">si lêrtin in sturm unde volcwîc,</l>
+        <l n="168" xml:id="chapter-4-l-168">sô des nie wart gelîch.</l>
+        <l n="169" xml:id="chapter-4-l-169">der liste der er dannen gewan,</l>
+        <l n="170" xml:id="chapter-4-l-170">der wart er ein frumer man.</l>
+        <l n="171" xml:id="chapter-4-l-171">Der êrste meister sîn</l>
+        <l n="172" xml:id="chapter-4-l-172">der lêrtin chriechisch unde latîn</l>
+        <l n="173" xml:id="chapter-4-l-173">unt pûchstabe sezzen an eineme perment.</l>
+        <l n="174" xml:id="chapter-4-l-174">noch tô was er ein lutzel chint.</l>
+        <l n="175" xml:id="chapter-4-l-175">unt lêrtin vil manich pûch</l>
+        <l n="176" xml:id="chapter-4-l-176">und ander wîsheit genûch.</l>
+        <l n="177" xml:id="chapter-4-l-177">Der ander meister, den er gewan,</l>
+        <l n="178" xml:id="chapter-4-l-178">der lêrtin wol mûsicam</l>
+        <l n="179" xml:id="chapter-4-l-179">unt lêrtin seitin ziehen,</l>
+        <l n="180" xml:id="chapter-4-l-180">daz alle thôni dar in giengen,</l>
+        <l n="181" xml:id="chapter-4-l-181">roten unt ouch der lîren chlanc,</l>
+        <l n="182" xml:id="chapter-4-l-182">unt von ime selben heven daz gesanc.</l>
+        <l n="183" xml:id="chapter-4-l-183">Der dritte frumt ime harte wol:</l>
+        <l n="184" xml:id="chapter-4-l-184">er lêrtin allir dinge zal,</l>
+        <l n="185" xml:id="chapter-4-l-185">er lêrtin alle wîsseheit,</l>
+        <l n="186" xml:id="chapter-4-l-186">wie verre der sunne von der mânin gêt;</l>
+        <l n="187" xml:id="chapter-4-l-187">unt lêrtin ouch den list,</l>
+        <l n="188" xml:id="chapter-4-l-188">wie hôch von dem wazzer zem himele ist.</l>
+        <l n="189" xml:id="chapter-4-l-189">Der vierde meister, den er gewan,</l>
+        <l n="190" xml:id="chapter-4-l-190">daz was Aristotiles der wîse man.</l>
+        <l n="191" xml:id="chapter-4-l-191">er lêrtin al die chundicheit,</l>
+        <l n="192" xml:id="chapter-4-l-192">wie der himel umbe gêt,</l>
+        <l n="193" xml:id="chapter-4-l-193">unt stach ime die list in sînen gedanc</l>
+        <l n="194" xml:id="chapter-4-l-194">zerchennen daz gestirne unt ouch sînen ganc,</l>
+        <l n="195" xml:id="chapter-4-l-195">dâ sich die vergen mit pewarent,</l>
+        <l n="196" xml:id="chapter-4-l-196">dâ si in dem tiefen mere varnt.</l>
+        <l n="197" xml:id="chapter-4-l-197">Ein meister gewan sint</l>
+        <l n="198" xml:id="chapter-4-l-198">Alexander daz edele chint,</l>
+        <l n="199" xml:id="chapter-4-l-199">der lêrtin mit gewâven faren,</l>
+        <l n="200" xml:id="chapter-4-l-200">unt wie er sich mit eineme scilte solte bewarn,</l>
+        <l n="201" xml:id="chapter-4-l-201">unt wie er sîn spere solte tragen</l>
+        <l n="202" xml:id="chapter-4-l-202">ze dem, dem er wolte scaden,</l>
+        <l n="203" xml:id="chapter-4-l-203">unt wie er den erchiesen mahti</l>
+        <l n="204" xml:id="chapter-4-l-204">unt gestechen, sô daz tohte;</l>
+        <l n="205" xml:id="chapter-4-l-205">unt alsô der stich wêre getân,</l>
+        <l n="206" xml:id="chapter-4-l-206">sô lêrtern zû dem swerte vâhen</l>
+        <l n="207" xml:id="chapter-4-l-207">unt dâmit chundiclîchen slahen,</l>
+        <l n="208" xml:id="chapter-4-l-208">unt wie er sînen vîant solde vân;</l>
+        <l n="209" xml:id="chapter-4-l-209">unt lêrtin, wie er sich solte bewar</l>
+        <l n="210" xml:id="chapter-4-l-210">vor deme, der ime wolde scaden;</l>
+        <l n="211" xml:id="chapter-4-l-211">unt wie er sînen fianden lâgen solte,</l>
+        <l n="212" xml:id="chapter-4-l-212">die er dâ dwingen wolte,</l>
+        <l n="213" xml:id="chapter-4-l-213">unt wie er zen rîtern solti gebâren</l>
+        <l n="214" xml:id="chapter-4-l-214">umbe daz, daz sim willich wâren.</l>
+        <l n="215" xml:id="chapter-4-l-215">Der sehste bestunt in mit wizzen</l>
+        <l n="216" xml:id="chapter-4-l-216">unt lêrtin ze dinge sizzen</l>
+        <l n="217" xml:id="chapter-4-l-217">unt lêrtin, wie er daz bedâhte,</l>
+        <l n="218" xml:id="chapter-4-l-218">daz er von deme unrehti beschiede daz rehte,</l>
+        <l n="219" xml:id="chapter-4-l-219">unt wie er lantreht bescheiden chunde</l>
+        <l n="220" xml:id="chapter-4-l-220">allen den ers gunde.</l>
+        <l n="221" xml:id="chapter-4-l-221">Umbe diz unt umbe manech ander</l>
+        <l n="222" xml:id="chapter-4-l-222">alsus wart daz chint Alexander</l>
+        <l n="223" xml:id="chapter-4-l-223">beide listich unt geweltich unt balt.</l>
+        <l n="224" xml:id="chapter-4-l-224">dô alrêrst was er zwelf jâr alt.</l>
+        <l n="225" xml:id="chapter-4-l-225">alsô stâtich was ime sîn mût,</l>
+        <l n="226" xml:id="chapter-4-l-226">umbe al wertlîch gût</l>
+        <l n="227" xml:id="chapter-4-l-227">sô wolter nî nieht geliegen</l>
+        <l n="228" xml:id="chapter-4-l-228">noch sich fone cheiner wârheit gezien.</l>
+      </div>
+      <div data-level="1" n="18" rhyme="aa" type="chapter" xml:id="chapter-5">
+        <head xml:lang="deu-Latn">Alexander tötet Nectanabus</head>
+        <l n="229" xml:id="chapter-5-l-229">a wie wol einem sînem meister daz erschain:</l>
+        <l n="230" xml:id="chapter-5-l-230">er stîz in ze tal uber einem stein,</l>
+        <l n="231" xml:id="chapter-5-l-231">daz ime sîn hals enzwei brast,</l>
+        <l n="232" xml:id="chapter-5-l-232">wande er im ain luge zû sprach.</l>
+        <l n="233" xml:id="chapter-5-l-233">nû sprechent bôse lugenâre,</l>
+        <l n="234" xml:id="chapter-5-l-234">daz der sîn vater wâre.</l>
+        <l n="235" xml:id="chapter-5-l-235">a wie ubele ich daz gelouben mach,</l>
+        <l n="236" xml:id="chapter-5-l-236">wande er im sîn hals enzwei brach.</l>
+      </div>
+      <div data-level="1" n="15" rhyme="aa" type="chapter" xml:id="chapter-6">
+        <head xml:lang="deu-Latn">Bucephalus</head>
+        <l n="237" xml:id="chapter-6-l-237">Von Philippus stûde wil ich iu sagen:</l>
+        <l n="238" xml:id="chapter-6-l-238">dar under wart ein ros getragen,</l>
+        <l n="239" xml:id="chapter-6-l-239">daz was wunderlîch.</l>
+        <l n="240" xml:id="chapter-6-l-240">iz was irre unt strîtich,</l>
+        <l n="241" xml:id="chapter-6-l-241">snel unt ernisthaft,</l>
+        <l n="242" xml:id="chapter-6-l-242">fon sîner gescephte joch von sîner chraft.</l>
+        <l n="243" xml:id="chapter-6-l-243">der munt was im als einem esele getân.</l>
+        <l n="244" xml:id="chapter-6-l-244">di nasen wâren ime wîte ûf geslân.</l>
+        <l n="245" xml:id="chapter-6-l-245">sîn ôren wârin im vil lanc,</l>
+        <l n="246" xml:id="chapter-6-l-246">daz houbet mager unde swanc.</l>
+        <l n="247" xml:id="chapter-6-l-247">sîn ougen wârin im al der vare</l>
+        <l n="248" xml:id="chapter-6-l-248">als eim flîgenten arn.</l>
+        <l n="249" xml:id="chapter-6-l-249">sîn hals was im lockehte,</l>
+        <l n="250" xml:id="chapter-6-l-250">ich wâne ez wêre lewengeslehte.</l>
+        <l n="251" xml:id="chapter-6-l-251">ûf den goffen habtiz rinderhâr,</l>
+        <l n="252" xml:id="chapter-6-l-252">an sînen sîten liebartes mâl:</l>
+        <l n="253" xml:id="chapter-6-l-253">sô Sarrazîn noch christenman</l>
+        <l n="254" xml:id="chapter-6-l-254">nichein pezzer ros gewan.</l>
+        <l n="255" xml:id="chapter-6-l-255">Daz ros wart mit îseren gebunten,</l>
+        <l n="256" xml:id="chapter-6-l-256">alsô daz dâ tobet ze allen stunden,</l>
+        <l n="257" xml:id="chapter-6-l-257">unt wart fur den chunich Philippus geleit.</l>
+        <l n="258" xml:id="chapter-6-l-258">unt als er vernam sîn gelegenhait,</l>
+        <l n="259" xml:id="chapter-6-l-259">Buzival hiez erz namen,</l>
+        <l n="260" xml:id="chapter-6-l-260">daz tûhte sie gût alle samt.</l>
+        <l n="261" xml:id="chapter-6-l-261">Man hiez daz ros in einen marstal thûn,</l>
+        <l n="262" xml:id="chapter-6-l-262">daz si dâ fur mehten gerûn.</l>
+        <l n="263" xml:id="chapter-6-l-263">zû dem ros getorste niemen gên,</l>
+        <l n="264" xml:id="chapter-6-l-264">wan umbe den ez alsô was getân,</l>
+        <l n="265" xml:id="chapter-6-l-265">dem verteilet was daz leben,</l>
+        <l n="266" xml:id="chapter-6-l-266">den mûse man dem rosse geben.</l>
+      </div>
+      <div data-level="1" n="15" rhyme="aa" type="chapter" xml:id="chapter-7">
+        <head xml:lang="deu-Latn">Alexander reitet Bucephalus und wird als Philipps Nachfolger prophezeit</head>
+        <l n="267" xml:id="chapter-7-l-267">Dem chunige wart ein bote gesant</l>
+        <l n="268" xml:id="chapter-7-l-268">von dem, dem daz ros was chunt,</l>
+        <l n="269" xml:id="chapter-7-l-269">unt hiez ez paz pewaren.</l>
+        <l n="270" xml:id="chapter-7-l-270">er sprach, man solte ez noch an im ervaren,</l>
+        <l n="271" xml:id="chapter-7-l-271">wem des chuniges gewalt</l>
+        <l n="272" xml:id="chapter-7-l-272">nâch sînem lîbe wurde fersalt.</l>
+        <l n="273" xml:id="chapter-7-l-273">er sprach: 'daz sol dem, derz alrêrst bescride,</l>
+        <l n="274" xml:id="chapter-7-l-274">wandiz nie chein man ne gerite.'</l>
+        <l n="275" xml:id="chapter-7-l-275">Unt als Alexander haim chom,</l>
+        <l n="276" xml:id="chapter-7-l-276">al di scrift er wol vernam,</l>
+        <l n="277" xml:id="chapter-7-l-277">wîs was er zummâzen;</l>
+        <l n="278" xml:id="chapter-7-l-278">tô alrêrst heter sîne meister verlâzen.</l>
+        <l n="279" xml:id="chapter-7-l-279">des umbe daz ros was gesciet,</l>
+        <l n="280" xml:id="chapter-7-l-280">des inhabt er noh tô vernomen nieht.</l>
+        <l n="281" xml:id="chapter-7-l-281">Eines tages als er ûffen der palenze gêt, -</l>
+        <l n="282" xml:id="chapter-7-l-282">Geste habt in dar gelait -</l>
+        <l n="283" xml:id="chapter-7-l-283">dô hôrderz ros waien,</l>
+        <l n="284" xml:id="chapter-7-l-284">daz stunt in sîner tobeheit scrîen.</l>
+        <l n="285" xml:id="chapter-7-l-285">Alexander sprach zen chinden,</l>
+        <l n="286" xml:id="chapter-7-l-286">die mit ime uber die palinze gingen:</l>
+        <l n="287" xml:id="chapter-7-l-287">'ich ne weiz waz mir scillet inz ôre,</l>
+        <l n="288" xml:id="chapter-7-l-288">ez ne lât mich nieht gehôren.</l>
+        <l n="289" xml:id="chapter-7-l-289">ich ne weiz wederz ein ros oder ein lewe det,</l>
+        <l n="290" xml:id="chapter-7-l-290">wan ez dâ in beslozzen stêt.'</l>
+        <l n="291" xml:id="chapter-7-l-291">Btholomeus sprach zû dem chinde:</l>
+        <l n="292" xml:id="chapter-7-l-292">'hêre, iz ist Buzival, ein ros vil swinde.</l>
+        <l n="293" xml:id="chapter-7-l-293">daz hât iuwer vater în getân.</l>
+        <l n="294" xml:id="chapter-7-l-294">under der stût ne mohte nechein bezzer gegên.</l>
+        <l n="295" xml:id="chapter-7-l-295">(er sprach:) hêre, ez ne hât nehain marscalch in hûte.</l>
+        <l n="296" xml:id="chapter-7-l-296">wande ez erbîzet ubele unde gûte.'</l>
+        <l n="297" xml:id="chapter-7-l-297">Unt dô diz Alexander vernam,</l>
+        <l n="298" xml:id="chapter-7-l-298">niwiht er ne beite, ê er zû dem rosse chom.</l>
+        <l n="299" xml:id="chapter-7-l-299">er rief den chinden</l>
+        <l n="300" xml:id="chapter-7-l-300">unt hiez im den sluzzel gewinnen.</l>
+        <l n="301" xml:id="chapter-7-l-301">ir neheiner getorste daz ros dâ fur ziehen,</l>
+        <l n="302" xml:id="chapter-7-l-302">want sie alle vil ungerne dar în gingen.</l>
+        <l n="303" xml:id="chapter-7-l-303">Alexander erzurnet daz,</l>
+        <l n="304" xml:id="chapter-7-l-304">die tur er nider brach.</l>
+        <l n="305" xml:id="chapter-7-l-305">er hîz sie alle abe stân,</l>
+        <l n="306" xml:id="chapter-7-l-306">er wolte aleine dar în gân.</l>
+        <l n="307" xml:id="chapter-7-l-307">Alsô Buzival gegen im ûz wolte varn</l>
+        <l n="308" xml:id="chapter-7-l-308">unt ez Alexander ane begunde starn,</l>
+        <l n="309" xml:id="chapter-7-l-309">ez erblûcte sich aller sîner maht</l>
+        <l n="310" xml:id="chapter-7-l-310">unt wolte ime wesen dienesthaft.</l>
+        <l n="311" xml:id="chapter-7-l-311">ez chnîte fur im dar nider,</l>
+        <l n="312" xml:id="chapter-7-l-312">ez ne gerûrthe sich ouch nimer sider;</l>
+        <l n="313" xml:id="chapter-7-l-313">alsô chundeclîch was dem rosse al sîn gebâre,</l>
+        <l n="314" xml:id="chapter-7-l-314">alsez des chindes wol gewone wâre.</l>
+        <l n="315" xml:id="chapter-7-l-315">Alexander begunde dô streichen</l>
+        <l n="316" xml:id="chapter-7-l-316">ein ros, daz nie nichein man begunde weichen,</l>
+        <l n="317" xml:id="chapter-7-l-317">sô der nie seil noch zôm ane chom.</l>
+        <l n="318" xml:id="chapter-7-l-318">mit der mane erz nam.</l>
+        <l n="319" xml:id="chapter-7-l-319">er habet ellenthaften gedanc:</l>
+        <l n="320" xml:id="chapter-7-l-320">ûfen sînen rucke er ime spranc.</l>
+        <l n="321" xml:id="chapter-7-l-321">ûzer deme gademe erz reit,</l>
+        <l n="322" xml:id="chapter-7-l-322">daz was ein michel paltheit.</l>
+        <l n="323" xml:id="chapter-7-l-323">Ein pote îlte dem chunge daz sagen,</l>
+        <l n="324" xml:id="chapter-7-l-324">er ne getorste es nieht verdagen,</l>
+        <l n="325" xml:id="chapter-7-l-325">waz sîn sun hete getân.</l>
+        <l n="326" xml:id="chapter-7-l-326">ûf spranc der chunich sâ</l>
+        <l n="327" xml:id="chapter-7-l-327">unt zehenzoch sînes gesindes,</l>
+        <l n="328" xml:id="chapter-7-l-328">dô frout er sich sînes chindes.</l>
+        <l n="329" xml:id="chapter-7-l-329">di mêre er gerne vernam.</l>
+        <l n="330" xml:id="chapter-7-l-330">unt alse der chunich gegen im charn</l>
+        <l n="331" xml:id="chapter-7-l-331">unt alsô in Alexander vernam,</l>
+        <l n="332" xml:id="chapter-7-l-332">er thet als im wol gezam:</l>
+        <l n="333" xml:id="chapter-7-l-333">er warf sich nider unde giench -</l>
+        <l n="334" xml:id="chapter-7-l-334">Vestian daz ros entfienc</l>
+        <l n="335" xml:id="chapter-7-l-335">mit eime guldînen bridele -</l>
+        <l n="336" xml:id="chapter-7-l-336">unde giench sîneme vater gegene.</l>
+        <l n="337" xml:id="chapter-7-l-337">unt alsô si zesamene chômen,</l>
+        <l n="338" xml:id="chapter-7-l-338">mit handen si sich nâmen.</l>
+        <l n="339" xml:id="chapter-7-l-339">ir rede was vil minnesam,</l>
+        <l n="340" xml:id="chapter-7-l-340">als ir hie muget ferstân.</l>
+        <l n="341" xml:id="chapter-7-l-341">'heil dich', sprach Philippus, 'sun mîn,</l>
+        <l n="342" xml:id="chapter-7-l-342">mich tunchet, du solt chunich sîn.</l>
+        <l n="343" xml:id="chapter-7-l-343">der gewalt sî dir vil gereit</l>
+        <l n="344" xml:id="chapter-7-l-344">alsô wît sô mîn rîch gêt.'</l>
+        <l n="345" xml:id="chapter-7-l-345">'heil iuch', sprach Alexander, 'fater mîn,</l>
+        <l n="346" xml:id="chapter-7-l-346">got lâz iuch iemer sâlich sîn.</l>
+        <l n="347" xml:id="chapter-7-l-347">alles gûtes ich iu vil wol getrûwe.</l>
+        <l n="348" xml:id="chapter-7-l-348">vil lange mûzet ir iuwer rîche mit genâden bûwen.</l>
+      </div>
+      <div data-level="1" n="20" rhyme="aa" type="chapter" xml:id="chapter-8">
+        <head xml:lang="deu-Latn">Alexanders erster Kriegszug gegen Nicolaus</head>
+        <l n="349" xml:id="chapter-8-l-349">(Er chot:) fater, nû bin ich funfzên jâr alt,</l>
+        <l n="350" xml:id="chapter-8-l-350">daz haben ich rehte gezalt,</l>
+        <l n="351" xml:id="chapter-8-l-351">unt bin alsô chomen ze mînen tagen,</l>
+        <l n="352" xml:id="chapter-8-l-352">daz ich wole wâfen mach tragen.</l>
+        <l n="353" xml:id="chapter-8-l-353">unt swer eigen tugent iemer sol gewinnen,</l>
+        <l n="354" xml:id="chapter-8-l-354">der sal sîn in sîner jugende beginnen,</l>
+        <l n="355" xml:id="chapter-8-l-355">unte seh er sich sculdich,</l>
+        <l n="356" xml:id="chapter-8-l-356">niwiht versûmer sich.'</l>
+        <l n="357" xml:id="chapter-8-l-357">der chunich ne wolte es niwiht beiten,</l>
+        <l n="358" xml:id="chapter-8-l-358">er hîz daz chint bereiten.</l>
+        <l n="359" xml:id="chapter-8-l-359">waz mage ich iu sundere gesagen:</l>
+        <l n="360" xml:id="chapter-8-l-360">er det im wâfen fur tragen,</l>
+        <l n="361" xml:id="chapter-8-l-361">sô mans unter eines chuniges gesinden</l>
+        <l n="362" xml:id="chapter-8-l-362">aller bezzest chunde finden;</l>
+        <l n="363" xml:id="chapter-8-l-363">unt widerchurs Alexander,</l>
+        <l n="364" xml:id="chapter-8-l-364">man gewunne im aber ander.</l>
+        <l n="365" xml:id="chapter-8-l-365">Unt alsô daz chint nâch dem site</l>
+        <l n="366" xml:id="chapter-8-l-366">was wol gewâfen unt geriten,</l>
+        <l n="367" xml:id="chapter-8-l-367">dô was er ein scôner jungelinc.</l>
+        <l n="368" xml:id="chapter-8-l-368">si grûzten in als ein chunich.</l>
+        <l n="369" xml:id="chapter-8-l-369">er sprach, wâ si des gedâhten,</l>
+        <l n="370" xml:id="chapter-8-l-370">daz sim eins chuniges namen anleiten</l>
+        <l n="371" xml:id="chapter-8-l-371">al die wîl, als er sô vil chunicrîches niuht hete,</l>
+        <l n="372" xml:id="chapter-8-l-372">dâ er sînen vinger ûf geleite.</l>
+        <l n="373" xml:id="chapter-8-l-373">Er sprach: 'woldet ir eine wîle gerûwen,</l>
+        <l n="374" xml:id="chapter-8-l-374">unze ich aine tugent mahte getûn:</l>
+        <l n="375" xml:id="chapter-8-l-375">an einem chunige wil ich es beginnen,</l>
+        <l n="376" xml:id="chapter-8-l-376">unt mach ich den uberwinden,</l>
+        <l n="377" xml:id="chapter-8-l-377">daz ich dem die chrôni abe ziehe</l>
+        <l n="378" xml:id="chapter-8-l-378">unt ûz dem velde tûn geflîhen,</l>
+        <l n="379" xml:id="chapter-8-l-379">sô muget ir mir chuniges namen geben</l>
+        <l n="380" xml:id="chapter-8-l-380">alsô lange sô ich iemer gelebe.'</l>
+        <l n="381" xml:id="chapter-8-l-381">Ein chunich was Nycolaus genant.</l>
+        <l n="382" xml:id="chapter-8-l-382">Alexander fûr in sîn lant</l>
+        <l n="383" xml:id="chapter-8-l-383">Cesaream fur die grôzen stat.</l>
+        <l n="384" xml:id="chapter-8-l-384">dâ wart der rîche chunich ensat.</l>
+        <l n="385" xml:id="chapter-8-l-385">Alexander faht ime den sige ane,</l>
+        <l n="386" xml:id="chapter-8-l-386">er fûrte die corône mit im dane.</l>
+      </div>
+      <div data-level="1" n="21" rhyme="aa" type="chapter" xml:id="chapter-9">
+        <head xml:lang="deu-Latn">Philipps Heiratsversuch</head>
+        <l n="387" xml:id="chapter-9-l-387">unt als er dô wider haim gesan,</l>
+        <l n="388" xml:id="chapter-9-l-388">ein lait nûmâre er im vernam:</l>
+        <l n="389" xml:id="chapter-9-l-389">sîn fater habet sich sîner mûter geloubet</l>
+        <l n="390" xml:id="chapter-9-l-390">unt saz in foller brûtlofe.</l>
+        <l n="391" xml:id="chapter-9-l-391">er lîz die sîne mûter;</l>
+        <l n="392" xml:id="chapter-9-l-392">die frowe diu hiez Cleopatra.</l>
+        <l n="393" xml:id="chapter-9-l-393">Alsô Alexander haim chom,</l>
+        <l n="394" xml:id="chapter-9-l-394">er giench fur sînen fater stên</l>
+        <l n="395" xml:id="chapter-9-l-395">unt nam die corône, die er mit samt ime dâ hete,</l>
+        <l n="396" xml:id="chapter-9-l-396">sînem fater ers ûf sazthe.</l>
+        <l n="397" xml:id="chapter-9-l-397">Er sprach: 'fater, nement tiz mit minnen,</l>
+        <l n="398" xml:id="chapter-9-l-398">daz ich mit sturme hân gewunnen,</l>
+        <l n="399" xml:id="chapter-9-l-399">unze ich es baz mach getûn;</l>
+        <l n="400" xml:id="chapter-9-l-400">des habet ir êre unde rûm.</l>
+        <l n="401" xml:id="chapter-9-l-401">wan eines tinges trag ich iu ubelen mût,</l>
+        <l n="402" xml:id="chapter-9-l-402">daz tunchet mich ze newiht gût:</l>
+        <l n="403" xml:id="chapter-9-l-403">daz ir mîne mûter liezet iuwers willen</l>
+        <l n="404" xml:id="chapter-9-l-404">unt habet ein uberhûr gestellet.</l>
+        <l n="405" xml:id="chapter-9-l-405">ter rede willich nû gedagen,</l>
+        <l n="406" xml:id="chapter-9-l-406">iuwer ezzen willich newiht fersagen.</l>
+        <l n="407" xml:id="chapter-9-l-407">nû wêwen sô mir die ougen, dâ ich mit kesihe;</l>
+        <l n="408" xml:id="chapter-9-l-408">ich kedanche sîn allen den hie,</l>
+        <l n="409" xml:id="chapter-9-l-409">die disen rât habent gefrumit,</l>
+        <l n="410" xml:id="chapter-9-l-410">daz er niemer zêren chumt.'</l>
+        <l n="411" xml:id="chapter-9-l-411">Ein rîter hiez Lisias,</l>
+        <l n="412" xml:id="chapter-9-l-412">der stolz unt redehaft was.</l>
+        <l n="413" xml:id="chapter-9-l-413">dem was daz vil ungemach,</l>
+        <l n="414" xml:id="chapter-9-l-414">daz daz chint sô erre sprach,</l>
+        <l n="415" xml:id="chapter-9-l-415">unt antwurtim ein smâheit,</l>
+        <l n="416" xml:id="chapter-9-l-416">alsô dicke der stolze man tût.</l>
+        <l n="417" xml:id="chapter-9-l-417">dô hete der chunich einen naff swâr,</l>
+        <l n="418" xml:id="chapter-9-l-418">dâ an stunden guldîne plâchmâl.</l>
+        <l n="419" xml:id="chapter-9-l-419">den habet Alexander ûf der hende</l>
+        <l n="420" xml:id="chapter-9-l-420">unt slûg en Lisian fur die zende,</l>
+        <l n="421" xml:id="chapter-9-l-421">daz sim in sîne chelen risin.</l>
+        <l n="422" xml:id="chapter-9-l-422">er sprach: 'lâ du dîn rede wesen.'</l>
+        <l n="423" xml:id="chapter-9-l-423">Der chunich ûf fon der taveln spranch,</l>
+        <l n="424" xml:id="chapter-9-l-424">wande in sîn zorn twanc;</l>
+        <l n="425" xml:id="chapter-9-l-425">wan im der strît niweht wol geviel.</l>
+        <l n="426" xml:id="chapter-9-l-426">dô trat er vor unde viel,</l>
+        <l n="427" xml:id="chapter-9-l-427">daz im sîn schenkel zebrast</l>
+        <l n="428" xml:id="chapter-9-l-428">unt daz er âne tugent lach.</l>
+        <l n="429" xml:id="chapter-9-l-429">unt alsô der chunich der nider viel,</l>
+        <l n="430" xml:id="chapter-9-l-430">Alexander sîn blût wiel,</l>
+        <l n="431" xml:id="chapter-9-l-431">sîn zorn in der zû trûch,</l>
+        <l n="432" xml:id="chapter-9-l-432">daz er mit tem swerte umbe slûch.</l>
+        <l n="433" xml:id="chapter-9-l-433">unt swer dâ wider wolte stân,</l>
+        <l n="434" xml:id="chapter-9-l-434">der ne mohte im mit dem leben nieht engân.</l>
+        <l n="435" xml:id="chapter-9-l-435">ich ne freiscte nie den, der fernâme,</l>
+        <l n="436" xml:id="chapter-9-l-436">war diu brût ie bechôme.</l>
+        <l n="437" xml:id="chapter-9-l-437">Alexander gemâzet sich es tô</l>
+        <l n="438" xml:id="chapter-9-l-438">unt giench sînem fater zû</l>
+        <l n="439" xml:id="chapter-9-l-439">unt tete im hail sîn bain</l>
+        <l n="440" xml:id="chapter-9-l-440">und brâht in unt sîne mûter in ein.</l>
+      </div>
+      <div data-level="1" n="22" rhyme="aa" type="chapter" xml:id="chapter-10">
+        <head xml:lang="deu-Latn">Alexander erobert eine Burg</head>
+        <l n="441" xml:id="chapter-10-l-441">Unde alsô daz was gendet,</l>
+        <l n="442" xml:id="chapter-10-l-442">dô wart ein bote gesendet</l>
+        <l n="443" xml:id="chapter-10-l-443">unt sagete Philippus daz,</l>
+        <l n="444" xml:id="chapter-10-l-444">daz er bewaren hîze baz</l>
+        <l n="445" xml:id="chapter-10-l-445">sîne burch z' Antonia</l>
+        <l n="446" xml:id="chapter-10-l-446">unt fûre dar mit her gâch</l>
+        <l n="447" xml:id="chapter-10-l-447">unt nâme die burch in sîne gewalt;</l>
+        <l n="448" xml:id="chapter-10-l-448">dâ wâren die rede manechfalt:</l>
+        <l n="449" xml:id="chapter-10-l-449">es wâre der sezmanne wille,</l>
+        <l n="450" xml:id="chapter-10-l-450">daz reiten sie under in stille,</l>
+        <l n="451" xml:id="chapter-10-l-451">wie si sich fon ime gezugen</l>
+        <l n="452" xml:id="chapter-10-l-452">unt in lasterlîche betrugen,</l>
+        <l n="453" xml:id="chapter-10-l-453">unt si sich an dem besatten,</l>
+        <l n="454" xml:id="chapter-10-l-454">der die burch for im behate.</l>
+        <l n="455" xml:id="chapter-10-l-455">Unde alsô der chunich diz fernam,</l>
+        <l n="456" xml:id="chapter-10-l-456">harte sêre er sîn erchom.</l>
+        <l n="457" xml:id="chapter-10-l-457">er woltes niht langer bîten:</l>
+        <l n="458" xml:id="chapter-10-l-458">den sun hîz er dar rîten.</l>
+        <l n="459" xml:id="chapter-10-l-459">Alexander sich besante.</l>
+        <l n="460" xml:id="chapter-10-l-460">wie stolzlîch er dar rante.</l>
+        <l n="461" xml:id="chapter-10-l-461">helde folk giench im nâh</l>
+        <l n="462" xml:id="chapter-10-l-462">funf werbe zehinzoch.</l>
+        <l n="463" xml:id="chapter-10-l-463">einen sturm tet er mit listen</l>
+        <l n="464" xml:id="chapter-10-l-464">unt gewan die selben veste.</l>
+        <l n="465" xml:id="chapter-10-l-465">fil frôlîche er widere ze lante chom,</l>
+        <l n="466" xml:id="chapter-10-l-466">daz er neheinen scaden genam.</l>
+      </div>
+      <div data-level="1" n="23" rhyme="aa" type="chapter" xml:id="chapter-11">
+        <head xml:lang="deu-Latn">Alexander fertigt Darius' Zinsboten ab</head>
+        <l n="467" xml:id="chapter-11-l-467">Nû vernement, waz ich iu hie zele:</l>
+        <l n="468" xml:id="chapter-11-l-468">fur dem chunige in dem sale</l>
+        <l n="469" xml:id="chapter-11-l-469">dâ vant er boten Darios</l>
+        <l n="470" xml:id="chapter-11-l-470">aines geweltigen chuniges,</l>
+        <l n="471" xml:id="chapter-11-l-471">der den zins von sînem fater Philippus wolde enfân,</l>
+        <l n="472" xml:id="chapter-11-l-472">wander Dario was undertân.</l>
+        <l n="473" xml:id="chapter-11-l-473">diz was Darios ter in Danigel stêt,</l>
+        <l n="474" xml:id="chapter-11-l-474">der mit dem chriechiscen chunige streit.</l>
+        <l n="475" xml:id="chapter-11-l-475">diz was den Daniel slâfinde gesach</l>
+        <l n="476" xml:id="chapter-11-l-476">in einem troume dâ er lach;</l>
+        <l n="477" xml:id="chapter-11-l-477">dâ sah er fehten ainen boc unt ainen wider.</l>
+        <l n="478" xml:id="chapter-11-l-478">daz bezeichent die zwêne chunige sider.</l>
+        <l n="479" xml:id="chapter-11-l-479">daz Philippus den zins galt</l>
+        <l n="480" xml:id="chapter-11-l-480">in Darios gewalt</l>
+        <l n="481" xml:id="chapter-11-l-481">dannen uber manegen tach,</l>
+        <l n="482" xml:id="chapter-11-l-482">daz was tem sune ungemach.</l>
+        <l n="483" xml:id="chapter-11-l-483">Darius wart umbe den selben zins erslagen.</l>
+        <l n="484" xml:id="chapter-11-l-484">daz ich iu sal wâre sagen.</l>
+        <l n="485" xml:id="chapter-11-l-485">Alexander spranc ûf al gerihte</l>
+        <l n="486" xml:id="chapter-11-l-486">zû der boten gesihte.</l>
+        <l n="487" xml:id="chapter-11-l-487">des zinses er newiht galt.</l>
+        <l n="488" xml:id="chapter-11-l-488">ir hêren er bôslîch scalt.</l>
+        <l n="489" xml:id="chapter-11-l-489">er sprach: 'iuwer hêre ne hât anderes neheine frumicheit,</l>
+        <l n="490" xml:id="chapter-11-l-490">wan daz er scaz uber ein ander leit.</l>
+        <l n="491" xml:id="chapter-11-l-491">er was ein harte tumb man,</l>
+        <l n="492" xml:id="chapter-11-l-492">daz er zinses an uns gesan.</l>
+        <l n="493" xml:id="chapter-11-l-493">er ne wirt ime niemer gesant</l>
+        <l n="494" xml:id="chapter-11-l-494">hinnen ûzer Chriechlant</l>
+        <l n="495" xml:id="chapter-11-l-495">bî mînen zîten.'</l>
+        <l n="496" xml:id="chapter-11-l-496">die boten hîz er rîten,</l>
+        <l n="497" xml:id="chapter-11-l-497">ê si ersturben an der stund,</l>
+        <l n="498" xml:id="chapter-11-l-498">daz sis ir hêren tâten chunt:</l>
+        <l n="499" xml:id="chapter-11-l-499">alsô lange sô er des zinses neweht wolte enbern,</l>
+        <l n="500" xml:id="chapter-11-l-500">er solt in sîn dâ haime wern</l>
+        <l n="501" xml:id="chapter-11-l-501">mit alsô getâner mâze,</l>
+        <l n="502" xml:id="chapter-11-l-502">er solte ime sîn houbet lâzen.</l>
+        <l n="503" xml:id="chapter-11-l-503">diz inbôt er ime alsô.</l>
+        <l n="504" xml:id="chapter-11-l-504">des wâren die boten riuwich unt frô:</l>
+        <l n="505" xml:id="chapter-11-l-505">si wârn vil frô, daz si des lîbes genâsen,</l>
+        <l n="506" xml:id="chapter-11-l-506">unt wâren harte riuwich, daz er ir hêren wolte verdwâsen.</l>
+      </div>
+      <div data-level="1" n="24" rhyme="aa" type="chapter" xml:id="chapter-12">
+        <head xml:lang="deu-Latn">Philipps Tod</head>
+        <l n="507" xml:id="chapter-12-l-507">Unde alsô diz wart gendet,</l>
+        <l n="508" xml:id="chapter-12-l-508">dô wart ein bote gesendet</l>
+        <l n="509" xml:id="chapter-12-l-509">unt saget Philippus, waz man reit</l>
+        <l n="510" xml:id="chapter-12-l-510">von ainer sîner untertâner diet,</l>
+        <l n="511" xml:id="chapter-12-l-511">von sînen mannen ze Thelemône,</l>
+        <l n="512" xml:id="chapter-12-l-512">daz sim unrehte wolten lônen</l>
+        <l n="513" xml:id="chapter-12-l-513">der triwen, der er mit in hâte begangen.</l>
+        <l n="514" xml:id="chapter-12-l-514">si heten zeim anderen gevangen</l>
+        <l n="515" xml:id="chapter-12-l-515">und wolten ummâze wider in stellen.</l>
+        <l n="516" xml:id="chapter-12-l-516">Alexander nam sîne gesellen,</l>
+        <l n="517" xml:id="chapter-12-l-517">frumeclîchen er dar reit,</l>
+        <l n="518" xml:id="chapter-12-l-518">alsô dicke der stolze man det.</l>
+        <l n="519" xml:id="chapter-12-l-519">in die burch er giench,</l>
+        <l n="520" xml:id="chapter-12-l-520">den burcgrâfen er dar ûffe fiench,</l>
+        <l n="521" xml:id="chapter-12-l-521">die bôsen er drabe stiez,</l>
+        <l n="522" xml:id="chapter-12-l-522">die sînen er drûf liez,</l>
+        <l n="523" xml:id="chapter-12-l-523">unt nam ir scaz unt gewant</l>
+        <l n="524" xml:id="chapter-12-l-524">unt allez daz er dâ fant</l>
+        <l n="525" xml:id="chapter-12-l-525">unt lêhnte alle sîne man</l>
+        <l n="526" xml:id="chapter-12-l-526">mit dem daz er dâ gewan.</l>
+        <l n="527" xml:id="chapter-12-l-527">unt alser dô wider reit,</l>
+        <l n="528" xml:id="chapter-12-l-528">dô begagent ime ein mêror arbeit:</l>
+        <l n="529" xml:id="chapter-12-l-529">dâ widerreit ime Pausonias,</l>
+        <l n="530" xml:id="chapter-12-l-530">der ein rîcher marcgrâfe was,</l>
+        <l n="531" xml:id="chapter-12-l-531">unt fûrte die chunigin in sîne gewalt.</l>
+        <l n="532" xml:id="chapter-12-l-532">a wie sêre ers dâ ze stede engalt.</l>
+        <l n="533" xml:id="chapter-12-l-533">daz was diu scône Olimpias,</l>
+        <l n="534" xml:id="chapter-12-l-534">diu Alexanders mûter was.</l>
+        <l n="535" xml:id="chapter-12-l-535">sînen vater lie er thôtwunt.</l>
+        <l n="536" xml:id="chapter-12-l-536">daz wart ime dâ gitân rihte chunt.</l>
+        <l n="537" xml:id="chapter-12-l-537">Alexander was ein helt frumeclîch,</l>
+        <l n="538" xml:id="chapter-12-l-538">den schilt zuht er vur sich,</l>
+        <l n="539" xml:id="chapter-12-l-539">unt alser ime was wol nâch,</l>
+        <l n="540" xml:id="chapter-12-l-540">ûf rihte er sînen scaft,</l>
+        <l n="541" xml:id="chapter-12-l-541">sprancde, dâr Pausoniam gesach.</l>
+        <l n="542" xml:id="chapter-12-l-542">durh sînen bûch er in stach,</l>
+        <l n="543" xml:id="chapter-12-l-543">zû der erde er in warf.</l>
+        <l n="544" xml:id="chapter-12-l-544">er sprach: 'dis stîffaters ich niuht bedarf.'</l>
+        <l n="545" xml:id="chapter-12-l-545">Alexander sprach zû den gesinden</l>
+        <l n="546" xml:id="chapter-12-l-546">unt hîz den marcgrâfen ûfpinden.</l>
+        <l n="547" xml:id="chapter-12-l-547">er fûrt in lemptigen in sîn lant.</l>
+        <l n="548" xml:id="chapter-12-l-548">a wie siech er sînen vater vant.</l>
+        <l n="549" xml:id="chapter-12-l-549">der wunden er niuht genas</l>
+        <l n="550" xml:id="chapter-12-l-550">die ime slûch Pausonias.</l>
+        <l n="551" xml:id="chapter-12-l-551">alsô Alexander heim chom,</l>
+        <l n="552" xml:id="chapter-12-l-552">er giench fure sînen vater stân.</l>
+        <l n="553" xml:id="chapter-12-l-553">er sprach: 'vater, wil du iwet sprechen,</l>
+        <l n="554" xml:id="chapter-12-l-554">du maht dich haizen rechen.'</l>
+        <l n="555" xml:id="chapter-12-l-555">er sprach: 'sun, du heiz in slahen.'</l>
+        <l n="556" xml:id="chapter-12-l-556">daz was vil schiere getân.</l>
+        <l n="557" xml:id="chapter-12-l-557">dar nâch uber ummanegen tach</l>
+        <l n="558" xml:id="chapter-12-l-558">Philippus dâ tôt lach.</l>
+      </div>
+      <div data-level="1" n="27" rhyme="aa" type="chapter" xml:id="chapter-13">
+        <head xml:lang="deu-Latn">Alexander übernimmt die Herrschaft in Macedonien/ Griechenland</head>
+        <l n="559" xml:id="chapter-13-l-559">Unde alsô Philippus was begraben,</l>
+        <l n="560" xml:id="chapter-13-l-560">dô wart Alexander ze chunige erhaben.</l>
+        <l n="561" xml:id="chapter-13-l-561">starche wôss ime sîn gewalt,</l>
+        <l n="562" xml:id="chapter-13-l-562">dô alrêrist was er zwainzec jâre alt,</l>
+        <l n="563" xml:id="chapter-13-l-563">daz er mit listen unt mit mahten</l>
+        <l n="564" xml:id="chapter-13-l-564">sîn rîche wol berihten mohte.</l>
+        <l n="565" xml:id="chapter-13-l-565">ich sage iu, wie ers began.</l>
+        <l n="566" xml:id="chapter-13-l-566">er nam sîn aller getriwisten man,</l>
+        <l n="567" xml:id="chapter-13-l-567">die ime ze sîner nôte</l>
+        <l n="568" xml:id="chapter-13-l-568">ie wâren einmûthe.</l>
+        <l n="569" xml:id="chapter-13-l-569">er sprach: 'hêren, wir ne haben niuht ze bîtene,</l>
+        <l n="570" xml:id="chapter-13-l-570">wir mûzen her laiten</l>
+        <l n="571" xml:id="chapter-13-l-571">Chriechlande zêren;</l>
+        <l n="572" xml:id="chapter-13-l-572">dar an gedenchent, hêren,</l>
+        <l n="573" xml:id="chapter-13-l-573">daz man ie uber unser lant</l>
+        <l n="574" xml:id="chapter-13-l-574">die aller thûriste chunege vant.</l>
+        <l n="575" xml:id="chapter-13-l-575">des lâzen wir die enkelten,</l>
+        <l n="576" xml:id="chapter-13-l-576">die uns den zins hiezen kelten</l>
+        <l n="577" xml:id="chapter-13-l-577">hundert jâr unde mê,</l>
+        <l n="578" xml:id="chapter-13-l-578">daz in ze laster ergê,</l>
+        <l n="579" xml:id="chapter-13-l-579">daz wir des zinses werden lôs.</l>
+        <l n="580" xml:id="chapter-13-l-580">swer dâ wil snellez ros,</l>
+        <l n="581" xml:id="chapter-13-l-581">beidû wâfen unde gewât,</l>
+        <l n="582" xml:id="chapter-13-l-582">des thûn ich ime alles gûthen rât</l>
+        <l n="583" xml:id="chapter-13-l-583">ân alle sîne arbeit.</l>
+        <l n="584" xml:id="chapter-13-l-584">swer noch mit mir bestêt,</l>
+        <l n="585" xml:id="chapter-13-l-585">deme teilich lîb unte gût</l>
+        <l n="586" xml:id="chapter-13-l-586">unde trage ime imer willigen mût.'</l>
+        <l n="587" xml:id="chapter-13-l-587">unde als er diz gesagete,</l>
+        <l n="588" xml:id="chapter-13-l-588">ir nehein langer dagete,</l>
+        <l n="589" xml:id="chapter-13-l-589">si sprâchen alle mit ainer zungen:</l>
+        <l n="590" xml:id="chapter-13-l-590">'got behûte uns disen chunich jungen,</l>
+        <l n="591" xml:id="chapter-13-l-591">daz er mit genâden vil lange mûze leben in sînem rîche.</l>
+        <l n="592" xml:id="chapter-13-l-592">sô wê dem, der ime geswîche.'</l>
+      </div>
+      <div data-level="1" n="29" rhyme="aa" type="chapter" xml:id="chapter-14">
+        <head xml:lang="deu-Latn">Alexander erobert Italien (Rom)</head>
+        <l n="593" xml:id="chapter-14-l-593">Er hiez dô gebieten herrevart</l>
+        <l n="594" xml:id="chapter-14-l-594">alsim dô gerâten wart;</l>
+        <l n="595" xml:id="chapter-14-l-595">dar zû was ime vil liebe.</l>
+        <l n="596" xml:id="chapter-14-l-596">er sante boten unde briefe</l>
+        <l n="597" xml:id="chapter-14-l-597">ze Chriechen unde ze Mazedôn;</l>
+        <l n="598" xml:id="chapter-14-l-598">den bôt er den starchen lôn.</l>
+        <l n="599" xml:id="chapter-14-l-599">ze Kalabre er enpot,</l>
+        <l n="600" xml:id="chapter-14-l-600">daz sim hulfen zû der nôth.</l>
+        <l n="601" xml:id="chapter-14-l-601">ein stat heizet Nicomedias,</l>
+        <l n="602" xml:id="chapter-14-l-602">dâ sancte Pantaleon gemarteret was.</l>
+        <l n="603" xml:id="chapter-14-l-603">die fûrin sîne hervart mit manegem helide,</l>
+        <l n="604" xml:id="chapter-14-l-604">tûsent brâhten sie ime ze helfe.</l>
+        <l n="605" xml:id="chapter-14-l-605">dô hîz er uber lant gebieten</l>
+        <l n="606" xml:id="chapter-14-l-606">mit trô joch mit miete,</l>
+        <l n="607" xml:id="chapter-14-l-607">daz sime ze helfe chômen,</l>
+        <l n="608" xml:id="chapter-14-l-608">alsô sie sîne nôte vernâmen,</l>
+        <l n="609" xml:id="chapter-14-l-609">unde swem daz versmâte,</l>
+        <l n="610" xml:id="chapter-14-l-610">daz er sîn houbet verlorn hête.</l>
+        <l n="611" xml:id="chapter-14-l-611">Vil êrhaft er sîn gerête scûph</l>
+        <l n="612" xml:id="chapter-14-l-612">des tages, dô er sich ûz hûb.</l>
+        <l n="613" xml:id="chapter-14-l-613">sibenzech tûsent was sînes hers,</l>
+        <l n="614" xml:id="chapter-14-l-614">daz schiphet er uber ain ende des mers,</l>
+        <l n="615" xml:id="chapter-14-l-615">unde hiez den zins dâ enphân.</l>
+        <l n="616" xml:id="chapter-14-l-616">daz was wider Dario getân.</l>
+        <l n="617" xml:id="chapter-14-l-617">er fur dannen in Sicilienlant</l>
+        <l n="618" xml:id="chapter-14-l-618">unde ferweltigôt alle die er dâ vant</l>
+        <l n="619" xml:id="chapter-14-l-619">unde tete sie swergen herrevart;</l>
+        <l n="620" xml:id="chapter-14-l-620">daz sîn vater nie erwarph.</l>
+        <l n="621" xml:id="chapter-14-l-621">alsus mêret er sîn her</l>
+        <l n="622" xml:id="chapter-14-l-622">unde schiphte sich dâ uber mere</l>
+        <l n="623" xml:id="chapter-14-l-623">unde fûr ze Itale wart</l>
+        <l n="624" xml:id="chapter-14-l-624">unde verlie sich an die scarphen swert.</l>
+        <l n="625" xml:id="chapter-14-l-625">Unde alsô die Rômêre daz fernâmen,</l>
+        <l n="626" xml:id="chapter-14-l-626">a wie êrhapte sie im ze gegene chômen.</l>
+        <l n="627" xml:id="chapter-14-l-627">sie brâhten im ze der stund</l>
+        <l n="628" xml:id="chapter-14-l-628">silbers hundert thûsint funt</l>
+        <l n="629" xml:id="chapter-14-l-629">unde einen mantel alsô edele,</l>
+        <l n="630" xml:id="chapter-14-l-630">sô chunich under dieseme himele</l>
+        <l n="631" xml:id="chapter-14-l-631">von phelel noch von gimme</l>
+        <l n="632" xml:id="chapter-14-l-632">nie neheinen mohte gewinnen;</l>
+        <l n="633" xml:id="chapter-14-l-633">unt eine chorône diu was al rôt golt;</l>
+        <l n="634" xml:id="chapter-14-l-634">alsus macheten si in den chunich holt.</l>
+        <l n="635" xml:id="chapter-14-l-635">diu gâbe was ime dancnâme,</l>
+        <l n="636" xml:id="chapter-14-l-636">des lobet er die gûten Rômâre.</l>
+      </div>
+      <div data-level="1" n="31" rhyme="aa" type="chapter" xml:id="chapter-15">
+        <head xml:lang="deu-Latn">Alexander landet in Afrika</head>
+        <l n="637" xml:id="chapter-15-l-637">Zehen hundert er mit ime nam</l>
+        <l n="638" xml:id="chapter-15-l-638">dôr von Rôme dar chom,</l>
+        <l n="639" xml:id="chapter-15-l-639">unde fûr zen Africanen</l>
+        <l n="640" xml:id="chapter-15-l-640">den Darios undertânen.</l>
+        <l n="641" xml:id="chapter-15-l-641">mit gewalte reit er dâ durch</l>
+        <l n="642" xml:id="chapter-15-l-642">ze Kartagine in die burch.</l>
+        <l n="643" xml:id="chapter-15-l-643">die burgâre tâten ime die sicherheit.</l>
+        <l n="644" xml:id="chapter-15-l-644">vil lutzel er mit ime reit;</l>
+        <l n="645" xml:id="chapter-15-l-645">wande si in ummûth wâren</l>
+        <l n="646" xml:id="chapter-15-l-646">wider Rômâre die mâren.</l>
+        <l n="647" xml:id="chapter-15-l-647">Dannen wurden sîne boten gesant</l>
+        <l n="648" xml:id="chapter-15-l-648">uber al Meridienlant,</l>
+        <l n="649" xml:id="chapter-15-l-649">dannen in Bethaniam</l>
+        <l n="650" xml:id="chapter-15-l-650">unde dannen in Galatiem.</l>
+        <l n="651" xml:id="chapter-15-l-651">Kartanensen er enbôt,</l>
+        <l n="652" xml:id="chapter-15-l-652">.....</l>
+        <l n="653" xml:id="chapter-15-l-653">sie ne chômen unt wurden ime undertân,</l>
+        <l n="654" xml:id="chapter-15-l-654">er hiez si alle an daz crûce slahen.</l>
+        <l n="655" xml:id="chapter-15-l-655">Unde als si daz vernâmen,</l>
+        <l n="656" xml:id="chapter-15-l-656">newiht langer si ne wâren,</l>
+        <l n="657" xml:id="chapter-15-l-657">si chômen al gerihte</l>
+        <l n="658" xml:id="chapter-15-l-658">zû des chuniges gesihte.</l>
+        <l n="659" xml:id="chapter-15-l-659">sie brâhten silber unde golt</l>
+        <l n="660" xml:id="chapter-15-l-660">unde macheten in den chunich holt.</l>
+        <l n="661" xml:id="chapter-15-l-661">er ne wolte ir goldes newiht enphâhen,</l>
+        <l n="662" xml:id="chapter-15-l-662">er bestunt sie mit genâden.</l>
+        <l n="663" xml:id="chapter-15-l-663">wande si dûhten in frumich unt balt.</l>
+      </div>
+      <div data-level="1" n="36" rhyme="aa" type="chapter" xml:id="chapter-16">
+        <head xml:lang="deu-Latn">Alexander gründet Alexandria (in Ägypten)</head>
+        <l n="664" xml:id="chapter-16-l-664">er nam er ein thûsint in sîne gewalt</l>
+        <l n="665" xml:id="chapter-16-l-665">unt fûrti sie in Egypto allesamt</l>
+        <l n="666" xml:id="chapter-16-l-666">unde stifte dâ zêren sînes namen</l>
+        <l n="667" xml:id="chapter-16-l-667">eine burch, diu wart nâh im genant.</l>
+        <l n="668" xml:id="chapter-16-l-668">er erfûre al diu lant,</l>
+        <l n="669" xml:id="chapter-16-l-669">er ne gesâhe niemer neheine stat,</l>
+        <l n="670" xml:id="chapter-16-l-670">diu zû ir mohte werden gezalt.</l>
+        <l n="671" xml:id="chapter-16-l-671">Babilonia ne wart nie sô wît,</l>
+        <l n="672" xml:id="chapter-16-l-672">sô man sie noch ane siht.</l>
+        <l n="673" xml:id="chapter-16-l-673">Troja ne mohte sich zir niht gemâzen.</l>
+        <l n="674" xml:id="chapter-16-l-674">.....</l>
+        <l n="675" xml:id="chapter-16-l-675">a waz Gapadotia gebrach,</l>
+        <l n="676" xml:id="chapter-16-l-676">daz si wâre alsô vast!</l>
+        <l n="677" xml:id="chapter-16-l-677">Pede noch Kartagô</l>
+        <l n="678" xml:id="chapter-16-l-678">ir newedere was sô.</l>
+        <l n="679" xml:id="chapter-16-l-679">rîcher was disiu burch noch</l>
+        <l n="680" xml:id="chapter-16-l-680">danne Rôme oder Antioch.</l>
+        <l n="681" xml:id="chapter-16-l-681">Alexandria si hiez.</l>
+        <l n="682" xml:id="chapter-16-l-682">sînen namen er drinne liez.</l>
+      </div>
+      <div data-level="1" n="37" rhyme="aa" type="chapter" xml:id="chapter-17">
+        <head xml:lang="deu-Latn">Alexander erobert Syrien</head>
+        <l n="683" xml:id="chapter-17-l-683">dannen er durch daz lant brach.</l>
+        <l n="684" xml:id="chapter-17-l-684">er tede ein michel ungemach.</l>
+        <l n="685" xml:id="chapter-17-l-685">er was Dario gram.</l>
+        <l n="686" xml:id="chapter-17-l-686">er stôrte Galileam.</l>
+        <l n="687" xml:id="chapter-17-l-687">dâ wart in Neptalimlant</l>
+        <l n="688" xml:id="chapter-17-l-688">al ferhert unde ferbrant.</l>
+        <l n="689" xml:id="chapter-17-l-689">alsô tet er Zabulon,</l>
+        <l n="690" xml:id="chapter-17-l-690">die rîchen burch Naason.</l>
+        <l n="691" xml:id="chapter-17-l-691">er zestôrte Samariam.</l>
+        <l n="692" xml:id="chapter-17-l-692">alsô tet er Syriam.</l>
+        <l n="693" xml:id="chapter-17-l-693">diz was dâ Naaman inne was,</l>
+        <l n="694" xml:id="chapter-17-l-694">der von der miselsuhte genas.</l>
+        <l n="695" xml:id="chapter-17-l-695">er zestôrte ouch Bethuliam,</l>
+        <l n="696" xml:id="chapter-17-l-696">dâ Judith Holofern sîn hôbet nam.</l>
+        <l n="697" xml:id="chapter-17-l-697">unde zestôrte ouch judeisc lant.</l>
+      </div>
+      <div data-level="1" n="97" rhyme="aa" type="chapter" xml:id="chapter-18">
+        <head xml:lang="deu-Latn">Alexander in Jerusalem</head>
+        <l n="698" xml:id="chapter-18-l-698">dar nâch wart Jerusalem ferbrant</l>
+        <l n="699" xml:id="chapter-18-l-699">unde Bethlehem diu dâ bî stêt.</l>
+        <l n="700" xml:id="chapter-18-l-700">sô niemen mit ime streit,</l>
+        <l n="701" xml:id="chapter-18-l-701">al biz er Tyre zû treib.</l>
+        <l n="702" xml:id="chapter-18-l-702">a waz ime dâ helede tôt peleib!</l>
+      </div>
+      <div data-level="1" n="93" rhyme="aa" type="chapter" xml:id="chapter-19">
+        <head xml:lang="deu-Latn">Alexander belagert Tyros</head>
+        <l n="703" xml:id="chapter-19-l-703">Tyre was ein stat grôz,</l>
+        <l n="704" xml:id="chapter-19-l-704">daz mere si alle umbeflôz.</l>
+        <l n="705" xml:id="chapter-19-l-705">dâ wârn die mûre harte</l>
+        <l n="706" xml:id="chapter-19-l-706">von quâdrestein geworhte,</l>
+        <l n="707" xml:id="chapter-19-l-707">mit îserenen spangen</l>
+        <l n="708" xml:id="chapter-19-l-708">was al daz werch befangin,</l>
+        <l n="709" xml:id="chapter-19-l-709">unde dâ zû morter unde blî,</l>
+        <l n="710" xml:id="chapter-19-l-710">wie mehte siu vester sîn.</l>
+        <l n="711" xml:id="chapter-19-l-711">drî wâren der mûre,</l>
+        <l n="712" xml:id="chapter-19-l-712">umbe waz solte si daz gût vertûrem</l>
+        <l n="713" xml:id="chapter-19-l-713">daz golt sie ne hâlen:</l>
+        <l n="714" xml:id="chapter-19-l-714">sie thâten die turne mâlen,</l>
+        <l n="715" xml:id="chapter-19-l-715">daz daz rôthe golt dar ab schein</l>
+        <l n="716" xml:id="chapter-19-l-716">gemûseth oben an den stein.</l>
+        <l n="717" xml:id="chapter-19-l-717">dan zwiscen gingen de bogen,</l>
+        <l n="718" xml:id="chapter-19-l-718">si wâren al mit golde bezogen.</l>
+        <l n="719" xml:id="chapter-19-l-719">die turne stunden vil nâch,</l>
+        <l n="720" xml:id="chapter-19-l-720">wît was der hof dâ.</l>
+        <l n="721" xml:id="chapter-19-l-721">vil grôz scade daz was,</l>
+        <l n="722" xml:id="chapter-19-l-722">das si Alexander zebrach</l>
+        <l n="723" xml:id="chapter-19-l-723">durch sîn ubermûtecheit.</l>
+        <l n="724" xml:id="chapter-19-l-724">siu was einer mîle breit.</l>
+        <l n="725" xml:id="chapter-19-l-725">er ne waiz in anders neheine scult,</l>
+        <l n="726" xml:id="chapter-19-l-726">niewan si wâren einem chunige holt:</l>
+        <l n="727" xml:id="chapter-19-l-727">daz was Darios rex Persarum,</l>
+        <l n="728" xml:id="chapter-19-l-728">deme sie undertân wâren.</l>
+        <l n="729" xml:id="chapter-19-l-729">Nû vernement ouch ein ander:</l>
+        <l n="730" xml:id="chapter-19-l-730">zû zin sante Alexander</l>
+        <l n="731" xml:id="chapter-19-l-731">unt sprach, ob si in ze chunige wolten entfân</l>
+        <l n="732" xml:id="chapter-19-l-732">unde ime wesen undertân</l>
+        <l n="733" xml:id="chapter-19-l-733">unde die burch gâben in sîne gewalt.</l>
+        <l n="734" xml:id="chapter-19-l-734">dâ saz inne vil manec helt,</l>
+        <l n="735" xml:id="chapter-19-l-735">die alle wider zim santen,</l>
+        <l n="736" xml:id="chapter-19-l-736">wande si sîn niewiht bechanden.</l>
+        <l n="737" xml:id="chapter-19-l-737">sie sprâchen, daz sie in niene forhten,</l>
+        <l n="738" xml:id="chapter-19-l-738">noch si sîn ze niehte bedorften,</l>
+        <l n="739" xml:id="chapter-19-l-739">wan sie trûgen ime willigen mût</l>
+        <l n="740" xml:id="chapter-19-l-740">unde gâben ime gerne durch minne ir gût.</l>
+        <l n="741" xml:id="chapter-19-l-741">unt alsô dise boten wider chômen,</l>
+        <l n="742" xml:id="chapter-19-l-742">vernement, wie in Alexander vernâmi:</l>
+        <l n="743" xml:id="chapter-19-l-743">mit zorn er der nider saz;</l>
+        <l n="744" xml:id="chapter-19-l-744">bî sînem hals er sich vermaz;</l>
+        <l n="745" xml:id="chapter-19-l-745">er sprach, ez en solte sîn porlanch</l>
+        <l n="746" xml:id="chapter-19-l-746">er wolte si hân âne ir allir danch.</l>
+        <l n="747" xml:id="chapter-19-l-747">Dô nam er sîner fursten drî -</l>
+        <l n="748" xml:id="chapter-19-l-748">ouch ne waiz ich, wie ir name sî -</l>
+        <l n="749" xml:id="chapter-19-l-749">unt sante si dar widere in die stat</l>
+        <l n="750" xml:id="chapter-19-l-750">unde hiez den altsten sagen daz:</l>
+        <l n="751" xml:id="chapter-19-l-751">war sie ir sin thâdin,</l>
+        <l n="752" xml:id="chapter-19-l-752">daz si den chunich fersmâten,</l>
+        <l n="753" xml:id="chapter-19-l-753">der Rôme mit sîner crapht</l>
+        <l n="754" xml:id="chapter-19-l-754">unt al Chrîchen under sich hiete brâht.</l>
+        <l n="755" xml:id="chapter-19-l-755">unt alsô die boten fur chômen</l>
+        <l n="756" xml:id="chapter-19-l-756">unt die burgâre ir rede vernâmen,</l>
+        <l n="757" xml:id="chapter-19-l-757">si thâden stolzen liuten gelîch</l>
+        <l n="758" xml:id="chapter-19-l-758">unde hingen sie alle ûf ein zwîch.</l>
+        <l n="759" xml:id="chapter-19-l-759">Nû beviench Alexander die burch mit here</l>
+        <l n="760" xml:id="chapter-19-l-760">mit den scephen in dem mere.</l>
+        <l n="761" xml:id="chapter-19-l-761">mit sturme er sie starche dwanc,</l>
+        <l n="762" xml:id="chapter-19-l-762">er drûg in ubelen gedanc.</l>
+        <l n="763" xml:id="chapter-19-l-763">si werten sich vone prîse wole.</l>
+        <l n="764" xml:id="chapter-19-l-764">der werlte ne was nehein zal,</l>
+        <l n="765" xml:id="chapter-19-l-765">der in der burch was</l>
+        <l n="766" xml:id="chapter-19-l-766">zwainzech thûsent unde baz.</l>
+        <l n="767" xml:id="chapter-19-l-767">alsô vil sclûgen si ime sînes hers,</l>
+        <l n="768" xml:id="chapter-19-l-768">daz die unde des mers</l>
+        <l n="769" xml:id="chapter-19-l-769">von dem plûte wurden rôt.</l>
+        <l n="770" xml:id="chapter-19-l-770">der wint tet in vil nôt,</l>
+        <l n="771" xml:id="chapter-19-l-771">daz sîner scephe ein hundert versunchen</l>
+        <l n="772" xml:id="chapter-19-l-772">unt sîne helde all ertrunchen.</l>
+        <l n="773" xml:id="chapter-19-l-773">dô Alexander daz gesach,</l>
+        <l n="774" xml:id="chapter-19-l-774">daz ir alsô vil thôt lach,</l>
+        <l n="775" xml:id="chapter-19-l-775">des sturmes hiez er abe stân,</l>
+        <l n="776" xml:id="chapter-19-l-776">er thete die sceph wider in die habe gân.</l>
+        <l n="777" xml:id="chapter-19-l-777">Alexander bedâhte sich</l>
+        <l n="778" xml:id="chapter-19-l-778">des schaden ummâzlîch.</l>
+        <l n="779" xml:id="chapter-19-l-779">er was ein listich man,</l>
+        <l n="780" xml:id="chapter-19-l-780">grôze poum er gewan</l>
+        <l n="781" xml:id="chapter-19-l-781">unde thede die zesamene spannen</l>
+        <l n="782" xml:id="chapter-19-l-782">von chundigen zimbermannin</l>
+        <l n="783" xml:id="chapter-19-l-783">unde hiez daz mit steinen vullen.</l>
+        <l n="784" xml:id="chapter-19-l-784">daz was an sînem willen:</l>
+        <l n="785" xml:id="chapter-19-l-785">swane er sîn ebenhôch zem turne brâhte,</l>
+        <l n="786" xml:id="chapter-19-l-786">daz er lange poume darabe rihti,</l>
+        <l n="787" xml:id="chapter-19-l-787">die der zû den zinnen mahten gân.</l>
+        <l n="788" xml:id="chapter-19-l-788">er wolte sie mit nîde bestân.</l>
+        <l n="789" xml:id="chapter-19-l-789">Einluph tûsint santer sînes hers</l>
+        <l n="790" xml:id="chapter-19-l-790">nâch den poumen uber mer</l>
+        <l n="791" xml:id="chapter-19-l-791">unde hiez die poume vellen,</l>
+        <l n="792" xml:id="chapter-19-l-792">er wolte perfrit stellen,</l>
+        <l n="793" xml:id="chapter-19-l-793">ûf einen perc, heizet Libanus,</l>
+        <l n="794" xml:id="chapter-19-l-794">dâ stêt ûf manch cêdrus.</l>
+        <l n="795" xml:id="chapter-19-l-795">diz ist Libanus der in Arabien stêt,</l>
+        <l n="796" xml:id="chapter-19-l-796">dâ der Jordan ûz gêt.</l>
+        <l n="797" xml:id="chapter-19-l-797">diz ist noch der selbe walt,</l>
+        <l n="798" xml:id="chapter-19-l-798">den der chunich Salemon galt</l>
+        <l n="799" xml:id="chapter-19-l-799">wider einen chunich, der hiez Hiram.</l>
+        <l n="800" xml:id="chapter-19-l-800">er gab ime halb Galileam,</l>
+        <l n="801" xml:id="chapter-19-l-801">wande im die poume wol gevielen</l>
+        <l n="802" xml:id="chapter-19-l-802">ze zimber unde ze chielen.</l>
+        <l n="803" xml:id="chapter-19-l-803">si nerfûlent ouch niemer mê</l>
+        <l n="804" xml:id="chapter-19-l-804">weder durh regen noch durch snê.</l>
+        <l n="805" xml:id="chapter-19-l-805">Nû de Arabati alsô daz befunden,</l>
+        <l n="806" xml:id="chapter-19-l-806">die Tyrin wole gûtes gunden,</l>
+        <l n="807" xml:id="chapter-19-l-807">newiht langer si nenthwalten:</l>
+        <l n="808" xml:id="chapter-19-l-808">die den forst valten,</l>
+        <l n="809" xml:id="chapter-19-l-809">si nâmen ein ungezogenlîch phant</l>
+        <l n="810" xml:id="chapter-19-l-810">unt erslûgen ein tûsint.</l>
+        <l n="811" xml:id="chapter-19-l-811">dô Alexander daz vernam,</l>
+        <l n="812" xml:id="chapter-19-l-812">vier tûsent er nam</l>
+        <l n="813" xml:id="chapter-19-l-813">des hers, daz er noch dô habete.</l>
+        <l n="814" xml:id="chapter-19-l-814">ein herzoge hiez sich Gracto</l>
+        <l n="815" xml:id="chapter-19-l-815">unde ein ander der was Perdix genant,</l>
+        <l n="816" xml:id="chapter-19-l-816">den bevalch erz gesez in die hant</l>
+        <l n="817" xml:id="chapter-19-l-817">unde fûr dô selbe ûz</l>
+        <l n="818" xml:id="chapter-19-l-818">ze dem berge Libanus,</l>
+        <l n="819" xml:id="chapter-19-l-819">unde bewarte sîne holden,</l>
+        <l n="820" xml:id="chapter-19-l-820">die dâ zimberin solten,</l>
+        <l n="821" xml:id="chapter-19-l-821">biz iz alliz gereite wart.</l>
+        <l n="822" xml:id="chapter-19-l-822">dô nam er die widervart</l>
+        <l n="823" xml:id="chapter-19-l-823">Nû was Alexander mit here</l>
+        <l n="824" xml:id="chapter-19-l-824">nâch den poumen uber mere.</l>
+        <l n="825" xml:id="chapter-19-l-825">des wurden die burgâre stolz unt balt.</l>
+        <l n="826" xml:id="chapter-19-l-826">si ranten ûz mit gewalt.</l>
+        <l n="827" xml:id="chapter-19-l-827">ubirmûtechliche si sich râchen,</l>
+        <l n="828" xml:id="chapter-19-l-828">ein castel si im zebrâchen.</l>
+        <l n="829" xml:id="chapter-19-l-829">eines morgens frû</l>
+        <l n="830" xml:id="chapter-19-l-830">mit fiure gingen sime zû</l>
+        <l n="831" xml:id="chapter-19-l-831">unde sclûgen unde fiengen</l>
+        <l n="832" xml:id="chapter-19-l-832">alle die si drûffe begiengen.</l>
+        <l n="833" xml:id="chapter-19-l-833">noch mag ich iu sagen mêre:</l>
+        <l n="834" xml:id="chapter-19-l-834">si besencten sich in den sê,</l>
+        <l n="835" xml:id="chapter-19-l-835">daz man si in allem tage niene sach,</l>
+        <l n="836" xml:id="chapter-19-l-836">ê man die gruntfeste zebrach.</l>
+        <l n="837" xml:id="chapter-19-l-837">sie sancten sich in des sêwes grunt</l>
+        <l n="838" xml:id="chapter-19-l-838">unt chômen after ûz wider gesunt.</l>
+        <l n="839" xml:id="chapter-19-l-839">Unde alsô daz castel was endwart,</l>
+        <l n="840" xml:id="chapter-19-l-840">dô hûb sich ein sturm hart</l>
+        <l n="841" xml:id="chapter-19-l-841">von den herzogen zwein.</l>
+        <l n="842" xml:id="chapter-19-l-842">dô beleib der burgêr nie nechein.</l>
+        <l n="843" xml:id="chapter-19-l-843">a wie maneger des sturmes enchalt;</l>
+        <l n="844" xml:id="chapter-19-l-844">ze zwain hundert wâren sie gezalt,</l>
+        <l n="845" xml:id="chapter-19-l-845">die dâ thôt piliben,</l>
+        <l n="846" xml:id="chapter-19-l-846">al dâ sis von den porten triben.</l>
+        <l n="847" xml:id="chapter-19-l-847">dâ wart in gescadet vil sêre.</l>
+        <l n="848" xml:id="chapter-19-l-848">dô alrêrist chom ir hêre.</l>
+        <l n="849" xml:id="chapter-19-l-849">owê daz Tyre dô niht genas,</l>
+        <l n="850" xml:id="chapter-19-l-850">alsô wol ir begagent was.</l>
+        <l n="851" xml:id="chapter-19-l-851">Nû willich sagen allen, die des niene chunnen,</l>
+        <l n="852" xml:id="chapter-19-l-852">wie Tyre wart gewunnen.</l>
+        <l n="853" xml:id="chapter-19-l-853">Alexander chom mit grôzer chrefte</l>
+        <l n="854" xml:id="chapter-19-l-854">unt tet sceph zesamen hephten</l>
+        <l n="855" xml:id="chapter-19-l-855">imer zwai unt zwai neben;</l>
+        <l n="856" xml:id="chapter-19-l-856">unt hîz den îsrîne pente geben,</l>
+        <l n="857" xml:id="chapter-19-l-857">unt tet die mit hûten alsô uberziehen,</l>
+        <l n="858" xml:id="chapter-19-l-858">daz die unden dar în niene giengen.</l>
+        <l n="859" xml:id="chapter-19-l-859">perfrit dar ûff si sazten</l>
+        <l n="860" xml:id="chapter-19-l-860">von den aller lengisten poumen, die sie habeten,</l>
+        <l n="861" xml:id="chapter-19-l-861">unde triben si zû den zinnen.</l>
+        <l n="862" xml:id="chapter-19-l-862">alsus wolten si die burch gewinnen.</l>
+        <l n="863" xml:id="chapter-19-l-863">Der chunich hiez die mûre hauwen</l>
+        <l n="864" xml:id="chapter-19-l-864">mit stêliner gezowe.</l>
+        <l n="865" xml:id="chapter-19-l-865">dâ hûb sich ein sturm vil grôz.</l>
+        <l n="866" xml:id="chapter-19-l-866">a wie man warf unde scôz</l>
+        <l n="867" xml:id="chapter-19-l-867">von den ainen zen andern,</l>
+        <l n="868" xml:id="chapter-19-l-868">daz alle die mahte wundern,</l>
+        <l n="869" xml:id="chapter-19-l-869">die ie dechainen sturm gesâhen.</l>
+        <l n="870" xml:id="chapter-19-l-870">von der werlte, diu dâ tôt lach,</l>
+        <l n="871" xml:id="chapter-19-l-871">sô wart daz mere allez ein blût.</l>
+        <l n="872" xml:id="chapter-19-l-872">des wôhs dem chunige wol sîn mût,</l>
+        <l n="873" xml:id="chapter-19-l-873">er bestunt sie mit nîde.</l>
+        <l n="874" xml:id="chapter-19-l-874">von den perfriden hiez er sie trîben.</l>
+        <l n="875" xml:id="chapter-19-l-875">die wâren hôher danne die turni.</l>
+        <l n="876" xml:id="chapter-19-l-876">daz tet er in ze zorne.</l>
+        <l n="877" xml:id="chapter-19-l-877">dâ wurden die schônen turne mit den bogen</l>
+        <l n="878" xml:id="chapter-19-l-878">in daz wazzer gezogen,</l>
+        <l n="879" xml:id="chapter-19-l-879">unt brâchen dâ der besten mûre eine,</l>
+        <l n="880" xml:id="chapter-19-l-880">die ie burch gewan deheine.</l>
+        <l n="881" xml:id="chapter-19-l-881">Alsô si ze der ander chômen,</l>
+        <l n="882" xml:id="chapter-19-l-882">zêderboumi sie der nâmen</l>
+        <l n="883" xml:id="chapter-19-l-883">unde dar zû lange dannen.</l>
+        <l n="884" xml:id="chapter-19-l-884">dô hiez er perfride spannen</l>
+        <l n="885" xml:id="chapter-19-l-885">unde rihte die ûf mit listen</l>
+        <l n="886" xml:id="chapter-19-l-886">unde sazte si ûf zû der feste.</l>
+        <l n="887" xml:id="chapter-19-l-887">Alexander steich ûf daz obrist gewer</l>
+        <l n="888" xml:id="chapter-19-l-888">unt gebôt den sturm uber al daz here</l>
+        <l n="889" xml:id="chapter-19-l-889">unde liez dô mit der werlte</l>
+        <l n="890" xml:id="chapter-19-l-890">den êristen sturm werden.</l>
+        <l n="891" xml:id="chapter-19-l-891">mit hameren man die burchmûre zebrach.</l>
+        <l n="892" xml:id="chapter-19-l-892">a waz dâ werlte tôt belach!</l>
+        <l n="893" xml:id="chapter-19-l-893">Alexanders schilt was helfenbein,</l>
+        <l n="894" xml:id="chapter-19-l-894">bezzer wart nie nechein.</l>
+        <l n="895" xml:id="chapter-19-l-895">sîn helm was alsô gût,</l>
+        <l n="896" xml:id="chapter-19-l-896">sô der nî nechein swert durch gewût.</l>
+        <l n="897" xml:id="chapter-19-l-897">in der hende trûch er einen gêr</l>
+        <l n="898" xml:id="chapter-19-l-898">von golde gedrâjet vil hêr.</l>
+        <l n="899" xml:id="chapter-19-l-899">dô sach er den herzogen stân,</l>
+        <l n="900" xml:id="chapter-19-l-900">dem al Tyre was undertân,</l>
+        <l n="901" xml:id="chapter-19-l-901">kegen ime ûf der mûre.</l>
+        <l n="902" xml:id="chapter-19-l-902">er lie sich es niuht fertûren,</l>
+        <l n="903" xml:id="chapter-19-l-903">er scôz in mit tem gêre durch</l>
+        <l n="904" xml:id="chapter-19-l-904">unde falt in tôt in die burch.</l>
+        <l n="905" xml:id="chapter-19-l-905">Dô tet der chunich ainen sprunc,</l>
+        <l n="906" xml:id="chapter-19-l-906">mit im manich helt junc</l>
+        <l n="907" xml:id="chapter-19-l-907">fon den perfriden ûf die zinnen.</l>
+        <l n="908" xml:id="chapter-19-l-908">alsus wolden sie die burch gewinnen.</l>
+        <l n="909" xml:id="chapter-19-l-909">vier tûsint ir mit ime spranch,</l>
+        <l n="910" xml:id="chapter-19-l-910">sie trûgen ubelen gedanc.</l>
+        <l n="911" xml:id="chapter-19-l-911">mîn wân ne triege mich,</l>
+        <l n="912" xml:id="chapter-19-l-912">dâ gespranch ir etelîch,</l>
+        <l n="913" xml:id="chapter-19-l-913">daz er dâ zestunt</l>
+        <l n="914" xml:id="chapter-19-l-914">niemer mêre wart gesunt,</l>
+        <l n="915" xml:id="chapter-19-l-915">daz ir ein hunderet tôt lach</l>
+        <l n="916" xml:id="chapter-19-l-916">ân andere ungemach.</l>
+        <l n="917" xml:id="chapter-19-l-917">dâ brâchen sie die besten mûre zû der erde,</l>
+        <l n="918" xml:id="chapter-19-l-918">diu der ie dehein solte werden.</l>
+        <l n="919" xml:id="chapter-19-l-919">Dâ was daz velt vil wît,</l>
+        <l n="920" xml:id="chapter-19-l-920">dâ hûb sich der bitteriste strît,</l>
+        <l n="921" xml:id="chapter-19-l-921">dâ ich noch ie abe hôrte gesagen.</l>
+        <l n="922" xml:id="chapter-19-l-922">dâ ne gesach man nechein zagen.</l>
+        <l n="923" xml:id="chapter-19-l-923">dâ mahti man manegen degen scouwen</l>
+        <l n="924" xml:id="chapter-19-l-924">al durch den helm verhouwen,</l>
+        <l n="925" xml:id="chapter-19-l-925">unde manegen rîter junch</l>
+        <l n="926" xml:id="chapter-19-l-926">al durch die halsperge verwunt,</l>
+        <l n="927" xml:id="chapter-19-l-927">daz er der wunde niht genas,</l>
+        <l n="928" xml:id="chapter-19-l-928">want daz swert scarf was.</l>
+        <l n="929" xml:id="chapter-19-l-929">durch den scilt flôch der gêr</l>
+        <l n="930" xml:id="chapter-19-l-930">unde machet manegen helt sêr.</l>
+        <l n="931" xml:id="chapter-19-l-931">dâ hete jâmer ein alsô der ander</l>
+        <l n="932" xml:id="chapter-19-l-932">âne der wunderlîche Alexander.</l>
+        <l n="933" xml:id="chapter-19-l-933">er slûch des liutes die menige.</l>
+        <l n="934" xml:id="chapter-19-l-934">gebeizet was sîn brunne</l>
+        <l n="935" xml:id="chapter-19-l-935">in eines wurmes blûte.</l>
+        <l n="936" xml:id="chapter-19-l-936">er stunt ime stolzes mûtes.</l>
+        <l n="937" xml:id="chapter-19-l-937">hurnen was siu veste.</l>
+        <l n="938" xml:id="chapter-19-l-938">ez chom vone grôzen listen.</l>
+        <l n="939" xml:id="chapter-19-l-939">ez lâgen thûsint unt aver thûsint,</l>
+        <l n="940" xml:id="chapter-19-l-940">ûf der erde mahte niemen gân,</l>
+        <l n="941" xml:id="chapter-19-l-941">alsô vil lag ir dâ erslagen,</l>
+        <l n="942" xml:id="chapter-19-l-942">daz iz iu unzellîch ist ze sagen.</l>
+        <l n="943" xml:id="chapter-19-l-943">die chûnen von Tyre,</l>
+        <l n="944" xml:id="chapter-19-l-944">des lebenes vil gîre,</l>
+        <l n="945" xml:id="chapter-19-l-945">si fuhten alsô wildiu swîn,</l>
+        <l n="946" xml:id="chapter-19-l-946">swes tôt nieht solte sîn.</l>
+        <l n="947" xml:id="chapter-19-l-947">Die umbe die burch lâgen,</l>
+        <l n="948" xml:id="chapter-19-l-948">sie ne dorften sich des siges niemer gerûmen.</l>
+        <l n="949" xml:id="chapter-19-l-949">wande die burgêre brâchen si durch</l>
+        <l n="950" xml:id="chapter-19-l-950">unt wichen aber wider in die burch.</l>
+        <l n="951" xml:id="chapter-19-l-951">dâ verlôs er manegen dûren chneht,</l>
+        <l n="952" xml:id="chapter-19-l-952">Alexander tet in grôz unreht.</l>
+        <l n="953" xml:id="chapter-19-l-953">Harte zurnt sich Alexander dô.</l>
+        <l n="954" xml:id="chapter-19-l-954">mit nîde giench er der porten zû.</l>
+        <l n="955" xml:id="chapter-19-l-955">die dar ûf wâren,</l>
+        <l n="956" xml:id="chapter-19-l-956">si tâten scaden mêre.</l>
+        <l n="957" xml:id="chapter-19-l-957">ûf ter porte stunten drîe turni;</l>
+        <l n="958" xml:id="chapter-19-l-958">dâ geschiet er abe mit zorni</l>
+        <l n="959" xml:id="chapter-19-l-959">des mordes, des er an sînen holden gesach.</l>
+        <l n="960" xml:id="chapter-19-l-960">mit sînen fursten er sprach:</l>
+        <l n="961" xml:id="chapter-19-l-961">'hêren, bedenchet iuch sîn enzît,</l>
+        <l n="962" xml:id="chapter-19-l-962">wandir tiure chnehte sît:</l>
+        <l n="963" xml:id="chapter-19-l-963">nement si nû die obere hant</l>
+        <l n="964" xml:id="chapter-19-l-964">sô ist unser spot uber daz lant.'</l>
+        <l n="965" xml:id="chapter-19-l-965">der rât, der ime dô wart getân,</l>
+        <l n="966" xml:id="chapter-19-l-966">den mugent ir schiere verstên.</l>
+        <l n="967" xml:id="chapter-19-l-967">sie rieten, daz er mange getâte richten</l>
+        <l n="968" xml:id="chapter-19-l-968">unde lieze die turni brechen.</l>
+        <l n="969" xml:id="chapter-19-l-969">zwô unde sibenzech mange wurden dâ gestalt,</l>
+        <l n="970" xml:id="chapter-19-l-970">sie wurfen alle mit gewalt.</l>
+        <l n="971" xml:id="chapter-19-l-971">si wâren vil wol gesailet.</l>
+        <l n="972" xml:id="chapter-19-l-972">si wurden in driu getailet.</l>
+        <l n="973" xml:id="chapter-19-l-973">si wurfen fûr unde witi,</l>
+        <l n="974" xml:id="chapter-19-l-974">daz was Alexanders site:</l>
+        <l n="975" xml:id="chapter-19-l-975">daz er chriechisc fûr chunde wurchen</l>
+        <l n="976" xml:id="chapter-19-l-976">unde liez iz niemen merchen,</l>
+        <l n="977" xml:id="chapter-19-l-977">von welher liste iz im chom,</l>
+        <l n="978" xml:id="chapter-19-l-978">daz ez in dem wazzere bran.</l>
+        <l n="979" xml:id="chapter-19-l-979">daz warf er in zû der burch.</l>
+        <l n="980" xml:id="chapter-19-l-980">dâ mite brante er sie al durch unt durch</l>
+        <l n="981" xml:id="chapter-19-l-981">unde dar zû manegen herten stein.</l>
+        <l n="982" xml:id="chapter-19-l-982">dô belaib der burgâre nie nehein,</l>
+        <l n="983" xml:id="chapter-19-l-983">si mûsen dô alle von der zimlen gân.</l>
+        <l n="984" xml:id="chapter-19-l-984">wande si ne getorsten dâ nie langer gestân</l>
+        <l n="985" xml:id="chapter-19-l-985">for des fûres forhten.</l>
+        <l n="986" xml:id="chapter-19-l-986">Alexander der tranch zû der porte,</l>
+        <l n="987" xml:id="chapter-19-l-987">mit nîde er sie der nider brach.</l>
+        <l n="988" xml:id="chapter-19-l-988">a waz ime dâ helede tôt lach!</l>
+        <l n="989" xml:id="chapter-19-l-989">des wârim sêre mê gesciet,</l>
+        <l n="990" xml:id="chapter-19-l-990">forhten si der mange wurfe nieht.</l>
+        <l n="991" xml:id="chapter-19-l-991">sô solt im diu burch werden tiure,</l>
+        <l n="992" xml:id="chapter-19-l-992">gewunners nieht mit chriechiscen fiure.</l>
+        <l n="993" xml:id="chapter-19-l-993">Alexander wolte sich wole rechen:</l>
+        <l n="994" xml:id="chapter-19-l-994">er hiez die trîe turne nider brechen,</l>
+        <l n="995" xml:id="chapter-19-l-995">die daz fur hiete verlâzen.</l>
+        <l n="996" xml:id="chapter-19-l-996">der aller rîchisten burgâre, die in der burch sâzen,</l>
+        <l n="997" xml:id="chapter-19-l-997">der thede er driu tûsint fâhen</l>
+        <l n="998" xml:id="chapter-19-l-998">unde hiez sie blenden unde hâhen</l>
+        <l n="999" xml:id="chapter-19-l-999">wider sînen furstin drîn,</l>
+        <l n="1000" xml:id="chapter-19-l-1000">die er dâ for sante der în.</l>
+        <l n="1001" xml:id="chapter-19-l-1001">des siges, des er dâ nam,</l>
+        <l n="1002" xml:id="chapter-19-l-1002">wêrez ein wole bedâht man,</l>
+        <l n="1003" xml:id="chapter-19-l-1003">er ne wurdes niemer ze frô;</l>
+        <l n="1004" xml:id="chapter-19-l-1004">wande ez gescah sît alsô,</l>
+        <l n="1005" xml:id="chapter-19-l-1005">daz ir mêre was der ime dâ tôt belaib,</l>
+        <l n="1006" xml:id="chapter-19-l-1006">.....</l>
+        <l n="1007" xml:id="chapter-19-l-1007">tan der inerhalb Tyre wâre</l>
+        <l n="1008" xml:id="chapter-19-l-1008">weder geste oder burgâre.</l>
+        <l n="1009" xml:id="chapter-19-l-1009">al zestôret was dô Tyrus.</l>
+        <l n="1010" xml:id="chapter-19-l-1010">die stifte sint ter chunich Apollonios,</l>
+        <l n="1011" xml:id="chapter-19-l-1011">den Antioch uber mere jagete,</l>
+        <l n="1012" xml:id="chapter-19-l-1012">wande er ime sagete</l>
+        <l n="1013" xml:id="chapter-19-l-1013">daz rêtsce an einem brieve,</l>
+        <l n="1014" xml:id="chapter-19-l-1014">daz er mit sîner tohter sliefe.</l>
+        <l n="1015" xml:id="chapter-19-l-1015">Tyre is noch diu selbe stat,</l>
+        <l n="1016" xml:id="chapter-19-l-1016">dâ daz heiden wîb unseren hêren pat,</l>
+        <l n="1017" xml:id="chapter-19-l-1017">daz er ir tohter erlôste</l>
+        <l n="1018" xml:id="chapter-19-l-1018">von dem ubelen geiste, der sie nôte.</l>
+      </div>
+      <div data-level="1" n="45" rhyme="aa" type="chapter" xml:id="chapter-20">
+        <head xml:lang="deu-Latn">Darius' 1. Brief an Alexander (Geschenke)</head>
+        <l n="1019" xml:id="chapter-20-l-1019">Dar nâch uber unlanch stunt</l>
+        <l n="1020" xml:id="chapter-20-l-1020">sô wart Dario chunt</l>
+        <l n="1021" xml:id="chapter-20-l-1021">von einem, der vone Tyren entran,</l>
+        <l n="1022" xml:id="chapter-20-l-1022">daz Alexander der chûne man</l>
+        <l n="1023" xml:id="chapter-20-l-1023">sîne liute habete gevangen</l>
+        <l n="1024" xml:id="chapter-20-l-1024">unde geblentet unde erhangen,</l>
+        <l n="1025" xml:id="chapter-20-l-1025">unt diu schône Tyre lâgen cholen</l>
+        <l n="1026" xml:id="chapter-20-l-1026">unde er sie hieze daz laster dolen.</l>
+        <l n="1027" xml:id="chapter-20-l-1027">er sprach, er mohte sich scamen</l>
+        <l n="1028" xml:id="chapter-20-l-1028">sînes chunichlîches namen,</l>
+        <l n="1029" xml:id="chapter-20-l-1029">daz er in niuht ze helfen chôme,</l>
+        <l n="1030" xml:id="chapter-20-l-1030">dô er ir grôze nôt fernâme.</l>
+        <l n="1031" xml:id="chapter-20-l-1031">Ain rîcher chunich was Darios.</l>
+        <l n="1032" xml:id="chapter-20-l-1032">derwider dâhter alsus:</l>
+        <l n="1033" xml:id="chapter-20-l-1033">Alexander dûhte in lutzel.</l>
+        <l n="1034" xml:id="chapter-20-l-1034">er sante im eines chindes stuzel</l>
+        <l n="1035" xml:id="chapter-20-l-1035">unde dar zû ein scûhpant,</l>
+        <l n="1036" xml:id="chapter-20-l-1036">alsô erz in sînem herzen vant,</l>
+        <l n="1037" xml:id="chapter-20-l-1037">unde ein wênich choldes in einer lade.</l>
+        <l n="1038" xml:id="chapter-20-l-1038">er wânde er ime iemer mohte gescaden.</l>
+        <l n="1039" xml:id="chapter-20-l-1039">unt sante im dise drîe sache</l>
+        <l n="1040" xml:id="chapter-20-l-1040">unt tet des einen brîf machen,</l>
+        <l n="1041" xml:id="chapter-20-l-1041">daz ez der brîf benante,</l>
+        <l n="1042" xml:id="chapter-20-l-1042">umbe waz er ime die drîe gebe sante.</l>
+        <l n="1043" xml:id="chapter-20-l-1043">Ain stuzel sante er im umbe daz,</l>
+        <l n="1044" xml:id="chapter-20-l-1044">daz ime daz stunde michel baz,</l>
+        <l n="1045" xml:id="chapter-20-l-1045">daz er mit den chinden spilen gienge,</l>
+        <l n="1046" xml:id="chapter-20-l-1046">danner sîne liute cholte oder hienge.</l>
+        <l n="1047" xml:id="chapter-20-l-1047">daz bezêchinôt daz scûchpant,</l>
+        <l n="1048" xml:id="chapter-20-l-1048">daz Alexander wart kesant,</l>
+        <l n="1049" xml:id="chapter-20-l-1049">daz er ime tagelîchen dienen solte,</l>
+        <l n="1050" xml:id="chapter-20-l-1050">ob Darios wolte,</l>
+        <l n="1051" xml:id="chapter-20-l-1051">wanten scûchpant nuzet man tagelîch;</l>
+        <l n="1052" xml:id="chapter-20-l-1052">daz er dar an bedâchte sich</l>
+        <l n="1053" xml:id="chapter-20-l-1053">unde lieze sîn irreheit stân</l>
+        <l n="1054" xml:id="chapter-20-l-1054">unt wâre sîneme hêren undertân,</l>
+        <l n="1055" xml:id="chapter-20-l-1055">alsô ander sîne forderen teten,</l>
+        <l n="1056" xml:id="chapter-20-l-1056">die sich nie wider ime gesazten.</l>
+        <l n="1057" xml:id="chapter-20-l-1057">Daz bezeichnôt daz cholt:</l>
+        <l n="1058" xml:id="chapter-20-l-1058">daz er rehte merchen solt,</l>
+        <l n="1059" xml:id="chapter-20-l-1059">daz daz ter zins wâre, den ime sîn vater chulte</l>
+        <l n="1060" xml:id="chapter-20-l-1060">aller jârilîch turch sîne hulde,</l>
+        <l n="1061" xml:id="chapter-20-l-1061">daz er in des prâcht innin</l>
+        <l n="1062" xml:id="chapter-20-l-1062">unt fûr im den zins gewinnen;</l>
+        <l n="1063" xml:id="chapter-20-l-1063">unt daz er des choldes solde leben</l>
+        <l n="1064" xml:id="chapter-20-l-1064">unde er niemen niuht solte nemen,</l>
+        <l n="1065" xml:id="chapter-20-l-1065">unz er wider haim chôme;</l>
+        <l n="1066" xml:id="chapter-20-l-1066">daz er niemen sînes niuht nâme,</l>
+        <l n="1067" xml:id="chapter-20-l-1067">unde daz er schiere dannen rithe</l>
+        <l n="1068" xml:id="chapter-20-l-1068">unde niuht langer bite.</l>
+        <l n="1069" xml:id="chapter-20-l-1069">unt dêter iwiht mêre wider sînen willen,</l>
+        <l n="1070" xml:id="chapter-20-l-1070">er hiez in mit dem besemen villen.</l>
+      </div>
+      <div data-level="1" n="46" rhyme="aa" type="chapter" xml:id="chapter-21">
+        <head xml:lang="deu-Latn">Alexanders 1. Brief an Darius (Auslegung der Geschenke)</head>
+        <l n="1071" xml:id="chapter-21-l-1071">Unde alsô Alexander den brîf gelas,</l>
+        <l n="1072" xml:id="chapter-21-l-1072">owî wie smâhe ime was,</l>
+        <l n="1073" xml:id="chapter-21-l-1073">daz man ime trôte ze slahen.</l>
+        <l n="1074" xml:id="chapter-21-l-1074">die boten hiez er alle ûfhâhen.</l>
+        <l n="1075" xml:id="chapter-21-l-1075">der boten ainer zim sprach:</l>
+        <l n="1076" xml:id="chapter-21-l-1076">'hêre, tût uns nehain ungemach;</l>
+        <l n="1077" xml:id="chapter-21-l-1077">wande ez ne dûcht iuch gnâde noch reht,</l>
+        <l n="1078" xml:id="chapter-21-l-1078">swâ sô iwer chneht</l>
+        <l n="1079" xml:id="chapter-21-l-1079">iwer botescaf tribe,</l>
+        <l n="1080" xml:id="chapter-21-l-1080">daz er drumbe tôt belibe;</l>
+        <l n="1081" xml:id="chapter-21-l-1081">unde niene scentet iweren namen.</l>
+        <l n="1082" xml:id="chapter-21-l-1082">wir jehen des, hêre, alle samt,</l>
+        <l n="1083" xml:id="chapter-21-l-1083">daz under disen chunigen allen</l>
+        <l n="1084" xml:id="chapter-21-l-1084">neheiner ziu mach gevallen,</l>
+        <l n="1085" xml:id="chapter-21-l-1085">der mit alsô grôzer frumicheit</l>
+        <l n="1086" xml:id="chapter-21-l-1086">sîn here uber lant leit,</l>
+        <l n="1087" xml:id="chapter-21-l-1087">sô ir, hêre chunich, tût.</l>
+        <l n="1088" xml:id="chapter-21-l-1088">nû bedwinget iweren mût</l>
+        <l n="1089" xml:id="chapter-21-l-1089">unde habet unser mâze.</l>
+        <l n="1090" xml:id="chapter-21-l-1090">wande wir getorsten die botscaf niet lâzen.'</l>
+        <l n="1091" xml:id="chapter-21-l-1091">Alexander bedâhte sich,</l>
+        <l n="1092" xml:id="chapter-21-l-1092">er wart den boten genâdich.</l>
+        <l n="1093" xml:id="chapter-21-l-1093">er ne waiz in nieht umbe die scult,</l>
+        <l n="1094" xml:id="chapter-21-l-1094">er gab in wider daz selbe golt,</l>
+        <l n="1095" xml:id="chapter-21-l-1095">daz ime von ir hêren bechom.</l>
+        <l n="1096" xml:id="chapter-21-l-1096">er sprach: 'awî wie ubele ich ime des gan,</l>
+        <l n="1097" xml:id="chapter-21-l-1097">daz mir iwer hêre drowet ze slahen.</l>
+        <l n="1098" xml:id="chapter-21-l-1098">er hât gelîche getân</l>
+        <l n="1099" xml:id="chapter-21-l-1099">alsô der bôse rude toet:</l>
+        <l n="1100" xml:id="chapter-21-l-1100">des nahtes alsô er iwiht verstêt,</l>
+        <l n="1101" xml:id="chapter-21-l-1101">sô ne getar er sich dar nâher niuht geziehen,</l>
+        <l n="1102" xml:id="chapter-21-l-1102">er beginnet ûzwerd flîhen</l>
+        <l n="1103" xml:id="chapter-21-l-1103">unde wîzet iz allez mit sîner cheln</l>
+        <l n="1104" xml:id="chapter-21-l-1104">und beginnet darwert belen.'</l>
+        <l n="1105" xml:id="chapter-21-l-1105">Er sprach: 'iwers hêren brief mir niuht gevellet,</l>
+        <l n="1106" xml:id="chapter-21-l-1106">wande er zer gebe niene gehillet.</l>
+        <l n="1107" xml:id="chapter-21-l-1107">diu gâbe diu ist lobelîch</l>
+        <l n="1108" xml:id="chapter-21-l-1108">unt der brief der ist redelîch.</l>
+        <l n="1109" xml:id="chapter-21-l-1109">er bezeichenet alle ein ander',</l>
+        <l n="1110" xml:id="chapter-21-l-1110">sprah der chunig Alexander.</l>
+        <l n="1111" xml:id="chapter-21-l-1111">'der stuzel, den mir iwer hêre hât gesant,</l>
+        <l n="1112" xml:id="chapter-21-l-1112">dâmit hât er mir rechte bechant,</l>
+        <l n="1113" xml:id="chapter-21-l-1113">daiz allez ane mir sul bestân,</l>
+        <l n="1114" xml:id="chapter-21-l-1114">swaz sô unter deme himele is betân,</l>
+        <l n="1115" xml:id="chapter-21-l-1115">unt ich is alles hêre sul werden</l>
+        <l n="1116" xml:id="chapter-21-l-1116">ûf der scîbligen erde.</l>
+        <l n="1117" xml:id="chapter-21-l-1117">Den riemen, den er mir sante,</l>
+        <l n="1118" xml:id="chapter-21-l-1118">dâ mite er mir bechante,</l>
+        <l n="1119" xml:id="chapter-21-l-1119">daz er sich mir zeigen welle geben</l>
+        <l n="1120" xml:id="chapter-21-l-1120">unt iht in mînen genâden iemer welle leben,</l>
+        <l n="1121" xml:id="chapter-21-l-1121">daz er mîn dienest welle sîn</l>
+        <l n="1122" xml:id="chapter-21-l-1122">ze allen herverten mîn.</l>
+        <l n="1123" xml:id="chapter-21-l-1123">daz golt, daz ir mir habet prâht,</l>
+        <l n="1124" xml:id="chapter-21-l-1124">dâ mit habet er mir gesaget,</l>
+        <l n="1125" xml:id="chapter-21-l-1125">daz iz mir al einem wol gezeme,</l>
+        <l n="1126" xml:id="chapter-21-l-1126">daz ich den zins von ime neme</l>
+        <l n="1127" xml:id="chapter-21-l-1127">unde dar zû von allen landen,</l>
+        <l n="1128" xml:id="chapter-21-l-1128">unde bedwinge die ze mînen handen.'</l>
+        <l n="1129" xml:id="chapter-21-l-1129">Diz sazte man dô allez an einen brief,</l>
+        <l n="1130" xml:id="chapter-21-l-1130">daz was dem chunige Alexander lieb.</l>
+        <l n="1131" xml:id="chapter-21-l-1131">er screib in selbe mit sîner hant.</l>
+        <l n="1132" xml:id="chapter-21-l-1132">er wart dem chunige Dario gesant.</l>
+        <l n="1133" xml:id="chapter-21-l-1133">er inbot im ouch dâmite,</l>
+        <l n="1134" xml:id="chapter-21-l-1134">daz er noch trîe mânôt bite.</l>
+        <l n="1135" xml:id="chapter-21-l-1135">er sprach, er ne wolte niuht langer lengen,</l>
+        <l n="1136" xml:id="chapter-21-l-1136">zehinzech tûsint wolte er bringen</l>
+        <l n="1137" xml:id="chapter-21-l-1137">uber daz wazzer Eufrates,</l>
+        <l n="1138" xml:id="chapter-21-l-1138">niweht gedanchet er des,</l>
+        <l n="1139" xml:id="chapter-21-l-1139">ze Babilonii fur die grôze stat.</l>
+        <l n="1140" xml:id="chapter-21-l-1140">alsus wart an den brîf gesazt.</l>
+        <l n="1141" xml:id="chapter-21-l-1141">alsô lange sô er des zinses nieht ne wold enpern,</l>
+        <l n="1142" xml:id="chapter-21-l-1142">er solte sîn dâ heime wern</l>
+        <l n="1143" xml:id="chapter-21-l-1143">mit alsô getâner mâze,</l>
+        <l n="1144" xml:id="chapter-21-l-1144">er solt im sîn houbet lâzen.</l>
+        <l n="1145" xml:id="chapter-21-l-1145">unde ob er daz tagedinch liezi,</l>
+        <l n="1146" xml:id="chapter-21-l-1146">daz er niemer chunich kehieze,</l>
+        <l n="1147" xml:id="chapter-21-l-1147">er bestunde daz volcwîc.</l>
+        <l n="1148" xml:id="chapter-21-l-1148">Darios was ein chunich rîch.</l>
+        <l n="1149" xml:id="chapter-21-l-1149">unde alsô der brîf fur in chom,</l>
+        <l n="1150" xml:id="chapter-21-l-1150">freislîch er in vernam.</l>
+        <l n="1151" xml:id="chapter-21-l-1151">mit zorn er ûf fur,</l>
+        <l n="1152" xml:id="chapter-21-l-1152">bî sînem rîche er swûr.</l>
+        <l n="1153" xml:id="chapter-21-l-1153">er sprach: 'daz mich ie der bescalt,</l>
+        <l n="1154" xml:id="chapter-21-l-1154">des vater mir den zins chalt:</l>
+        <l n="1155" xml:id="chapter-21-l-1155">ich salz an die schande chêren,</l>
+        <l n="1156" xml:id="chapter-21-l-1156">iz ne regêt im niemer zêren',</l>
+        <l n="1157" xml:id="chapter-21-l-1157">er sprach, noch ouch niemer gût ende genâme,</l>
+        <l n="1158" xml:id="chapter-21-l-1158">daz er ie durch sîn laster ûz chôme.</l>
+      </div>
+      <div data-level="1" n="47" rhyme="aa" type="chapter" xml:id="chapter-22">
+        <head xml:lang="deu-Latn">Darius' Brief an seine Hauptleute</head>
+        <l n="1159" xml:id="chapter-22-l-1159">Darius sante einen brief</l>
+        <l n="1160" xml:id="chapter-22-l-1160">zewein herzogen, die wâren ime lieb,</l>
+        <l n="1161" xml:id="chapter-22-l-1161">unt bat, daz si Alexander diu scef pesparten</l>
+        <l n="1162" xml:id="chapter-22-l-1162">unde ime daz lant werten,</l>
+        <l n="1163" xml:id="chapter-22-l-1163">unde daz si in wider stiezen</l>
+        <l n="1164" xml:id="chapter-22-l-1164">unt uber daz wazzer niene liezen,</l>
+        <l n="1165" xml:id="chapter-22-l-1165">uber daz wazzer Eufrates;</l>
+        <l n="1166" xml:id="chapter-22-l-1166">daz was Marios unde Typotes;</l>
+        <l n="1167" xml:id="chapter-22-l-1167">daz si in selben sazten dernider</l>
+        <l n="1168" xml:id="chapter-22-l-1168">unde in bunten alsein wider,</l>
+        <l n="1169" xml:id="chapter-22-l-1169">daz sir manheit gedâhten,</l>
+        <l n="1170" xml:id="chapter-22-l-1170">daz si in lemtigen brâhtin.</l>
+        <l n="1171" xml:id="chapter-22-l-1171">er sprach, wie gerne er ime helfen solte</l>
+        <l n="1172" xml:id="chapter-22-l-1172">zallen den êren, er wolte</l>
+        <l n="1173" xml:id="chapter-22-l-1173">der hôiste sîn ûf der erde</l>
+        <l n="1174" xml:id="chapter-22-l-1174">unt mûste daz an ainem galgen werden.</l>
+      </div>
+      <div data-level="1" n="49" rhyme="aa" type="chapter" xml:id="chapter-23">
+        <head xml:lang="deu-Latn">Darius' Hauptleute berichten in einem Brief</head>
+        <l n="1175" xml:id="chapter-23-l-1175">Dô sprâchen die zwêne herzogen:</l>
+        <l n="1176" xml:id="chapter-23-l-1176">'unser hêre ist vil sêre betrogen,</l>
+        <l n="1177" xml:id="chapter-23-l-1177">daz er uns den man heizet vâhen,</l>
+        <l n="1178" xml:id="chapter-23-l-1178">dem alliu lant sint undertân,</l>
+        <l n="1179" xml:id="chapter-23-l-1179">unt die fursten habet gevangen</l>
+        <l n="1180" xml:id="chapter-23-l-1180">unt sîn wille ist regangen</l>
+        <l n="1181" xml:id="chapter-23-l-1181">uber Jerusalem unt uber Tyre.</l>
+        <l n="1182" xml:id="chapter-23-l-1182">sîn selbes ist er gîre.</l>
+        <l n="1183" xml:id="chapter-23-l-1183">Rôme und Egyptelant</l>
+        <l n="1184" xml:id="chapter-23-l-1184">stênt beidiu in sîner hant.</l>
+        <l n="1185" xml:id="chapter-23-l-1185">Kartago diu rîche burch</l>
+        <l n="1186" xml:id="chapter-23-l-1186">mit gewalte reit er dâ durch</l>
+        <l n="1187" xml:id="chapter-23-l-1187">unt hât manege gûte burch zestôret,</l>
+        <l n="1188" xml:id="chapter-23-l-1188">die unseren hêren ane hôrent.</l>
+        <l n="1189" xml:id="chapter-23-l-1189">unt unser hêre hât iz allez versezzen.</l>
+        <l n="1190" xml:id="chapter-23-l-1190">der chunich Alexander hât sich noch aines mêren vermezzen,</l>
+        <l n="1191" xml:id="chapter-23-l-1191">daz ern in sînem aigeneme lande vâhe,</l>
+        <l n="1192" xml:id="chapter-23-l-1192">mit grôzem urliuge bestâ.'</l>
+        <l n="1193" xml:id="chapter-23-l-1193">si sprâchen: 'unser hêre hantil iz noch mit sinne,</l>
+        <l n="1194" xml:id="chapter-23-l-1194">ich wâne ers michel scande gewinne.'</l>
+      </div>
+      <div data-level="1" n="44" rhyme="aa" type="chapter" xml:id="chapter-24">
+        <head xml:lang="deu-Latn">Alexanders erste Schlacht mit den Persern (Granicus)</head>
+        <l n="1195" xml:id="chapter-24-l-1195">Unde alsô der bote wider chom</l>
+        <l n="1196" xml:id="chapter-24-l-1196">unt Darios der zweier herzogen rede vernam,</l>
+        <l n="1197" xml:id="chapter-24-l-1197">sêre zurnet er sich des.</l>
+        <l n="1198" xml:id="chapter-24-l-1198">dô nam er ainen herzogen, der hiez sich Mennes,</l>
+        <l n="1199" xml:id="chapter-24-l-1199">unde dar zû zênzic tûsint man,</l>
+        <l n="1200" xml:id="chapter-24-l-1200">die er alle uber naht gewan,</l>
+        <l n="1201" xml:id="chapter-24-l-1201">unde sante si Alexander gegen</l>
+        <l n="1202" xml:id="chapter-24-l-1202">unde hiez den zwein herzogen sagen,</l>
+        <l n="1203" xml:id="chapter-24-l-1203">liezen sin uberz wazzer varen,</l>
+        <l n="1204" xml:id="chapter-24-l-1204">ez solt in iemer mêre scaden.</l>
+        <l n="1205" xml:id="chapter-24-l-1205">si ne gewunnen sîn niemer frumen,</l>
+        <l n="1206" xml:id="chapter-24-l-1206">noch si ne getorsten niemer fur sîne ougen chomen.</l>
+        <l n="1207" xml:id="chapter-24-l-1207">er sprach, wurde Alexanders wille gendeth,</l>
+        <l n="1208" xml:id="chapter-24-l-1208">si wurden alle der mite gescendeth.</l>
+        <l n="1209" xml:id="chapter-24-l-1209">Die zwêne herzogen getorsten niuht lâzen,</l>
+        <l n="1210" xml:id="chapter-24-l-1210">al dâ ir man sâzen,</l>
+        <l n="1211" xml:id="chapter-24-l-1211">si santen al gerihte</l>
+        <l n="1212" xml:id="chapter-24-l-1212">uber allez ir gerihte;</l>
+        <l n="1213" xml:id="chapter-24-l-1213">die sie zesamene brâhten,</l>
+        <l n="1214" xml:id="chapter-24-l-1214">ze zehen tûsint mahti man si ahten</l>
+        <l n="1215" xml:id="chapter-24-l-1215">unde drîzech tûsint dar zû.</l>
+        <l n="1216" xml:id="chapter-24-l-1216">Alexander genante sih ouch dô,</l>
+        <l n="1217" xml:id="chapter-24-l-1217">er hâte einen ubermûten mût.</l>
+        <l n="1218" xml:id="chapter-24-l-1218">er sciffet sich zeforderest uber die flût.</l>
+        <l n="1219" xml:id="chapter-24-l-1219">an eime stade chômen si im enkegen,</l>
+        <l n="1220" xml:id="chapter-24-l-1220">alsus hôrt ich maister Alberîchen sagen.</l>
+        <l n="1221" xml:id="chapter-24-l-1221">dâ hûb sich ein sturm vil grôz,</l>
+        <l n="1222" xml:id="chapter-24-l-1222">ein tûsint beleib ime dâ tôt,</l>
+        <l n="1223" xml:id="chapter-24-l-1223">von chriechiscen chunne,</l>
+        <l n="1224" xml:id="chapter-24-l-1224">ê Alexander den furt ie gewunne.</l>
+        <l n="1225" xml:id="chapter-24-l-1225">Dô chom Alexander selbe geriten,</l>
+        <l n="1226" xml:id="chapter-24-l-1226">alsô ers vil chûme habeti gebiten.</l>
+        <l n="1227" xml:id="chapter-24-l-1227">ûf Buzival er reit,</l>
+        <l n="1228" xml:id="chapter-24-l-1228">dô slûg er alsô der thoner deit,</l>
+        <l n="1229" xml:id="chapter-24-l-1229">for dem sich niemen mach bewarn.</l>
+        <l n="1230" xml:id="chapter-24-l-1230">swer in fon ferre sach gevaren,</l>
+        <l n="1231" xml:id="chapter-24-l-1231">ê er hinder sich gesach,</l>
+        <l n="1232" xml:id="chapter-24-l-1232">sô heter sîn ainen slach,</l>
+        <l n="1233" xml:id="chapter-24-l-1233">daz er sîn plût allez spê</l>
+        <l n="1234" xml:id="chapter-24-l-1234">unde lebte ouch dar nâch nieweht mê.</l>
+        <l n="1235" xml:id="chapter-24-l-1235">sîn schaft was mâre grôz.</l>
+        <l n="1236" xml:id="chapter-24-l-1236">sweme wart ein slach oder ein stôz,</l>
+        <l n="1237" xml:id="chapter-24-l-1237">der was des gewissen tôdes</l>
+        <l n="1238" xml:id="chapter-24-l-1238">unde ern beiz dar nâch niemer brôtes.</l>
+        <l n="1239" xml:id="chapter-24-l-1239">Mennes was ein herzoge genant,</l>
+        <l n="1240" xml:id="chapter-24-l-1240">den Darios hete dar gesant,</l>
+        <l n="1241" xml:id="chapter-24-l-1241">der was ein helt vrumeclîch.</l>
+        <l n="1242" xml:id="chapter-24-l-1242">ein hundert rîter hâter umbe sich</l>
+        <l n="1243" xml:id="chapter-24-l-1243">mit swerten vil gûten,</l>
+        <l n="1244" xml:id="chapter-24-l-1244">die tâten si im ze hûte.</l>
+        <l n="1245" xml:id="chapter-24-l-1245">zime mahte niemen brechen,</l>
+        <l n="1246" xml:id="chapter-24-l-1246">wan ders lebenes wolte vergezzin.</l>
+        <l n="1247" xml:id="chapter-24-l-1247">Alexander want sîn vanen,</l>
+        <l n="1248" xml:id="chapter-24-l-1248">er begunde sîne helide manen.</l>
+        <l n="1249" xml:id="chapter-24-l-1249">er sprenget ze Mennes wert</l>
+        <l n="1250" xml:id="chapter-24-l-1250">unt liez iz niuht durch die scarphen swert,</l>
+        <l n="1251" xml:id="chapter-24-l-1251">durch alle die sîne er brach.</l>
+        <l n="1252" xml:id="chapter-24-l-1252">Mennes er durch den schilt stach,</l>
+        <l n="1253" xml:id="chapter-24-l-1253">daz daz plût begunde rinnen.</l>
+        <l n="1254" xml:id="chapter-24-l-1254">Mennes stach hine wider durch den sînen,</l>
+        <l n="1255" xml:id="chapter-24-l-1255">der was feste helfenpein,</l>
+        <l n="1256" xml:id="chapter-24-l-1256">daz daz plût an dem spere schain.</l>
+        <l n="1257" xml:id="chapter-24-l-1257">ir iewedere stach den anderen nider.</l>
+        <l n="1258" xml:id="chapter-24-l-1258">aldâ grifen si zen swerten sider.</l>
+        <l n="1259" xml:id="chapter-24-l-1259">a wî daz fûr dar ûz spranch,</l>
+        <l n="1260" xml:id="chapter-24-l-1260">dâ ein stahel wider den ander dranch.</l>
+        <l n="1261" xml:id="chapter-24-l-1261">grôzer slege wurden nie getân,</l>
+        <l n="1262" xml:id="chapter-24-l-1262">sie ne slûge wîlen Samson,</l>
+        <l n="1263" xml:id="chapter-24-l-1263">der die grôzen maht an ime trûch,</l>
+        <l n="1264" xml:id="chapter-24-l-1264">daz er mit eines eseles bachen ein tûsint liutes erslûch.</l>
+        <l n="1265" xml:id="chapter-24-l-1265">a wie mahte daz ie werden:</l>
+        <l n="1266" xml:id="chapter-24-l-1266">Mennes der slûch Alexandern zû der erde.</l>
+        <l n="1267" xml:id="chapter-24-l-1267">aldâ wart ime der helm abgeprochen.</l>
+        <l n="1268" xml:id="chapter-24-l-1268">dâ was vil nâch gerochen .</l>
+        <l n="1269" xml:id="chapter-24-l-1269">Darius der tûre degen</l>
+        <l n="1270" xml:id="chapter-24-l-1270">der manegen grôzen slege,</l>
+        <l n="1271" xml:id="chapter-24-l-1271">der der chunich Alexander finch,</l>
+        <l n="1272" xml:id="chapter-24-l-1272">dô Mennes ime zû giench.</l>
+        <l n="1273" xml:id="chapter-24-l-1273">unt wâre er alsô wol gewâfent nieht,</l>
+        <l n="1274" xml:id="chapter-24-l-1274">er ne bescowet niemerz tages lieht,</l>
+        <l n="1275" xml:id="chapter-24-l-1275">wane daz sînes tôdes noch neweht solte sîn.</l>
+        <l n="1276" xml:id="chapter-24-l-1276">ein rîter der hiez Daclym,</l>
+        <l n="1277" xml:id="chapter-24-l-1277">der was mit Alexander dâ</l>
+        <l n="1278" xml:id="chapter-24-l-1278">unde stunt ime des tages vil nâ.</l>
+        <l n="1279" xml:id="chapter-24-l-1279">der ander hiez Jubal,</l>
+        <l n="1280" xml:id="chapter-24-l-1280">der sich vil ungerne in dem sturme hal.</l>
+        <l n="1281" xml:id="chapter-24-l-1281">der was dar chomen mit teme herzogen</l>
+        <l n="1282" xml:id="chapter-24-l-1282">unde hiete daz swert erzogen</l>
+        <l n="1283" xml:id="chapter-24-l-1283">unde wolde Alexander geben ainen slach,</l>
+        <l n="1284" xml:id="chapter-24-l-1284">dâ er im den hals plôz gesach.</l>
+        <l n="1285" xml:id="chapter-24-l-1285">Daclym wart der êror:</l>
+        <l n="1286" xml:id="chapter-24-l-1286">er lôste sînen hêren.</l>
+        <l n="1287" xml:id="chapter-24-l-1287">er slûch Jubal von oberest sîner zende</l>
+        <l n="1288" xml:id="chapter-24-l-1288">al nider durch die lende</l>
+        <l n="1289" xml:id="chapter-24-l-1289">unde machet zwêne halbe man.</l>
+        <l n="1290" xml:id="chapter-24-l-1290">a wie gût ainen lob daz swert gewan.</l>
+        <l n="1291" xml:id="chapter-24-l-1291">Daclym den helm gebranc,</l>
+        <l n="1292" xml:id="chapter-24-l-1292">sînem hêren ern ûf daz houbet pant.</l>
+        <l n="1293" xml:id="chapter-24-l-1293">sîn houbet was ime erscellet,</l>
+        <l n="1294" xml:id="chapter-24-l-1294">dâ er der nider wart gevellet.</l>
+        <l n="1295" xml:id="chapter-24-l-1295">niweht verwielt er sich sîner rede,</l>
+        <l n="1296" xml:id="chapter-24-l-1296">er was in grôzer unhuge.</l>
+        <l n="1297" xml:id="chapter-24-l-1297">er warf sich umbe alsô ain helit:</l>
+        <l n="1298" xml:id="chapter-24-l-1298">'nû werth iuch, hêre chunich',</l>
+        <l n="1299" xml:id="chapter-24-l-1299">alsus sprach sîn rîter Daclym,</l>
+        <l n="1300" xml:id="chapter-24-l-1300">'hiute sî iwer ellen schîn.</l>
+        <l n="1301" xml:id="chapter-24-l-1301">wande ir ein diure kneht sît,</l>
+        <l n="1302" xml:id="chapter-24-l-1302">nû zîhet swert, des ist zît.'</l>
+        <l n="1303" xml:id="chapter-24-l-1303">Unde Alexander wart lôs,</l>
+        <l n="1304" xml:id="chapter-24-l-1304">dô spranc er ûf sîn ros.</l>
+        <l n="1305" xml:id="chapter-24-l-1305">sîn ougen wâren freislîch;</l>
+        <l n="1306" xml:id="chapter-24-l-1306">sîne fient erforhten sich.</l>
+        <l n="1307" xml:id="chapter-24-l-1307">unde alsô er zim selben chom,</l>
+        <l n="1308" xml:id="chapter-24-l-1308">Buzifal er mit den sporn nam,</l>
+        <l n="1309" xml:id="chapter-24-l-1309">er tete Daclyme danch</l>
+        <l n="1310" xml:id="chapter-24-l-1310">unde frumit manegen swertslach.</l>
+        <l n="1311" xml:id="chapter-24-l-1311">under die menege er reit:</l>
+        <l n="1312" xml:id="chapter-24-l-1312">alsô der daz kras nider sleit,</l>
+        <l n="1313" xml:id="chapter-24-l-1313">sô strouwet Alexander;</l>
+        <l n="1314" xml:id="chapter-24-l-1314">diz ne mohte nehain ander.</l>
+        <l n="1315" xml:id="chapter-24-l-1315">diu menige diu was mâre grôz,</l>
+        <l n="1316" xml:id="chapter-24-l-1316">die der hêre slûch unde schôz.</l>
+        <l n="1317" xml:id="chapter-24-l-1317">alsô vil lag er dâ reslagen,</l>
+        <l n="1318" xml:id="chapter-24-l-1318">daz iu unzallîch wâre ze sagene,</l>
+        <l n="1319" xml:id="chapter-24-l-1319">Persen unde Chriechen</l>
+        <l n="1320" xml:id="chapter-24-l-1320">ân wunden unde âne siechen.</l>
+        <l n="1321" xml:id="chapter-24-l-1321">man saget von dem sturm der ûf Wolfenwerde gescach,</l>
+        <l n="1322" xml:id="chapter-24-l-1322">dâ Hilten vater tôt gelach,</l>
+        <l n="1323" xml:id="chapter-24-l-1323">zewisken Hagenen unde Waten:</l>
+        <l n="1324" xml:id="chapter-24-l-1324">sô ne mohter herzô nieth katen.</l>
+        <l n="1325" xml:id="chapter-24-l-1325">iedoch ne mohte nechain sîn,</l>
+        <l n="1326" xml:id="chapter-24-l-1326">noch Herewîch noch Wolfwîn,</l>
+        <l n="1327" xml:id="chapter-24-l-1327">der der ie gevaht volcwîch</l>
+        <l n="1328" xml:id="chapter-24-l-1328">dem chunige Alexander gelîch.</l>
+        <l n="1329" xml:id="chapter-24-l-1329">man list von gûten chnehten,</l>
+        <l n="1330" xml:id="chapter-24-l-1330">die wol getorsten vehten,</l>
+        <l n="1331" xml:id="chapter-24-l-1331">in Troiâre liede,</l>
+        <l n="1332" xml:id="chapter-24-l-1332">ê sich der sturm geschiede,</l>
+        <l n="1333" xml:id="chapter-24-l-1333">Achilles unde Hector,</l>
+        <l n="1334" xml:id="chapter-24-l-1334">Paris unde Nestor,</l>
+        <l n="1335" xml:id="chapter-24-l-1335">die manich tûsint erslûgen</l>
+        <l n="1336" xml:id="chapter-24-l-1336">unt die ouch scarfe gêre trûgen:</l>
+        <l n="1337" xml:id="chapter-24-l-1337">sô moht under in allen</l>
+        <l n="1338" xml:id="chapter-24-l-1338">zû Alexander niuht gevallen.</l>
+        <l n="1339" xml:id="chapter-24-l-1339">Pincun was ein grâve genant,</l>
+        <l n="1340" xml:id="chapter-24-l-1340">der vûrte den vanen an der hant,</l>
+        <l n="1341" xml:id="chapter-24-l-1341">den er Alexander abe brach,</l>
+        <l n="1342" xml:id="chapter-24-l-1342">den Mennes der nider stach.</l>
+        <l n="1343" xml:id="chapter-24-l-1343">unde alsô er den grâven hâte erchorn,</l>
+        <l n="1344" xml:id="chapter-24-l-1344">dô rûrt erz ros mit den sporn:</l>
+        <l n="1345" xml:id="chapter-24-l-1345">zû dem grâven er reit.</l>
+        <l n="1346" xml:id="chapter-24-l-1346">er sprach: 'daz was ein michel chintheit,</l>
+        <l n="1347" xml:id="chapter-24-l-1347">daz mîn vane chom in iwer hant;</l>
+        <l n="1348" xml:id="chapter-24-l-1348">iz wirt iu ze laster gewant.'</l>
+        <l n="1349" xml:id="chapter-24-l-1349">der grâve daz ros umbe warf.</l>
+        <l n="1350" xml:id="chapter-24-l-1350">a wie schîrer dâ restarb.</l>
+        <l n="1351" xml:id="chapter-24-l-1351">er sprach: 'gewisse fûr ich einen vanen,</l>
+        <l n="1352" xml:id="chapter-24-l-1352">der churze wîle mit mir sol wonen.</l>
+        <l n="1353" xml:id="chapter-24-l-1353">ich sol dirn alsô wider geben,</l>
+        <l n="1354" xml:id="chapter-24-l-1354">daz ez dir gât an dîn leben.'</l>
+        <l n="1355" xml:id="chapter-24-l-1355">mit samt deme worte</l>
+        <l n="1356" xml:id="chapter-24-l-1356">sô stach er in mit dem orte,</l>
+        <l n="1357" xml:id="chapter-24-l-1357">daz an dem spere was,</l>
+        <l n="1358" xml:id="chapter-24-l-1358">daz er der wunden wol genas.</l>
+        <l n="1359" xml:id="chapter-24-l-1359">oberhalb der ougbrâ</l>
+        <l n="1360" xml:id="chapter-24-l-1360">dâ was ter stich ketan.</l>
+        <l n="1361" xml:id="chapter-24-l-1361">nû vernement, waz Alexander sprach,</l>
+        <l n="1362" xml:id="chapter-24-l-1362">alsin Pincun gestach:</l>
+        <l n="1363" xml:id="chapter-24-l-1363">'dû solt lugenâre wesen</l>
+        <l n="1364" xml:id="chapter-24-l-1364">unde ich sol des stiches wol genesen.'</l>
+        <l n="1365" xml:id="chapter-24-l-1365">mit dem selben worte</l>
+        <l n="1366" xml:id="chapter-24-l-1366">gab er im einen slach mit dem swerte.</l>
+        <l n="1367" xml:id="chapter-24-l-1367">ûf daz houbet ern slûch</l>
+        <l n="1368" xml:id="chapter-24-l-1368">durch den hals unde durch den hût.</l>
+        <l n="1369" xml:id="chapter-24-l-1369">der slach was unsûze,</l>
+        <l n="1370" xml:id="chapter-24-l-1370">daz houbet viel ime vur die fûze.</l>
+        <l n="1371" xml:id="chapter-24-l-1371">Unt Alexander sînen vanen wider gewan,</l>
+        <l n="1372" xml:id="chapter-24-l-1372">Mennes aber ime zû chom,</l>
+        <l n="1373" xml:id="chapter-24-l-1373">den herzogen er der nider stach.</l>
+        <l n="1374" xml:id="chapter-24-l-1374">dô gab er im mit dem swert ainen slach:</l>
+        <l n="1375" xml:id="chapter-24-l-1375">ûf den arm er in slûch,</l>
+        <l n="1376" xml:id="chapter-24-l-1376">dâ er daz swert inne trîch.</l>
+        <l n="1377" xml:id="chapter-24-l-1377">der slach was vone grôzer maht,</l>
+        <l n="1378" xml:id="chapter-24-l-1378">durch den arm unde durch den scaph</l>
+        <l n="1379" xml:id="chapter-24-l-1379">sô chom daz swert gedrungen,</l>
+        <l n="1380" xml:id="chapter-24-l-1380">unde want ime an der lungen.</l>
+        <l n="1381" xml:id="chapter-24-l-1381">aldâ viel Mennes dernider.</l>
+        <l n="1382" xml:id="chapter-24-l-1382">Persi ne fuhten niweht sider,</l>
+        <l n="1383" xml:id="chapter-24-l-1383">ûzer dem velde si fluhen:</l>
+        <l n="1384" xml:id="chapter-24-l-1384">si ne getorsten in selben nieht getrûwen.</l>
+      </div>
+      <div data-level="1" n="55" rhyme="aa" type="chapter" xml:id="chapter-25">
+        <head xml:lang="deu-Latn">Alexander erobert Phrygia</head>
+        <l n="1385" xml:id="chapter-25-l-1385">Des wart Alexander vil palt:</l>
+        <l n="1386" xml:id="chapter-25-l-1386">er belaib dâ mit gewalt</l>
+        <l n="1387" xml:id="chapter-25-l-1387">zû den selben stunden,</l>
+        <l n="1388" xml:id="chapter-25-l-1388">al biz im geheilten sîne wunden;</l>
+        <l n="1389" xml:id="chapter-25-l-1389">unde genâhete sich Dario baz.</l>
+        <l n="1390" xml:id="chapter-25-l-1390">aine burch er ime besaz,</l>
+        <l n="1391" xml:id="chapter-25-l-1391">diu was Sardix kenant.</l>
+        <l n="1392" xml:id="chapter-25-l-1392">von den sînen wart siu verbrant.</l>
+        <l n="1393" xml:id="chapter-25-l-1393">dô nam er silber unde golt,</l>
+        <l n="1394" xml:id="chapter-25-l-1394">er machet ime manegen degen holt.</l>
+        <l n="1395" xml:id="chapter-25-l-1395">diu selbe burch Sardix,</l>
+        <l n="1396" xml:id="chapter-25-l-1396">von ir saget uns daz bûch Apocalipsis,</l>
+        <l n="1397" xml:id="chapter-25-l-1397">daz si der siben purge ainiu wâre,</l>
+        <l n="1398" xml:id="chapter-25-l-1398">die got unser hailâre</l>
+        <l n="1399" xml:id="chapter-25-l-1399">in sînem obristen himel nante,</l>
+        <l n="1400" xml:id="chapter-25-l-1400">dô er sante Johannes dar ze poten sante.</l>
+      </div>
+      <div data-level="1" n="70" rhyme="aa" type="chapter" xml:id="chapter-26">
+        <head xml:lang="deu-Latn">Darius' Heerschau</head>
+        <l n="1401" xml:id="chapter-26-l-1401">Unt dô man Dario diz gesagete,</l>
+        <l n="1402" xml:id="chapter-26-l-1402">niuht sêre er ne chlagete:</l>
+        <l n="1403" xml:id="chapter-26-l-1403">er tete, alsô der stolze man tût,</l>
+        <l n="1404" xml:id="chapter-26-l-1404">der durch sîne ubermût</l>
+        <l n="1405" xml:id="chapter-26-l-1405">sich sô verre verwellet,</l>
+        <l n="1406" xml:id="chapter-26-l-1406">daz er fur sînen argoren vellet,</l>
+        <l n="1407" xml:id="chapter-26-l-1407">unde er sich niuht warnet enzît:</l>
+        <l n="1408" xml:id="chapter-26-l-1408">owî wî dicke er laster gesiht.</l>
+        <l n="1409" xml:id="chapter-26-l-1409">iedoch sô swûr er ain teil.</l>
+        <l n="1410" xml:id="chapter-26-l-1410">er sprach, sô hulfe im sînes rîches heil,</l>
+        <l n="1411" xml:id="chapter-26-l-1411">iz ne solte niemer vierzehen naht entgân,</l>
+        <l n="1412" xml:id="chapter-26-l-1412">er solte Alexander ûf einen poum hâhen,</l>
+        <l n="1413" xml:id="chapter-26-l-1413">daz inz gevugel êze,</l>
+        <l n="1414" xml:id="chapter-26-l-1414">des er sich ie wider in vermâze.</l>
+        <l n="1415" xml:id="chapter-26-l-1415">Dannen wurden sîne poten gesant</l>
+        <l n="1416" xml:id="chapter-26-l-1416">uber wazzer unde uber lant</l>
+        <l n="1417" xml:id="chapter-26-l-1417">unde hiez sînen fursten daz sagen</l>
+        <l n="1418" xml:id="chapter-26-l-1418">unde manegem rîchen chunige chlagen,</l>
+        <l n="1419" xml:id="chapter-26-l-1419">herzogen unde grâven,</l>
+        <l n="1420" xml:id="chapter-26-l-1420">daz sis ime rât kâben</l>
+        <l n="1421" xml:id="chapter-26-l-1421">unt chômen mit sô frumen chnehten,</l>
+        <l n="1422" xml:id="chapter-26-l-1422">die wol getorsten vehten,</l>
+        <l n="1423" xml:id="chapter-26-l-1423">mit allen ir menegen</l>
+        <l n="1424" xml:id="chapter-26-l-1424">in daz felt Mesopotamiam.</l>
+        <l n="1425" xml:id="chapter-26-l-1425">in der breiten owen</l>
+        <l n="1426" xml:id="chapter-26-l-1426">dâ wolte er sîn her bescowen.</l>
+        <l n="1427" xml:id="chapter-26-l-1427">er sprach, a wî gerne er vernâme</l>
+        <l n="1428" xml:id="chapter-26-l-1428">die manegen scar, die ime chôme.</l>
+        <l n="1429" xml:id="chapter-26-l-1429">nû wil ich iu chunden uber al,</l>
+        <l n="1430" xml:id="chapter-26-l-1430">wî vil ain scare haben sal,</l>
+        <l n="1431" xml:id="chapter-26-l-1431">allen den, die des niuht enwizzin:</l>
+        <l n="1432" xml:id="chapter-26-l-1432">sehs tusint unde sehs hunderet sehsic,</l>
+        <l n="1433" xml:id="chapter-26-l-1433">des wil ich iuch niht verhelen.</l>
+        <l n="1434" xml:id="chapter-26-l-1434">die fursten wil ich zellen</l>
+        <l n="1435" xml:id="chapter-26-l-1435">unt die menige, diu mit samit in chom,</l>
+        <l n="1436" xml:id="chapter-26-l-1436">alsô Dario wol gezam.</l>
+        <l n="1437" xml:id="chapter-26-l-1437">wande er de geweltigiste chunich was,</l>
+        <l n="1438" xml:id="chapter-26-l-1438">dâ man von ie gelas.</l>
+        <l n="1439" xml:id="chapter-26-l-1439">vil wîten ginch sîn gewalt.</l>
+        <l n="1440" xml:id="chapter-26-l-1440">ze zwein unde drîzech wâren sie gezalt</l>
+        <l n="1441" xml:id="chapter-26-l-1441">die chunige, die zim chômen,</l>
+        <l n="1442" xml:id="chapter-26-l-1442">dô si sîne nôth vernâmen.</l>
+        <l n="1443" xml:id="chapter-26-l-1443">grâven chômen ime ouch.</l>
+        <l n="1444" xml:id="chapter-26-l-1444">zwei hundert unde sibenzoch</l>
+        <l n="1445" xml:id="chapter-26-l-1445">herzogen zim chêrten,</l>
+        <l n="1446" xml:id="chapter-26-l-1446">daz sich sîne rîter mêrethen.</l>
+        <l n="1447" xml:id="chapter-26-l-1447">die zalt man, sô ich sicher bin,</l>
+        <l n="1448" xml:id="chapter-26-l-1448">zaht hundert unde trîn.</l>
+        <l n="1449" xml:id="chapter-26-l-1449">von Persin wurden ime gesant</l>
+        <l n="1450" xml:id="chapter-26-l-1450">helide sibenzich tûsint.</l>
+        <l n="1451" xml:id="chapter-26-l-1451">wol hulfen ime des</l>
+        <l n="1452" xml:id="chapter-26-l-1452">die chûnen Zinnonenses.</l>
+        <l n="1453" xml:id="chapter-26-l-1453">si chômen mit funzich tûsint chnehten,</l>
+        <l n="1454" xml:id="chapter-26-l-1454">die wole getorsten vehten.</l>
+        <l n="1455" xml:id="chapter-26-l-1455">die Panfilien dâten harte wale,</l>
+        <l n="1456" xml:id="chapter-26-l-1456">si brâhten die selben zal.</l>
+        <l n="1457" xml:id="chapter-26-l-1457">noch dô chom im ain scar grôz,</l>
+        <l n="1458" xml:id="chapter-26-l-1458">die des wîges lutzel bedrôz,</l>
+        <l n="1459" xml:id="chapter-26-l-1459">alsô si in chunigis reise wol gezam,</l>
+        <l n="1460" xml:id="chapter-26-l-1460">wande si von Medinrîche quam.</l>
+        <l n="1461" xml:id="chapter-26-l-1461">Medinrîch ist noch daz selbe lant,</l>
+        <l n="1462" xml:id="chapter-26-l-1462">dar der engel mit Tobia wart gesant.</l>
+        <l n="1463" xml:id="chapter-26-l-1463">Cilicien heizet ein lant,</l>
+        <l n="1464" xml:id="chapter-26-l-1464">si brâhtin im ahzech tûsint.</l>
+        <l n="1465" xml:id="chapter-26-l-1465">von Ninive wurden ime gesant</l>
+        <l n="1466" xml:id="chapter-26-l-1466">ain unde zwainzich tûsint.</l>
+        <l n="1467" xml:id="chapter-26-l-1467">die ûzer Armeninlant</l>
+        <l n="1468" xml:id="chapter-26-l-1468">si brâhten ime aht tûsint.</l>
+        <l n="1469" xml:id="chapter-26-l-1469">si ne mohten ouch dô nieht baz.</l>
+        <l n="1470" xml:id="chapter-26-l-1470">diz was dâ diu archa gesaz,</l>
+        <l n="1471" xml:id="chapter-26-l-1471">diu ûf dem wazzer swebete,</l>
+        <l n="1472" xml:id="chapter-26-l-1472">dâ Noe inne lebete.</l>
+        <l n="1473" xml:id="chapter-26-l-1473">ime santen die von Gâze,</l>
+        <l n="1474" xml:id="chapter-26-l-1474">die uber Filistin sâzen,</l>
+        <l n="1475" xml:id="chapter-26-l-1475">di im wol ze trôste mohten wesen,</l>
+        <l n="1476" xml:id="chapter-26-l-1476">zwirent funf hunderet starcher risen.</l>
+        <l n="1477" xml:id="chapter-26-l-1477">noch dô sâzen sîne frîe man</l>
+        <l n="1478" xml:id="chapter-26-l-1478">ferre uber Frigiam.</l>
+        <l n="1479" xml:id="chapter-26-l-1479">die trûgen ime gûten willen.</l>
+        <l n="1480" xml:id="chapter-26-l-1480">si nâmen zweinzeh tûsint gesellen</l>
+        <l n="1481" xml:id="chapter-26-l-1481">unde tâtin zim chêren,</l>
+        <l n="1482" xml:id="chapter-26-l-1482">si gunden im sîner êren.</l>
+        <l n="1483" xml:id="chapter-26-l-1483">alsô man sînen willen vernam</l>
+        <l n="1484" xml:id="chapter-26-l-1484">ferre uber Indiam,</l>
+        <l n="1485" xml:id="chapter-26-l-1485">zwelf tûsint si nâmen,</l>
+        <l n="1486" xml:id="chapter-26-l-1486">gereitechlîchen zim chômen.</l>
+        <l n="1487" xml:id="chapter-26-l-1487">noch dô chom im ain wênich here,</l>
+        <l n="1488" xml:id="chapter-26-l-1488">daz santen ime die von dem rôten mere:</l>
+        <l n="1489" xml:id="chapter-26-l-1489">ain tûsint sneller helede</l>
+        <l n="1490" xml:id="chapter-26-l-1490">ze wîge wol erwelte.</l>
+        <l n="1491" xml:id="chapter-26-l-1491">nû vernement, war zû man diz her nam,</l>
+        <l n="1492" xml:id="chapter-26-l-1492">dô iz al zesamene chom:</l>
+        <l n="1493" xml:id="chapter-26-l-1493">ze sehs hunderet tûsint wâren si gezalt,</l>
+        <l n="1494" xml:id="chapter-26-l-1494">dâ was der hof manichfalt,</l>
+        <l n="1495" xml:id="chapter-26-l-1495">unde dar zû drîzech tûsint.</l>
+        <l n="1496" xml:id="chapter-26-l-1496">alsus hete sich Darius besant.</l>
+      </div>
+      <div data-level="1" n="84" rhyme="aa" type="chapter" xml:id="chapter-27">
+        <head xml:lang="deu-Latn">Alexander besiegt Darius (Issos)</head>
+        <l n="1497" xml:id="chapter-27-l-1497">Unde alsô diz Alexander vernam,</l>
+        <l n="1498" xml:id="chapter-27-l-1498">er manete sîne getrûe man,</l>
+        <l n="1499" xml:id="chapter-27-l-1499">die im ze sîner nôte</l>
+        <l n="1500" xml:id="chapter-27-l-1500">ie wâren ainmûthe.</l>
+        <l n="1501" xml:id="chapter-27-l-1501">mit ainer minner menige</l>
+        <l n="1502" xml:id="chapter-27-l-1502">sô reit er in zegegene,</l>
+        <l n="1503" xml:id="chapter-27-l-1503">ze Mesopotamie</l>
+        <l n="1504" xml:id="chapter-27-l-1504">dâ chômen sie zesamene</l>
+        <l n="1505" xml:id="chapter-27-l-1505">in der breiten ouwe.</l>
+        <l n="1506" xml:id="chapter-27-l-1506">man mohte nie beschowen</l>
+        <l n="1507" xml:id="chapter-27-l-1507">schar also edele</l>
+        <l n="1508" xml:id="chapter-27-l-1508">vor eineme chunige,</l>
+        <l n="1509" xml:id="chapter-27-l-1509">die der ie zesamene chômen</l>
+        <l n="1510" xml:id="chapter-27-l-1510">unte sô grôzen schaden genârnen.</l>
+        <l n="1511" xml:id="chapter-27-l-1511">alle die volchwîch</l>
+        <l n="1512" xml:id="chapter-27-l-1512">.....</l>
+        <l n="1513" xml:id="chapter-27-l-1513">die von Darios zît</l>
+        <l n="1514" xml:id="chapter-27-l-1514">al bizher sint geschên,</l>
+        <l n="1515" xml:id="chapter-27-l-1515">si ne mohten dar zû gelîchen niet.</l>
+        <l n="1516" xml:id="chapter-27-l-1516">dâ was daz felt vil breit</l>
+        <l n="1517" xml:id="chapter-27-l-1517">mit ten tôten uberspreit.</l>
+        <l n="1518" xml:id="chapter-27-l-1518">dâ Alexander durch daz wale brach,</l>
+        <l n="1519" xml:id="chapter-27-l-1519">a waz dâ helede tôt lach.</l>
+        <l n="1520" xml:id="chapter-27-l-1520">unde alsô êrhin mûz iz nû alsô ergân.</l>
+        <l n="1521" xml:id="chapter-27-l-1521">'ir sulten zins hie infâhen,</l>
+        <l n="1522" xml:id="chapter-27-l-1522">dâ ir vil manegen tach habeth nâch gesant.</l>
+        <l n="1523" xml:id="chapter-27-l-1523">den hân ich iu brâht in diz lant.'</l>
+        <l n="1524" xml:id="chapter-27-l-1524">mit tem selben worte</l>
+        <l n="1525" xml:id="chapter-27-l-1525">sô gab er im mit dem swerte</l>
+        <l n="1526" xml:id="chapter-27-l-1526">ainen slach, der was mâre grôz,</l>
+        <l n="1527" xml:id="chapter-27-l-1527">daz imz houbet vur daz march scôz.</l>
+        <l n="1528" xml:id="chapter-27-l-1528">dâ geschieth sich daz volcwîc.</l>
+        <l n="1529" xml:id="chapter-27-l-1529">sus saget uns maister Albrîch</l>
+        <l n="1530" xml:id="chapter-27-l-1530">unde der gûte phaffe Lampret.</l>
+        <l n="1531" xml:id="chapter-27-l-1531">diz liet ist wâr unde rehth.</l>
+        <l n="1532" xml:id="chapter-27-l-1532">hie dûhte si beide diu mâze.</l>
+        <l n="1533" xml:id="chapter-27-l-1533">nû ist zîth daz lâzen.</l>
+      </div>
+    </body>
+  </text>
+</TEI>
