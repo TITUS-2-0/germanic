@@ -22,13 +22,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-03-05">2025-03-05</date>
+        <date when="2026-11-13">2026-11-13</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Lieder (Auswahl) by Walther von der Vogelweide (draft version). 2025-03-05. By: Jost Gippert, Florian Matter, Julia Neumann. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Lieder (Auswahl) by Walther von der Vogelweide (v0.0.1.draft). 2026-11-13. By: Jost Gippert, Florian Matter, Julia Neumann. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="walth">
@@ -41,14 +41,14 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="gmh-Latn-x-mhg" ana="primary">Middle High German</language>
-        <language ident="und-Latn-x-general" ana="meta">General</language>
+        <language ana="primary" ident="gmh-Latn-x-mhg">Middle High German</language>
+        <language ana="meta" ident="und-Latn-x-general">General</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="gmh-Latn-x-mhg">
     <body>
-      <div n="26" xml:id="song-1" type="song" data-level="1">
+      <div data-level="1" n="26" type="song" xml:id="song-1">
         <head>Herzeliebez vrôwelîn</head>
         <note xml:id="song-1-note-1" xml:lang="und-Latn-x-general">Cormeau 26</note>
         <lg n="I" type="stanza" xml:id="song-1-lg-1">
@@ -92,7 +92,7 @@
           <l n="6" xml:id="song-1-lg-5-l-30">sô müezest dû mîn niemer werden, ôwê dan, ob daz geschiht!</l>
         </lg>
       </div>
-      <div n="27" xml:id="song-2" type="song" data-level="1">
+      <div data-level="1" n="27" type="song" xml:id="song-2">
         <head>Bin ich dir unmaere</head>
         <note xml:id="song-2-note-2" xml:lang="und-Latn-x-general">Cormeau 27</note>
         <lg n="I" type="stanza" xml:id="song-2-lg-6">
@@ -146,7 +146,7 @@
           <l n="8" xml:id="song-2-lg-10-l-70">daz versuoche alrêst sô denne daz.</l>
         </lg>
       </div>
-      <div n="51" xml:id="song-3" type="song" data-level="1">
+      <div data-level="1" n="51" type="song" xml:id="song-3">
         <head>Nement, frowe, disen cranz</head>
         <note xml:id="song-3-note-3" xml:lang="und-Latn-x-general">Cormeau 51</note>
         <lg n="I" type="stanza" xml:id="song-3-lg-11">
